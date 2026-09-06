@@ -70,7 +70,7 @@
               "«(იესო)» Joshua shadows ×6 — the familiar Georgian form for Joshua IS the NT name; kept per the hidden-names ruling; census NT-flag false positive by design"
               "ღმერთი/ღვთის generic-floor review class 233 files + non-Name უფალი ×6 (Tekoa-read; substring-უფლ false-positive class named)"
               "შატის/შითიმის shittim-wood transliteration variance — color, unranked"]},
-            :status :rendering,
+            :status :live,
             :adjudication
             {:chair 63,
              :date "2026-09-06",
@@ -102,10 +102,10 @@
             :version "v1",
             :lineage
             {:git
-             {:repo nil,
+             {:repo "selah-project/selah-ka",
               :ref "v1-final",
-              :commit nil,
-              :tags [],
-              :branches []},
+              :commit "8001d91a",
+              :tags ["v1-final"],
+              :branches ["main"]},
              :parents []},
             :lang :ka}
