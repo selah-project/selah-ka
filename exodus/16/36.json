@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 16:36",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 16,
+  "translation": "ხოლო ომერი ⟨არის⟩ მეათედი ეიფასი.",
+  "tokens": [
+    {
+      "surface": "והעמר",
+      "gloss": "ხოლო ომერი"
+    },
+    {
+      "surface": "עשרית",
+      "gloss": "მეათედი"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ეიფასი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨არის⟩"
+    }
+  ],
+  "timestamp": "2026-09-06T04:19:41.193181176Z",
+  "model": "glm-5.3"
+}

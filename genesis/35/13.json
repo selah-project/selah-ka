@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 35,
+  "translation": "და ავიდა ელოჰიმი მისგან ზემოთ იმ ადგილას, სადაც ელაპარაკა ⟨את⟩ მას.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ავიდა"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "მისგან ზემოთ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ადგილას"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "სადაც"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ელაპარაკა"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "მას"
+    }
+  ],
+  "timestamp": "2026-09-06T04:00:49.974572175Z",
+  "model": "glm-5.3"
+}

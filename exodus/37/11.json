@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 37,
+  "translation": "და დააფარა მას ⟨את⟩ სუფთა ოქრო, და გაუკეთა მას ოქროს გვირგვინი გარშემო.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "დააფარა"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "მას"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ოქრო"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "სუფთა"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "და გაუკეთა"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "זר",
+      "gloss": "გვირგვინი"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ოქროსი"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "გარშემო"
+    }
+  ],
+  "timestamp": "2026-09-06T12:16:43.828967743Z",
+  "model": "glm-5.3"
+}

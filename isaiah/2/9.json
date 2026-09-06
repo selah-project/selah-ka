@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და მოიხარა ადამიანმა და დამდაბლდა კაცი — და ნუ შეეწყნარებ მათ.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "და მოიხარა"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ადამიანი"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "და დამდაბლდა"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "შეეწყნარებ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "მათ"
+    }
+  ],
+  "timestamp": "2026-09-06T07:26:59.431457953Z",
+  "model": "glm-5.3"
+}

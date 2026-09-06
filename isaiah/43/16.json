@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 43:16",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 43,
+  "translation": "ასე თქვა იაჰვემ, რომელიც დებს გზას ზღვაში და ბილიკს ძლიერ წყლებში.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "დებს"
+    },
+    {
+      "surface": "בים",
+      "gloss": "ზღვა"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "გზა"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "და წყალ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ძლიერ"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "ბილიკი"
+    }
+  ],
+  "timestamp": "2026-09-06T13:14:06.855596829Z",
+  "model": "glm-5.3"
+}

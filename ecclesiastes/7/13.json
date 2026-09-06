@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "იხილე ⟨את⟩ ელოჰიმის საქმე, რადგან ვის შეუძლია გაამართოს ⟨את⟩ ის, რაც გადახრილია?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "იხილე"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ელოჰიმის საქმე"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "საქმე"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ელოჰიმის"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "შეუძლია"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "გაამართოს"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ის, რაც გადახრილია"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რაც"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "გადახრილია"
+    }
+  ],
+  "timestamp": "2026-09-06T10:58:02.007919457Z",
+  "model": "glm-5.3"
+}

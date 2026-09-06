@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 27,
+  "translation": "დაწყევლილია მწოლარე ნებისმიერ მხეცთან, და იტყვის მთელი ხალხი: ამინ.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "დაწყევლილია"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "მწოლარე"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-თან"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ნებისმიერი"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "მხეცი"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "და იტყვის"
+    },
+    {
+      "surface": "כל",
+      "gloss": "მთელი"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ამინ"
+    }
+  ],
+  "timestamp": "2026-09-06T05:40:11.995665581Z",
+  "model": "glm-5.3"
+}

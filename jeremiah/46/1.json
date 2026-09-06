@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 46:1",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 46,
+  "translation": "რომელიც იყო სიტყვა იაჰვეს ირმიაჰუ (იერემია) ნავის მიმართ — ხალხების შესახებ.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "היה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ირმიაჰუს"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ნავის"
+    },
+    {
+      "surface": "על",
+      "gloss": "შესახებ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ხალხები"
+    }
+  ],
+  "timestamp": "2026-09-06T08:26:09.833592037Z",
+  "model": "glm-5.3"
+}

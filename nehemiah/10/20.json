@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 10:20",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "ხარიფი, ანათოთი, ნობაი,",
+  "tokens": [
+    {
+      "surface": "חריף",
+      "gloss": "ხარიფი"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "ანათოთი"
+    },
+    {
+      "surface": "נובי",
+      "gloss": "ნობაი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:23:15.423218072Z",
+  "model": "glm-5.3"
+}

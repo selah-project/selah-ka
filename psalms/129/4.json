@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 129,
+  "translation": "იაჰვე ⟨არის⟩ მართალი — მოაჭრა ბოროტთა საბლები.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "მართალი"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "მოაჭრა"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "საბლები"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ბოროტთა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:10:57.816910207Z",
+  "model": "glm-5.3"
+}

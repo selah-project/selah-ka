@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 32:22",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 32,
+  "translation": "და გადავლინა ძღვენმა მის წინ, და ის გაათია იმ ღამეს ბანაკში.",
+  "tokens": [
+    {
+      "surface": "ותעבר",
+      "gloss": "და გადავლინა"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ძღვენმა"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზედ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "მის პირზე"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "და ის"
+    },
+    {
+      "surface": "לן",
+      "gloss": "გაათია"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ღამეს"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "იმ"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "ბანაკში"
+    }
+  ],
+  "timestamp": "2026-09-06T03:57:51.270478366Z",
+  "model": "glm-5.3"
+}

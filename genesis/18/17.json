@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 18:17",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "და თქვა იაჰვემ: განვმალავ მე აბრაჰამს ⟨იმას⟩, რასაც მე ვაკეთებ?",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "იაჰვემ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "განვმალავ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "מאברהם",
+      "gloss": "აბრაჰამს"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რასაც"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ვაკეთებ"
+    }
+  ],
+  "timestamp": "2026-09-06T03:49:39.639577545Z",
+  "model": "glm-5.3"
+}

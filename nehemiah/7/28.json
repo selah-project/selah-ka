@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 7:28",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ბეთ-ყაზმავეთელთა (ბეთ-ყაზმავეთის) კაცები: ორმოცდაორი.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "კაცები"
+    },
+    {
+      "surface": "בית",
+      "gloss": "სახლი"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "ყაზმავეთი"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ორმოცი"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "და ორი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:21:42.199689583Z",
+  "model": "glm-5.3"
+}

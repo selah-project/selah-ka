@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 1:2",
+  "book": "zephaniah",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "შალავრევით ამოვშალავ ყოველს მიწის პირიდან, — იტყვის იაჰვე.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "ამოვშალავ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "შალავრევით"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყოველი"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "მიმდებარედ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "პირი"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "იტყვის"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T16:59:10.801980662Z",
+  "model": "glm-5.3"
+}

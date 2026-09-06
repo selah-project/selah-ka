@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 16:25",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 16,
+  "translation": "რადგან დიდი ⟨არის⟩ იაჰვე და ფრიად ქებული, და შემზარავი ⟨არის⟩ ის ყოველ ღმერთზე.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "დიდი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "და ქებული"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ფრიად"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "და შემზარავი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყოველ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ღმერთი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:33:15.142226635Z",
+  "model": "glm-5.3"
+}

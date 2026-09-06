@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 12:26",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "შიმეონის შვილთაგან — საბრძოლო ძალის ვაჟკაცები ლაშქრისთვის — შვიდი ათასი და ასი.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "‑გან"
+    },
+    {
+      "surface": "בני",
+      "gloss": "შვილთა"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "შიმეონის"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "ვაჟკაცები"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ძალის"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "ლაშქრისთვის"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "შვიდი"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ათასი"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "და ასი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:32:54.575233073Z",
+  "model": "glm-5.3"
+}

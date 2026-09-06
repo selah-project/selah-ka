@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 6:28",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "იახათის ძე, გერშომის ძე, ლევის ძე.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "იახათი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "გერშომი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ლევი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:29:23.832574511Z",
+  "model": "glm-5.3"
+}

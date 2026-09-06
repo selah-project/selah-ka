@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 7:31",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "და ბერიას შვილნი: ხებერი და მალქიელი; იგი ⟨არის⟩ ბირზოთის მამა.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "და შვილნი"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "ბერია"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "ხებერი"
+    },
+    {
+      "surface": "ומלכיאל",
+      "gloss": "და მალქიელი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "იგი"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "მამა"
+    },
+    {
+      "surface": "ברזות",
+      "gloss": "ბირზოთი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:30:20.435750665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 22:18",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "ყოველი, ვინც წვება პირუტყვთან, სიკვდილით მოკვდება.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ყოველი"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "წვება"
+    },
+    {
+      "surface": "עם",
+      "gloss": "თანა"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "პირუტყვი"
+    },
+    {
+      "surface": "מות",
+      "gloss": "სიკვდილი"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "მოკვდება"
+    }
+  ],
+  "timestamp": "2026-09-06T04:22:22.524445360Z",
+  "model": "glm-5.3"
+}

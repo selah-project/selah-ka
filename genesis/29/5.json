@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 29,
+  "translation": "და უთხრა მათ: იცით კი ⟨את⟩ ლავანს, ნახორის ძეს? და მიუგეს: ვიცით.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "უთხრა"
+    },
+    {
+      "surface": "להם",
+      "gloss": "მათ"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "იცით"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ლავანი"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ლავანი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ნახორი"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "მიუგეს"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "ვიცით"
+    }
+  ],
+  "timestamp": "2026-09-06T03:55:49.154967356Z",
+  "model": "glm-5.3"
+}

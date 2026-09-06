@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 34:28",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 34,
+  "translation": "და ნაფთალის ძეთა ტომისთვის მთავარი ფედაჰელი ამიჰუდის ძე.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "და ტომისთვის"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძეთა"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ნაფთალის"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "მთავარი"
+    },
+    {
+      "surface": "פדהאל",
+      "gloss": "ფედაჰელი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "ამიჰუდის"
+    }
+  ],
+  "timestamp": "2026-09-06T05:20:25.291928666Z",
+  "model": "glm-5.3"
+}

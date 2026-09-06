@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 6:37",
+  "book": "1-kings",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "მეოთხე წელს დაედო საფუძველი იაჰვეს სახლს, თვეში ზივი.",
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "წელს"
+    },
+    {
+      "surface": "הרביעית",
+      "gloss": "მეოთხე"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "დაედო საფუძველი"
+    },
+    {
+      "surface": "בית",
+      "gloss": "სახლი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "თვეში"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ზივი"
+    }
+  ],
+  "timestamp": "2026-09-06T06:54:31.336810542Z",
+  "model": "glm-5.3"
+}

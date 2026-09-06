@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "ავწიოთ ჩვენი გული ხელებისკენ, ელისკენ ცაში.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "ავწიოთ"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "ჩვენი გული"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-სკენ"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "ხელები"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-სკენ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ელი"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ცა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:52:32.439122579Z",
+  "model": "glm-5.3"
+}

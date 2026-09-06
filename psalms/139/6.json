@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 139,
+  "translation": "საოცარი ⟨არის⟩ ცოდნა ჩემგან; ამაღლებული ⟨არის⟩ — არ შემიძლია მას.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "საოცარი"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ცოდნა"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ჩემგან"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "ამაღლებული"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "შემიძლია"
+    },
+    {
+      "surface": "לה",
+      "gloss": "მას"
+    }
+  ],
+  "timestamp": "2026-09-06T14:18:59.016837375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 9:16",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "ასე იყო მუდმივად: ღრუბელი აფარებდა მას და ცეცხლის ხატება — ღამით.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "მუდმივად"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ღრუბელი"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "აფარებდა მას"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "და ხატება"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ცეცხლი"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ღამით"
+    }
+  ],
+  "timestamp": "2026-09-06T05:05:24.293164605Z",
+  "model": "glm-5.3"
+}

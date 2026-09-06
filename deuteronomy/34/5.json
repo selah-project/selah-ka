@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 34,
+  "translation": "და მოკვდა იქ მოშე (მოსე), იაჰვეს მონა, მოაბის მიწაში, იაჰვეს ბაგეთა მიხედვით.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "და მოკვდა"
+    },
+    {
+      "surface": "שם",
+      "gloss": "იქ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "მონა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "მიწაში"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "მოაბი"
+    },
+    {
+      "surface": "על",
+      "gloss": "მიხედვით"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ბაგე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T17:57:24.303552967Z",
+  "model": "glm-5.3"
+}

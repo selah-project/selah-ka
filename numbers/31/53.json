@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 31:53",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 31,
+  "translation": "ლაშქრის კაცებმა ნადავლი აიღეს — თითოეულმა თავისთვის.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "კაცნი"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ლაშქარი"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "აიძარიეს"
+    },
+    {
+      "surface": "איש",
+      "gloss": "თითოეული"
+    },
+    {
+      "surface": "לו",
+      "gloss": "თავისთვის"
+    }
+  ],
+  "timestamp": "2026-09-06T05:17:56.464684029Z",
+  "model": "glm-5.3"
+}

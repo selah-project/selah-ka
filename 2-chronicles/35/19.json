@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 35:19",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 35,
+  "translation": "იოშიაჰუს მეფობის მეთვრამეტე წელს აღსრულებულ იქნა ეს ფესახი.",
+  "tokens": [
+    {
+      "surface": "בשמונה",
+      "gloss": "მერვე... ათზე"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ათი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელს"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "მეფობის"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "იოშიაჰუს"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "აღსრულებულ იქნა"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ფესახი"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ეს"
+    }
+  ],
+  "timestamp": "2026-09-06T11:59:37.143433262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 92,
+  "translation": "ფსალმუნი, სიმღერა — შაბათის დღისთვის.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "ფსალმუნი"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "სიმღერა"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "დღისთვის"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "შაბათის"
+    }
+  ],
+  "timestamp": "2026-09-06T09:59:48.576355815Z",
+  "model": "glm-5.3"
+}

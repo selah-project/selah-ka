@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 15:23",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "და თუ ⟨ის⟩ საწოლზეა ან იმ ჭურჭელზე, რომელზეც ის ზის, მის შეხებისას ის იქნება უწმინდური საღამომდე.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "და თუ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "საწოლი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "או",
+      "gloss": "ან"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "ჭურჭელი"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "ზის"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "მასზე"
+    },
+    {
+      "surface": "בנגעו",
+      "gloss": "მის შეხებისას"
+    },
+    {
+      "surface": "בו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "იქნება უწმინდური"
+    },
+    {
+      "surface": "עד",
+      "gloss": "საღამომდე"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "საღამო"
+    }
+  ],
+  "timestamp": "2026-09-06T04:44:42.103540462Z",
+  "model": "glm-5.3"
+}

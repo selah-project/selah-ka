@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "არ შევიტყვე; ჩემმა ნეფეშმა დამყო ჩემი ხალხის ნადიბის ეტლებად.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "შევიტყვე"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ჩემმა ნეფეშმა"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "დამყო მე"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "ეტლებად"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ჩემი ხალხის"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "ნადიბის"
+    }
+  ],
+  "timestamp": "2026-09-06T10:48:04.331107669Z",
+  "model": "glm-5.3"
+}

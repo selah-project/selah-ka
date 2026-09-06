@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 15:32",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "ეს ⟨არის⟩ თორა ზავისა, და მისი, რომ გამოვა მისგან თესლის დაწოლა — რომ მისით აცხვრდეს.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "თორა"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "ზავის"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "და რომელი"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "გამოვა"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "მისგან"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "დაწოლა"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "თესლი"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "აცხვრებად"
+    },
+    {
+      "surface": "בה",
+      "gloss": "მისით"
+    }
+  ],
+  "timestamp": "2026-09-06T04:45:18.482867801Z",
+  "model": "glm-5.3"
+}

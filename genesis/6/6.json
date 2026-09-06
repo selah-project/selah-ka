@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "და ინანა იაჰვემ, რომ შექმნა ⟨את⟩ ადამიანი მიწაზე, და დამწუხრდა თავის გულში.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "ინანა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვემ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "შექმნა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ადამიანი"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ადამიანი"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "მიწაზე"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "დამწუხრდა"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "თავის გულში"
+    }
+  ],
+  "timestamp": "2026-09-06T03:44:03.269509162Z",
+  "model": "glm-5.3"
+}

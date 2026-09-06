@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 7:25",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "გიბონელთა შვილები (გიბონის შვილები): ოთხმოცდახუთი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "გიბონი"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ოთხმოცდაათი"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "და ხუთი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:21:42.199135487Z",
+  "model": "glm-5.3"
+}

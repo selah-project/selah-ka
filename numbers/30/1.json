@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 30:1",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "და უთხრა მოშემ იშრაელის ძეებს ყოვლისამებრ, რაც ბრძანა იაჰვემ ⟨את⟩ მოშეს.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და უთხრა"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძეები"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელის"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ყოვლისამებრ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რაც"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ბრძანა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მოშეს"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    }
+  ],
+  "timestamp": "2026-09-06T05:19:03.105854471Z",
+  "model": "glm-5.3"
+}

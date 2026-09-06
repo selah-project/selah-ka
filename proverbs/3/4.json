@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "და იპოვნი წყალობას და კარგ გონებას ელოჰიმისა და ადამიანის თვალში.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "და იპოვნი"
+    },
+    {
+      "surface": "חן",
+      "gloss": "წყალობა"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "და გონება"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "კარგი"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "თვალებში"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "და ადამიანი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:16:46.152865444Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 96,
+  "translation": "რადგან იაჰვე ⟨არის⟩ დიდი და ფრიად ქებადი, საშინელი ⟨არის⟩ ის ყველა ღმერთზე.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "დიდი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "და ქებადი"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ფრიად"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "საშინელი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზემოთ…-ზე"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ღმერთ"
+    }
+  ],
+  "timestamp": "2026-09-06T09:59:20.251932187Z",
+  "model": "glm-5.3"
+}

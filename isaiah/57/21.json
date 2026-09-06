@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 57:21",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 57,
+  "translation": "არ ⟨არის⟩ შალომი — თქვა ჩემმა ელოჰიმმა — ბოროტებს.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "არ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "შალომი"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ჩემმა ელოჰიმმა"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "ბოროტებს"
+    }
+  ],
+  "timestamp": "2026-09-06T07:54:30.833088096Z",
+  "model": "glm-5.3"
+}

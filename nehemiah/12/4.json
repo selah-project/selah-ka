@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 12:4",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "იდო, გინეთონი, ავია.",
+  "tokens": [
+    {
+      "surface": "עדוא",
+      "gloss": "იდო"
+    },
+    {
+      "surface": "גנתוי",
+      "gloss": "გინეთონი"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ავია"
+    }
+  ],
+  "timestamp": "2026-09-06T11:24:16.353351058Z",
+  "model": "glm-5.3"
+}

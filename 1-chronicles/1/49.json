@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 1:49",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და მოკვდა შაული, და იმეფა მის ნაცვლად ბაალ ხანანი, ძე ახბორისა (ახბორი).",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "და მოკვდა"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "შაული"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "და იმეფა"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "მის ნაცვლად"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ბაალ"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ხანანი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "ახბორი"
+    }
+  ],
+  "timestamp": "2026-09-06T15:04:55.427286366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და თამარმა, მისმა რძალმა, გაუჩინა მას ⟨את⟩ ფერეცი და ⟨את⟩ ზერახი; იეჰუდას ყველა ვაჟი ⟨არის⟩ ხუთი.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "და თამარი"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "მისი რძალი"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "გაუჩინა"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ფერეცი"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ფერეცი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ზერახი"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ზერახი"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ვაჟი"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "იეჰუდას"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ხუთი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:26:38.759636002Z",
+  "model": "glm-5.3"
+}

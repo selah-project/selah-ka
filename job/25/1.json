@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 25:1",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "და უპასუხა ბილდად შუხიმა და თქვა:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "უპასუხა"
+    },
+    {
+      "surface": "בלדד",
+      "gloss": "ბილდად"
+    },
+    {
+      "surface": "השחי",
+      "gloss": "შუხი"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "თქვა"
+    }
+  ],
+  "timestamp": "2026-09-06T19:45:00.295743878Z",
+  "model": "glm-5.3"
+}

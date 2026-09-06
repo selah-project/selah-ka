@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "ახლა კი შეოლს ჩაგიყვანენ, ორმოს კიდეებამდე.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ახლა კი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "შეოლი"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "ჩაგიყვანენ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-მდე"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "კიდეები"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ორმო"
+    }
+  ],
+  "timestamp": "2026-09-06T07:33:45.762757382Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 48:4",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 48,
+  "translation": "დაიმსხვრა მოაბი; აღძრეს კივილს მისი მცირეები.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "დაიმსხვრა"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "მოაბი"
+    },
+    {
+      "surface": "השמיעו",
+      "gloss": "აღძრეს ⟨ხმად⟩"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "კივილი"
+    },
+    {
+      "surface": "צעוריה",
+      "gloss": "მისი მცირეები"
+    }
+  ],
+  "timestamp": "2026-09-06T08:27:44.176079392Z",
+  "model": "glm-5.3"
+}

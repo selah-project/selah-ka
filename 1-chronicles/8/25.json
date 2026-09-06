@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 8:25",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და იფდეიაჰი და ფენუელი — შაშაკის ძენი.",
+  "tokens": [
+    {
+      "surface": "ויפדיה",
+      "gloss": "იფდეიაჰი"
+    },
+    {
+      "surface": "ופניאל",
+      "gloss": "ფენუელი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "შაშაკი"
+    }
+  ],
+  "timestamp": "2026-09-06T20:05:29.612021632Z",
+  "model": "glm-5.3"
+}

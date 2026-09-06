@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 21:9",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "და თქვა იაჰვემ გადს (გადდ), დავიდის (დავითის) მხედველს, სათქმელად:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "თან"
+    },
+    {
+      "surface": "גד",
+      "gloss": "გადი"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "მხედველი"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "დავიდი"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T11:36:46.126247584Z",
+  "model": "glm-5.3"
+}

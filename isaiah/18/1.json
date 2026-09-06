@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "ვაი მიწაო, ფრთათა შრიალო, რომელიც ქუშის მდინარეთა გადაღმა ⟨არის⟩.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ვაი"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "შრიალი"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "ფრთები"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "გადაღმა"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "მდინარეთა"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ქუში"
+    }
+  ],
+  "timestamp": "2026-09-06T13:09:17.158987178Z",
+  "model": "glm-5.3"
+}

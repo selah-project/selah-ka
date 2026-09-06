@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 13:9",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "მართალთა ნათელი მხიარულობს, ხოლო ბოროტთა ლამპარი ჩაქრება.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "ნათელი"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "მართალთა"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "მხიარულობს"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "ხოლო ლამპარი"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ბოროტთა"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "ჩაქრება"
+    }
+  ],
+  "timestamp": "2026-09-06T17:23:41.585177Z",
+  "model": "glm-5.3"
+}

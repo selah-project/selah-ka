@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და იმ მიწის ოქრო კარგი ⟨არის⟩; იქ არის ბედოლაქი და შოჰამის ქვა.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "და ოქრო"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწის"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "იმ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "კარგი"
+    },
+    {
+      "surface": "שם",
+      "gloss": "იქ"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "ბედოლაქი"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "და ქვა"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "შოჰამის"
+    }
+  ],
+  "timestamp": "2026-09-06T03:41:15.895503436Z",
+  "model": "glm-5.3"
+}

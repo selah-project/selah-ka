@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 6:6",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "წადი ჭიანჭველასთან, ზარმაცო, იხილე მისი გზები და გაბრძნიერდი",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "წადი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-სთან"
+    },
+    {
+      "surface": "נמלה",
+      "gloss": "ჭიანჭველა"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ზარმაც"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "იხილე"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "მისი გზები"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "და გაბრძნიერდი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:17:20.847364327Z",
+  "model": "glm-5.3"
+}

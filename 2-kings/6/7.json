@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 6:7",
+  "book": "2-kings",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "და თქვა: ასწიე ⟨შენთვის⟩; და გაიშვირა ხელი და აიღო ⟨ის⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "ასწიე"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენთვის"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "გაიშვირა"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ხელი"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "აიღო ⟨ის⟩"
+    }
+  ],
+  "timestamp": "2026-09-06T18:13:43.331993400Z",
+  "model": "glm-5.3"
+}

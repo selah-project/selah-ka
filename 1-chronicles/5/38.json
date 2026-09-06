@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "და ახითუბმა გაუჩინა ⟨את⟩ ცადოკი, და ცადოკმა გაუჩინა ⟨את⟩ შალუმი.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "და ახითუბი"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "გაუჩინა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ცადოკი"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ცადოკი"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "და ცადოკი"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "გაუჩინა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "შალუმი"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "შალუმი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:27:16.135507777Z",
+  "model": "glm-5.3"
+}

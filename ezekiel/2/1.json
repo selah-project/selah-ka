@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და თქვა ჩემს მიმართ: ადამის ძეო, დადექი შენს ფეხებზე და ვილაპარაკებ ⟨את⟩ შენთან.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემს მიმართ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ადამი"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "დადექი"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "შენს ფეხებზე"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "ვილაპარაკებ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "შენ"
+    }
+  ],
+  "timestamp": "2026-09-06T08:33:38.549251990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 85,
+  "translation": "აიღე შენი ხალხის უწესობა, დაფარე ყველა მათი ცოდვა. სელაჰ.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "აიღე"
+    },
+    {
+      "surface": "עון",
+      "gloss": "უწესობა"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "შენი ხალხის"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "დაფარე"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "მათი ცოდვა"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "სელაჰ"
+    }
+  ],
+  "timestamp": "2026-09-06T09:57:01.394615209Z",
+  "model": "glm-5.3"
+}

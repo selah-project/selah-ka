@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "ვინ იცის, ადამის შვილების სული — აღმავალი ის მაღლად, და პირუტყვის სული — ჩამავალი ის დაბლად, მიწად?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "იცის"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "სული"
+    },
+    {
+      "surface": "בני",
+      "gloss": "შვილების"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ადამის"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "აღმავალი"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "მაღლად"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "და სული"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "პირუტყვის"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "ჩამავალი"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "დაბლად"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "მიწად"
+    }
+  ],
+  "timestamp": "2026-09-06T16:36:30.640047417Z",
+  "model": "glm-5.3"
+}

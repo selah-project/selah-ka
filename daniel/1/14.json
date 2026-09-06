@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 1:14",
+  "book": "daniel",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და შეისმინა მათი ⟨ეს⟩ სიტყვა და გამოაცადა ისინი ათი დღე.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "შეისმინა"
+    },
+    {
+      "surface": "להם",
+      "gloss": "მათი"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "וינסם",
+      "gloss": "გამოაცადა"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ათი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:02:57.643953368Z",
+  "model": "glm-5.3"
+}

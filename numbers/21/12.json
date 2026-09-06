@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 21:12",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "იქიდან დაიძრნენ და დაბანაკდნენ ზარედის ხეობაში.",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "იქიდან"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "დაიძრნენ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "და დაბანაკდნენ"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "ხეობაში"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "ზარედი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:11:13.964622636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 7:45",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ერთი ხარი, ძე საქონლისა, ერთი ვერძი, ერთი ბარტყი, ძე ერთი წლისა, სრულდასაწველად.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ხარი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "საქოფელი"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ვერძი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ბარტყი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ერთი წლის"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "სრულდასაწველად"
+    }
+  ],
+  "timestamp": "2026-09-06T05:02:51.558625544Z",
+  "model": "glm-5.3"
+}

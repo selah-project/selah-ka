@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "joshua 15:49",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "და დანაჰი, და კირიათ სანაჰი — იგი ⟨არის⟩ დებირი.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "და დანაჰი"
+    },
+    {
+      "surface": "וקרית",
+      "gloss": "და კირიათ"
+    },
+    {
+      "surface": "סנה",
+      "gloss": "სანაჰი"
+    },
+    {
+      "surface": "היא",
+      "gloss": "იგი"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "დებირი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:53:38.069071620Z",
+  "model": "glm-5.3"
+}

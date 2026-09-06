@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 34:1",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 34,
+  "translation": "და მოხდა იაჰვეს სიტყვა ჩემდამი სათქმელად:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "და მოხდა"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემდამი"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T08:54:46.632181022Z",
+  "model": "glm-5.3"
+}

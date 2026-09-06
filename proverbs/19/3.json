@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 19:3",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "ადამის სიბრიყვე ატრიალებს მის გზას, და იაჰვეს მიმართ რომლებს მისი გული.",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "სიბრიყვე"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ადამი"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "ატრიალებს"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "მისი გზა"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "და მიმართ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "יזעף",
+      "gloss": "რომლებს"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "მისი გული"
+    }
+  ],
+  "timestamp": "2026-09-06T17:24:20.602915844Z",
+  "model": "glm-5.3"
+}

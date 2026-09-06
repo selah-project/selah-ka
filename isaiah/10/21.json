@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 10:21",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "ნაშთი დაბრუნდება — ნაშთი იააკოვისი (იაკობისი) — ელ გიბორთან (ძლიერ ელთან).",
+  "tokens": [
+    {
+      "surface": "שאר",
+      "gloss": "ნაშთი"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "დაბრუნდება"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ნაშთი"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "იააკოვი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "კენ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ელი"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "გიბორი"
+    }
+  ],
+  "timestamp": "2026-09-06T07:34:16.675054523Z",
+  "model": "glm-5.3"
+}

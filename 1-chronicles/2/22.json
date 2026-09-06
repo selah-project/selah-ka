@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და სეგუბმა შვა ⟨את⟩ იაირი, და ეყო მას ოცდასამი ქალაქი გილადის მიწაში.",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "და სეგუბი"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იაირი"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "იაირი"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "და იყო"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ოცი"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "და სამი"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ქალაქი"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "მიწაში"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "გილადის"
+    }
+  ],
+  "timestamp": "2026-09-06T11:26:45.040850896Z",
+  "model": "glm-5.3"
+}

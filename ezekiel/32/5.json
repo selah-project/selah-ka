@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 32:5",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 32,
+  "translation": "დავდებ ⟨את⟩ შენს ხორცს მთებზე და ავავსებ ხეობებს შენი გროვით.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "დავდებ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "შენს ხორცს"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "შენს ხორცს"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "მთებ"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "დავავსებ"
+    },
+    {
+      "surface": "הגאיות",
+      "gloss": "ხეობები"
+    },
+    {
+      "surface": "רמותך",
+      "gloss": "შენი გროვა"
+    }
+  ],
+  "timestamp": "2026-09-06T08:52:59.334874301Z",
+  "model": "glm-5.3"
+}

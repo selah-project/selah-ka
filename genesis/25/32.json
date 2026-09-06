@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "და თქვა ესავმა: აჰა, მე მივდივარ სიკვდილისკენ, და რატომ მე — ეს პირმშოობა?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "დათქვა"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ესავი"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "მივდივარ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "სიკვდილისკენ"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "და რატომ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "לי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "პირმშოობა"
+    }
+  ],
+  "timestamp": "2026-09-06T03:53:38.926959613Z",
+  "model": "glm-5.3"
+}

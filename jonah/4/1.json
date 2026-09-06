@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და იყო ბოროტი იონასთვის დიდი ბოროტება, და გაუმწარდა მას.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "და იყო-ბოროტი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-სთვის"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "იონა"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ბოროტება"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "დიდი"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "და გაუმწარდა"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    }
+  ],
+  "timestamp": "2026-09-06T09:16:22.921832595Z",
+  "model": "glm-5.3"
+}

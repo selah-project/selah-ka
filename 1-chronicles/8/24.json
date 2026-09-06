@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 8:24",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და ხანანია, და ეილამი, და ანთოთია.",
+  "tokens": [
+    {
+      "surface": "וחנניה",
+      "gloss": "ხანანია"
+    },
+    {
+      "surface": "ועילם",
+      "gloss": "ეილამი"
+    },
+    {
+      "surface": "וענתתיה",
+      "gloss": "ანთოთია"
+    }
+  ],
+  "timestamp": "2026-09-06T11:28:46.231561087Z",
+  "model": "glm-5.3"
+}

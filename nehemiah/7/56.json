@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "nehemiah 7:56",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "შვილნი ნეციახისანი, შვილნი ხათიფასანი",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილნი"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "ნეციახი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "შვილნი"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "ხათიფა"
+    }
+  ],
+  "timestamp": "2026-09-06T11:21:58.368986568Z",
+  "model": "glm-5.3"
+}

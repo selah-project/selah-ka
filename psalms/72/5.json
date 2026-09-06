@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 72,
+  "translation": "გეშინოდეთ მას მზესთან ერთად და მთვარის წინაშე — თაობა თაობებს.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "გეშინოდეთ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "თან"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "მზე"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "და წინაშე"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "მთვარე"
+    },
+    {
+      "surface": "דור",
+      "gloss": "თაობა"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "თაობები"
+    }
+  ],
+  "timestamp": "2026-09-06T09:52:09.996039583Z",
+  "model": "glm-5.3"
+}

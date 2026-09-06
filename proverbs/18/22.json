@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 18:22",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "იპოვა ⟨ვინმემ⟩ ცოლი — იპოვა სიკეთეს, და მოიღო საყვარელობა იაჰვესგან.",
+  "tokens": [
+    {
+      "surface": "מצא",
+      "gloss": "იპოვა"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ცოლი"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "იპოვა"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "სიკეთე"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "და მოიღო"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "საყვარელობა"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "იაჰვესგან"
+    }
+  ],
+  "timestamp": "2026-09-06T10:23:00.817590373Z",
+  "model": "glm-5.3"
+}

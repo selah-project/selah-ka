@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "ტვირთი, რომელიც იხილა ხაბაკუკმა (ხაბაკუკმა), ნავმა.",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "ტვირთი"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "იხილა"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "ხაბაკუკი"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ნავი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:20:11.716427417Z",
+  "model": "glm-5.3"
+}

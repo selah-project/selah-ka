@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "ჩვენი ნეფეშით შემოვიტანეთ ჩვენი პური უდაბნოს მახვილის გამო.",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "ჩვენი ნეფეში"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "შემოტანა"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "ჩვენი პური"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "გამო"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "მახვილი"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "უდაბნო"
+    }
+  ],
+  "timestamp": "2026-09-06T10:55:11.786579244Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 33:45",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 33,
+  "translation": "და დაიძრნენ იიმიდან და დაბანაკდნენ დიბონ-გადში.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "დაიძრნენ"
+    },
+    {
+      "surface": "מעיים",
+      "gloss": "იიმი"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "დაბანაკდნენ"
+    },
+    {
+      "surface": "בדיבן",
+      "gloss": "დიბონ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "გად"
+    }
+  ],
+  "timestamp": "2026-09-06T12:29:42.824381024Z",
+  "model": "glm-5.3"
+}

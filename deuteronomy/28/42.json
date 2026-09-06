@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 28,
+  "translation": "ყველა შენი ხე და შენი მიწის ნაყოფი დაიმკვიდრებს მანანა (ბაღლინჯო).",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "შენი ხე"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "და ნაყოფი"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "შენი მიწა"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "დაიმკვიდრებს"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "მანანა"
+    }
+  ],
+  "timestamp": "2026-09-06T05:40:30.002480366Z",
+  "model": "glm-5.3"
+}

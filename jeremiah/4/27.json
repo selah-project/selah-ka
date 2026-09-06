@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 4:27",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "რადგან ასე თქვა იაჰვემ: დაცარიელდება მთელი მიწა, და სრულს აღსასრულს არ მოვიხდინებ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "დაცარიელდება"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "იქნება"
+    },
+    {
+      "surface": "כל",
+      "gloss": "მთელი"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "სრული აღსასრული"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "მოვიხდინებ"
+    }
+  ],
+  "timestamp": "2026-09-06T08:01:12.600995592Z",
+  "model": "glm-5.3"
+}

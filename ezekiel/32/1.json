@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 32:1",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 32,
+  "translation": "და მოხდა მეთორმეტე წელს, მეთორმეტე თვეს, თვის ერთ ⟨დღეს⟩, იყო იაჰვეს სიტყვა ჩემდამი ასე სათქმელად:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "მოხდა"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "ორში"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ათი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელი"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "ორში"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ათი"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "თვე"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ერთში"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "თვისთვის"
+    },
+    {
+      "surface": "היה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემდამი"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T08:54:22.643515274Z",
+  "model": "glm-5.3"
+}

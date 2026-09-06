@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 31,
+  "translation": "უქმობს მას სიკეთეს და არა ბოროტებას, ყოველ დღეს თავისი სიცოცხლისა.",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "უქმობს მას"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "სიკეთეს"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არა"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ბოროტებას"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყოველ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "თავისი სიცოცხლისა"
+    }
+  ],
+  "timestamp": "2026-09-06T14:32:07.627613628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "და იცოცხლა სერუგმა ოცდაათი წელიწადი და შვა ⟨את⟩ ნახორი.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "და იცოცხლა"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "სერუგი"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ოცდაათი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელიწადი"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "და შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ნახორი"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ნახორი"
+    }
+  ],
+  "timestamp": "2026-09-06T03:45:19.238189611Z",
+  "model": "glm-5.3"
+}

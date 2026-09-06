@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 11:37",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "და თუ დავარდება მათი ნეშტიდან რომელიმე დასათეს თესლზე, რომელიც დაითესება, სუფთა ⟨არის⟩ ის.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "და თუ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "დავარდება"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "მათი ნეშტიდან"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყოველ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "თესლ"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "დასათესი"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "დაითესება"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "სუფთა"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    }
+  ],
+  "timestamp": "2026-09-06T04:39:33.396997995Z",
+  "model": "glm-5.3"
+}

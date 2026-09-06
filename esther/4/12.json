@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და უამბეს მორდექაის ⟨את⟩ სიტყვები ესთერისი.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "და უამბეს"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "მორდექაის"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "სიტყვები"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "სიტყვები"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ესთერისი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:00:00.360957673Z",
+  "model": "glm-5.3"
+}

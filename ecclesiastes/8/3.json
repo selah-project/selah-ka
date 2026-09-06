@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "ნუ იჩქარი წასვლას მისი პირისპირ, ნუ დგახარ ბოროტ საქმეში, რადგან ყველაფერს, რასაც ინებებს, იქამდებს.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "იჩქარი"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "მისი პირისპირ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "წასვლას"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "დგახარ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "საქმეში"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ბოროტ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველაფერს"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რასაც"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "ინებებს"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "იქამდებს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:58:08.871463112Z",
+  "model": "glm-5.3"
+}

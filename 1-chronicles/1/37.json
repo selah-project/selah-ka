@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 1:37",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "რეუელის ძენი: ნახათი, ზერახი, შამაჰი და მიზაჰი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "რეუელი"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ნახათი"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ზერახი"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "შამაჰი"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "და მიზაჰი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:25:32.502429700Z",
+  "model": "glm-5.3"
+}

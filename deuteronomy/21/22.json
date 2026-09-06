@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 21:22",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "და თუ იქნება კაცში ცოდვა — სიკვდილის მსჯავრი, და ისჯება სიკვდილით, და ჩამოკიდებ ⟨את⟩ მას ძელზე.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "და თუ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "იქნება"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "კაცში"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ცოდვა"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "მსჯავრი"
+    },
+    {
+      "surface": "מות",
+      "gloss": "სიკვდილი"
+    },
+    {
+      "surface": "והומת",
+      "gloss": "და ისჯება სიკვდილით"
+    },
+    {
+      "surface": "ותלית",
+      "gloss": "და ჩამოკიდებ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "მას"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ძელი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:34:58.360887309Z",
+  "model": "glm-5.3"
+}

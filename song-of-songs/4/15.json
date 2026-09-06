@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 4:15",
+  "book": "song-of-songs",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "წყარო ბაღებისა, ჭა ცოცხალ წყალთა, და ნაკადები ლებანონიდან.",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "წყარო"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "ბაღი"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ჭა"
+    },
+    {
+      "surface": "מים",
+      "gloss": "წყალი"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ცოცხალი"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "ნაკადები"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-დან"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "ლებანონი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:48:23.379575070Z",
+  "model": "glm-5.3"
+}

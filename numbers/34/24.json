@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 34:24",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 34,
+  "translation": "და ეფრაიმის ძეთა ტომისთვის — მთავარი კემუელი, ძე შიფთანისა.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "და ტომისთვის"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძეთა"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ეფრაიმი"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "მთავარი"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "კემუელი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "שפטן",
+      "gloss": "შიფთანი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:20:33.535088800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 41:31",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 41,
+  "translation": "და აღარ იცოდება სიუხვე მიწაში იმ შიმშილის გამო, ამის შემდეგ, რადგან მძიმე ⟨არის⟩ ის ფრიად.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "და არა"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "იცოდება"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "სიუხვე"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "მიწაში"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "გამო"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "შიმშილი"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "იმ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "შემდეგ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ამის"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "მძიმე"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ფრიად"
+    }
+  ],
+  "timestamp": "2026-09-06T04:04:08.650162417Z",
+  "model": "glm-5.3"
+}

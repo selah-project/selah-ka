@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 8:5",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "თუ შენ ადრეულად მიიმართავ ელს, და შადაის ევედრებ.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "תשחר",
+      "gloss": "ადრეულად ეძებ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ელი"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და მიმართ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "შადაი"
+    },
+    {
+      "surface": "תתחנן",
+      "gloss": "ევედრებ"
+    }
+  ],
+  "timestamp": "2026-09-06T20:33:23.464460893Z",
+  "model": "glm-5.3"
+}

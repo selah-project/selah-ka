@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 36:36",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 36,
+  "translation": "და მოკვდა ჰადადი, და იმეფა მის ნაცვლად სამლა, მასრეკადან.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "და მოკვდა"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ჰადადი"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "და იმეფა"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "მის ნაცვლად"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "სამლა"
+    },
+    {
+      "surface": "ממשרקה",
+      "gloss": "მასრეკადან"
+    }
+  ],
+  "timestamp": "2026-09-06T04:00:16.032140908Z",
+  "model": "glm-5.3"
+}

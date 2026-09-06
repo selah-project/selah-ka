@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 35,
+  "translation": "აღდგებიან ძალადობის მოწმენი; რაც არ ვიცი, მე მკითხავენ.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "აღდგებიან"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "მოწმენი"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ძალადობის"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რაც"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ვიცი"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "მკითხავენ"
+    }
+  ],
+  "timestamp": "2026-09-06T09:40:48.879709430Z",
+  "model": "glm-5.3"
+}

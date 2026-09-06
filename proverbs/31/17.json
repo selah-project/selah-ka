@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 31:17",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 31,
+  "translation": "შემოირტყა სიმტკიცით თავისი წელი და გაამაგრა თავისი მხრები.",
+  "tokens": [
+    {
+      "surface": "חגרה",
+      "gloss": "შემოირტყა"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "სიმტკიცით"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "წელი"
+    },
+    {
+      "surface": "ותאמץ",
+      "gloss": "გაამაგრა"
+    },
+    {
+      "surface": "זרעותיה",
+      "gloss": "მხრები"
+    }
+  ],
+  "timestamp": "2026-09-06T10:29:05.330027425Z",
+  "model": "glm-5.3"
+}

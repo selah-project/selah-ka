@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 4:29",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და ბილჰაში, და ეცემში, და თოლადში,",
+  "tokens": [
+    {
+      "surface": "ובבלהה",
+      "gloss": "და ბილჰაში"
+    },
+    {
+      "surface": "ובעצם",
+      "gloss": "და ეცემში"
+    },
+    {
+      "surface": "ובתולד",
+      "gloss": "და თოლადში"
+    }
+  ],
+  "timestamp": "2026-09-06T11:28:07.770236796Z",
+  "model": "glm-5.3"
+}

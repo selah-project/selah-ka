@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 42,
+  "translation": "და ისინი არ იცოდნენ, რომ იოსეფი ისმენდა, რადგან თარჯიმანი ⟨იდგა⟩ მათ შორის.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "და ისინი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "იცოდნენ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ისმენდა"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "იოსეფი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "თარჯიმანი"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "მათ შორის"
+    }
+  ],
+  "timestamp": "2026-09-06T12:07:22.032726376Z",
+  "model": "glm-5.3"
+}

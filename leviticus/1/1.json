@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და მოუწოდა იაჰვემ მოშეს (მოსე), და ელაპარაკა იაჰვე მას შეხვედრის კარვიდან, თქმად:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "მოუწოდა"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ელაპარაკა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "კარავი"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "შეხვედრის"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "თქმად"
+    }
+  ],
+  "timestamp": "2026-09-06T04:36:03.168112223Z",
+  "model": "glm-5.3"
+}

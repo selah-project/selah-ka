@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "და თუ ჭეშმარიტი იყო ეს სიტყვა — არ იპოვნეს ქალწალობა მოყმაწვილს —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "და თუ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ჭეშმარიტი"
+    },
+    {
+      "surface": "היה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "იპოვნეს"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "ქალწალობა"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "მოყმაწვილს"
+    }
+  ],
+  "timestamp": "2026-09-06T05:37:54.430433283Z",
+  "model": "glm-5.3"
+}

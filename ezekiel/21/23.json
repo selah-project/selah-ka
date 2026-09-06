@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 21:23",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "და იყო იაჰვეს სიტყვა ჩემდამი ⟨თქმით⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "და იყო"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემდამი"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "თქმით"
+    }
+  ],
+  "timestamp": "2026-09-06T13:34:00.643499034Z",
+  "model": "glm-5.3"
+}

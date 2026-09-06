@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 74,
+  "translation": "შენ განგმირე შენი ძალით ზღვა, დაამტვრიე თავები თანინებისა წყლებზე.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "განგმირა"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "შენით ძალით"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ზღვა"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "დაამტვრია"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "თავები"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "თანინები"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "המים",
+      "gloss": "წყალი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:53:57.217436089Z",
+  "model": "glm-5.3"
+}

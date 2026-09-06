@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 22:27",
+  "book": "2-samuel",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "სუფთასთან სუფთა გამოიჩენ თავს, და მრუდესთან მრუდედ იბრძვის.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "თან"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "სუფთა"
+    },
+    {
+      "surface": "תתבר",
+      "gloss": "სუფთავდება"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "და თან"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "მრუდე"
+    },
+    {
+      "surface": "תתפל",
+      "gloss": "იბრძვის"
+    }
+  ],
+  "timestamp": "2026-09-06T06:48:46.379778612Z",
+  "model": "glm-5.3"
+}

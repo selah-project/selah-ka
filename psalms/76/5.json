@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 76,
+  "translation": "ნათიანი ⟨ხარ⟩ შენ, დიდებული მტაცებლის მთარებზე მეტად.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "ნათიანი"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "დიდებული"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "მთარები"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "მტაცებლის"
+    }
+  ],
+  "timestamp": "2026-09-06T16:25:11.172671594Z",
+  "model": "glm-5.3"
+}

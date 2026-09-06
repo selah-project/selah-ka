@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 33:11",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 33,
+  "translation": "და გაემართნენ სუფის ზღვიდან და დაბანაკდნენ სინის უდაბნოში.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "გაემართნენ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ზღვიდან"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "სუფი"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "დაბანაკდნენ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "უდაბნოში"
+    },
+    {
+      "surface": "סין",
+      "gloss": "სინი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:20:22.739298372Z",
+  "model": "glm-5.3"
+}

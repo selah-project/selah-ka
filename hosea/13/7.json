@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 13:7",
+  "book": "hosea",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "და ვიყავი მათთვის როგორც ლომი, ზიგრისვით გზაზე დამსაფრული.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "ვიყავი"
+    },
+    {
+      "surface": "להם",
+      "gloss": "მათთვის"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "როგორც"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "ლომი"
+    },
+    {
+      "surface": "כנמר",
+      "gloss": "ზიგრივით"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "გზა"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "დასაფრდება"
+    }
+  ],
+  "timestamp": "2026-09-06T09:08:11.899879681Z",
+  "model": "glm-5.3"
+}

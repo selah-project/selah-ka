@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "ნუ ინდომებ მის გემროებათა, რადგან ის ⟨არის⟩ პური სიცრუისა.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "ინდომებ"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "გემროებათა"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "პური"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "სიცრუისა"
+    }
+  ],
+  "timestamp": "2026-09-06T14:27:27.033293917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "ყველა ეს მოვიდა ნაბუხადნეცარ მეფეზე.",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "მოვიდა"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "ნაბუხადნეცარი (ნაბუქოდონოსორი)"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "მეფე"
+    }
+  ],
+  "timestamp": "2026-09-06T14:54:22.891825129Z",
+  "model": "glm-5.3"
+}

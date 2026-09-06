@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 14:4",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "აღიღებ ამ იგავს ბაველის მეფეზე და იტყვი: როგორ შეჩერდა მჩაგვრელი, შეჩერდა შეკრება!",
+  "tokens": [
+    {
+      "surface": "ונשאת",
+      "gloss": "აღიღებ"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "იგავი"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ბაველი"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "იტყვი"
+    },
+    {
+      "surface": "איך",
+      "gloss": "როგორ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "შეჩერდა"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "მჩაგვრელი"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "შეჩერდა"
+    },
+    {
+      "surface": "מדהבה",
+      "gloss": "შეკრება"
+    }
+  ],
+  "timestamp": "2026-09-06T13:08:58.531706418Z",
+  "model": "glm-5.3"
+}

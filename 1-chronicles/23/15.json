@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 23:15",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "მოშეს შვილები ⟨არიან⟩ გერშომი და ელიეზერი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშეს"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "გერშომი"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "და ელიეზერი"
+    }
+  ],
+  "timestamp": "2026-09-06T16:43:11.865620594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 18:10",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "სიმაგრის კოშკი ⟨არის⟩ იაჰვეს სახელი; მასში მირბის მართალი და ამაღლდება.",
+  "tokens": [
+    {
+      "surface": "מגדל",
+      "gloss": "კოშკი"
+    },
+    {
+      "surface": "עז",
+      "gloss": "სიმაგრე"
+    },
+    {
+      "surface": "שם",
+      "gloss": "სახელი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "בו",
+      "gloss": "მასში"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "მირბის"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "მართალი"
+    },
+    {
+      "surface": "ונשגב",
+      "gloss": "და ამაღლდება"
+    }
+  ],
+  "timestamp": "2026-09-06T10:22:32.654767153Z",
+  "model": "glm-5.3"
+}

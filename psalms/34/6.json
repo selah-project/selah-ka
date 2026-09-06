@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 34,
+  "translation": "შეხედეს მას და განბრწყინდნენ, და სახეები მათი არ შერცხვნენ.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "შეხედეს"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "განბრწყინდნენ"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "სახეები"
+    },
+    {
+      "surface": "אל",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "შერცხვნენ"
+    }
+  ],
+  "timestamp": "2026-09-06T09:40:24.537113335Z",
+  "model": "glm-5.3"
+}

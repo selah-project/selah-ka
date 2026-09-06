@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 34:12",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 34,
+  "translation": "და იყო იაჰვეს სიტყვა ირმიაჰუსთან (იერემიასთან) ⟨את⟩ იაჰვესგან, სათქმელად:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "და იყო"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "אל",
+      "gloss": "თან"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ირმიაჰუს"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "იაჰვესგან"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T18:23:09.948879083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 49:15",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 49,
+  "translation": "რადგან აჰა, პატარა გაგხადე ხალხებში, საძულველი ადამიანებში.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "პატარა"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "გაგხადე"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ხალხებში"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "საძულველი"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ადამიანებში"
+    }
+  ],
+  "timestamp": "2026-09-06T08:30:19.063072373Z",
+  "model": "glm-5.3"
+}

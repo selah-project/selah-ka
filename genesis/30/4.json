@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "და მისცა მას ⟨את⟩ ბილჰა მხევალი თვისი ცოლად, და შევიდა მასთან იააკოვმა.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "მისცა"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ბილჰა"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "ბილჰა"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "მხევალი"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ცოლად"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "შევიდა"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "მასთან"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "იააკოვმა"
+    }
+  ],
+  "timestamp": "2026-09-06T03:57:02.624650644Z",
+  "model": "glm-5.3"
+}

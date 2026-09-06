@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 10:36",
+  "book": "ezra",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "ვანია, მერემოთი, ელიაშიბი.",
+  "tokens": [
+    {
+      "surface": "וניה",
+      "gloss": "ვანია"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "მერემოთი"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "ელიაშიბი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:16:45.526173604Z",
+  "model": "glm-5.3"
+}

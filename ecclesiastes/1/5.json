@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და ამოვიდა მზე, და ჩავიდა მზე, და თავის ადგილისკენ სუნთქავს ამომავარი ის იქ.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "და ამოვიდა"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "მზე"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "და ჩავიდა"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "მზე"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და …-ისკენ"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "თავისი ადგილი"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "სუნთქავს"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "ამომავარი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "שם",
+      "gloss": "იქ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:56:47.448978810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 6:21",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "და იცჰარის (იზარის) ძენი: კორახი და ნეფეგი და ზიქრი.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "იცჰარი"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "კორახი"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "ნეფეგი"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "ზიქრი"
+    }
+  ],
+  "timestamp": "2026-09-06T17:46:47.685538533Z",
+  "model": "glm-5.3"
+}

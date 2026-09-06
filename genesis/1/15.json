@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 1:15",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და იყვნენ ნათურებად ცის რაკიაში, გასანათებლად მიწაზე; და იყო ასე.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "და იყვნენ"
+    },
+    {
+      "surface": "למאורת",
+      "gloss": "ნათურებად"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "რაკია"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ცა"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "გასანათებლად"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზედა"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "და იყო"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ასე"
+    }
+  ],
+  "timestamp": "2026-09-06T03:41:08.762616826Z",
+  "model": "glm-5.3"
+}

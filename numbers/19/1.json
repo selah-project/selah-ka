@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 19:1",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "და ითქვა იაჰვეს მოშეს (მოსეს) და აჰარონს (აარონს) მიმართ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ითქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და მიმართ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "აჰარონ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "მითით"
+    }
+  ],
+  "timestamp": "2026-09-06T12:27:46.909005369Z",
+  "model": "glm-5.3"
+}

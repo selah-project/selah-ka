@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "nehemiah 7:53",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ბაყბუყის ძენი, ხაყუფას ძენი, ხარხურის ძენი,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "בקבוק",
+      "gloss": "ბაყბუყი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "חקופא",
+      "gloss": "ხაყუფა"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "חרחור",
+      "gloss": "ხარხური"
+    }
+  ],
+  "timestamp": "2026-09-06T20:33:55.787452474Z",
+  "model": "glm-5.3"
+}

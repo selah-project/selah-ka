@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "ნუ შეჭამ და გაძღები, და კარგ სახლებს ააშენებ და დასახლდები მათში.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "შეჭამ"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "და გაძღები"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "და სახლები"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "კარგი"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ააშენებ"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "და დასახლდები"
+    }
+  ],
+  "timestamp": "2026-09-06T05:27:29.342548369Z",
+  "model": "glm-5.3"
+}

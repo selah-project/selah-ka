@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 108,
+  "translation": "ვინ შემიყვანს გამაგრებულ ქალაქში? ვინ წამიყვანს ედომამდე?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "შემიყვანს"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ქალაქი"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "ციხე-სიმაგრე"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "წამიყვანს"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-მდე"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ედომი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:05:01.546763450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "მოისმინა იაჰვემ ჩემი ვედრება; იაჰვე მიიღებს ჩემს ლოცვას.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "მოისმინა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "ვედრება"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ლოცვა"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "მიიღებს"
+    }
+  ],
+  "timestamp": "2026-09-06T09:30:49.078555500Z",
+  "model": "glm-5.3"
+}

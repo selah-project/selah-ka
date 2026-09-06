@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და ქალების ძენი, იეფუნეჰის ძე: ირუ, ელაჰი და ნაამი; და ელაჰის ძენი — კენაზი.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "და ძენი"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ქალები"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "იეფუნეჰი"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "ირუ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ელაჰი"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "და ნაამი"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "და ძენი"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ელაჰი"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "და კენაზი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:28:20.359687078Z",
+  "model": "glm-5.3"
+}

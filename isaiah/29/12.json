@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 29:12",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 29,
+  "translation": "და მიეცემა წიგნი მას, ვინც არ იცის წიგნი, სათქმელად: წაიკითხე ეს, ნავი; და იტყვის ის: არ ვიცი წიგნი.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "და მიეცემა"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "წიგნი"
+    },
+    {
+      "surface": "על",
+      "gloss": "მას"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ვინც"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "იცის"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "წიგნი"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "წაიკითხე"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ნავი"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "და იტყვის"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ვიცი"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "წიგნი"
+    }
+  ],
+  "timestamp": "2026-09-06T07:42:05.818840253Z",
+  "model": "glm-5.3"
+}

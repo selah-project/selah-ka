@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 1:14",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "გადიდან: ელიასაფი, ძე დეუელისა.",
+  "tokens": [
+    {
+      "surface": "לגד",
+      "gloss": "გადიდან"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "ელიასაფი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "დეუელი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:58:23.817610662Z",
+  "model": "glm-5.3"
+}

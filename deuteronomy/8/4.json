@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "შენი სამოსი არ დაგბერებივს შენზე და შენი ფეხი არ დაგეშეშილა — ეს ორმოცი წელი.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "შენი სამოსი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "დაბერდა"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "შენზე"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "და შენი ფეხი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "დაიშეშა"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ორმოცი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:29:35.496834823Z",
+  "model": "glm-5.3"
+}

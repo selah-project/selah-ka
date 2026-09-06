@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 121,
+  "translation": "ჩემი შემწე ⟨არის⟩ იაჰვესგან, ცისა და მიწის მომქმედისგან.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "ჩემი შემწე"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "გან"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "მომქმედი"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ცა"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "და მიწა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:09:54.046613183Z",
+  "model": "glm-5.3"
+}

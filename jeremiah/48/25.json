@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 48:25",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 48,
+  "translation": "მოიჭრა მოაბის რქა, და მისი მკლავი მოიტეხა — იაჰვეს ბრძანება.",
+  "tokens": [
+    {
+      "surface": "נגדעה",
+      "gloss": "მოიჭრა"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "რქა"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "მოაბი"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "და მისი მკლავი"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "მოიტეხა"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ბრძანება"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T08:28:18.654981933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 31,
+  "translation": "და ამცნეს ლავანს მესამე დღეს, რომ გაიქცა იააკოვი (იაკობი).",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ამცნეს"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "ლავანს"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "მესამე"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "გაიქცა"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "იააკოვი"
+    }
+  ],
+  "timestamp": "2026-09-06T03:57:40.492330421Z",
+  "model": "glm-5.3"
+}

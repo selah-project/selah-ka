@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "და წავლო სხვა გზით, და არ დაბრუნდა იმ გზით, რომლითაც მოვიდა მასში, ბეით ელში.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "და წავლო"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "გზით"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "სხვა"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "დაბრუნდა"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "გზით"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომლითაც"
+    },
+    {
+      "surface": "בא",
+      "gloss": "მოვიდა"
+    },
+    {
+      "surface": "בה",
+      "gloss": "მასში"
+    },
+    {
+      "surface": "אל",
+      "gloss": "კენ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "სახლი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ბეით ელი"
+    }
+  ],
+  "timestamp": "2026-09-06T07:02:17.520749844Z",
+  "model": "glm-5.3"
+}

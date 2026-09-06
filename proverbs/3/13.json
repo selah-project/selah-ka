@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 3:13",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "ნეტარ ⟨არის⟩ ადამი, რომელმა იპოვნა სიბრძნე, და ადამი, რომელმა გამოიღო გონება.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ნეტარ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ადამი"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "იპოვნა"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "სიბრძნე"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "და ადამი"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "გამოიღო"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "გონება"
+    }
+  ],
+  "timestamp": "2026-09-06T10:16:41.406426599Z",
+  "model": "glm-5.3"
+}

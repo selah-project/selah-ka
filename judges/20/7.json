@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 20:7",
+  "book": "judges",
+  "lang": "ka",
+  "chapter": 20,
+  "translation": "აჰა, თქვენ ყველანი იშრაელის ძენო ხართ: მოეცით თქვენ სიტყვა და ზრახვა აქ.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "თქვენ ყველანი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "მიცემა"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "თქვენთვის"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "ועצה",
+      "gloss": "და ზრახვა"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "აქ"
+    }
+  ],
+  "timestamp": "2026-09-06T06:13:13.119624443Z",
+  "model": "glm-5.3"
+}

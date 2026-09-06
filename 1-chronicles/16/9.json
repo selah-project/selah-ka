@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 16:9",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 16,
+  "translation": "მღერეთ მას, უკრავდეთ მას, ლაპარაკობდეთ ყველა მის საოცრებაზე.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "მღერეთ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "უკრავდეთ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "საუბრობდეთ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "საოცრებაზე"
+    }
+  ],
+  "timestamp": "2026-09-06T11:32:38.498381890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 36,
+  "translation": "და შეაერთა ⟨את⟩ ხუთი ფარდა, ერთი ერთს; და ხუთი ფარდა შეაერთა, ერთი ერთს.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "და შეაერთა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ხუთი ფარდა"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ხუთი"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ფარდა"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "და ხუთი"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "ფარდა"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "შეაერთა"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ერთი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:32:13.740945466Z",
+  "model": "glm-5.3"
+}

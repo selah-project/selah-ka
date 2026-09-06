@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "ყოველ დროს იყოს შენი სამოსელი თეთრი და ზეთი შენს თავზე ნუ დააკლდება.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ყველა-ში"
+    },
+    {
+      "surface": "עת",
+      "gloss": "დრო"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "იყვნენ"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "სამოსელი-შენი"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "თეთრი"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "და-ზეთი"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზედა"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "თავი-შენი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "დააკლდება"
+    }
+  ],
+  "timestamp": "2026-09-06T10:59:07.577586039Z",
+  "model": "glm-5.3"
+}

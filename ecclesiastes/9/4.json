@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "რადგან ვინც მიერთებულია ყველა ცოცხალთან, იმედი არსებობს; რადგან ცოცხალი ძაღლი უმჯობესია მკვდარ ლომზე.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "მიერთებულია"
+    },
+    {
+      "surface": "אל",
+      "gloss": "თან"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ცოცხალი"
+    },
+    {
+      "surface": "יש",
+      "gloss": "არსებობს"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "იმედი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ძაღლს"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ცოცხალი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "უმჯობესი"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "ლომი"
+    },
+    {
+      "surface": "המת",
+      "gloss": "მკვდარი"
+    }
+  ],
+  "timestamp": "2026-09-06T18:42:10.152284924Z",
+  "model": "glm-5.3"
+}

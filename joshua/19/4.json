@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 19:4",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "და ელთოლად და ბეთულ და ხარმა.",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "და ელთოლად"
+    },
+    {
+      "surface": "ובתול",
+      "gloss": "და ბეთულ"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "და ხარმა"
+    }
+  ],
+  "timestamp": "2026-09-06T05:55:07.591264349Z",
+  "model": "glm-5.3"
+}

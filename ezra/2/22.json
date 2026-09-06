@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 2:22",
+  "book": "ezra",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "ნეტოფას კაცნი — ორმოცდათექვსმეტი.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "კაცნი"
+    },
+    {
+      "surface": "נטפה",
+      "gloss": "ნეტოფა"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ორმოცდაათი"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "და ექვსი"
+    }
+  ],
+  "timestamp": "2026-09-06T14:58:20.728435046Z",
+  "model": "glm-5.3"
+}

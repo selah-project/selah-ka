@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 24:26",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "და მოიდრიკა კაცმა და თაყვანისუფლა იაჰვეს.",
+  "tokens": [
+    {
+      "surface": "ויקד",
+      "gloss": "მოიდრიკა"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "თაყვანისუფლა"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "იაჰვეს"
+    }
+  ],
+  "timestamp": "2026-09-06T03:52:54.582305374Z",
+  "model": "glm-5.3"
+}

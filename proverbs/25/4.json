@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 25:4",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "მოაშორე მდინარე ვერცხლს, და გამოვა საჭურჭლე დამამდინარებელს.",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "მოაშორე"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "მდინარე"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "ვერცხლს"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "და გამოვა"
+    },
+    {
+      "surface": "לצרף",
+      "gloss": "დამამდინარებელს"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "საჭურჭლე"
+    }
+  ],
+  "timestamp": "2026-09-06T14:29:56.147604833Z",
+  "model": "glm-5.3"
+}

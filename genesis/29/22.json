@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 29,
+  "translation": "და შეკრიბა ლავანმა ⟨את⟩ ყველა იმ ადგილის კაცი და გაუმართა ნადიმი.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "და შეკრიბა"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ლავანი"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ყველა კაცი"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ადგილი"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "და გაუმართა"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ნადიმი"
+    }
+  ],
+  "timestamp": "2026-09-06T03:55:15.355286020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 6:1",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "და იტყო იაჰვემ მოშეს (მოსეს) თქმად:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "იტყო"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ელი"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "თქმად"
+    }
+  ],
+  "timestamp": "2026-09-06T04:38:43.758905395Z",
+  "model": "glm-5.3"
+}

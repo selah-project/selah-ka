@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 18:8",
+  "book": "1-kings",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "და თქვა მას: მე ვარ. წადი, უთხარი შენს ბატონს: აჰა, ელიაჰუ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "לך",
+      "gloss": "წადი"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "უთხარი"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "შენს ბატონს"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ელიაჰუ"
+    }
+  ],
+  "timestamp": "2026-09-06T07:06:27.228619615Z",
+  "model": "glm-5.3"
+}

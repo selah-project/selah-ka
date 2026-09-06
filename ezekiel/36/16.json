@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 36:16",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 36,
+  "translation": "და იყო იაჰვეს სიტყვა ჩემდამო ⟨ასე რომ⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "და იყო"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემდამო"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ასე რომ"
+    }
+  ],
+  "timestamp": "2026-09-06T08:55:58.219904750Z",
+  "model": "glm-5.3"
+}

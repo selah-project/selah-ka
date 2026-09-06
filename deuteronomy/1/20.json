@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 1:20",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და ვუთხარი თქვენ: მიხვედით ამორელთა მთამდე, რომელსა იაჰვე, ჩვენი ელოჰიმი, გვაძლევს.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "და ვუთხარი"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "თქვენ"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "მიხვედით"
+    },
+    {
+      "surface": "עד",
+      "gloss": "მდე"
+    },
+    {
+      "surface": "הר",
+      "gloss": "მთამდე"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ამორელთა"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელსა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ჩვენი ელოჰიმი"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "გვაძლევს"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ჩვენ"
+    }
+  ],
+  "timestamp": "2026-09-06T05:23:40.292403833Z",
+  "model": "glm-5.3"
+}

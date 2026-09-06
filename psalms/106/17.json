@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 106,
+  "translation": "გახსნა მიწამ და ჩაყლაპა დათანი, და დაფარა ზედ აბირამის კრებულს.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "გახსნა"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "მიწამ"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "და ჩაყლაპა"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "დათანი"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "და დაფარა"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზედ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "კრებული"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "აბირამის"
+    }
+  ],
+  "timestamp": "2026-09-06T10:03:42.022667639Z",
+  "model": "glm-5.3"
+}

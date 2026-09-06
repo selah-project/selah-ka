@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 28,
+  "translation": "წყეული იყავ ქალაქში და წყეული იყავ ველში.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "წყეული"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ქალაქში"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "და წყეული"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ველში"
+    }
+  ],
+  "timestamp": "2026-09-06T05:40:40.381692828Z",
+  "model": "glm-5.3"
+}

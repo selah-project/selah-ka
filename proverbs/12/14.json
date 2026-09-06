@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 12:14",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "პირის ნაყოფით კაცი დაძღება სიკეთით, და ადამის ხელთა საზღაური მას დაუბრუნდება.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "ნაყოფიდან"
+    },
+    {
+      "surface": "פי",
+      "gloss": "პირი"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "დაძღება"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "სიკეთე"
+    },
+    {
+      "surface": "וגמול",
+      "gloss": "და საზღაური"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ხელნი"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ადამი"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "დაბრუნდება"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    }
+  ],
+  "timestamp": "2026-09-06T10:20:19.485411858Z",
+  "model": "glm-5.3"
+}

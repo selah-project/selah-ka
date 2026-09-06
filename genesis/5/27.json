@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 5:27",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "და იყო ყველა დღე მეთუშელახის ცხრა და სამოცი წელი და ცხრაასი წელი, და მოკვდა ის.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "და იყო"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "დღენი"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "მეთუშელახის"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ცხრა"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "და სამოცი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელი"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "და ცხრა"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასეული"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელი"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "და მოკვდა"
+    }
+  ],
+  "timestamp": "2026-09-06T03:43:06.354635853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 7:9",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "შეფატიაჰის ძენი — სამას სამოცდათორმეტი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "შეფატიაჰი"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "სამი"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "სამოცდაათი"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "და ორი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:20:59.193158548Z",
+  "model": "glm-5.3"
+}

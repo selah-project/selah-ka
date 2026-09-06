@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 16:1",
+  "book": "judges",
+  "lang": "ka",
+  "chapter": 16,
+  "translation": "წავიდა შიმშონი აზაში და იხილა ⟨მან⟩ იქ ქალი მეძავი, და შევიდა მასთან.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "წავიდა"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "შიმშონი"
+    },
+    {
+      "surface": "עזתה",
+      "gloss": "აზაში"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "იხილა"
+    },
+    {
+      "surface": "שם",
+      "gloss": "იქ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ქალი"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "მეძავი"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "შევიდა"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "მასთან"
+    }
+  ],
+  "timestamp": "2026-09-06T18:56:48.041807310Z",
+  "model": "glm-5.3"
+}

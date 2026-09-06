@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 38:8",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 38,
+  "translation": "და გამოვიდა ებდ-მელექი მეფის სახლიდან და ელაპარაკა მეფეს, სიტყვად:",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "და გამოვიდა"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ებდ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მელექი"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "სახლიდან"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "მეფის"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "და ელაპარაკა"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სიტყვად"
+    }
+  ],
+  "timestamp": "2026-09-06T13:25:48.067217064Z",
+  "model": "glm-5.3"
+}

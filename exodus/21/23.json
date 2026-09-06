@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "და თუ უბედურება იქნება, მისცე ნეფეში ნეფეშის ნაცვლად.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "და თუ"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "უბედურება"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "იქნება"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "მისცე"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ნეფეში"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ნაცვლად"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ნეფეში"
+    }
+  ],
+  "timestamp": "2026-09-06T04:21:57.500409350Z",
+  "model": "glm-5.3"
+}

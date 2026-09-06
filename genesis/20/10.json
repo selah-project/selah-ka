@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 20,
+  "translation": "და უთხრა აბიმელექმა აბრაჰამს: რა იხილე, რომ ჩაიდინე ⟨את⟩ ეს საქმე?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "უთხრა"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "აბიმელექი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "აბრაჰამი"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "იხილე"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ჩაიდინე"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ეს საქმე"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "საქმე"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ეს"
+    }
+  ],
+  "timestamp": "2026-09-06T12:03:43.953518095Z",
+  "model": "glm-5.3"
+}

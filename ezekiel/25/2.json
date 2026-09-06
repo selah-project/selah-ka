@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 25:2",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "ადამის ძევ, მიმართე შენი სახე ამონის ძეებისკენ და წინასწარმეტყველებ მათზე.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ადამი"
+    },
+    {
+      "surface": "שים",
+      "gloss": "დადე"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "შენი სახე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-სკენ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძეები"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ამონი"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "და წინასწარმეტყველებ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "მათზე"
+    }
+  ],
+  "timestamp": "2026-09-06T13:34:42.917448254Z",
+  "model": "glm-5.3"
+}

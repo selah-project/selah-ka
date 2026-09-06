@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 15:16",
+  "book": "1-kings",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "და ომი იყო ასასა და ბაშასა, იშრაელის მეფისა, შორის ყოველ დღეთა მათთა.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "და ომი"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "בין",
+      "gloss": "შორის"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ასა"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "და შორის"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ბაშა"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყოველ"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "დღე მათი"
+    }
+  ],
+  "timestamp": "2026-09-06T07:05:16.653082645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "და წაიყვანონ მაგ ქალაქის უხუცესებმა ⟨את⟩ იმ კაცმა და დასაჯონ ⟨את⟩ ის.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "წაიყვანონ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "უხუცესები"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ქალაქი"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "მაგ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იმ კაცი"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "დასაჯონ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ის"
+    }
+  ],
+  "timestamp": "2026-09-06T19:13:45.960733042Z",
+  "model": "glm-5.3"
+}

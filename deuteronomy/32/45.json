@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 32,
+  "translation": "და დაასრულა მოშემ საუბარი ⟨את⟩ ყველა ამ სიტყვათა ყველა იშრაელის მიმართ.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "დაასრულა"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "საუბრად"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ყველა"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:37:05.444470359Z",
+  "model": "glm-5.3"
+}

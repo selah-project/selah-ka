@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "ნუ შეიჭრები შურში ბოროტ კაცთა ⟨ადრეს⟩, და ნუ ინატრებ ⟨את⟩ მათ თან ყოფნას.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "შურობ"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "ბოროტ კაცთა"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ბოროტება"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და ნუ"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "ინატრებ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ყოფნა"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ მათ",
+      "marks": "მათ თან"
+    }
+  ],
+  "timestamp": "2026-09-06T10:26:10.467544887Z",
+  "model": "glm-5.3"
+}

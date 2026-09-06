@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 44:26",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 44,
+  "translation": "და მისი განწმენდის შემდეგ შვიდი დღე ჩაუთვალონ მას.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "და შემდეგ"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "მისი განწმენდა"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "შვიდი"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "ჩაუთვალონ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    }
+  ],
+  "timestamp": "2026-09-06T09:01:42.610921383Z",
+  "model": "glm-5.3"
+}

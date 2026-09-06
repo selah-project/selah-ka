@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 9:41",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "და მიქას ძენი ⟨არის⟩ ფითონი და მელექი და თაჰრეა.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "და ძენი"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "მიქა"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "ფითონი"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "და მელექი"
+    },
+    {
+      "surface": "ותחרע",
+      "gloss": "და თაჰრეა"
+    }
+  ],
+  "timestamp": "2026-09-06T11:31:21.849042240Z",
+  "model": "glm-5.3"
+}

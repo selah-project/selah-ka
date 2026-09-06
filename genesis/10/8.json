@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "და ქუშმა შვა ⟨את⟩ ნიმროდი (ნემროთი); მან დაიწყო ქვეყანაში ძლიერად ყოფნა.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "და ქუშმა"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ნიმროდი"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "ნიმროდი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "החל",
+      "gloss": "დაიწყო"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ყოფნა"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ძლიერი"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ქვეყანაში"
+    }
+  ],
+  "timestamp": "2026-09-06T03:44:42.829073371Z",
+  "model": "glm-5.3"
+}

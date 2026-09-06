@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "numbers 7:69",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ხარი ერთი, საქონლის შვილი, ვერძი ერთი, კრავი ერთი, თავისი წლის შვილი, სრულდასაწველად.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ხარი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "შვილი"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "საქონელი"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ვერძი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "კრავი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "შვილი"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "თავისი წლის"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "სრულდასაწველად"
+    }
+  ],
+  "timestamp": "2026-09-06T05:04:08.686209243Z",
+  "model": "glm-5.3"
+}

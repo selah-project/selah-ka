@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 31,
+  "translation": "იხილე: მოვიწოდე სახელით ბეცალელს, ძე ურისი, ძისა ხურისი, ტომისა იეჰუდასისაგან:",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "იხილე"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "მოვიწოდე"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "სახელით"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "ბეცალელი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ური"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "חור",
+      "gloss": "ხური"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ტომისა"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "იეჰუდა"
+    }
+  ],
+  "timestamp": "2026-09-06T04:28:29.417059098Z",
+  "model": "glm-5.3"
+}

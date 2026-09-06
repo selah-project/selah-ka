@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 40:23",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 40,
+  "translation": "და დაალაგა მასზე პურის რიგი იაჰვეს წინაშე, როგორც ბრძანა იაჰვემ ⟨את⟩ მოშეს.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "დაალაგა"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "მასზე"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "რიგი"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "პური"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "წინაშე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "როგორც"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ბრძანა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მოშე"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    }
+  ],
+  "timestamp": "2026-09-06T04:34:27.026836489Z",
+  "model": "glm-5.3"
+}

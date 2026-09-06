@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "და მიწის სარგებელი ყოველში ⟨არის⟩ — მეფე ⟨არის⟩ ვისაც სავანე ემსახურება.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "და სარგებელი"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ყოველში"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "სავანეს"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "ემსახურება"
+    }
+  ],
+  "timestamp": "2026-09-06T10:58:28.579699810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 3:2",
+  "book": "zephaniah",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "არ მოუსმინა ხმას, არ მიიღო სწავლა; იაჰვეს არ ენდო, თავის ელოჰიმს არ მიუახლდა.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "მოუსმინა"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ხმას"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "მიიღო"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "სწავლა"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "בטחה",
+      "gloss": "ენდო"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "თავისი ელოჰიმი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "მიუახლდა"
+    }
+  ],
+  "timestamp": "2026-09-06T16:20:08.471132608Z",
+  "model": "glm-5.3"
+}

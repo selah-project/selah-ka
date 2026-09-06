@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "არ შეჭამთ სისხლზე; არ იმისნებთ და არ მიმართავთ მკითხაობას.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "შეჭამთ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "სისხლი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "იმისნებთ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "მიმართავთ მკითხაობას"
+    }
+  ],
+  "timestamp": "2026-09-06T12:22:30.758335048Z",
+  "model": "glm-5.3"
+}

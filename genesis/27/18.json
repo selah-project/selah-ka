@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 27,
+  "translation": "და შევიდა იააკოვი მამამისს და თქვა: მამაჩემო! და მან თქვა: აჰა მე; შენ ხარ ვინ, ძე ჩემო?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "შევიდა"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მამამისს"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "მამა მისი"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "მამაჩემო"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "აჰა მე"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძე ჩემო"
+    }
+  ],
+  "timestamp": "2026-09-06T16:46:11.795702874Z",
+  "model": "glm-5.3"
+}

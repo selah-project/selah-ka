@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 26:23",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "ამრამელთა, იცჰარელთა, ხევრონელთა და უზიელელთა.",
+  "tokens": [
+    {
+      "surface": "לעמרמי",
+      "gloss": "ამრამელთა"
+    },
+    {
+      "surface": "ליצהרי",
+      "gloss": "იცჰარელთა"
+    },
+    {
+      "surface": "לחברוני",
+      "gloss": "ხევრონელთა"
+    },
+    {
+      "surface": "לעזיאלי",
+      "gloss": "უზიელელთა"
+    }
+  ],
+  "timestamp": "2026-09-06T18:47:48.901798497Z",
+  "model": "glm-5.3"
+}

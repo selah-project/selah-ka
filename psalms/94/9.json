@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 94,
+  "translation": "ვინც დარგო ყური, განა არ ისმენს? ვინც ჩამოაყალიბა თვალი, განა არ ხედავს?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "დარგა"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ყური"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "განა არ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ისმენს"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ვინც"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ჩამოაყალიბა"
+    },
+    {
+      "surface": "עין",
+      "gloss": "თვალი"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "განა არ"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "ხედავს"
+    }
+  ],
+  "timestamp": "2026-09-06T14:11:14.724523800Z",
+  "model": "glm-5.3"
+}

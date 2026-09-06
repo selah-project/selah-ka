@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და ბრძანა იეჰოშუამ ⟨את⟩ მღვდლებს თქმად: ამოდით იარდენიდან.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "და ბრძანა"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "იეჰოშუა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მღვდლები"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "მღვდლები"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "თქმად"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ამოდით"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-იდან"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "იარდენი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:45:53.379828471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და თქვა კაინმა იაჰვეს: დიდი ⟨არის⟩ ჩემი ბრალი ასატევებლად.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "קין",
+      "gloss": "კაინი"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "დიდი"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "ჩემი ბრალი"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "ასატევებლად"
+    }
+  ],
+  "timestamp": "2026-09-06T03:42:14.742737784Z",
+  "model": "glm-5.3"
+}

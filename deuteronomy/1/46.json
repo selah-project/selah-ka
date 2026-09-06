@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 1:46",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და დარჩით ყადეშში მრავალ დღე, იმ დღეებისამებრ, რომლებსაც დარჩით.",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "და დარჩით"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "ყადეშში"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "მრავალი"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "იმ დღეებისამებრ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომლებსაც"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "დარჩით"
+    }
+  ],
+  "timestamp": "2026-09-06T05:22:05.549240333Z",
+  "model": "glm-5.3"
+}

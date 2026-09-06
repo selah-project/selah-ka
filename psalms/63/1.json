@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 63,
+  "translation": "ფსალმუნი დავიდისი, როცა ის იყო იეჰუდას უდაბნოში.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "ფსალმუნი"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "დავიდისი"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "როცა ის იყო"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "უდაბნოში"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "იეჰუდა"
+    }
+  ],
+  "timestamp": "2026-09-06T09:50:20.197305860Z",
+  "model": "glm-5.3"
+}

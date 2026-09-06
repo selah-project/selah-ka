@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 15:8",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "და თქვა: ადონაი იაჰვე, რით ვიცოდე, რომ დავიმკვიდრებ მას?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ადონაი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "במה",
+      "gloss": "რით"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ვიცოდე"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "אירשנה",
+      "gloss": "დავიმკვიდრებ მას"
+    }
+  ],
+  "timestamp": "2026-09-06T03:47:01.416375322Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "ამბოხებულნი იყავით იაჰვესთან იმ დღიდან, როცა გიცანი ⟨את⟩თქვენ.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "ამბოხებულნი"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "იყავით"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-თან"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "იმ დღიდან"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "როცა გიცანი"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩თქვენ",
+      "marks": "თქვენ"
+    }
+  ],
+  "timestamp": "2026-09-06T17:56:45.074695709Z",
+  "model": "glm-5.3"
+}

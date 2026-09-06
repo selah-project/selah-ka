@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და შვა ზაბადმა ⟨את⟩ ეფლალი, და შვა ეფლალმა ⟨את⟩ ოვედი.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "და ზაბადმა"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ეფლალი"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "ეფლალმა"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "და ეფლალმა"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ოვედი"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ოვედი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:26:05.113917717Z",
+  "model": "glm-5.3"
+}

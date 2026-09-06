@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 3:37",
+  "book": "2-samuel",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "და შეიტყო მთელმა ხალხმა და მთელმა იშრაელმა იმ დღეს, რომ არ იყო მეფისგან ⟨את⟩ აბნერის, ნერის ძის მოკვლა.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "შეიტყო"
+    },
+    {
+      "surface": "כל",
+      "gloss": "მთელი"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "და მთელი"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "იმ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "מהמלך",
+      "gloss": "მეფისგან"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "მოკვლა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "აბნერის"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "აბნერი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "נר",
+      "gloss": "ნერი"
+    }
+  ],
+  "timestamp": "2026-09-06T06:33:21.555173120Z",
+  "model": "glm-5.3"
+}

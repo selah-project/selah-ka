@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 7:8",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ფაროშის ძენი — ორი ათასი ას ორმოცდათორმეტი კაცი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "ფაროში"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ორი ათასი"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "და სამოცდაათი"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "და ორი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:21:13.668201061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "და უთხრა ქალმა ნაგვისმა: ბაღის ხეთა ნაყოფით ჩვენ ვჭამთ.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "და უთხრა"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ქალმა"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ნაგვისმა"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "ნაყოფით"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ხე"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "ბაღის"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "ჩვენ ვჭამთ"
+    }
+  ],
+  "timestamp": "2026-09-06T20:31:09.253392948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "რაც იყო, ის იქნება, და რაც გაკეთდა, ის გაკეთდება, და არ ⟨არის⟩ არცერთი ახალი მზის ქვეშ.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "იქნება"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "და რა"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "გაკეთდა"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "გაკეთდება"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "და არ არის"
+    },
+    {
+      "surface": "כל",
+      "gloss": "არცერთი"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ახალი"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ქვეშ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "მზე"
+    }
+  ],
+  "timestamp": "2026-09-06T14:45:51.648140875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და უწოდა ელოჰიმმა რაკიას ⟨სახელად⟩ შამაიმი; და იყო საღამო, და იყო დილა — დღე მეორე.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "უწოდა"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "რაკიას"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "შამაიმი"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "და იყო"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "საღამო"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "და იყო"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "დილა"
+    },
+    {
+      "surface": "יום",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "שני",
+      "gloss": "მეორე"
+    }
+  ],
+  "timestamp": "2026-09-06T03:41:38.805407170Z",
+  "model": "glm-5.3"
+}

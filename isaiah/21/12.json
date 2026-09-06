@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 21:12",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "თქვა მცველმა: მოვა დილა და ასევე ღამე. თუ იკითხავთ, იკითხეთ; მობრუნდით, მოდით.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "მცველი"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "მოვა"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "დილა"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "და ასევე"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ღამე"
+    },
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "תבעיון",
+      "gloss": "იკითხავთ"
+    },
+    {
+      "surface": "בעיו",
+      "gloss": "იკითხეთ"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "მობრუნდით"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "მოდით"
+    }
+  ],
+  "timestamp": "2026-09-06T07:36:04.565926097Z",
+  "model": "glm-5.3"
+}

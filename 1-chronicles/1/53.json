@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-chronicles 1:53",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "მთავარი კენაზი, მთავარი თემანი, მთავარი მიბცარი.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "მთავარი"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "კენაზი"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "მთავარი"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "თემანი"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "მთავარი"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "მიბცარი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:25:32.251084562Z",
+  "model": "glm-5.3"
+}

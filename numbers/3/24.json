@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 3:24",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "და მთავარი სახლისა მამისა გერშუნიანთა — ელიასაფი, ძე ლაელისა.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "და მთავარი"
+    },
+    {
+      "surface": "בית",
+      "gloss": "სახლი"
+    },
+    {
+      "surface": "אב",
+      "gloss": "მამა"
+    },
+    {
+      "surface": "לגרשני",
+      "gloss": "გერშუნიანთა"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "ელიასაფი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ლაელი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:59:44.495775927Z",
+  "model": "glm-5.3"
+}

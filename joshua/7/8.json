@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 7:8",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "გევედრები, ადონაი, რა ვთქვა მას შემდეგ, რაც იშრაელმა ზურგი აქცია თავის მტრებს?",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "გევედრები"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ადონაი"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ვთქვა"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "მას შემდეგ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რაც"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "აქცია"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელმა"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "ზურგი"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "წინ"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "თავის მტრებს"
+    }
+  ],
+  "timestamp": "2026-09-06T05:50:51.689530958Z",
+  "model": "glm-5.3"
+}

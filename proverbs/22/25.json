@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 22:25",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "რათა არ ისწავლო მისი გზები და არ აიღო მახე შენი ⟨არის⟩ ნეფეშისთვის.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "რათა"
+    },
+    {
+      "surface": "תאלף",
+      "gloss": "ისწავლი"
+    },
+    {
+      "surface": "ארחתו",
+      "gloss": "მისი გზა"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "და აიღებ"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "მახე"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "შენი ნეფეშისთვის"
+    }
+  ],
+  "timestamp": "2026-09-06T10:24:58.570373872Z",
+  "model": "glm-5.3"
+}

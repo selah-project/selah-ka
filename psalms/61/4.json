@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 61,
+  "translation": "რადგან იყავი თავშესაფარი ჩემთვის, სიმტკიცის კოშკი მტრის პირისპირ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "היית",
+      "gloss": "იყავი"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "თავშესაფარი"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ჩემთვის"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "კოშკი"
+    },
+    {
+      "surface": "עז",
+      "gloss": "სიმტკიცის"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "პირისპირ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "მტრის"
+    }
+  ],
+  "timestamp": "2026-09-06T14:05:40.320831216Z",
+  "model": "glm-5.3"
+}

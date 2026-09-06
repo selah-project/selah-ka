@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 29,
+  "translation": "იაჰვეს ხმა ატრიალებს უდაბნოს; ატრიალებს იაჰვე ყადეშის უდაბნოს.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ხმა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "ატრიალებს"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "უდაბნო"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "ატრიალებს"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "უდაბნო"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ყადეში"
+    }
+  ],
+  "timestamp": "2026-09-06T09:38:25.305786206Z",
+  "model": "glm-5.3"
+}

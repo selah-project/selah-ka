@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "და მახირს მივეცი ⟨את⟩ გილყადი.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "მახირს"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "მივეცი"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "გილყადი"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "გილყადი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:31:24.848341278Z",
+  "model": "glm-5.3"
+}

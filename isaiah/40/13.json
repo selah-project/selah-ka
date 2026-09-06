@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 40,
+  "translation": "ვინ გაზომა ⟨את⟩ სული იაჰვესი და ვინ, მისი ზრახვის კაცი, აცნობს მას?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "გაზომა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "სული"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "სული"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "და კაცი"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "მისი ზრახვა"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "აცნობს მას"
+    }
+  ],
+  "timestamp": "2026-09-06T07:47:27.257809551Z",
+  "model": "glm-5.3"
+}

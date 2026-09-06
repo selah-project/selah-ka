@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 14:1",
+  "book": "zechariah",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "აჰა, დღე მოდის იაჰვესთვის, და გაიყოფა შენი ნადავალი შენს შუაგულში.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "יום",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "בא",
+      "gloss": "მოდის"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "იაჰვესთვის"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "და გაიყოფა"
+    },
+    {
+      "surface": "שללך",
+      "gloss": "შენი ნადავალი"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "შენს შუაგულში"
+    }
+  ],
+  "timestamp": "2026-09-06T09:28:45.960380248Z",
+  "model": "glm-5.3"
+}

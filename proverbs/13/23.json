@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 13:23",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "უხვი საზრდო ⟨არის⟩ გლახაკთა ხვნა-ღრმავში, მაგრამ ისპობა უსამართლობით.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "უხვი"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "საზრდო"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "ხვნა-ღრმავი"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "გლახაკთა"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "და ⟨არს⟩"
+    },
+    {
+      "surface": "נספה",
+      "gloss": "ისპობა"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "უ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "სამართალი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:19:46.206639778Z",
+  "model": "glm-5.3"
+}

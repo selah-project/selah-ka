@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 1:13",
+  "book": "song-of-songs",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "მურის კონა ⟨არის⟩ ჩემი საყვარელი ჩემთვის; ჩემს მკერდთა შორის იგი ღამეს გაათევს.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "კონა"
+    },
+    {
+      "surface": "המר",
+      "gloss": "მური"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ჩემი საყვარელი"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ჩემთვის"
+    },
+    {
+      "surface": "בין",
+      "gloss": "შორის"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ჩემს მკერდთა"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ღამეს გაათევს"
+    }
+  ],
+  "timestamp": "2026-09-06T14:43:49.687575458Z",
+  "model": "glm-5.3"
+}

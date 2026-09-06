@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 12:32",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "და მათ შემდეგ მიდიოდა ჰოშაია და იეჰუდას მთავართა ნახევარი.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "მიდიოდა"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "მათ შემდეგ"
+    },
+    {
+      "surface": "הושעיה",
+      "gloss": "ჰოშაია"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ნახევარი"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "მთავართა"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "იეჰუდა"
+    }
+  ],
+  "timestamp": "2026-09-06T11:24:41.400903361Z",
+  "model": "glm-5.3"
+}

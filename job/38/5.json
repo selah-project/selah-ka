@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 38:5",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 38,
+  "translation": "ვინ დადო მისი ზომები — უკეთ, იცოდე? ან ვინ გადაჭიმა მასზე საზომი ძაფი?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "დადო"
+    },
+    {
+      "surface": "ממדיה",
+      "gloss": "მისი ზომები"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "იცოდე"
+    },
+    {
+      "surface": "או",
+      "gloss": "ან"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "გადაჭიმა"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "მასზე"
+    },
+    {
+      "surface": "קו",
+      "gloss": "საზომი ძაფი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:45:41.557038654Z",
+  "model": "glm-5.3"
+}

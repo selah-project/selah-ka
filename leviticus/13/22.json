@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "ხოლო თუ გავრცელდება ⟨ის⟩ კანზე, დაუწმინდურებს მღვდელი ⟨את⟩ ⟨მას⟩: ნეგა ⟨არის⟩ ⟨ის⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ხოლო თუ"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "გავრცელდება"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "გავრცელდება"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "კანზე"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "დაუწმინდურებს"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "მღვდელი"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "მას (დაზა affected პირი)"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ნეგა"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ის⟩"
+    }
+  ],
+  "timestamp": "2026-09-06T15:40:08.734148094Z",
+  "model": "glm-5.3"
+}

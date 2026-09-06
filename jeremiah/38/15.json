@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 38:15",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 38,
+  "translation": "ვთქვა ირმიაჰუმ წიდკიაჰუს: თუ გიამბებ, განა არ მომკვდრებ? და თუ გირჩევ, არ მიისმენ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ვთქვა"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ირმიაჰუ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "წიდკიაჰუ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "გიამბებ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "განა"
+    },
+    {
+      "surface": "המת",
+      "gloss": "მოკვდენა"
+    },
+    {
+      "surface": "תמיתני",
+      "gloss": "მომკვდრებ"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "და თუ"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "გირჩევ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "მიისმენ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემკენ"
+    }
+  ],
+  "timestamp": "2026-09-06T13:26:32.197178466Z",
+  "model": "glm-5.3"
+}

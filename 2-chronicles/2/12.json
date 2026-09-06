@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 2:12",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და ახლა გამოვგზავნე კაცი ბრძენი, მცოდნე გაგებისა — ხურამს, ჩემს მამას.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "და ახლა"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "გამოვგზავნე"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ბრძენი"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "მცოდნე"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "გაგება"
+    },
+    {
+      "surface": "לחורם",
+      "gloss": "ხურამს"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "მამა"
+    }
+  ],
+  "timestamp": "2026-09-06T11:43:02.130794800Z",
+  "model": "glm-5.3"
+}

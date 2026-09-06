@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 40:27",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 40,
+  "translation": "და ააბოლა მასზე სურნელოვან საკმენდს, როგორც ბრძანა იაჰვემ ⟨את⟩ მოშეს.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "ააბოლა"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "მასზე"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "საკმენდი"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "სურნელოვანი"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "როგორც"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ბრძანა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მოშე"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    }
+  ],
+  "timestamp": "2026-09-06T04:34:32.794762396Z",
+  "model": "glm-5.3"
+}

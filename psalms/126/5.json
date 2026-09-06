@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 126,
+  "translation": "მთესველნი ცრემლით გალობით მოიმკიან.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "მთესველი"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "ცრემლი"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "გალობა"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "მოიმკავს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:10:33.192872423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 91,
+  "translation": "ხელებზე აგიწევენ შენ, რათა არ შეეჯახო ქვას შენი ფეხი.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "ხელები"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "აგიწევენ შენ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "რათა არ"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "შეეჯახო"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "ქვას"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "შენი ფეხი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:58:54.325534962Z",
+  "model": "glm-5.3"
+}

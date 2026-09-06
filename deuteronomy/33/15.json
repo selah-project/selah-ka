@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 33:15",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 33,
+  "translation": "და აღმოსავლეთის მთათა თავით, და უვადო ბორცვთა საუკეთესოთი.",
+  "tokens": [
+    {
+      "surface": "ומראש",
+      "gloss": "და თავი"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "მთათა"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "აღმოსავლეთი"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "და საუკეთესო"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ბორცვნი"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "უვადო"
+    }
+  ],
+  "timestamp": "2026-09-06T05:42:52.438032595Z",
+  "model": "glm-5.3"
+}

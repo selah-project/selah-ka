@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 33:23",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 33,
+  "translation": "დაიძრნენ კეჰელათადან და დაბანაკდნენ შაფერის მთაზე.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "დაიძრნენ"
+    },
+    {
+      "surface": "מקהלתה",
+      "gloss": "კეჰელათადან"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "დაბანაკდნენ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "მთაზე"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "შაფერის"
+    }
+  ],
+  "timestamp": "2026-09-06T05:20:24.002869249Z",
+  "model": "glm-5.3"
+}

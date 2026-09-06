@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 34:16",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 34,
+  "translation": "და ილაპარაკა იაჰვემ მოშესთან, სათქმელად:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "და ილაპარაკა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T05:21:07.914469464Z",
+  "model": "glm-5.3"
+}

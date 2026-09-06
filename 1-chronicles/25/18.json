@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 25:18",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "მეთერთმეტედ — აზარელი, მისი შვილები და მისი ძმები — თორმეტი.",
+  "tokens": [
+    {
+      "surface": "עשתי",
+      "gloss": "მეთერთმეტედ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(−მეტე)"
+    },
+    {
+      "surface": "עזראל",
+      "gloss": "აზარელი"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "მისი შვილები"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "და მისი ძმები"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "თორმეტი"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(−მეტი)"
+    }
+  ],
+  "timestamp": "2026-09-06T11:37:20.022002753Z",
+  "model": "glm-5.3"
+}

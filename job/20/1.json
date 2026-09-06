@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 20:1",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 20,
+  "translation": "და უპასუხა ცოფარმა ნაამათელმა და თქვა:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "და უპასუხა"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "ცოფარი"
+    },
+    {
+      "surface": "הנעמתי",
+      "gloss": "ნაამათელი"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:38:56.583607568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 5:8",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "მაგრამ მე — ვეძიებდი ელს და ელოჰიმს მივმართავდი ჩემს სიტყვას.",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "მაგრამ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "ვეძიებ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ელი"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და...-ს"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "მივმართავ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ჩემი სიტყვა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:32:31.933724506Z",
+  "model": "glm-5.3"
+}

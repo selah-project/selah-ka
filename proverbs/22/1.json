@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 22:1",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "არჩეული ⟨არის⟩ სახელი დიდ სიმდიდრეზე, ვერცხლზე და ოქროზე — კეთილი მადლი.",
+  "tokens": [
+    {
+      "surface": "נבחר",
+      "gloss": "არჩეული"
+    },
+    {
+      "surface": "שם",
+      "gloss": "სახელი"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "სიმდიდრეზე"
+    },
+    {
+      "surface": "רב",
+      "gloss": "დიდ"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "ვერცხლზე"
+    },
+    {
+      "surface": "ומזהב",
+      "gloss": "და ოქროზე"
+    },
+    {
+      "surface": "חן",
+      "gloss": "მადლი"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "კეთილი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:24:39.212175133Z",
+  "model": "glm-5.3"
+}

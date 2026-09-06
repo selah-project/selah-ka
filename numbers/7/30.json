@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 7:30",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "მეოთხე დღეს — ნაში რეუბენის ძეთა, ელიცური, ძე შედეურისა.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "მეოთხე"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ნაში"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ძეთა"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "რეუბენი"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "ელიცური"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "შედეური"
+    }
+  ],
+  "timestamp": "2026-09-06T05:02:18.084794792Z",
+  "model": "glm-5.3"
+}

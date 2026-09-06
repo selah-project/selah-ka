@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 8:27",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "ცის გამზადებისას იქ ვიყავი, როცა ამოკვედავდა წრეს უფსკრულის სახეზე.",
+  "tokens": [
+    {
+      "surface": "בהכינו",
+      "gloss": "გამზადებისას"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ცა"
+    },
+    {
+      "surface": "שם",
+      "gloss": "იქ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "בחוקו",
+      "gloss": "ამოკვედავისას"
+    },
+    {
+      "surface": "חוג",
+      "gloss": "წრე"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "פני",
+      "gloss": "სახე"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "უფსკრული"
+    }
+  ],
+  "timestamp": "2026-09-06T10:18:58.597282836Z",
+  "model": "glm-5.3"
+}

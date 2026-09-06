@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 34:1",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 34,
+  "translation": "და იაჰვემ თქვა მოშეს (მოსე), სათქმელად:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მოშესკენ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T05:21:38.040724808Z",
+  "model": "glm-5.3"
+}

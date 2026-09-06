@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-samuel 14:51",
+  "book": "1-samuel",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "და კიში ⟨იყო⟩ შაულის მამა, ხოლო ნერი ავნერის მამა ⟨იყო⟩ ავიელის ძე.",
+  "tokens": [
+    {
+      "surface": "וקיש",
+      "gloss": "და კიში"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "მამა"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "შაულის"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "და ნერი"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "მამა"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "ავნერის"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "ავიელის"
+    }
+  ],
+  "timestamp": "2026-09-06T06:22:03.373443594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 19:16",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "თუ აღდგეს ძალადობის მოწმე ერთ კაცზე, რომ პასუხისგებაში გამოიყვანოს ⟨ის⟩ სიცრუით.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "აღდგეს"
+    },
+    {
+      "surface": "עד",
+      "gloss": "მოწმე"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ძალადობის"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "კაცზე"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "პასუხისგებაში გამოსაყვანად"
+    },
+    {
+      "surface": "בו",
+      "gloss": "მის"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "სიცრუე"
+    }
+  ],
+  "timestamp": "2026-09-06T05:33:19.688826683Z",
+  "model": "glm-5.3"
+}

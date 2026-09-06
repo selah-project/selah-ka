@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 23:35",
+  "book": "2-samuel",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "ხეცრო ხარმელელი, პაარაი არბელი,",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "ხეცრო"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "ხარმელელი"
+    },
+    {
+      "surface": "פערי",
+      "gloss": "პაარაი"
+    },
+    {
+      "surface": "הארבי",
+      "gloss": "არბელი"
+    }
+  ],
+  "timestamp": "2026-09-06T19:39:08.227669035Z",
+  "model": "glm-5.3"
+}

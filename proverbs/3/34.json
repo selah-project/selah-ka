@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 3:34",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "თუ დამცინავებს — ⟨ის⟩ დასცინებს, ხოლო მდაბალებს მისცემს წყალობას.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "ללצים",
+      "gloss": "დამცინავებს"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ის⟩"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "დასცინებს"
+    },
+    {
+      "surface": "ולעניים",
+      "gloss": "ხოლო მდაბალებს"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "მისცემს"
+    },
+    {
+      "surface": "חן",
+      "gloss": "წყალობა"
+    }
+  ],
+  "timestamp": "2026-09-06T14:20:54.066610999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "და თქვა ახაზმა: არ ვითხოვ და არ გამოვცდი ⟨את⟩ იაჰვეს.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ახაზ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "ვითხოვ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "გამოვცდი"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იაჰვეს"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T13:07:19.435297719Z",
+  "model": "glm-5.3"
+}

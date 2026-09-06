@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 31:4",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 31,
+  "translation": "და გაგზავნა იააკოვმა და იხმო რახელი და ლეა ველზე, თავის ფარასთან.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "გაგზავნა"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "იააკოვმა"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "იხმო"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "რახელი"
+    },
+    {
+      "surface": "וללאה",
+      "gloss": "და ლეა"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ველზე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-სთან"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "თავის ფარა"
+    }
+  ],
+  "timestamp": "2026-09-06T03:57:29.035021447Z",
+  "model": "glm-5.3"
+}

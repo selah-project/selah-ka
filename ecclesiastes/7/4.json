@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ბრძენთა გული გლოვის სახლში ⟨არის⟩, და სულელთა გული — სიხარულის სახლში.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "გული"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ბრძენთა"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "სახლში"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "გლოვის"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "და გული"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "სულელთა"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "სახლში"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "სიხარულის"
+    }
+  ],
+  "timestamp": "2026-09-06T10:58:44.884489815Z",
+  "model": "glm-5.3"
+}

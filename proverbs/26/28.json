@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 26:28",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "სიცრუის ენა სძულს თავის ნაგლეხებს; და გლუვი პირი ქმნის დამხობას.",
+  "tokens": [
+    {
+      "surface": "לשון",
+      "gloss": "ენა"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "სიცრუის"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "სძულს"
+    },
+    {
+      "surface": "דכיו",
+      "gloss": "თავის-ნაგლეხებს"
+    },
+    {
+      "surface": "ופה",
+      "gloss": "და-პირი"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "გლუვი"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ქმნის"
+    },
+    {
+      "surface": "מדחה",
+      "gloss": "დამხობას"
+    }
+  ],
+  "timestamp": "2026-09-06T10:27:01.305271222Z",
+  "model": "glm-5.3"
+}

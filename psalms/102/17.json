@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 102:17",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 102,
+  "translation": "რადგან ააშენა იაჰვემ ციონი, გამოჩნდა თავის დიდებაში.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ააშენა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ციონი"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "გამოჩნდა"
+    },
+    {
+      "surface": "בכבודו",
+      "gloss": "თავის დიდებაში"
+    }
+  ],
+  "timestamp": "2026-09-06T14:13:51.457427782Z",
+  "model": "glm-5.3"
+}

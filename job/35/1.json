@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 35:1",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 35,
+  "translation": "და უპასუხა ელიჰუმ და თქვა:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "უპასუხა"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ელიჰუმ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "თქვა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:43:45.088870613Z",
+  "model": "glm-5.3"
+}

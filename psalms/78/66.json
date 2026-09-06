@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 78:66",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 78,
+  "translation": "და დაჰცემდა მტრებს ზურგში, საუკუნო სირცხვილი დაჰდო მათ.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "დაჰცემდა"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "მტრები მისი"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ზურგში"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "სირცხვილი"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "საუკუნო"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "დაჰდო"
+    },
+    {
+      "surface": "למו",
+      "gloss": "მათ"
+    }
+  ],
+  "timestamp": "2026-09-06T14:09:35.189466192Z",
+  "model": "glm-5.3"
+}

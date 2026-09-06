@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 33:43",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 33,
+  "translation": "და გაემგზავრნენ ფუნონიდან და დაბანაკდნენ ოვოთში.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "გაემგზავრნენ"
+    },
+    {
+      "surface": "מפונן",
+      "gloss": "ფუნონიდან"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "და დაბანაკდნენ"
+    },
+    {
+      "surface": "באבת",
+      "gloss": "ოვოთში"
+    }
+  ],
+  "timestamp": "2026-09-06T05:20:16.872323047Z",
+  "model": "glm-5.3"
+}

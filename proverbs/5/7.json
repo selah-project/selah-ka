@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 5:7",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "და ახლა, შვილებო, მისმინეთ ჩემი და ნუ განუშორდებით ჩემი პირის სიტყვებს.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "და ახლა"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "შვილებო"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "მისმინეთ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ჩემი"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და ნუ"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "განუშორდებით"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "სიტყვებს"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ჩემი პირის"
+    }
+  ],
+  "timestamp": "2026-09-06T10:16:12.100788369Z",
+  "model": "glm-5.3"
+}

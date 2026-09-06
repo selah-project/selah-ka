@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 27:23",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 27,
+  "translation": "დაწყევლილია მწოლი ⟨ეს⟩ თავის სიდებელთან, და იტყვის მთელი ხალხი: ამენ.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "დაწყევლილია"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "მწოლი"
+    },
+    {
+      "surface": "עם",
+      "gloss": "თანავე"
+    },
+    {
+      "surface": "חתנתו",
+      "gloss": "თავის სიდებელი"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "და იტყვის"
+    },
+    {
+      "surface": "כל",
+      "gloss": "მთელი"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ამენ"
+    }
+  ],
+  "timestamp": "2026-09-06T18:55:44.537015216Z",
+  "model": "glm-5.3"
+}

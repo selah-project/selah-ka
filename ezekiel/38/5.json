@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 38,
+  "translation": "პარასი, ქუში და ფუტი ⟨את⟩ მათთან — ყველა მათგან ფარით და მუზარადით.",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "პარასი"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ქუში"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "და ფუტი"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ მათთან",
+      "marks": "მათთან"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ყველა მათგან"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ფარი"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "და მუზარადი"
+    }
+  ],
+  "timestamp": "2026-09-06T08:56:04.036819815Z",
+  "model": "glm-5.3"
+}

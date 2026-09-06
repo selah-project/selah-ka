@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "გულით ჭკვიანი მიიღებს მცნებებს, ხოლო ბაგეთა უგუნური დაემხობა.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "ჭკვიანი"
+    },
+    {
+      "surface": "לב",
+      "gloss": "გული"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "მიიღებს"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "მცნებები"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "და უგუნური"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ბაგენი"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "დაემხობა"
+    }
+  ],
+  "timestamp": "2026-09-06T20:06:34.433775356Z",
+  "model": "glm-5.3"
+}

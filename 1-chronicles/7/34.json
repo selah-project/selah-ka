@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 7:34",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "და შომერის შვილები: ახი და როჰაგა და იეხუბა და არამი.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "და შვილები"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "შომერის"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ახი"
+    },
+    {
+      "surface": "ורוהגה",
+      "gloss": "და როჰაგა"
+    },
+    {
+      "surface": "יחבה",
+      "gloss": "და იეხუბა"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "და არამი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:29:33.642722310Z",
+  "model": "glm-5.3"
+}

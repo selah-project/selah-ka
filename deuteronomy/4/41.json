@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 4:41",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "მაშინ გამოჰყო მოშემ (მოსე) სამ ქალაქს იარდენის იქით, მზის აღმოსვლის მხარეს.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "მაშინ"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "გამოჰყო"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "სამ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ქალაქი"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "იქით"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "იარდენი"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "აღმოსავლეთით"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "მზე"
+    }
+  ],
+  "timestamp": "2026-09-06T05:24:54.750148143Z",
+  "model": "glm-5.3"
+}

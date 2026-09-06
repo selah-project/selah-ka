@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 22:7",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "არ ასვებ დაღლილს წყალს და მშიერს უარყოფ პურს.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "წყალი"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "დაღლილი"
+    },
+    {
+      "surface": "תשקה",
+      "gloss": "ასმევ"
+    },
+    {
+      "surface": "ומרעב",
+      "gloss": "და მშიერს"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "უკრავ \/ არ აძლევ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "პური"
+    }
+  ],
+  "timestamp": "2026-09-06T10:38:00.604231485Z",
+  "model": "glm-5.3"
+}

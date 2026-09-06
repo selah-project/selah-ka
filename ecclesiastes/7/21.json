@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ასევე ყველა სიტყვას, რომელსაც იტყვიან, არ მისცე შენი გული, რათა არ გაიგონო ⟨את⟩ შენი მონა, რომ წყევლის შენ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ასევე"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "იტყვიან"
+    },
+    {
+      "surface": "אל",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "მისცე"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "შენი გული"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რათა"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "გაიგონო"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "შენი მონა"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "შენი მონა"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "წყევლის შენ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:57:25.538737308Z",
+  "model": "glm-5.3"
+}

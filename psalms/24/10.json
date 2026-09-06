@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "ვინ ⟨არის⟩ ეს, დიდების მეფე? იაჰვე ცევაოთი — ის ⟨არის⟩ დიდების მეფე! სელა.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "დიდების"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ცევაოთი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "დიდების"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "სელა"
+    }
+  ],
+  "timestamp": "2026-09-06T09:37:45.255729327Z",
+  "model": "glm-5.3"
+}

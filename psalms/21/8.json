@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "რადგან მეფე ენდობა იაჰვეს და ელიონის ხესედით — ვერავინ შეარყევს.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ენდობა"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "და ხესედით"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ელიონი"
+    },
+    {
+      "surface": "בל",
+      "gloss": "არა"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "შეირყევა"
+    }
+  ],
+  "timestamp": "2026-09-06T09:37:03.654942565Z",
+  "model": "glm-5.3"
+}

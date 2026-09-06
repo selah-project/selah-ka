@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 20,
+  "translation": "არ უპასუხებ შენს მოყვრეს ⟨ის⟩ სიცრუის მოწმად.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "უპასუხებ"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "შენს მოყვრეს"
+    },
+    {
+      "surface": "עד",
+      "gloss": "მოწმად"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "სიცრუის"
+    }
+  ],
+  "timestamp": "2026-09-06T20:31:43.621376994Z",
+  "model": "glm-5.3"
+}

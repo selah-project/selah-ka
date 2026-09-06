@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 20:23",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 20,
+  "translation": "და თქვა იაჰვემ მოშეს (მოსე) და აჰარონს ჰორ მთაზე, ედომის ქვეყნის საზღვართან, სათქმელად:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და -ს"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "აჰარონი"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "მთაზე"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ჰორ მთა"
+    },
+    {
+      "surface": "על",
+      "gloss": "თან"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "საზღვარი"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ქვეყანა"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ედომის"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T17:54:54.208665153Z",
+  "model": "glm-5.3"
+}

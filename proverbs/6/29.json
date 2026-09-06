@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 6:29",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "ასე ⟨არის⟩ შემავალი მოყვრის ცოლთან: არ განთავისუფლდება — ყველა, ვინც შეეხება მას.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "შემავალი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ცოლი"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "მისი მოყვარული"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "განთავისუფლდება"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "შემხები"
+    },
+    {
+      "surface": "בה",
+      "gloss": "მას"
+    }
+  ],
+  "timestamp": "2026-09-06T10:18:28.041364924Z",
+  "model": "glm-5.3"
+}

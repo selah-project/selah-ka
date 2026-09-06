@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 1:54",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "მთავარი მაგდიელი, მთავარი ირამი. ესენი იყვნენ ⟨ედომის⟩ მთავრები.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "მთავარი"
+    },
+    {
+      "surface": "מגדיאל",
+      "gloss": "მაგდიელი"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "მთავარი"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "ირამი"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ესენი"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "მთავრები"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ედომი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:25:32.251313520Z",
+  "model": "glm-5.3"
+}

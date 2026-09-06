@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 75,
+  "translation": "ხოლო მე საუკუნოდ ვახსენებ, ვგალობ იააკოვის ელოჰიმს.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ხოლო მე"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ვახსენებ"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "საუკუნოდ"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ვგალობ"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ელოჰიმს"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "იააკოვის"
+    }
+  ],
+  "timestamp": "2026-09-06T09:52:48.477066220Z",
+  "model": "glm-5.3"
+}

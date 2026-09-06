@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 2:9",
+  "book": "ezra",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "ძაყაის ძენი — შვიდასი სამოცი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "ძაყაი"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "შვიდი"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "და სამოცი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:13:25.363542897Z",
+  "model": "glm-5.3"
+}

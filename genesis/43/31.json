@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 43:31",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 43,
+  "translation": "და დაიბანა სახე, და გამოვიდა, და შეიკავა თავი, და თქვა: დადეთ პური.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "დაიბანა"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "სახე"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "გამოვიდა"
+    },
+    {
+      "surface": "ויתאפק",
+      "gloss": "შეიკავა თავი"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "დადეთ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "პური"
+    }
+  ],
+  "timestamp": "2026-09-06T04:05:16.684114015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "lamentations 3:49",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "ჩემი თვალი დაიღვარა და არ დადუმდება შეჩერების არქონით.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ჩემი თვალი"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "დაიღვარა"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "დადუმდება"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "არქონით"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "შეჩერება"
+    }
+  ],
+  "timestamp": "2026-09-06T10:52:17.865912834Z",
+  "model": "glm-5.3"
+}

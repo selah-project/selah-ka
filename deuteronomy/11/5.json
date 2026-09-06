@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "და რაც არჩია თქვენ უდაბნოში, ვიდრე მოსვლა თქვენი ამ ⟨ადგილამდე⟩;",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "და რაც"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "არჩია"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "თქვენ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "უდაბნო"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ვიდრე"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "მოსვლა თქვენი"
+    },
+    {
+      "surface": "עד",
+      "gloss": "მდე"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ადგილი"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ეს"
+    }
+  ],
+  "timestamp": "2026-09-06T12:32:55.265310827Z",
+  "model": "glm-5.3"
+}

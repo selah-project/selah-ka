@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 4:35",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და იოელი, და იეჰუ, ძე იოშიბიაჰისი, ძე სერაიაჰისი, ძე ასიელისი",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "და იოელი"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "და იეჰუ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "יושביה",
+      "gloss": "იოშიბიაჰი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "სერაიაჰი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "עשיאל",
+      "gloss": "ასიელი"
+    }
+  ],
+  "timestamp": "2026-09-06T18:45:32.987822901Z",
+  "model": "glm-5.3"
+}

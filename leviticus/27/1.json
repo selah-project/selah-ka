@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 27:1",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 27,
+  "translation": "და ელაპარაკა იაჰვემ მოშეს (მოსე), ასე რომ ეთქვას:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "და ელაპარაკა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ასე რომ ეთქვას"
+    }
+  ],
+  "timestamp": "2026-09-06T04:57:55.937040570Z",
+  "model": "glm-5.3"
+}

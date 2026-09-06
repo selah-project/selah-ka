@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 26:2",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "ის ააშენა ⟨את⟩ ელოთი და დაუბრუნა ის იეჰუდას, მეფის მამა-პაპებთან დაწვნის შემდეგ.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ააშენა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ელოთი"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "ელოთი"
+    },
+    {
+      "surface": "וישיבה",
+      "gloss": "და დაუბრუნა"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "იეჰუდას"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "შემდეგ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "დაწვნა"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "עם",
+      "gloss": "თანა"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "მამა-პაპები"
+    }
+  ],
+  "timestamp": "2026-09-06T11:53:25.972307130Z",
+  "model": "glm-5.3"
+}

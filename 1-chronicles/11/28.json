@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 11:28",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "ირაი ძე იკეშისი, თეკოელი; აბიეზერი, ანათოთელი.",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "ირაი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "იკეში"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "თეკოელი"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "აბიეზერი"
+    },
+    {
+      "surface": "הענתותי",
+      "gloss": "ანათოთელი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:31:04.545040380Z",
+  "model": "glm-5.3"
+}

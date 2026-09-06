@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "job 9:35",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "ვიტყოდი და არ შევეშინებოდი მას, რადგან ასე არ ვარ ჩემთან.",
+  "tokens": [
+    {
+      "surface": "אדברה",
+      "gloss": "ვიტყოდი"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "איראנו",
+      "gloss": "შევეშინებოდი მას"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ჩემთან"
+    }
+  ],
+  "timestamp": "2026-09-06T10:33:31.455103115Z",
+  "model": "glm-5.3"
+}

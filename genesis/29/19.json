@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 29,
+  "translation": "და თქვა ლაბანმა: კარგია, მოგცემ ⟨את⟩ მას შენ, ვიდრე სხვა კაცს მისაცემად ⟨את⟩ მას; დარჩი ჩემთან.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ლაბანი"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "კარგი"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "მოგცემ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "მას"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "ვიდრე მიცემა"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "მას"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "კაცს"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "სხვა"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "დარჩი"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ჩემთან"
+    }
+  ],
+  "timestamp": "2026-09-06T03:56:10.521726421Z",
+  "model": "glm-5.3"
+}

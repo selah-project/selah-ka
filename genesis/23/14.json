@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "და უპასუხა ეფრონმა ⟨את⟩ აბრაჰამს ასე მას:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "უპასუხა"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "ეფრონი"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "აბრაჰამს"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "აბრაჰამი"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    }
+  ],
+  "timestamp": "2026-09-06T03:51:03.577340634Z",
+  "model": "glm-5.3"
+}

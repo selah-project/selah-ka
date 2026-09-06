@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "ტვირთი ⟨არის⟩ სიტყვა იაჰვესი იშრაელს, მალაქის ხელით.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ტვირთი"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს (მიმართ)"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ხელით"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "მალაქი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:29:10.734813113Z",
+  "model": "glm-5.3"
+}

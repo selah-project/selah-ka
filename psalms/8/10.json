@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "იაჰვე, ჩვენი ადონაი, როგორ დიად ⟨არის⟩ შენი სახელი მთელ ⟨-⟩ მიწაზე!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "ჩვენი ადონაი"
+    },
+    {
+      "surface": "מה",
+      "gloss": "როგორ"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "დიად"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "შენი სახელი"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "მთელ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    }
+  ],
+  "timestamp": "2026-09-06T13:56:04.725316067Z",
+  "model": "glm-5.3"
+}

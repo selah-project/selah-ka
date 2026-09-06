@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 9:13",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "სიბრიყულის დედაკაცი ხმაურობს; სიმარტივე ⟨არის⟩ იგი და არც იცის, რა.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "დედაკაცი"
+    },
+    {
+      "surface": "כסילות",
+      "gloss": "სიბრიყულის"
+    },
+    {
+      "surface": "המיה",
+      "gloss": "ხმაურობს"
+    },
+    {
+      "surface": "פתיות",
+      "gloss": "სიმარტივე"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "იცის"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    }
+  ],
+  "timestamp": "2026-09-06T16:28:58.795807654Z",
+  "model": "glm-5.3"
+}

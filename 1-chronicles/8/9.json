@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და გააჩინა მან ხოდეშმა, მისმა ცოლმა, ⟨את⟩ იოვავი და ⟨את⟩ ცივია და ⟨את⟩ მეშა და ⟨את⟩ მალქამი.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "გააჩინა"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ისგან"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ხოდეში"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "მისი ცოლი"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იოვავი"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "იოვავი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ცივיა"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "ცივია"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "მეშა"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "მეშა"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "მალქამი"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "მალქამი"
+    }
+  ],
+  "timestamp": "2026-09-06T20:05:35.451737406Z",
+  "model": "glm-5.3"
+}

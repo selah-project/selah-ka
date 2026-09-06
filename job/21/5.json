@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 21:5",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "მობრუნდით ჩემკენ და დაჰკვირვეთ, და დაადეთ ხელი პირს.",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "მობრუნდით"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემკენ"
+    },
+    {
+      "surface": "והשמו",
+      "gloss": "და დაჰკვირვეთ"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "და დაადეთ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ხელი"
+    },
+    {
+      "surface": "על",
+      "gloss": "პირს"
+    },
+    {
+      "surface": "פה",
+      "gloss": "პირი"
+    }
+  ],
+  "timestamp": "2026-09-06T14:37:12.291190659Z",
+  "model": "glm-5.3"
+}

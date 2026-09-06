@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 94,
+  "translation": "სანამდის, ბოროტნი, იაჰვე? სანამდის ბოროტნი ილხენ?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ვიდრე"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "როდის"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ბოროტნი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ვიდრე"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "როდის"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ბოროტნი"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "ილხენ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:00:05.349827172Z",
+  "model": "glm-5.3"
+}

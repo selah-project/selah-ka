@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "აჰ, ლამაზი ხარ, ჩემო რაიაჩემო; აჰ, ლამაზი ხარ; შენი თვალები მტრედები ⟨არიან⟩.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "აჰ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "ლამაზი"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "ჩემო რაია"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "აჰ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "ლამაზი"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "შენი თვალები"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "მტრედები"
+    }
+  ],
+  "timestamp": "2026-09-06T14:43:36.321716771Z",
+  "model": "glm-5.3"
+}

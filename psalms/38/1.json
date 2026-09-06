@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 38,
+  "translation": "მიზმორი დავითის (დავითისა), გასახსენებლად.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "მიზმორი"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "დავითის"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "გასახსენებლად"
+    }
+  ],
+  "timestamp": "2026-09-06T16:23:38.532341197Z",
+  "model": "glm-5.3"
+}

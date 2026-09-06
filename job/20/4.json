@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 20,
+  "translation": "განა ეს არ იცოდი უწივან, ადამის მიწაზე დადგენისას?",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "იცოდი"
+    },
+    {
+      "surface": "מני",
+      "gloss": "–დან"
+    },
+    {
+      "surface": "עד",
+      "gloss": "უწინიდან"
+    },
+    {
+      "surface": "מני",
+      "gloss": "–დან"
+    },
+    {
+      "surface": "שים",
+      "gloss": "დადგენა"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ადამი"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "მიწა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:38:56.584077917Z",
+  "model": "glm-5.3"
+}

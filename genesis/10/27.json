@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "და ⟨את⟩ ჰადორამი, და ⟨את⟩ უზალი, და ⟨את⟩ დიკლა.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ჰადორამი"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "ჰადორამი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "უზალი"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "უზალი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "დიკლა"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "დიკლა"
+    }
+  ],
+  "timestamp": "2026-09-06T03:45:36.602647926Z",
+  "model": "glm-5.3"
+}

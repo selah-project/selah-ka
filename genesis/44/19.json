@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 44,
+  "translation": "ჩემმა ბატონმა ჰკითხა ⟨את⟩ თავის მონებს: არის თუ არა თქვენ მამა თუ ძმა?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ჩემმა ბატონმა"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ჰკითხა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "თავის მონებს"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "თავის მონები"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სიტყვით: …"
+    },
+    {
+      "surface": "היש",
+      "gloss": "არის თუ არა"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "თქვენ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "მამა"
+    },
+    {
+      "surface": "או",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "אח",
+      "gloss": "ძმა"
+    }
+  ],
+  "timestamp": "2026-09-06T04:07:12.948222151Z",
+  "model": "glm-5.3"
+}

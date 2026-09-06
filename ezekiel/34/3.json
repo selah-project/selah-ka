@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 34,
+  "translation": "⟨את⟩ ქონს ჭამთ და ⟨את⟩ მატყლს იმოსავთ, ნაჯერს ჰკვლით — სამწყსოს კი არ მწყემსობთ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ქონი"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ქონი"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ჭამთ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "მატყლი"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "მატყლი"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "იმოსავთ"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "ნაჯერი"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "ჰკვლით"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "სამწყსო"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "მწყემსობთ"
+    }
+  ],
+  "timestamp": "2026-09-06T08:54:46.632635865Z",
+  "model": "glm-5.3"
+}

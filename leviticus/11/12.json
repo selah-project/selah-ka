@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "ყველა, რომელსაც არ აქვს ფარფლი და ქერცლი წყლებში, — სიბინძრე ის ⟨არის⟩ თქვენთვის.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელსაც"
+    },
+    {
+      "surface": "אין",
+      "gloss": "არ აქვს"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "ფარფლი"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "და ქერცლი"
+    },
+    {
+      "surface": "במים",
+      "gloss": "წყლებში"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "სიბინძრე"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "თქვენთვის"
+    }
+  ],
+  "timestamp": "2026-09-06T04:39:44.274185818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 33:24",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 33,
+  "translation": "და შეითქმეს მასზე მისნი მსახურები და მოკლეს ⟨ის⟩ თავის სახლში.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "შეითქმეს"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "მასზე"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "მისი მსახურები"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "მოკლეს"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "თავის სახლში"
+    }
+  ],
+  "timestamp": "2026-09-06T11:56:20.119627128Z",
+  "model": "glm-5.3"
+}

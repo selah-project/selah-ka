@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 14:26",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "ეს ⟨არის⟩ ზრახვა, ზრახული მთელ მიწაზე, და ეს ⟨არის⟩ ხელი, გაწვდილი ყველა ხალხზე.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "ზრახვა"
+    },
+    {
+      "surface": "היעוצה",
+      "gloss": "ზრახული"
+    },
+    {
+      "surface": "על",
+      "gloss": "... ზე"
+    },
+    {
+      "surface": "כל",
+      "gloss": "მთელი"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "და ეს"
+    },
+    {
+      "surface": "היד",
+      "gloss": "ხელი"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "გაწვდილი"
+    },
+    {
+      "surface": "על",
+      "gloss": "... ზე"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ხალხები"
+    }
+  ],
+  "timestamp": "2026-09-06T13:08:30.117687190Z",
+  "model": "glm-5.3"
+}

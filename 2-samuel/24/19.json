@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 24:19",
+  "book": "2-samuel",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "და ავიდა დავიდი გადის სიტყვისამებრ, როგორც ბრძანა იაჰვემ.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "და ავიდა"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "დავიდი"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "სიტყვისამებრ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "გადი"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "როგორც"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ბრძანა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T06:49:26.953716468Z",
+  "model": "glm-5.3"
+}

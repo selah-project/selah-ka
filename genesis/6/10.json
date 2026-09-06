@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "და შვა ნოახმა სამი ვაჟი — ⟨את⟩ შემს, ⟨את⟩ ხამს და ⟨את⟩ იაფეთს.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ნოახმა"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "სამი"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ვაჟი"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "შემს"
+    },
+    {
+      "surface": "שם",
+      "gloss": "შემი"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ხამს"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ხამი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "იაფეთს"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "იაფეთი"
+    }
+  ],
+  "timestamp": "2026-09-06T03:43:11.165045097Z",
+  "model": "glm-5.3"
+}

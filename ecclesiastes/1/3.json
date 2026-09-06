@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "რა ⟨არის⟩ მოგება ადამიანს ყველა თავისი შრომისაგან, რომლითაც შრომობს მზის ქვეშ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "მოგება"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ადამიანს"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "მისი შრომა"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "რომლითაც შრომობს"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ქვეშ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "მზე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:56:20.095063373Z",
+  "model": "glm-5.3"
+}

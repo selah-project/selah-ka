@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 28:10",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 28,
+  "translation": "ხედავ ახლა, რადგან იაჰვემ ამოირჩია შენ, რომ ააშენო სახლი საწმიდრად; გამაგრდი და აასრულე.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ხედავ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ახლა"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "ამოირჩია"
+    },
+    {
+      "surface": "בך",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ააშენო"
+    },
+    {
+      "surface": "בית",
+      "gloss": "სახლი"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "საწმიდრად"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "გამაგრდი"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "და აასრულე"
+    }
+  ],
+  "timestamp": "2026-09-06T11:40:32.847954881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 7:5",
+  "book": "ezra",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ძე ავიშუასი, ძე ფინხასისი, ძე ელეაზარისი, ძე აჰარონისი, მღვდლისი, თავისა.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "ავიშუა"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "ფინხასი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ელეაზარი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "აჰარონი"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "მღვდელი"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "თავი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:15:05.489736916Z",
+  "model": "glm-5.3"
+}

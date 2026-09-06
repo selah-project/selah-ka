@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "და არ ვისწავლე სიბრძნე და წმიდათა შემეცნებას ვიცნობ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "ვისწავლე"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "სიბრძნე"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "და შემეცნება"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "წმიდათა"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ვიცნობ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:28:48.831783496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 12:14",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "ირმეიაჰუ მეათე, მაქბანაი მეთერთმეტე.",
+  "tokens": [
+    {
+      "surface": "ירמיהו",
+      "gloss": "ირმეიაჰუ"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "მეათე"
+    },
+    {
+      "surface": "מכבני",
+      "gloss": "მაქბანაი"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "მეთერთმეტე"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-თერთმეტე"
+    }
+  ],
+  "timestamp": "2026-09-06T11:33:31.045270700Z",
+  "model": "glm-5.3"
+}

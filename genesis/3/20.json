@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "და დაარქვა ადამმა სახელი თავის ცოლს — ჰავა (ევა), რადგან ის ⟨არის⟩ დედა ყოველი ცოცხალისა.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "და დაარქვა"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ადამმა"
+    },
+    {
+      "surface": "שם",
+      "gloss": "სახელი"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "თავის ცოლს"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "ჰავა"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "אם",
+      "gloss": "დედა"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყოველი"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ცოცხალისა"
+    }
+  ],
+  "timestamp": "2026-09-06T03:42:45.674567932Z",
+  "model": "glm-5.3"
+}

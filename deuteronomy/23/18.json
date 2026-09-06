@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 23:18",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "არ იყოს კედეშა (კულტური მეძავი) იშრაელის ასულთაგან და არ იყოს კადეში იშრაელის ძეთაგან.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "იყოს"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "კედეშა"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "ასულთაგან"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "იყოს"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "კადეში"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ძეთაგან"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:38:49.967080937Z",
+  "model": "glm-5.3"
+}

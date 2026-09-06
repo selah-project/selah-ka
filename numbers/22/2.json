@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "და იხილა ბალაკმა, ციპორის ძემ, ⟨את⟩ ყველაფერი, რაც ქმნა იშრაელმა ემორელებს.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "იხილა"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ბალაკმა"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძემ"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ციპორის"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ყველაფერი"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველაფერი"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რაც"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ქმნა"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელმა"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "ემორელებს"
+    }
+  ],
+  "timestamp": "2026-09-06T05:13:30.896981017Z",
+  "model": "glm-5.3"
+}

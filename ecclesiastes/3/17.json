@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "ვთქვი მე ჩემს გულში: ⟨את⟩ მართალს და ⟨את⟩ ბოროტს განსაჯს ელოჰიმი, რადგან დრო ⟨არის⟩ ყოველი სურვილისთვის და ყოველ საქმეზე — იქ.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "ვთქვი"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "გულში"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მართალს"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "მართალი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ბოროტს"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ბოროტი"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "განსაჯს"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "עת",
+      "gloss": "დრო"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ყოველ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "სურვილი"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "და ზე"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყოველ"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "საქმე"
+    },
+    {
+      "surface": "שם",
+      "gloss": "იქ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:56:31.870916631Z",
+  "model": "glm-5.3"
+}

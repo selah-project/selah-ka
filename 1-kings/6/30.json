@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "და ⟨את⟩ სახლის იატაკი დაფარა ოქროთი — შიგნით და გარეთ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "სახლის იატაკი"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "იატაკი"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "სახლის"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "დაფარა"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ოქრო"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "შიგნით"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "და გარეთ"
+    }
+  ],
+  "timestamp": "2026-09-06T06:55:57.581018883Z",
+  "model": "glm-5.3"
+}

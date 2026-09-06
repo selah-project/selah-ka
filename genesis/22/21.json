@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "⟨את⟩ უცს, თავის პირმშოს, და ⟨את⟩ ბუზს, მის ძმას, და ⟨את⟩ ქემუელს, არამის მამას.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "უცს"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "უცი"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "თავის პირმშო"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ბუზს"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "ბუზი"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "მისი ძმა"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ქემუელს"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "ქემუელი"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "მამა"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "არამი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:03:28.480735492Z",
+  "model": "glm-5.3"
+}

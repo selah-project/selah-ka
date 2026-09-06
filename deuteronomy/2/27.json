@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 2:27",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "გადავალ შენს ქვეყანაში, გზით გზას წავალ, არა გადავიხრებ მარჯვნივ და მარცხნივ.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "გადავალ"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "შენს ქვეყანაში"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "გზით"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "გზას"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "წავალ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "გადავიხრებ"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "მარჯვნივ"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "და მარცხნივ"
+    }
+  ],
+  "timestamp": "2026-09-06T05:22:58.541404001Z",
+  "model": "glm-5.3"
+}

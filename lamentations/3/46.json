@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "lamentations 3:46",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "გახსნეს ჩვენზე პირი ყველა ჩვენმა მტერმა.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "გახსნეს"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ჩვენზე"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "პირი"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "ჩვენი მტერი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:52:31.668565787Z",
+  "model": "glm-5.3"
+}

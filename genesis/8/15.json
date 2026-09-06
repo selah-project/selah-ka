@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და იტყო ელოჰიმმა ნოახს სათქმელად:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "და იტყო"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ნოახი"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T03:44:06.388631083Z",
+  "model": "glm-5.3"
+}

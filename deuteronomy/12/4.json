@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "ასე არ იქცევით იაჰვესთვის, თქვენი ელოჰიმისთვის.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "იქცევით"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "იაჰვესთვის"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "თქვენი ელოჰიმისთვის"
+    }
+  ],
+  "timestamp": "2026-09-06T05:31:41.796758149Z",
+  "model": "glm-5.3"
+}

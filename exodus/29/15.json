@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 29,
+  "translation": "და ⟨את⟩ ერთ კრავს აიღებ, და დაადებენ აჰარონი და ძენი მისნი ⟨את⟩ ხელებს თავზე კრავისა.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "კრავი"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "კრავი"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "აიღებ"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "დაადებენ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "აჰარონი"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ხელები"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ხელები"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "თავი"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "კრავი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:27:22.815963679Z",
+  "model": "glm-5.3"
+}

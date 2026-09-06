@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 60,
+  "translation": "მოგვეცი ჩვენ შემწეობა მეტოქისგან, რადგან ამაო ⟨არის⟩ ადამიანის ხსნა.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "მოგვეცი"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ჩვენ"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "შემწეობა"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "მეტოქე"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "და ამაო"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "ხსნა"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ადამიანი"
+    }
+  ],
+  "timestamp": "2026-09-06T14:05:47.542317107Z",
+  "model": "glm-5.3"
+}

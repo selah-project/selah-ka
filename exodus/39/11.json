@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 39:11",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 39,
+  "translation": "და მეორე რიგი: ზურმუხტი, საფირი და ალმასი.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "და რიგი"
+    },
+    {
+      "surface": "השני",
+      "gloss": "მეორე"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "ზურმუხტი"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "საფირი"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "და ალმასი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:18:13.772289489Z",
+  "model": "glm-5.3"
+}

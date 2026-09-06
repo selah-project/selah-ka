@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 29:1",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 29,
+  "translation": "მეათე წელს, მეათე თვეში, თვის მეთორმეტე დღეს იყო იაჰვეს სიტყვა ჩემდამო სათქმელად.",
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "წელს"
+    },
+    {
+      "surface": "העשירית",
+      "gloss": "მეათე"
+    },
+    {
+      "surface": "בעשרי",
+      "gloss": "მეათე"
+    },
+    {
+      "surface": "בשנים",
+      "gloss": "ორი"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ათი"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "თვე"
+    },
+    {
+      "surface": "היה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემდამო"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T08:51:20.256995457Z",
+  "model": "glm-5.3"
+}

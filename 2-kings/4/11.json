@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 4:11",
+  "book": "2-kings",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და მოხდა ერთ დღეს, და მოვიდა იქ და შევიდა ზედაოთახში და დაწვა იქ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "და მოხდა"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ერთ დღეს"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "და მოვიდა"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "იქ"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "და შევიდა"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ში"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "ზედაოთახში"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "და დაწვა"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "იქ"
+    }
+  ],
+  "timestamp": "2026-09-06T07:12:41.154772735Z",
+  "model": "glm-5.3"
+}

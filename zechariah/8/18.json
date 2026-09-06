@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "zechariah 8:18",
+  "book": "zechariah",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და იყო იაჰვე ცევაოთის სიტყვა ჩემდამი, სათქმელად:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "და იყო"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ცევაოთი"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემდამი"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T09:25:46.603513962Z",
+  "model": "glm-5.3"
+}

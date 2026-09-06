@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და ⟨את⟩ იებუსელი, და ⟨את⟩ ემორელი, და ⟨את⟩ გირგაშელი.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "იებუსელი"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "იებუსელი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ემორელი"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ემორელი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "გირგაშელი"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "გირგაშელი"
+    }
+  ],
+  "timestamp": "2026-09-06T18:45:32.897878310Z",
+  "model": "glm-5.3"
+}

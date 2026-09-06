@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 14:10",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "გული იცის თავისი ნეფეშის სიმწარეს, და მის სიხარულში უცხო არ შეერევა.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "გული"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "იცის"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "სიმწარე"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "მისი ნეფეში"
+    },
+    {
+      "surface": "ובשמחתו",
+      "gloss": "და მის სიხარულში"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יתערב",
+      "gloss": "შეერევა"
+    },
+    {
+      "surface": "זר",
+      "gloss": "უცხო"
+    }
+  ],
+  "timestamp": "2026-09-06T10:19:44.648261774Z",
+  "model": "glm-5.3"
+}

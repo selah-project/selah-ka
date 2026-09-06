@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "სიმართლის გზაზე ვაბიჯებ, სამართლის ბილიკთა შუაგულში.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "გზაზე"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "სიმართლის"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "ვაბიჯებ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "შუაგულში"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "ბილიკთა"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "სამართლის"
+    }
+  ],
+  "timestamp": "2026-09-06T19:16:12.728319325Z",
+  "model": "glm-5.3"
+}

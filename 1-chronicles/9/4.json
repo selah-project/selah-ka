@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 9:4",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "უთაი, ამიჰუდის ძე, ომრის ძე, იმრის ძე, ბანის ძე, ფერეცის ძეთაგან, იეჰუდას ძისა.",
+  "tokens": [
+    {
+      "surface": "עותי",
+      "gloss": "უთაი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "ამიჰუდის"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "ომრის"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "იმრის"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ბანის"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძეთა"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ფერეცის"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "იეჰუდას"
+    }
+  ],
+  "timestamp": "2026-09-06T11:31:46.437265635Z",
+  "model": "glm-5.3"
+}

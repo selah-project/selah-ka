@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და გაიგონა იაჰვემ ⟨את⟩ ხმა თქვენი სიტყვებისა და გარისხდა და დაიფიცა და თქვა:",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "და გაიგონა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ხმა"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ხმა"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "თქვენი სიტყვებისა"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "და გარისხდა"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "და დაიფიცა"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "და თქვა"
+    }
+  ],
+  "timestamp": "2026-09-06T05:22:54.427695099Z",
+  "model": "glm-5.3"
+}

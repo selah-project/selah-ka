@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 31:26",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 31,
+  "translation": "ამაზე გავიღვიძე და ვიხილე, და ჩემი ძილი ⟨იყო⟩ ჩემთვის ტკბილი.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ამაზე"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ამაზე"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "გავიღვიძე"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "და ვიხილე"
+    },
+    {
+      "surface": "ושנתי",
+      "gloss": "და ჩემი ძილი"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "ტკბილი"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ჩემთვის"
+    }
+  ],
+  "timestamp": "2026-09-06T08:16:56.464548644Z",
+  "model": "glm-5.3"
+}

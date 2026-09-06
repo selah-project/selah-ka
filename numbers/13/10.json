@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 13:10",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "ზევულუნის ტომისთვის ⟨არის⟩ გადიელი, სოდის ძე.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ტომისთვის"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ზევულუნი"
+    },
+    {
+      "surface": "גדיאל",
+      "gloss": "გადიელი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "סודי",
+      "gloss": "სოდი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:25:56.897166134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "როცა ასესხებ შენს მოყვრისთვის რაიმე სესხს, არ შეხვიდე მის სახლში მისი გირაოს ასაღებად.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "როცა"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "ასესხებ"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "შენს მოყვრისთვის"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "სესხი"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "რაიმე"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "შეხვიდე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ში"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "მის სახლში"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "გირაოს ასაღებად"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "მისი გირაო"
+    }
+  ],
+  "timestamp": "2026-09-06T05:38:06.945394366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 4:17",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "რადგან ჭამენ ⟨ისინი⟩ სიბოროტის პურს და ძალადობის ღვინოს სვამენ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "ჭამენ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "პური"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "სიბოროტის"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "და ღვინო"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "ძალადობის"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "სვამენ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:16:41.766431068Z",
+  "model": "glm-5.3"
+}

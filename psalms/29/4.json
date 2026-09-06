@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 29,
+  "translation": "იაჰვეს ხმა ⟨არის⟩ ძალით; იაჰვეს ხმა ⟨არის⟩ ბრწყინვალებით.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ხმა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "ძალით"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ხმა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "ბრწყინვალებით"
+    }
+  ],
+  "timestamp": "2026-09-06T09:38:50.088737938Z",
+  "model": "glm-5.3"
+}

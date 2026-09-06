@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და იყო საღამო, და იყო დილა — დღე მეხუთე.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "და იყო"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "საღამო"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "და იყო"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "დილა"
+    },
+    {
+      "surface": "יום",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "მეხუთე"
+    }
+  ],
+  "timestamp": "2026-09-06T03:41:26.384369519Z",
+  "model": "glm-5.3"
+}

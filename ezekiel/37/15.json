@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 37:15",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 37,
+  "translation": "და მოხდა იაჰვეს სიტყვა ჩემდამი სათქმელად:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "მოხდა"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემდამი"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T08:57:15.563449586Z",
+  "model": "glm-5.3"
+}

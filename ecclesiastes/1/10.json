@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "არის სიტყვა, რომ ითქმის: აჰა, ეს ახალია? უკვე იყო საუკუნეთა მანძილზე, რომელიც იყო ჩვენს წინ.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "არის"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "რომ ითქმის"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ახალი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "უკვე"
+    },
+    {
+      "surface": "היה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "საუკუნეთა მანძილზე"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "היה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "ჩვენს წინ"
+    }
+  ],
+  "timestamp": "2026-09-06T14:45:51.648425082Z",
+  "model": "glm-5.3"
+}

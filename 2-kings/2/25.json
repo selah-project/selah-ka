@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და წავიდა იქიდან მთა კარმელზე, და იქიდან დაბრუნდა შომრონს.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "და წავიდა"
+    },
+    {
+      "surface": "משם",
+      "gloss": "იქიდან"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "הר",
+      "gloss": "მთა"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "კარმელი"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "და იქიდან"
+    },
+    {
+      "surface": "שב",
+      "gloss": "დაბრუნდა"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "შომრონი"
+    }
+  ],
+  "timestamp": "2026-09-06T07:09:44.434416339Z",
+  "model": "glm-5.3"
+}

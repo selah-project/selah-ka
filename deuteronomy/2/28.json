@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 2:28",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "საჭმელს ვერცხლით მიყიდე და ვჭამ, და წყალს ვერცხლით მომცე და დავლიე; მხოლოდ გადავალ ფეხით.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "საჭმელი"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ვერცხლით"
+    },
+    {
+      "surface": "תשברני",
+      "gloss": "მიყიდე"
+    },
+    {
+      "surface": "ואכלתי",
+      "gloss": "და ვჭამ"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "და წყალი"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ვერცხლით"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "მომცე"
+    },
+    {
+      "surface": "לי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "და დავლიე"
+    },
+    {
+      "surface": "רק",
+      "gloss": "მხოლოდ"
+    },
+    {
+      "surface": "אעברה",
+      "gloss": "გადავალ"
+    },
+    {
+      "surface": "ברגלי",
+      "gloss": "ფეხით"
+    }
+  ],
+  "timestamp": "2026-09-06T05:22:58.541542228Z",
+  "model": "glm-5.3"
+}

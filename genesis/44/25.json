@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 44,
+  "translation": "და თქვა ჩვენმა მამამ: დაბრუნდით, იყიდეთ ჩვენთვის ცოტი საჭმელი.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ჩვენი მამა"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "დაბრუნდით"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "იყიდეთ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ჩვენთვის"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ცოტი"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "საჭმელი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:08:16.233010886Z",
+  "model": "glm-5.3"
+}

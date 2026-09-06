@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 13:5",
+  "book": "zechariah",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "და იტყვის: „ნავი არა ვარ მე; მიწის მომქმედი კაცი ვარ მე, რადგან ადამმა შემიძინა ჩემი ყრმობიდან.“",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "ნავი"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "მომქმედი"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ადამი"
+    },
+    {
+      "surface": "הקנני",
+      "gloss": "შემიძინა"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "ჩემი ყრმობიდან"
+    }
+  ],
+  "timestamp": "2026-09-06T13:52:27.123772902Z",
+  "model": "glm-5.3"
+}

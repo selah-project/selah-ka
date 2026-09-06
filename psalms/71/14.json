@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 71,
+  "translation": "ხოლო მე მუდმივად ვიმედობ და ვამატებ ყოველსა შენს დიდებას.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ხოლო მე"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "მუდმივად"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "ვიმედობ"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "ვამატებ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზედ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყოველი"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "შენი დიდება"
+    }
+  ],
+  "timestamp": "2026-09-06T09:51:27.081906950Z",
+  "model": "glm-5.3"
+}

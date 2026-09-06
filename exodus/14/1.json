@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 14:1",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "და უთხრა იაჰვემ მოშეს (მოსეს) სათქმელად:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "და ილაპარაკა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T04:18:51.087708858Z",
+  "model": "glm-5.3"
+}

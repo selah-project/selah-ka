@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "და უპასუხეს ხეთის ძეებმა ⟨את⟩ აბრაჰამს, მას ეუბნნენ:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "უპასუხეს"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძეებმა"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ხეთის"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "აბრაჰამს"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "აბრაჰამს"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ეუბნნენ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    }
+  ],
+  "timestamp": "2026-09-06T03:51:43.262651461Z",
+  "model": "glm-5.3"
+}

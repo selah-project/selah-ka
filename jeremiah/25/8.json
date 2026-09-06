@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 25:8",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "ამიტომ ასე თქვა იაჰვემ ცევაოთმა: იმიტომ, რომ არ მოისმინეთ ⟨את⟩ ჩემი სიტყვები —",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ამიტომ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ცევაოთი"
+    },
+    {
+      "surface": "יען",
+      "gloss": "იმიტომ, რომ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "მოისმინეთ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ჩემი სიტყვები"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ჩემი სიტყვები"
+    }
+  ],
+  "timestamp": "2026-09-06T08:13:22.026409822Z",
+  "model": "glm-5.3"
+}

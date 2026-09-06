@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "ან თუ მოიქცევა ცოცხალი ხორცი და გარდაიქმნება თეთრად, მივა ⟨ის⟩ მღვდელთან.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ან"
+    },
+    {
+      "surface": "כי",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "მოიქცევა"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ხორცი"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ცოცხალი"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "და გარდაიქმნება"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "თეთრად"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "და მივა"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-თან"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "მღვდელი"
+    }
+  ],
+  "timestamp": "2026-09-06T16:48:17.668424651Z",
+  "model": "glm-5.3"
+}

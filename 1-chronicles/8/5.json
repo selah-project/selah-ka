@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 8:5",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და გერა, და შეფუფანი და ჰურამი.",
+  "tokens": [
+    {
+      "surface": "וגרא",
+      "gloss": "გერა"
+    },
+    {
+      "surface": "ושפופן",
+      "gloss": "შეფუფანი"
+    },
+    {
+      "surface": "וחורם",
+      "gloss": "ჰურამი"
+    }
+  ],
+  "timestamp": "2026-09-06T16:39:03.499816915Z",
+  "model": "glm-5.3"
+}

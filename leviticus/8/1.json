@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 8:1",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და ელაპარაკა იაჰვემ მოშეს (მოსეს), სათქმელად:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "და ელაპარაკა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-სკენ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T04:38:42.223988113Z",
+  "model": "glm-5.3"
+}

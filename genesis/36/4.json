@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 36,
+  "translation": "და გაუჩინა ადამ ესავს ⟨את⟩ ელიფაზი, და ბოსმათმა გაუჩინა ⟨את⟩ რეუელი.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "და გაუჩინა"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "ადა"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "ესავს"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ელიფაზი"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ელიფაზი"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "და ბოსმათმა"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "გაუჩინა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "რეუელი"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "რეუელი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:00:37.516570690Z",
+  "model": "glm-5.3"
+}

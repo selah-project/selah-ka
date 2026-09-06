@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 7:17",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "აზგადის შვილები — ორი ათასსა და ასოც ოცდაორი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "აზგადი"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ორი ათასი"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "სამი"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ოცი"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ორი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:21:33.197169033Z",
+  "model": "glm-5.3"
+}

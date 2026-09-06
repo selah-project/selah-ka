@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 28,
+  "translation": "კურთხეული ⟨ხარ⟩ შენ ქალაქში და კურთხეული ⟨ხარ⟩ შენ მინდორში.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "კურთხეული"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ქალაქში"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "და კურთხეული"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "მინდორში"
+    }
+  ],
+  "timestamp": "2026-09-06T12:34:29.069396563Z",
+  "model": "glm-5.3"
+}

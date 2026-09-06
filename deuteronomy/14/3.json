@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "არ შეჭამ არცერთ საძაგელს.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "შეჭამ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "არცერთ"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "საძაგელი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:30:38.070545394Z",
+  "model": "glm-5.3"
+}

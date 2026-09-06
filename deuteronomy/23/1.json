@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "არ შეირთოს კაცმა ⟨את⟩ მამამისის ცოლი და არ გახსნას მამამისის ბალი.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "შეირთოს"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მამამისის ცოლი"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ცოლი"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "მამამისი"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "გახსნის"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ბალი"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "მამამისი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:38:50.311702347Z",
+  "model": "glm-5.3"
+}

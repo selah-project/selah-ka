@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 33:10",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 33,
+  "translation": "და ელაპარაკა იაჰვე მენაშეს და მის ხალხს, და არ მიაქციეს ყური.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ელაპარაკა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "მენაშე"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და -ს"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "მისი ხალხი"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "მიაქციეს ყური"
+    }
+  ],
+  "timestamp": "2026-09-06T11:56:25.092880827Z",
+  "model": "glm-5.3"
+}

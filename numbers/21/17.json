@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "მაშინ იმღერა იშრაელმა ⟨את⟩ ეს სიმღერა: ამოდი, ჭა, უმღერე მას.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "მაშინ"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "იმღერა"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "სიმღერა"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "სიმღერა"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ამოდი"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ჭა"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "უმღერე"
+    },
+    {
+      "surface": "לה",
+      "gloss": "მას"
+    }
+  ],
+  "timestamp": "2026-09-06T05:11:49.828253857Z",
+  "model": "glm-5.3"
+}

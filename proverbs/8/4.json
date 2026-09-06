@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "თქვენთან, მამაკაცებო, ვუწოდებ; და ჩემი ხმა ⟨არის⟩ ადამის შვილებისკენ.",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "თქვენთან"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "მამაკაცებო"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ვუწოდებ"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "და ჩემი ხმა"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ადამი"
+    }
+  ],
+  "timestamp": "2026-09-06T17:03:17.999769946Z",
+  "model": "glm-5.3"
+}

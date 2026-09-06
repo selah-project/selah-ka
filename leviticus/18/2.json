@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "იტყვი იშრაელის შვილებს და უთხრამდე მათ: მე ⟨ვარ⟩ იაჰვე, თქვენი ელოჰიმი.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "იტყვი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "და უთხრამდე"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "მათ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "თქვენი ელოჰიმი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:22:15.622570192Z",
+  "model": "glm-5.3"
+}

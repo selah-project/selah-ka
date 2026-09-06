@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 8:18",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და ავიღე ⟨את⟩ ლევიანები ყოველი პირმშოს ნაცვლად იშრაელის ძეთა შორის.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "და ავიღე"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ლევიანები"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ლევიანები"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ნაცვლად"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყოველი"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "პირმშოს"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "ძეთა"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელის"
+    }
+  ],
+  "timestamp": "2026-09-06T05:05:59.869084569Z",
+  "model": "glm-5.3"
+}

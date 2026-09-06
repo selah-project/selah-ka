@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 30:24",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "და კასია — ხუთასი, საწმიდრის შეკლით, და ზეითუნის ზეთი — ერთი ჰინი.",
+  "tokens": [
+    {
+      "surface": "וקדה",
+      "gloss": "და კასია"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ხუთ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "შეკლით"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "საწმიდრის"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "და ზეთი"
+    },
+    {
+      "surface": "זית",
+      "gloss": "ზეითუნის"
+    },
+    {
+      "surface": "הין",
+      "gloss": "ჰინი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:26:16.300352594Z",
+  "model": "glm-5.3"
+}

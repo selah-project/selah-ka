@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "genesis 31:45",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 31,
+  "translation": "და აიღო იააკოვმა ქვა და აღმართა ⟨ის⟩ მაცევად.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "აიღო"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "იააკოვი"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ქვა"
+    },
+    {
+      "surface": "וירימה",
+      "gloss": "აღმართა"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "მაცევა"
+    }
+  ],
+  "timestamp": "2026-09-06T03:58:36.771635827Z",
+  "model": "glm-5.3"
+}

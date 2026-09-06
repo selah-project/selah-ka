@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 52:5",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 52,
+  "translation": "და მოხდა, რომ აღმოჩნდა ქალაქი ალყაში ვიდრე მეთერთმეტე წლამდე ციდკიაჰუ მეფისა.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "შევიდა"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ქალაქი"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "ალყაში"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ვიდრე"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "თერთმეტ-"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-მეტე"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელი"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ციდკიაჰუ"
+    }
+  ],
+  "timestamp": "2026-09-06T08:32:04.673498889Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "რადგან იცნობს იაჰვე მართლების გზას, ხოლო ბოროტთა გზა დაიღუპება.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "იცნობს"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "გზა"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "მართლების"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ხოლო გზა"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ბოროტთა"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "დაიღუპება"
+    }
+  ],
+  "timestamp": "2026-09-06T13:56:45.313864552Z",
+  "model": "glm-5.3"
+}

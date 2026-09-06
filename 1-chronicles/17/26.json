@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 17:26",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 17,
+  "translation": "და ახლა, იაჰვე, შენ მხოლოდ ⟨ხარ⟩ ელოჰიმი, და დაიქაპირე შენს მონას ეს საკეთილო.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "და ახლა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "და იქაპირა"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზედა"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "შენი მონა"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "საკეთილო"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ეს"
+    }
+  ],
+  "timestamp": "2026-09-06T11:36:04.699582165Z",
+  "model": "glm-5.3"
+}

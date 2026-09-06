@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 33:26",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 33,
+  "translation": "დაიძრნენ მაკჰელოთიდან და დაბანაკდნენ თახათში.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "დაიძრნენ"
+    },
+    {
+      "surface": "ממקהלת",
+      "gloss": "მაკჰელოთი"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "დაბანაკდნენ"
+    },
+    {
+      "surface": "בתחת",
+      "gloss": "თახათში"
+    }
+  ],
+  "timestamp": "2026-09-06T05:20:15.272300782Z",
+  "model": "glm-5.3"
+}

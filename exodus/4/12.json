@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და ახლა წადი, და მე ვიქნები შენს პირთან და გასწავლი შენ, თუ რა იტყვი.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "და ახლა"
+    },
+    {
+      "surface": "לך",
+      "gloss": "წადი"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "და მე"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ვიქნები"
+    },
+    {
+      "surface": "עם",
+      "gloss": "თან"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "შენი პირი"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "და გასწავლი შენ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "თუ რა"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "იტყვი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:13:54.275708589Z",
+  "model": "glm-5.3"
+}

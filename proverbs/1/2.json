@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 1:2",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "ცოდნისთვის ხაქმაჰისა და მუსარის, გასაგებად სიტყვებისა ბინაჰისა,",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "ცოდნა"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ხაქმაჰი"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "და მუსარი"
+    },
+    {
+      "surface": "להבין",
+      "gloss": "გაგება"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "სიტყვები"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ბინაჰი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:15:12.869845419Z",
+  "model": "glm-5.3"
+}

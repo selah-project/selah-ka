@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 9:15",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "და შევბრუნდი და ჩავედი მთიდან, ხოლო მთა იწვოდა ცეცხლით, და ბრითის ორი ფილა ⟨იყო⟩ ჩემს ორ ხელზე.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "და შევბრუნდი"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "და ჩავედი"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-იდან"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "მთა"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "ხოლო მთა"
+    },
+    {
+      "surface": "בער",
+      "gloss": "იწვოდა"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ცეცხლით"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "და ორი"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "ფილა"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ბრითის"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ორ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ჩემი ხელი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:29:03.540031957Z",
+  "model": "glm-5.3"
+}

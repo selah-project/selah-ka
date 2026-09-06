@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "იაჰვეს ⟨არის⟩ ხსნა; შენს ხალხზე ⟨არის⟩ შენი კურთხევა. სელა.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "ხსნა"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "შენი ხალხი"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "შენი კურთხევა"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "სელა"
+    }
+  ],
+  "timestamp": "2026-09-06T13:54:47.529385371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 140,
+  "translation": "გუნდის მოძღვრისთვის, ფსალმუნი დავითისა.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "გუნდის მოძღვარს"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ფსალმუნი"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "დავითის"
+    }
+  ],
+  "timestamp": "2026-09-06T14:19:24.721300368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 18:14",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "ყოველი ხერემი იშრაელში შენი იქნება.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ყოველი"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ხერემი"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "იშრაელში"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენთვის"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "იქნება"
+    }
+  ],
+  "timestamp": "2026-09-06T05:10:46.849398103Z",
+  "model": "glm-5.3"
+}

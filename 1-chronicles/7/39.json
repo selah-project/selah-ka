@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 7:39",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "და ულას ძენი: არახი და ხანიელი და რიცია.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "და ძენი"
+    },
+    {
+      "surface": "עלא",
+      "gloss": "ულა"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "არახი"
+    },
+    {
+      "surface": "וחניאל",
+      "gloss": "და ხანიელი"
+    },
+    {
+      "surface": "ורציא",
+      "gloss": "და რიცია"
+    }
+  ],
+  "timestamp": "2026-09-06T11:29:53.173494774Z",
+  "model": "glm-5.3"
+}

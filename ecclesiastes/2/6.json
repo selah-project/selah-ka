@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "გავაკეთე ჩემთვის წყლის აუზები, მათგან დასარწყავად ტყე ⟨მზარდი⟩ ხეებისა.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "გავაკეთე"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ჩემთვის"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "აუზები"
+    },
+    {
+      "surface": "מים",
+      "gloss": "წყალი"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "დასარწყავად"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "მათგან"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ტყე"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "მზარდი"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "ხეები"
+    }
+  ],
+  "timestamp": "2026-09-06T10:56:50.511757289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 81,
+  "translation": "ასწიეთ საგალობელი, ამოიღეთ დაფი, საყვარელი ქნარი ნაველის თანად.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "ასწიეთ"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "საგალობელი"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "ამოიღეთ"
+    },
+    {
+      "surface": "תף",
+      "gloss": "დაფი"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "ქნარი"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "საყვარელი"
+    },
+    {
+      "surface": "עם",
+      "gloss": "თანად"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ნაველი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:55:50.720200756Z",
+  "model": "glm-5.3"
+}

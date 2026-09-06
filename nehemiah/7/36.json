@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 7:36",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "შვილნი იერიხოსა — სამას ორმოცდახუთი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილნი"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "იერიხო"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "სამი"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ორმოცი"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ხუთი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:21:34.524426615Z",
+  "model": "glm-5.3"
+}

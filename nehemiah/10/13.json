@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 10:13",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "ზაკური (ზაქური), შერევიაჰი, შევანიაჰი,",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "ზაკური (ზაქური)"
+    },
+    {
+      "surface": "שרביה",
+      "gloss": "შერევიაჰი"
+    },
+    {
+      "surface": "שבניה",
+      "gloss": "შევანიაჰი"
+    }
+  ],
+  "timestamp": "2026-09-06T15:03:45.565591085Z",
+  "model": "glm-5.3"
+}

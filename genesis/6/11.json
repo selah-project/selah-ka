@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "და გაფუჭდა მიწა ელოჰიმის წინაშე, და აღივსო მიწა ძალადობით.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "გაფუჭდა"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "წინაშე"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ელოჰიმის"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "აღივსო"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ძალადობით"
+    }
+  ],
+  "timestamp": "2026-09-06T03:43:11.167529487Z",
+  "model": "glm-5.3"
+}

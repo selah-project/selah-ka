@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ელოჰიმი ⟨არის⟩ მართალი მსაჯული, და ელი მრისხანებს ყოველ დღეს.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "მსაჯული"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "მართალი"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და ელი"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "მრისხანებს"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ყოველ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "დღე"
+    }
+  ],
+  "timestamp": "2026-09-06T19:43:51.912081537Z",
+  "model": "glm-5.3"
+}

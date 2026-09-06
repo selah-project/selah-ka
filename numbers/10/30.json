@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "და უთხრა მას: არ წავიდე; არამედ ჩემს ქვეყანას და ჩემს სამშობლოს წავიდე.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და უთხრა"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "წავიდე"
+    },
+    {
+      "surface": "כי",
+      "gloss": "არამედ"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "ჩემი ქვეყანა"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და -ს"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "ჩემი სამშობლო"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "წავიდე"
+    }
+  ],
+  "timestamp": "2026-09-06T05:05:44.100005174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და მოვბრუნდი მე და ვიხილე ჰებელი მზის ქვეშ.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "და მოვბრუნდი"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "და ვიხილე"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ჰებელი"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ქვეშ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "მზე"
+    }
+  ],
+  "timestamp": "2026-09-06T14:49:30.066582812Z",
+  "model": "glm-5.3"
+}

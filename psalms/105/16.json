@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 105,
+  "translation": "და მოიხმო შიმშილი ⟨იმ⟩ მიწაზე; მოსტეხა ყოველი კვერთხი პურის.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "და მოიხმო"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "შიმშილი"
+    },
+    {
+      "surface": "על",
+      "gloss": "მიწაზე"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყოველი"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "კვერთხი"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "პური"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "მოსტეხა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:03:20.734042601Z",
+  "model": "glm-5.3"
+}

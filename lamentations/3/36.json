@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "lamentations 3:36",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "ადამიანის გადასახრავად მისსა სადავლოში — ადონაიმ არ იხილა.",
+  "tokens": [
+    {
+      "surface": "לעות",
+      "gloss": "გადასახრავად"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ადამიანი"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "მისსა სადავლოში"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ადონაი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "იხილა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:52:57.274944134Z",
+  "model": "glm-5.3"
+}

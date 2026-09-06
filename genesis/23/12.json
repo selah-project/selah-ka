@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "და თავი დაუხარა აბრაჰამმა მიწის ხალხს წინაშე.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "თავდამხრობა გაუცია"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "აბრაჰამმა"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "წინაშე"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    }
+  ],
+  "timestamp": "2026-09-06T03:50:29.749879339Z",
+  "model": "glm-5.3"
+}

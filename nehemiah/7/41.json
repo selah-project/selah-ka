@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "nehemiah 7:41",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ფაშხურის ძენი — ათასი ორასი ორმოცდაშვიდი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "ფაშხური"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ათასი"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ორასი"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ორმოცი"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "და შვიდი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:21:36.563581849Z",
+  "model": "glm-5.3"
+}

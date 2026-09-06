@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 2:23",
+  "book": "ezra",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "ანათოთის კაცნი — ას ოცდარვა.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "კაცნი"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "ანათოთის"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ას"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ოცი"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "და რვა"
+    }
+  ],
+  "timestamp": "2026-09-06T14:56:32.981748094Z",
+  "model": "glm-5.3"
+}

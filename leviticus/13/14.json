@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "და დღეს, როცა ჩანს მასში ცოცხალი ხორცი, უწმინდური ⟨არის⟩.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "და დღეს"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "ჩანს"
+    },
+    {
+      "surface": "בו",
+      "gloss": "მასში"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ხორცი"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ცოცხალი"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "უწმინდური"
+    }
+  ],
+  "timestamp": "2026-09-06T12:20:08.062363250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და ხორცისა და ლეპიოშის ნარჩენი კი ცეცხლში დაწვით.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "და ნარჩენი"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "ხორცი"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "და ლეპიოში"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ცეცხლში"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "დაწვა"
+    }
+  ],
+  "timestamp": "2026-09-06T12:20:57.828053097Z",
+  "model": "glm-5.3"
+}

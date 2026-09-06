@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 12:21",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "თანაქის მეფე — ერთი; მეგიდოს მეფე — ერთი.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "თანაქი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "მეგიდო"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:51:08.816769087Z",
+  "model": "glm-5.3"
+}

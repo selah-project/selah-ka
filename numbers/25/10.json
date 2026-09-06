@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 25:10",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "და უთხრა იაჰვემ მოშეს (მოსე), სათქმელად:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "და უთხრა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T05:14:14.124178969Z",
+  "model": "glm-5.3"
+}

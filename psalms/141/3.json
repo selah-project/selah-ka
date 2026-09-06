@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 141,
+  "translation": "დადე, იაჰვე, დარაჯი ჩემს პირს, დაიცავე კარი ჩემს ტუჩებზე.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "დადე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "დარაჯი"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ჩემს პირს"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "დაიცავე"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "דל",
+      "gloss": "კარი"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ჩემს ტუჩებზე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:12:44.867489199Z",
+  "model": "glm-5.3"
+}

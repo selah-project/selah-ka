@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 7:13",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ძენი ზათუასი — რვაას ორმოცდახუთი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "ზათუა"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "რვა"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ორმოცი"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "და ხუთი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:21:31.266877068Z",
+  "model": "glm-5.3"
+}

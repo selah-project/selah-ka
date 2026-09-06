@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "და აღასრულა ნოახმა (ნოე) ყოველივე, რაც დაუბრძანა მას იაჰვემ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "აღასრულა"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ნოახი"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ყოველივე"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რაც"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "დაუბრძანა მას"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T03:43:24.793485512Z",
+  "model": "glm-5.3"
+}

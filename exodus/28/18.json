@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 28:18",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 28,
+  "translation": "და რიგი მეორე — ნოფეხი, საპირი და იაჰალომი.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "და რიგი"
+    },
+    {
+      "surface": "השני",
+      "gloss": "მეორე"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "ნოფეხი"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "საპირი"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "და იაჰალომი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:25:48.282869958Z",
+  "model": "glm-5.3"
+}

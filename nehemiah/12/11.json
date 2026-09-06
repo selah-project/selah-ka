@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "და იოიადამ შვა ⟨את⟩ იონათანი, და იონათანმა შვა ⟨את⟩ იადუა.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "და იოიადამ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იონათანი"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "იონათანი"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "და იონათანმა"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იადუა"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "იადუა"
+    }
+  ],
+  "timestamp": "2026-09-06T11:24:08.232443108Z",
+  "model": "glm-5.3"
+}

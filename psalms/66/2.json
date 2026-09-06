@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 66,
+  "translation": "უმღერეთ მისი სახელის დიადებას, დიადი გახადეთ მისი ქება.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "უმღერეთ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "დიადება"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "მისი სახელი"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "გახადეთ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "დიადი"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "მისი ქება"
+    }
+  ],
+  "timestamp": "2026-09-06T14:07:07.872058551Z",
+  "model": "glm-5.3"
+}

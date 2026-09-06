@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 10:21",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "მაგფიაში (მაგფიაში), მეშულამი (მეშულამი), ხეზირი (ხეზირი),",
+  "tokens": [
+    {
+      "surface": "מגפיעש",
+      "gloss": "მაგფიაში"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "მეშულამი"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "ხეზირი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:23:05.376930349Z",
+  "model": "glm-5.3"
+}

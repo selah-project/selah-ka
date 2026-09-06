@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "და ყოველი უცხო არ ჭამს წმიდას; ქოჰენის მდგმური და დაქირავებული არ ჭამს წმიდას.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "და ყოველი"
+    },
+    {
+      "surface": "זר",
+      "gloss": "უცხო"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ჭამს"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "წმიდა"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "მდგმური"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ქოჰენი"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "და დაქირავებული"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ჭამს"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "წმიდა"
+    }
+  ],
+  "timestamp": "2026-09-06T04:47:57.282899166Z",
+  "model": "glm-5.3"
+}

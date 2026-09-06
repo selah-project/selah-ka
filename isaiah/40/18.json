@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 40:18",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 40,
+  "translation": "და ვის კი მიამსგავსებთ ელს? და რომელს მსგავსებას შეუდარებთ მას?",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "და"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ვის"
+    },
+    {
+      "surface": "תדמיון",
+      "gloss": "მიამსგავსებთ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ელი"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "და რომელს"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "მსგავსება"
+    },
+    {
+      "surface": "תערכו",
+      "gloss": "შეუდარებთ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    }
+  ],
+  "timestamp": "2026-09-06T13:11:40.297390219Z",
+  "model": "glm-5.3"
+}

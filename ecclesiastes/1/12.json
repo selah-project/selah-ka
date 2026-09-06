@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "მე, კოჰელეთი (შემკრებელი), ვიყავი მეფე იშრაელზე (ისრაელი), იერუშალაიმში (იერუსალიმი).",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "კოჰელეთი"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ვიყავი"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "იერუშალაიმში"
+    }
+  ],
+  "timestamp": "2026-09-06T14:48:12.614768195Z",
+  "model": "glm-5.3"
+}

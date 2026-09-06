@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ასე თქვა ადონაი იაჰვემ: არ დადგება და არ შეეწირება ⟨ეს⟩.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ადონაი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "დადგება"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "შეეწირება"
+    }
+  ],
+  "timestamp": "2026-09-06T13:06:24.710828095Z",
+  "model": "glm-5.3"
+}

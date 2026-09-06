@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "და აბიშუამ შვა ⟨את⟩ ბუკი; და ბუკიმ შვა ⟨את⟩ უზი.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "და აბიშუა"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ბუკი"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "ბუკი"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "და ბუკი"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "უზי"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "უზი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:27:56.014450749Z",
+  "model": "glm-5.3"
+}

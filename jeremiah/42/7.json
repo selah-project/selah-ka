@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 42:7",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 42,
+  "translation": "და მოხდა ათი დღის ბოლოს, და იყო იაჰვეს სიტყვა იერმიაჰუს მიმართ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "და მოხდა"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ბოლოს"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ათი"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "დღის"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "და იყო"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "იერმიაჰუს"
+    }
+  ],
+  "timestamp": "2026-09-06T08:25:18.221992545Z",
+  "model": "glm-5.3"
+}

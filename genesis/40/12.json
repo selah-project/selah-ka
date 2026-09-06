@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 40,
+  "translation": "და უთხრა მას იოსეფმა: ეს ⟨არის⟩ მისი ხსნა: სამი ტოტი — სამი დღე ⟨არის⟩ ისინი.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "უთხრა"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "იოსეფმა"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "ხსნა"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "სამი"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "ტოტი"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "სამი"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ისინი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:03:20.359414716Z",
+  "model": "glm-5.3"
+}

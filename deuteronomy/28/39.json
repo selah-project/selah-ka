@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "deuteronomy 28:39",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 28,
+  "translation": "ვენახებს დარგავ და იმუშავებ, და ღვინოს არ დალევ და არ მოიკრებ, რადგან შეჭამს მას ჭია.",
+  "tokens": [
+    {
+      "surface": "כרמים",
+      "gloss": "ვენახი"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "დარგავ"
+    },
+    {
+      "surface": "ועבדת",
+      "gloss": "და იმუშავებ"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "და ღვინო"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "დალევ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არა"
+    },
+    {
+      "surface": "תאגר",
+      "gloss": "მოიკრებ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "შეჭამს მას"
+    },
+    {
+      "surface": "התלעת",
+      "gloss": "ჭია"
+    }
+  ],
+  "timestamp": "2026-09-06T05:40:52.839781173Z",
+  "model": "glm-5.3"
+}

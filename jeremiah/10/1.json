@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "ისმინეთ ⟨את⟩ სიტყვა, რომელიც თქვა იაჰვემ თქვენზე, სახლო იშრაელისა.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ისმინეთ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "სიტყვა"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "თქვენზე"
+    },
+    {
+      "surface": "בית",
+      "gloss": "სახლი"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    }
+  ],
+  "timestamp": "2026-09-06T08:05:43.293731082Z",
+  "model": "glm-5.3"
+}

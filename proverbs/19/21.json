@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 19:21",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "მრავალი ზრახვა ⟨არის⟩ კაცის გულში, ხოლო იაჰვეს თათბირი — ის დგას.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "მრავალი"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "ზრახვა"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "გულში"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "და თათბირი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "დგას"
+    }
+  ],
+  "timestamp": "2026-09-06T10:23:09.596910879Z",
+  "model": "glm-5.3"
+}

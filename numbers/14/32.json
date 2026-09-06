@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 14:32",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "ხოლო თქვენი გვამები — თქვენ ჩამოვარდებით ამ უდაბნოში.",
+  "tokens": [
+    {
+      "surface": "ופגריכם",
+      "gloss": "და თქვენი გვამები"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "თქვენ"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ჩამოვარდებიან"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "უდაბნოში"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ამ"
+    }
+  ],
+  "timestamp": "2026-09-06T05:07:28.798083124Z",
+  "model": "glm-5.3"
+}

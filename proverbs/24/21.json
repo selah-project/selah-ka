@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "ეშინოდე ⟨את⟩ იაჰვეს, ჩემო ძეო, და ⟨את⟩ მეფეს; ცვალებადებთან ერთად არ შეერიო.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "ეშინოდე"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იაჰვეს"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ჩემო ძეო"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "და მეფე"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ერთად"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "ცვალებადები"
+    },
+    {
+      "surface": "אל",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "შეერიო"
+    }
+  ],
+  "timestamp": "2026-09-06T10:25:44.492838612Z",
+  "model": "glm-5.3"
+}

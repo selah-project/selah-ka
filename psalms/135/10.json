@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 135,
+  "translation": "რომ დასცა ერები მრავალნი და მოკლა მეფეები ძლიერნი.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "რომ დასცა"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ერები"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "მრავალნი"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "და მოკლა"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "მეფეები"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "ძლიერნი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:10:39.385809010Z",
+  "model": "glm-5.3"
+}

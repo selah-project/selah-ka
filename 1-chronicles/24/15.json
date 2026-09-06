@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 24:15",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "მეჩვიდმეტე — ხეზირ, მეთვრამეტე — ჰაპიცეც.",
+  "tokens": [
+    {
+      "surface": "לחזיר",
+      "gloss": "ხეზირ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "შვიდი"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ათი"
+    },
+    {
+      "surface": "להפצץ",
+      "gloss": "ჰაპიცეც"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "რვა"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ათი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:37:27.014454162Z",
+  "model": "glm-5.3"
+}

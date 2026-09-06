@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 27:13",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 27,
+  "translation": "და ეს დადგებიან წყევლაზე ებალის მთაზე: რეუვენი, გადი და აშერი, და ზევულუნი, დანი და ნაფთალი.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "და ეს"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "დადგებიან"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "წყევლა"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "მთაზე"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "ებალი"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "რეუვენი"
+    },
+    {
+      "surface": "גד",
+      "gloss": "გადი"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "და აშერი"
+    },
+    {
+      "surface": "וזבולן",
+      "gloss": "და ზევულუნი"
+    },
+    {
+      "surface": "דן",
+      "gloss": "დანი"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "და ნაფთალი"
+    }
+  ],
+  "timestamp": "2026-09-06T18:55:02.862252151Z",
+  "model": "glm-5.3"
+}

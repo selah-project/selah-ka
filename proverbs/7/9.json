@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ბინდში, საღამოსჟამს, ღამის ბნელში და წყვდიადში.",
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "ბინდში"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "საღამოსჟამს"
+    },
+    {
+      "surface": "יום",
+      "gloss": "დღისა"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "ღამის ბნელში"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ღამის"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "და წყვდიადში"
+    }
+  ],
+  "timestamp": "2026-09-06T10:17:45.921376880Z",
+  "model": "glm-5.3"
+}

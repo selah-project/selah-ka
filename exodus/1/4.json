@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 1:4",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "დანი, ნაფთალი, გადი და აშერი.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "დანი"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "და ნაფთალი"
+    },
+    {
+      "surface": "גד",
+      "gloss": "გადი"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "და აშერი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:11:06.821739655Z",
+  "model": "glm-5.3"
+}

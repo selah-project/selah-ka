@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "მხოლოდ ⟨את⟩ მის სისხლს არ შეჭამ; მიწაზე დაღვარ იგი, როგორც წყალი.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "მხოლოდ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მის სისხლს"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "მის სისხლს"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "შეჭამ"
+    },
+    {
+      "surface": "על",
+      "gloss": "მიწაზე"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "დაღვარ იგი"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "როგორც წყალი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:30:18.489666359Z",
+  "model": "glm-5.3"
+}

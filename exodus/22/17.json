@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 22:17",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "ჯადოქარ ქალს არ დააცხოვრებ.",
+  "tokens": [
+    {
+      "surface": "מכשפה",
+      "gloss": "ჯადოქარი ქალი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "დააცხოვრებ"
+    }
+  ],
+  "timestamp": "2026-09-06T04:22:22.522835254Z",
+  "model": "glm-5.3"
+}

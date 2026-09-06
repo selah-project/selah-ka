@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "deuteronomy 28:38",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 28,
+  "translation": "ბევრ თესლს გამოიტან ველზე, და ცოტას მოიკრებ, რადგან შეჭამს მას კალია.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "თესლი"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ბევრი"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "გამოიტან"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ველი"
+    },
+    {
+      "surface": "ומעט",
+      "gloss": "და ცოტა"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "მოიკრებ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "יחסלנו",
+      "gloss": "შეჭამს მას"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "კალია"
+    }
+  ],
+  "timestamp": "2026-09-06T05:40:52.839613471Z",
+  "model": "glm-5.3"
+}

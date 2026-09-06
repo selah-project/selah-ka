@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და ⟨את⟩ ევალი, და ⟨את⟩ ავიმაელი, და ⟨את⟩ შევა.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ევალი"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "ევალი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ავიმაელი"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "ავიმაელი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "შევა"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "შევა"
+    }
+  ],
+  "timestamp": "2026-09-06T11:25:18.802933792Z",
+  "model": "glm-5.3"
+}

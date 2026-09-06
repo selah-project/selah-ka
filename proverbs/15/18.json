@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 15:18",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "კაცი რისხვის აღვივებს კამათს, და დიდნელ რისხვაზე მყოფი აწყნარებს ჩხუბს.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "რისხვა"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "აღვივებს"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "კამათი"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "და დიდნელ"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "რისხვა"
+    },
+    {
+      "surface": "ישקיט",
+      "gloss": "აწყნარებს"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ჩხუბი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:22:13.917512506Z",
+  "model": "glm-5.3"
+}

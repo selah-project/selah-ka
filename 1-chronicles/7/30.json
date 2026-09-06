@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 7:30",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "აშერის შვილნი: იმნა, და იშვა, და იშვი, და ბერია, და სერახი, მათი და.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილნი"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "აშერი"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "იმნა"
+    },
+    {
+      "surface": "וישוה",
+      "gloss": "და იშვა"
+    },
+    {
+      "surface": "וישוי",
+      "gloss": "და იშვი"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "და ბერია"
+    },
+    {
+      "surface": "ושרח",
+      "gloss": "და სერახი"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "მათი და"
+    }
+  ],
+  "timestamp": "2026-09-06T11:30:20.435611181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 12:17",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "ავიაჰს — ზიხრი; მინიამინს —; მოადიაჰს — პილთაი.",
+  "tokens": [
+    {
+      "surface": "לאביה",
+      "gloss": "ავიაჰს"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "ზიხრი"
+    },
+    {
+      "surface": "למנימין",
+      "gloss": "მინიამინს"
+    },
+    {
+      "surface": "למועדיה",
+      "gloss": "მოადიაჰს"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "პილთაი"
+    }
+  ],
+  "timestamp": "2026-09-06T18:45:24.349053755Z",
+  "model": "glm-5.3"
+}

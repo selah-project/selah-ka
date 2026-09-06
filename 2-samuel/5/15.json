@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 5:15",
+  "book": "2-samuel",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "და ივხარი, და ელიშუა, და ნეფეგი, და იაფია.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "ივხარი"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "და ელიშუა"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "და ნეფეგი"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "და იაფია"
+    }
+  ],
+  "timestamp": "2026-09-06T06:36:09.156455865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 33,
+  "translation": "და თქვა ესავმა: მაქვს ⟨საკმაოდ⟩, ძმაო ჩემო; შენივე იყოს ის, რაც შენსაა.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ესავმა"
+    },
+    {
+      "surface": "יש",
+      "gloss": "მაქვს"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ჩემთან"
+    },
+    {
+      "surface": "רב",
+      "gloss": "საკმაოდ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ძმაო ჩემო"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "იყოს"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენი"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რაც"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენსაა"
+    }
+  ],
+  "timestamp": "2026-09-06T15:31:30.907484686Z",
+  "model": "glm-5.3"
+}

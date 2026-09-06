@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 17:13",
+  "book": "judges",
+  "lang": "ka",
+  "chapter": 17,
+  "translation": "და თქვა მიქამ: ახლა ვიცი, რომ იაჰვე მიკეთებს ჩემთვის, რადგან მყავს ლევიელი მღვდლად.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "მიქამ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ახლა"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ვიცი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "მიკეთებს"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ჩემთვის"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "היה",
+      "gloss": "მყავს"
+    },
+    {
+      "surface": "לי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "ლევიელი"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "მღვდლად"
+    }
+  ],
+  "timestamp": "2026-09-06T06:10:08.693805714Z",
+  "model": "glm-5.3"
+}

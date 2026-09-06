@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 13:20",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "და ბეთ-პეორი, და პისგის კალთები, და ბეთ-იეშიმოთი —",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "და ბეთ"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "პეორი"
+    },
+    {
+      "surface": "ואשדות",
+      "gloss": "და კალთები"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "პისგა"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "და ბეთ"
+    },
+    {
+      "surface": "הישמות",
+      "gloss": "იეშიმოთი"
+    }
+  ],
+  "timestamp": "2026-09-06T18:01:06.139273665Z",
+  "model": "glm-5.3"
+}

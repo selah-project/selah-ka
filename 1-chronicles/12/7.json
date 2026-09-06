@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 12:7",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "ელკანა და იშიაჰუ, და აზარელი და იოეზერი და იაშაბამი კორახელნი.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "ელკანა"
+    },
+    {
+      "surface": "וישיהו",
+      "gloss": "იშიაჰუ"
+    },
+    {
+      "surface": "ועזראל",
+      "gloss": "აზარელი"
+    },
+    {
+      "surface": "ויועזר",
+      "gloss": "იოეზერი"
+    },
+    {
+      "surface": "וישבעם",
+      "gloss": "იაშაბამი"
+    },
+    {
+      "surface": "הקרחים",
+      "gloss": "კორახელნი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:31:50.112848885Z",
+  "model": "glm-5.3"
+}

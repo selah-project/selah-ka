@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 118,
+  "translation": "გევედრები, იაჰვე: იხსენი ნაო; გევედრები, იაჰვე: აწარმატე ნაო.",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "გევედრები"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "იხსენი"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ნაო"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "გევედრები"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "აწარმატე"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ნაო"
+    }
+  ],
+  "timestamp": "2026-09-06T10:07:20.447197509Z",
+  "model": "glm-5.3"
+}

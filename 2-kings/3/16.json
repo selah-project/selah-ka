@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 3:16",
+  "book": "2-kings",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "და თქვა: ასე ამბობს იაჰვე: გააკეთეთ ეს ხევი ღრმულებად, ღრმულები.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ამბობს"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "გააკეთე"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "ხევი"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "ღრმულები"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "ღრმულები"
+    }
+  ],
+  "timestamp": "2026-09-06T07:11:43.458652799Z",
+  "model": "glm-5.3"
+}

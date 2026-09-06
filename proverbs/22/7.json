@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "მდიდარი ღატაკებს მართავს, და მსესხებელს მოვალე მონა ⟨არის⟩.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "მდიდარი"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "ღატაკებს"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "მართავს"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "და მონა"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "მოვალე"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "კაცს"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "მსესხებელი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:24:49.170940631Z",
+  "model": "glm-5.3"
+}

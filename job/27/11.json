@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 27:11",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 27,
+  "translation": "ვასწავლით ⟨את⟩ თქვენ ელის ხელით; რაც შადაისთან ⟨არის⟩, არ დავმალავ.",
+  "tokens": [
+    {
+      "surface": "אורה",
+      "gloss": "ვასწავლით"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "თქვენ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ხელით"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ელის"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რაც"
+    },
+    {
+      "surface": "עם",
+      "gloss": "თან"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "შადაის"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "אכחד",
+      "gloss": "დავმალავ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:39:39.550448429Z",
+  "model": "glm-5.3"
+}

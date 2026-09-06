@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 22:28",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "არ გადასწიო სამარადისო საზღვარი, რომელი დადეს შენმა მამებმა.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "გადასწევ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "საზღვარი"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "სამარადისო"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელი"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "დადეს"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "შენმა მამებმა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:24:58.570832417Z",
+  "model": "glm-5.3"
+}

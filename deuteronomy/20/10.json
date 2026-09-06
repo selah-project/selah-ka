@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 20,
+  "translation": "როცა მოახლოვდები ქალაქს, რათა იბრძოლო მასზე, მოუწოდე მას მშვიდობისკენ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "როცა"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "მოახლოვდები"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ქალაქი"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "საბრძოლველად"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "მასზე"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "და მოუწოდებ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "მას"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "მშვიდობისკენ"
+    }
+  ],
+  "timestamp": "2026-09-06T05:33:34.155036524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 2:15",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "ოცემი მეექვსე, დავიდი მეშვიდე.",
+  "tokens": [
+    {
+      "surface": "אצם",
+      "gloss": "ოცემი"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "მეექვსე"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "დავიდი"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "მეშვიდე"
+    }
+  ],
+  "timestamp": "2026-09-06T11:26:31.586882306Z",
+  "model": "glm-5.3"
+}

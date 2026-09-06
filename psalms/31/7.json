@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 31,
+  "translation": "მოვიძულე ამაო ამაოებათა მცველნი, ხოლო მე — იაჰვეს ვენდე.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "მოვიძულე"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "მცველნი"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "ამაოებანი"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ამაო"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ხოლო მე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ვენდე"
+    }
+  ],
+  "timestamp": "2026-09-06T09:39:27.106846198Z",
+  "model": "glm-5.3"
+}

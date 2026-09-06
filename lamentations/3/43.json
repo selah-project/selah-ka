@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "lamentations 3:43",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "დაფარე რისხვით და გვდევნე; მოგვკლავ, არ გიწყალებია.",
+  "tokens": [
+    {
+      "surface": "סכתה",
+      "gloss": "დაფარე"
+    },
+    {
+      "surface": "באף",
+      "gloss": "რისხვით"
+    },
+    {
+      "surface": "ותרדפנו",
+      "gloss": "გვდევნე"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "მოგვკლავ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "חמלת",
+      "gloss": "გიწყალებია"
+    }
+  ],
+  "timestamp": "2026-09-06T10:52:32.439493396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 7:6",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ბინიამინის (ბენიამინის) ძენი: ბელა, ბექერ და იედიაელი — სამნი.",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "ბინიამინი"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "ბელა"
+    },
+    {
+      "surface": "ובכר",
+      "gloss": "და ბექერ"
+    },
+    {
+      "surface": "וידיעאל",
+      "gloss": "და იედიაელი"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "სამნი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:30:10.137269568Z",
+  "model": "glm-5.3"
+}

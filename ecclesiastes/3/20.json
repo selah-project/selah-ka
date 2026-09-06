@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "ყველაფერი მიდის ერთივე ადგილს: ყველაფერი იყო მტვრისგან და ყველაფერი ბრუნდება მტვრად.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "ყველაფერი"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "მიდის"
+    },
+    {
+      "surface": "אל",
+      "gloss": "სად"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ადგილი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ყველაფერი"
+    },
+    {
+      "surface": "היה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "מן",
+      "gloss": "მტვრისგან"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "მტვერი"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "და ყველაფერი"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ბრუნდება"
+    },
+    {
+      "surface": "אל",
+      "gloss": "სად"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "მტვერი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:56:31.871438946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "მოვუხმე შენს სახელს, იაჰვე, ქვედა სიღრმიდან.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "მოვუხმე"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "შენი სახელი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "ორმოდან"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "ქვედა სიღრმე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:53:11.743740003Z",
+  "model": "glm-5.3"
+}

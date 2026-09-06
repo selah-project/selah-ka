@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "და მოუწოდა იაჰვე ელოჰიმმა ადამს და უთხრა მას: სად ხარ?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "მოუწოდა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ადამი"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "და უთხრა"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "სად"
+    }
+  ],
+  "timestamp": "2026-09-06T03:41:48.708643285Z",
+  "model": "glm-5.3"
+}

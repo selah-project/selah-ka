@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 5:20",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "და იყვნენ ყველა დღენი იარედისა ორმოცდაორი წელი და ცხრაასი წელი, და მოკვდა ის.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "იყვნენ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "დღენი"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "იარედი"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ორი"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ოთხმოცდა"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელი"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ცხრა"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელი"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "მოკვდა"
+    }
+  ],
+  "timestamp": "2026-09-06T03:43:06.689205235Z",
+  "model": "glm-5.3"
+}

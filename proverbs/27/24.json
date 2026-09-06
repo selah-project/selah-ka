@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 27,
+  "translation": "რამეთუ არა საუკუნოდ ⟨არის⟩ სიმდიდრე, და თუ გვირგვინი — თაოდან თაომდე.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რამეთუ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "საუკუნოდ"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "სიმდიდრე"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "და თუ"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "გვირგვინი"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "თაოდან"
+    },
+    {
+      "surface": "דור",
+      "gloss": "თაომდე"
+    }
+  ],
+  "timestamp": "2026-09-06T14:28:36.717635824Z",
+  "model": "glm-5.3"
+}

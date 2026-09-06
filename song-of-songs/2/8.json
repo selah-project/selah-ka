@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 2:8",
+  "book": "song-of-songs",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "ხმა ჩემი საყვარლისა! აჰა, ის მოდის — მხტარი მთებზე, მიმოხტომიარე ბორცვებზე.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ხმა"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ჩემი საყვარელი"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ის"
+    },
+    {
+      "surface": "בא",
+      "gloss": "მოდის"
+    },
+    {
+      "surface": "מדלג",
+      "gloss": "მხტარი"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "მთები"
+    },
+    {
+      "surface": "מקפץ",
+      "gloss": "მიმოხტომიარე"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "ბორცვები"
+    }
+  ],
+  "timestamp": "2026-09-06T14:44:21.983480038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "იეჰუდასათვის — ნახშონი, ამინადავის ძე.",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "იეჰუდასათვის"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "ნახშონი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "ამინადავი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:57:51.412991615Z",
+  "model": "glm-5.3"
+}

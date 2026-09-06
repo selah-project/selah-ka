@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 5:5",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "და იყოს: როცა დამნაშავდება ერთს ამათგანში, აღიარებს, რაც შესცოდა მის მიმართ.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "და იყოს"
+    },
+    {
+      "surface": "כי",
+      "gloss": "როცა"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "დამნაშავდება"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ერთს"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ამათგანში"
+    },
+    {
+      "surface": "והתודה",
+      "gloss": "აღიარებს"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რაც"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "შესცოდა"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "მის მიმართ"
+    }
+  ],
+  "timestamp": "2026-09-06T12:19:03.270036954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "მთავრები მათი ხელით ⟨არიან⟩ ჩამოკიდებულნი; მოხუცების სახეებს არ ებადა პატივი.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "მთავრები"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "მათი ხელით"
+    },
+    {
+      "surface": "נתלו",
+      "gloss": "ჩამოკიდნენ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "სახე"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "მოხუცები"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "נהדרו",
+      "gloss": "პატივდებულნი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:55:11.787069360Z",
+  "model": "glm-5.3"
+}

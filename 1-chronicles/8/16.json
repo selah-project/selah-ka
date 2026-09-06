@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 8:16",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და მიქაელი, და იშფაჰი, და იოჰაყი — ბერიაჰის ძენი.",
+  "tokens": [
+    {
+      "surface": "ומיכאל",
+      "gloss": "და მიქაელი"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "და იშფაჰი"
+    },
+    {
+      "surface": "ויוחא",
+      "gloss": "და იოჰა"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "ბერიაჰის"
+    }
+  ],
+  "timestamp": "2026-09-06T11:29:56.478564748Z",
+  "model": "glm-5.3"
+}

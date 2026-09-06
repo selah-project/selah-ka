@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 4:15",
+  "book": "esther",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და თქვა ესთერმა ⟨პასუხის დასაბრუნებლად⟩ მორდოქაის:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ესთერი"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "დასაბრუნებლად"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "მორდოქაი"
+    }
+  ],
+  "timestamp": "2026-09-06T14:55:49.631537556Z",
+  "model": "glm-5.3"
+}

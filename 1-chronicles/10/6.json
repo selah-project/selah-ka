@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "და მოკვდა შაული და სამი მისი ძენი და მთელი მისი სახლი — ერთად მოკვდნენ.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "და მოკვდა"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "შაული"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "და სამი"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "მისი ძენი"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "და მთელი"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "მისი სახლი"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ერთად"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "მოკვდნენ"
+    }
+  ],
+  "timestamp": "2026-09-06T11:31:54.705642836Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 2:4",
+  "book": "ezra",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "ძენი შეფატიაჰისა — სამასი სამოცდაათი და ორი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "შეფატიაჰის"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "სამი"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "სამოცდაათი"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "და ორი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:14:06.598124344Z",
+  "model": "glm-5.3"
+}

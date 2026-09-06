@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 2:14",
+  "book": "habakkuk",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "რადგან აივსება მიწა იაჰვეს დიდების ⟨את⟩ ცოდნით, როგორც წყლები ფარავენ ზღვას.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "აივსება"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ცოდნით"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იაჰვეს დიდება"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "დიდება"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "როგორც წყლები"
+    },
+    {
+      "surface": "יכסו",
+      "gloss": "ფარავენ"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "ים",
+      "gloss": "ზღვას"
+    }
+  ],
+  "timestamp": "2026-09-06T09:20:17.756700941Z",
+  "model": "glm-5.3"
+}

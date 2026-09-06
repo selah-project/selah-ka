@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 25:15",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "მერვე — იეშაიაჰუ, მისი ძენი და მისი ძმანი — თორმეტი.",
+  "tokens": [
+    {
+      "surface": "השמיני",
+      "gloss": "მერვე"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "იეშაიაჰუ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "მისი ძენი"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "და მისი ძმანი"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ორი"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ათი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:37:37.731248840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ნუ იქნები მართალი ზედმეტად და ნუ გამოიჩენ თავს ზედმეტად ბრძენად — რატომ გაოგნდები?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "იქნები"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "მართალი"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ზედმეტად"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და ნუ"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "გამოიჩენ თავს ბრძენად"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "ზედმეტად"
+    },
+    {
+      "surface": "למה",
+      "gloss": "რატომ"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "გაოგნდები"
+    }
+  ],
+  "timestamp": "2026-09-06T10:58:02.008542213Z",
+  "model": "glm-5.3"
+}

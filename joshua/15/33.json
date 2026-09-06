@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 15:33",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "დაბლობში: ეშთაოლი, ცორაჰი და აშნაჰი.",
+  "tokens": [
+    {
+      "surface": "בשפלה",
+      "gloss": "დაბლობში"
+    },
+    {
+      "surface": "אשתאול",
+      "gloss": "ეშთაოლი"
+    },
+    {
+      "surface": "וצרעה",
+      "gloss": "და ცორაჰი"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "და აშნაჰი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:53:56.732636766Z",
+  "model": "glm-5.3"
+}

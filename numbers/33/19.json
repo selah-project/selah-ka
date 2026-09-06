@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 33:19",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 33,
+  "translation": "და წავიდნენ რითმიდან და დაბანაკდნენ რიმონ-ფერეცში.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "წავიდნენ"
+    },
+    {
+      "surface": "מרתמה",
+      "gloss": "რითმა"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "დაბანაკდნენ"
+    },
+    {
+      "surface": "ברמן",
+      "gloss": "რიმონ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ფერეც"
+    }
+  ],
+  "timestamp": "2026-09-06T05:20:27.031331250Z",
+  "model": "glm-5.3"
+}

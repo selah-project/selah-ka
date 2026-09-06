@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "⟨את⟩ ყველა ყვავი თავისი სახეობისა.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ყველა ყვავი"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ყვავი"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "თავისი სახეობა"
+    }
+  ],
+  "timestamp": "2026-09-06T04:39:31.599668141Z",
+  "model": "glm-5.3"
+}

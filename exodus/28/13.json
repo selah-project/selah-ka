@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 28:13",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 28,
+  "translation": "და გააკეთებ მიშბეცოთებს ოქროსაგან.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "და გააკეთებ"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "მიშბეცოთი"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ოქრო"
+    }
+  ],
+  "timestamp": "2026-09-06T04:26:07.544700023Z",
+  "model": "glm-5.3"
+}

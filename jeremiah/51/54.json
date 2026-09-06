@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "jeremiah 51:54",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 51,
+  "translation": "ყვირილის ხმა ბაველიდან, და დიდი შემსხვრევა ქაშდიმელთა მიწიდან.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ხმა"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "ყვირილი"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "ბაველიდან"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "და შემსხვრევა"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "დიდი"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "მიწიდან"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "ქაშდიმელები"
+    }
+  ],
+  "timestamp": "2026-09-06T08:31:32.638123958Z",
+  "model": "glm-5.3"
+}

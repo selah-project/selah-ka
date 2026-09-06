@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "ყოველი წმინდა ფრინველი — შეჭამთ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ყოველი"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ფრინველი"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "წმინდა"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "შეჭამთ"
+    }
+  ],
+  "timestamp": "2026-09-06T05:30:08.351036967Z",
+  "model": "glm-5.3"
+}

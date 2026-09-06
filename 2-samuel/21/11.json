@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "და აუწყეს დავიდს ⟨את⟩ იმას, რაც ქმნა რიცფამ, აიას ასულმა, შაულის ხარჭამ.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "აუწყეს"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "დავიდს"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იმას, რაც ქმნა"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რაც"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ქმნა"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "რიცფა"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ასული"
+    },
+    {
+      "surface": "איה",
+      "gloss": "აია"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "ხარჭა"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "შაული"
+    }
+  ],
+  "timestamp": "2026-09-06T06:46:13.836015595Z",
+  "model": "glm-5.3"
+}

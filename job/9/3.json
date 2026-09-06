@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 9:3",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "თუ ინებოს მას სადავლოდ მიმართოს მას — არ უპასუხებს მას ერთი ათაულიდან.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "ინებოს"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "სადავლოდ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "მასთან"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "უპასუხებს მას"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "מני",
+      "gloss": "-დან"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ათაული"
+    }
+  ],
+  "timestamp": "2026-09-06T10:33:01.503097195Z",
+  "model": "glm-5.3"
+}

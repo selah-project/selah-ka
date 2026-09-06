@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 109,
+  "translation": "არ იყოს მას ხესედის გამომწევი, და არ იყოს მის ობლებს შემბრალებელი.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "იყოს"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "משך",
+      "gloss": "გამომწევი"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ხესედი"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "იყოს"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "შემბრალებელი"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "მის ობლებს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:05:18.274038252Z",
+  "model": "glm-5.3"
+}

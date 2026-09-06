@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "და დაიწყო ნოხმა — მიწის კაცმა — და დარგო ვენახი.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "დაიწყო"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ნოხმა"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "მიწის"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "დარგო"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "ვენახი"
+    }
+  ],
+  "timestamp": "2026-09-06T03:43:36.678429212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 7:22",
+  "book": "ezra",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ვერცხლამდე ას ქიქარი, და ხორბლამდე ას ქორი, და ღვინომდე ას ბათი, და ზეთამდე ას ბათი, და მარილი — დაუწერლად.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "მდე"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ვერცხლი"
+    },
+    {
+      "surface": "ככרין",
+      "gloss": "ქიქარი"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "და მდე"
+    },
+    {
+      "surface": "חנטין",
+      "gloss": "ხორბალი"
+    },
+    {
+      "surface": "כרין",
+      "gloss": "ქორი"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "და მდე"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "ღვინო"
+    },
+    {
+      "surface": "בתין",
+      "gloss": "ბათი"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "და მდე"
+    },
+    {
+      "surface": "בתין",
+      "gloss": "ბათი"
+    },
+    {
+      "surface": "משח",
+      "gloss": "ზეთი"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "ומלח",
+      "gloss": "და მარილი"
+    },
+    {
+      "surface": "די",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "დაწერილი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:18:23.181027176Z",
+  "model": "glm-5.3"
+}

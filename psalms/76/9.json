@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 76,
+  "translation": "ციდან გააგონე მსჯავრი; დაშინდა მიწა და დაწყნარდა.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "ციდან"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "გააგონე"
+    },
+    {
+      "surface": "דין",
+      "gloss": "მსჯავრი"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "დაშინდა"
+    },
+    {
+      "surface": "ושקטה",
+      "gloss": "და დაწყნარდა"
+    }
+  ],
+  "timestamp": "2026-09-06T16:26:29.625467648Z",
+  "model": "glm-5.3"
+}

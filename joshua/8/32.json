@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და დაწერა იქ ქვებზე ⟨את⟩ მოშეს თორის ასლი, რომელიც დაწერა იშრაელის ძეების წინაშე.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "და დაწერა"
+    },
+    {
+      "surface": "שם",
+      "gloss": "იქ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ქვები"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მოშეს თორის ასლი"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "ასლი"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "თორა"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "დაწერა"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "წინაშე"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძეები"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:49:55.753064707Z",
+  "model": "glm-5.3"
+}

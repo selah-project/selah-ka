@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "და შვა მან მას ვაჟები: ⟨את⟩ იეუში და ⟨את⟩ შემარიაჰი და ⟨את⟩ ზაჰამი.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ვაჟები"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იეუში"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "იეუში"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "შემარიაჰი"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "შემარიაჰი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ზაჰამი"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "ზაჰამი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:45:52.077860474Z",
+  "model": "glm-5.3"
+}

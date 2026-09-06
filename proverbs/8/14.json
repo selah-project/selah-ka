@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 8:14",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "ჩემია ზრახვა და სიმტკიცე-სიბრძნე; მე ვარ გაგება, ჩემია სიმბრძოლე.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ჩემი"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ზრახვა"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "და სიმტკიცე-სიბრძნე"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "გაგება"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ჩემი"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "სიმბრძოლე"
+    }
+  ],
+  "timestamp": "2026-09-06T14:22:32.012501342Z",
+  "model": "glm-5.3"
+}

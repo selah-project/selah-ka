@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 40:30",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 40,
+  "translation": "და პორტიკები — გარს გარს: ოცდახუთი გოჯი ⟨არის⟩ სიგრძე და ხუთი გოჯი — სიგანე.",
+  "tokens": [
+    {
+      "surface": "ואלמות",
+      "gloss": "და პორტიკები"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "გარს"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "გარს"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "სიგრძე"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ხუთი"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "და ოცი"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "გოჯი"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "და სიგანე"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ხუთი"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "გოჯი"
+    }
+  ],
+  "timestamp": "2026-09-06T16:14:36.394450432Z",
+  "model": "glm-5.3"
+}

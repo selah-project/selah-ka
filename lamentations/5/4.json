@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "ჩვენი წყალი ვერცხლით დავლიეთ, ჩვენი ხე ფასად მოდის.",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "ჩვენი წყალი"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ვერცხლით"
+    },
+    {
+      "surface": "שתינו",
+      "gloss": "დავლიეთ"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "ჩვენი ხე"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "ფასად"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "მოდის"
+    }
+  ],
+  "timestamp": "2026-09-06T10:55:38.450966493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 31,
+  "translation": "სიტყვები ლემუელისა, მეფისა — ტვირთი, რომელი დაარიგა მისმა დედამ.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "სიტყვები"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "ლემუელი"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "משא",
+      "gloss": "ტვირთი"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელი"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "დაარიგა"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "დედა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:29:33.387136464Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 21:5",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "და ვთქვი: აჰა, ადონაი იაჰვე! ისინი ჩემს შესახებ ამბობენ: ხომ იგავთა მთქმელია ⟨ის⟩?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "და ვთქვი"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ადონაი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ისინი"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ამბობენ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ჩემს შესახებ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ხომ"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "იგავის"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "იგავების"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    }
+  ],
+  "timestamp": "2026-09-06T18:27:51.970469837Z",
+  "model": "glm-5.3"
+}

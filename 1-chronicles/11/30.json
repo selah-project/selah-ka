@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 11:30",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "მაჰარაი ნეტოფათელი, ხელედ ბენ-ბაანასი, ნეტოფათელი.",
+  "tokens": [
+    {
+      "surface": "מהרי",
+      "gloss": "მაჰარაი"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "ნეტოფათელი"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "ხელედ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "ბაანა"
+    },
+    {
+      "surface": "הנטופתי",
+      "gloss": "ნეტოფათელი"
+    }
+  ],
+  "timestamp": "2026-09-06T15:08:02.146024580Z",
+  "model": "glm-5.3"
+}

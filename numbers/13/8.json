@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 13:8",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "ეფრაიმის ტომიდან ჰოშეა, ნუნის ძე.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ტომიდან"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ეფრაიმი"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "ჰოშეა"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "נון",
+      "gloss": "ნუნი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:06:16.347650654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 14:1",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "და ჰყო ასამ საკეთო და სამართალი იაჰვეს, მისი ელოჰიმის თვალში.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ჰყო"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ასამ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "საკეთო"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "და სამართალი"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "თვალში"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "მისი ელოჰიმი"
+    }
+  ],
+  "timestamp": "2026-09-06T15:16:27.366339017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 7:15",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ძენი ბინუისი — ექვსას ორმოცდარვა.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "ბინუი"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ექვსი"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ორმოცი"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "და რვა"
+    }
+  ],
+  "timestamp": "2026-09-06T11:21:31.267309630Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 9:6",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "და ზერახის (ზარას) ვაჟთაგან: იეუელი და მათი ძმები — ექვსას ოთხმოცდაათი.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "და …-თაგან"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ვაჟები"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ზერახი"
+    },
+    {
+      "surface": "יעואל",
+      "gloss": "იეუელი"
+    },
+    {
+      "surface": "ואחיהם",
+      "gloss": "და მათი ძმები"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ექვსი"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "და ოთხმოცდაათი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:31:11.839366888Z",
+  "model": "glm-5.3"
+}

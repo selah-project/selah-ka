@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "არპახშადმა შვა ⟨את⟩ შელახი, და შელახმა შვა ⟨את⟩ ევერი.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "და არპახშადმა"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "შელახი"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "შელახი"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "და შელახმა"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ევერი"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ევერი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:26:03.248842011Z",
+  "model": "glm-5.3"
+}

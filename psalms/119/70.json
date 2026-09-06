@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 119:70",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 119,
+  "translation": "გასქელდა როგორც ქონი მათი გული; მე შენს თორას ვტკბები.",
+  "tokens": [
+    {
+      "surface": "טפש",
+      "gloss": "გასქელდა"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "როგორც ქონი"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "მათი გული"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "შენს თორას"
+    },
+    {
+      "surface": "שעשעתי",
+      "gloss": "ვტკბები"
+    }
+  ],
+  "timestamp": "2026-09-06T14:16:53.629679802Z",
+  "model": "glm-5.3"
+}

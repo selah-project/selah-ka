@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 8:17",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და ზებადიაჰი, და მეშულამი, და ხიზქი და ხავერი.",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "ზებადიაჰი"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "მეშულამი"
+    },
+    {
+      "surface": "וחזקי",
+      "gloss": "ხიზქი"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "ხავერი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:29:33.595528323Z",
+  "model": "glm-5.3"
+}

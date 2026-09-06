@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 148,
+  "translation": "მთები და ყველა ბორცვი, ხილის ხე და ყველა კედარი,",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "მთები"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "და ყველა"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ბორცვი"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ხე"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ხილი"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "და ყველა"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "კედარი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:13:58.445645044Z",
+  "model": "glm-5.3"
+}

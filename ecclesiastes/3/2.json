@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "ჟამი დაბადებისა და ჟამი მოკვდინების; ჟამი დარგვისა და ჟამი დარგულის ამოგლეჯისა.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ჟამი"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "დაბადება"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "და ჟამი"
+    },
+    {
+      "surface": "למות",
+      "gloss": "მოკვდინება"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ჟამი"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "დარგვა"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "და ჟამი"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "ამოგლეჯა"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "დარგული"
+    }
+  ],
+  "timestamp": "2026-09-06T10:56:09.887029235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 27:16",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 27,
+  "translation": "დანიშნოს იაჰვემ, ელოჰიმმა ⟨ელოჰიმი⟩ სულებისა ყოველი ხორცისა, კაცი თემის თავზე.",
+  "tokens": [
+    {
+      "surface": "יפקד",
+      "gloss": "დანიშნოს"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "הרוחת",
+      "gloss": "სულები"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ყოველი"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ხორცი"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "თემი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:27:29.159178078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 8:2",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "ნოახა ⟨არის⟩ მეოთხე, და რაფა — მეხუთე.",
+  "tokens": [
+    {
+      "surface": "נוחה",
+      "gloss": "ნოახა"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "მეოთხე"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "და რაფა"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "მეხუთე"
+    }
+  ],
+  "timestamp": "2026-09-06T11:29:42.614417096Z",
+  "model": "glm-5.3"
+}

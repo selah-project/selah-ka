@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 7:18",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ადონიკამის შვილები — ექვსას ორმოცდათვრამეტი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "אדניקם",
+      "gloss": "ადონიკამი"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ექვსი"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "სამოცი"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "შვიდი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:21:33.197420482Z",
+  "model": "glm-5.3"
+}

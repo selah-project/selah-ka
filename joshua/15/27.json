@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 15:27",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "და ხაცარ-გადა, და ხეშმონი, და ბეით-პალეთ,",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "და ხაცარ"
+    },
+    {
+      "surface": "גדה",
+      "gloss": "გადა"
+    },
+    {
+      "surface": "וחשמון",
+      "gloss": "და ხეშმონი"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "და ბეით"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "პალეთ"
+    }
+  ],
+  "timestamp": "2026-09-06T05:53:52.589436914Z",
+  "model": "glm-5.3"
+}

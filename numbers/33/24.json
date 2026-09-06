@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 33:24",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 33,
+  "translation": "დაიძრნენ შაფერის მთიდან და დაბანაკდნენ ხარადაში.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "დაიძრნენ"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "მთიდან"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "შაფერის"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "დაბანაკდნენ"
+    },
+    {
+      "surface": "בחרדה",
+      "gloss": "ხარადაში"
+    }
+  ],
+  "timestamp": "2026-09-06T05:20:24.003047708Z",
+  "model": "glm-5.3"
+}

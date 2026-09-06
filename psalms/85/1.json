@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 85,
+  "translation": "გუნდის ლიდერს, კორახის შვილებს, ფსალმუნი.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "გუნდის ლიდერს"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "შვილებს"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "კორახის"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ფსალმუნი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:57:01.394309629Z",
+  "model": "glm-5.3"
+}

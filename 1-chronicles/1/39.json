@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 1:39",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და ლოთანის ძენი: ხორი და ჰომამი; და ლოთანის და ⟨არის⟩ თიმნაჰი.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "და ძენი"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "ლოთანი"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "ხორი"
+    },
+    {
+      "surface": "והומם",
+      "gloss": "და ჰომამი"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "და და"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "ლოთანი"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "თიმნაჰი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:25:32.502770833Z",
+  "model": "glm-5.3"
+}

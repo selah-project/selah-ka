@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "და ხამის (ქამის) ძენი იყვნენ: ქუში, მიცრაიმი, ფუტი და ქენანი.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "და ძენი"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ხამი"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ქუში"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "და მიცრაიმი"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "და ფუტი"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "და ქენანი"
+    }
+  ],
+  "timestamp": "2026-09-06T03:44:42.827494199Z",
+  "model": "glm-5.3"
+}

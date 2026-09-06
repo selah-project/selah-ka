@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 32:21",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 32,
+  "translation": "და უთხრა მოშემ აჰარონს: რა გიყო ამ ხალხმა, რომ შეუტანე მას ამხელა ცოდვა?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "უთხრა"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "აჰარონი"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "გიყო"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "შეუტანე"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "ცოდვა"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "დიდი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:29:36.288250362Z",
+  "model": "glm-5.3"
+}

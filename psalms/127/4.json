@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 127,
+  "translation": "როგორც ისრები გმირის ხელში, ასე ვარიან ახალგაზრდობის ძენი.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "ისრებივით"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ხელში"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "გმირი"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "ახალგაზრდობა"
+    }
+  ],
+  "timestamp": "2026-09-06T14:17:40.695282042Z",
+  "model": "glm-5.3"
+}

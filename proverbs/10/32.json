@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 10:32",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "მართლის ბაგენი იციან სასურველს, და ბოროტთა პირი — სიცუცვე.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "ბაგენი"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "მართლის"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "იციან"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "სასურველი"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "და პირი"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ბოროტთა"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "სიცუცვე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:19:18.632602826Z",
+  "model": "glm-5.3"
+}

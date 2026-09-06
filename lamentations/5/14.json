@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 5:14",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "მოხუცებმა კარიბჭიდან შეწყვიტეს, ჭაბუკებმა — თავიანთი დაკვრიდან.",
+  "tokens": [
+    {
+      "surface": "זקנים",
+      "gloss": "მოხუცები"
+    },
+    {
+      "surface": "משער",
+      "gloss": "კარიბჭიდან"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "შეწყვიტეს"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "ჭაბუკები"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "თავიანთი დაკვრა"
+    }
+  ],
+  "timestamp": "2026-09-06T14:45:43.496247038Z",
+  "model": "glm-5.3"
+}

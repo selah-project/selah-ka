@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 33:20",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 33,
+  "translation": "და წავიდნენ რიმონ-ფერეციდან და დაბანაკდნენ ლივნაში.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "წავიდნენ"
+    },
+    {
+      "surface": "מרמן",
+      "gloss": "რიმონ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ფერეც"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "დაბანაკდნენ"
+    },
+    {
+      "surface": "בלבנה",
+      "gloss": "ლივნა"
+    }
+  ],
+  "timestamp": "2026-09-06T05:20:27.031464029Z",
+  "model": "glm-5.3"
+}

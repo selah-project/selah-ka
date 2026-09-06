@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 93,
+  "translation": "მყარად დგას ტახტი შენი მაშინაცვე, საუკუნიდან ხარ შენ.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "მყარად დგას"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "ტახტი შენი"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "მაშინაცვე"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "საუკუნიდან"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ ხარ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:00:22.396933931Z",
+  "model": "glm-5.3"
+}

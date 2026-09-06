@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 6:35",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "და ესენი ⟨არიან⟩ აჰარონის ძენი: ელეაზარი მისი ძე, ფინხასი მისი ძე, აბიშუა მისი ძე.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "და ესენი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "აჰარონის"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ელეაზარი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი ძე"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "ფინხასი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი ძე"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "აბიშუა"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი ძე"
+    }
+  ],
+  "timestamp": "2026-09-06T11:29:20.890476017Z",
+  "model": "glm-5.3"
+}

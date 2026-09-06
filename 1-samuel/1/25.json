@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 1:25",
+  "book": "1-samuel",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და დაკლეს ⟨את⟩ ხარი და მიიყვანეს ⟨את⟩ ყმაწვილი ელისთან.",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "დაკლეს"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ხარი"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ხარი"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "მიიყვანეს"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ყმაწვილი"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ყმაწვილი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "თან"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ელი"
+    }
+  ],
+  "timestamp": "2026-09-06T06:15:11.179436564Z",
+  "model": "glm-5.3"
+}

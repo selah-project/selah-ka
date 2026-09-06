@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "numbers 7:82",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "და ერთი თხა ჭკვიანი ცოდვისთვის.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "თხა"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ჭკვიანი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ცოდვისთვის"
+    }
+  ],
+  "timestamp": "2026-09-06T12:25:59.392433962Z",
+  "model": "glm-5.3"
+}

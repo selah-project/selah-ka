@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 34:7",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 34,
+  "translation": "და მოშე — ას ოცი წლისა ⟨იყო⟩ თავის სიკვდილისას; არ დაებინდა მისი თვალი და არ დაეცხრო მისი სიმანქარე.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "და მოშე"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ას"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "და ოცი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წლის"
+    },
+    {
+      "surface": "במתו",
+      "gloss": "სიკვდილისას"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "כהתה",
+      "gloss": "დაებინდა"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "მისი თვალი"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არა"
+    },
+    {
+      "surface": "נס",
+      "gloss": "დაეცხრო"
+    },
+    {
+      "surface": "לחה",
+      "gloss": "სიმანქარე"
+    }
+  ],
+  "timestamp": "2026-09-06T05:45:17.953305922Z",
+  "model": "glm-5.3"
+}

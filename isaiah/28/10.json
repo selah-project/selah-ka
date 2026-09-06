@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 28,
+  "translation": "რადგან მცნება მცნებას, მცნება მცნებას; ხაზი ხაზს, ხაზი ხაზს; ცოტა იქ, ცოტა იქ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "צו",
+      "gloss": "მცნება"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "მცნებას"
+    },
+    {
+      "surface": "צו",
+      "gloss": "მცნება"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "მცნებას"
+    },
+    {
+      "surface": "קו",
+      "gloss": "ხაზი"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "ხაზს"
+    },
+    {
+      "surface": "קו",
+      "gloss": "ხაზი"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "ხაზს"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "ცოტა"
+    },
+    {
+      "surface": "שם",
+      "gloss": "იქ"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "ცოტა"
+    },
+    {
+      "surface": "שם",
+      "gloss": "იქ"
+    }
+  ],
+  "timestamp": "2026-09-06T07:39:34.838526256Z",
+  "model": "glm-5.3"
+}

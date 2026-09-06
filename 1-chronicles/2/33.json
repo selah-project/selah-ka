@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 2:33",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და იონათანის ძენი ⟨იყვნენ⟩ ფელეთი და ზაზა; ეს იყვნენ იერახმელის ძენი.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "და ძენი"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "იონათანი"
+    },
+    {
+      "surface": "פלת",
+      "gloss": "ფელეთი"
+    },
+    {
+      "surface": "וזזא",
+      "gloss": "და ზაზა"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "היו",
+      "gloss": "იყვნენ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "იერახმელის"
+    }
+  ],
+  "timestamp": "2026-09-06T11:26:14.449498303Z",
+  "model": "glm-5.3"
+}

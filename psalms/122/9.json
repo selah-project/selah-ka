@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 122,
+  "translation": "იაჰვეს, ჩვენი ელოჰიმის, სახლის გამო კეთილს შენთვის ვეძიებ.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "გამო"
+    },
+    {
+      "surface": "בית",
+      "gloss": "სახლი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ჩვენი ელოჰიმი"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "ვეძიებ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "კეთილი"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენთვის"
+    }
+  ],
+  "timestamp": "2026-09-06T14:17:22.904707300Z",
+  "model": "glm-5.3"
+}

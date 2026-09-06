@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 10:9",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "და მოვიდა მათთან იეჰოშუა უცაბედად — მთელი ღამე ავლო ის გილგალიდან.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "და მოვიდა"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "მათთან"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "იეჰოშუა"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "უცაბედად"
+    },
+    {
+      "surface": "כל",
+      "gloss": "მთელი"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ღამე"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ავლო"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-დან"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "გილგალი"
+    }
+  ],
+  "timestamp": "2026-09-06T17:59:37.457597526Z",
+  "model": "glm-5.3"
+}

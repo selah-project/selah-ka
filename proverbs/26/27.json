@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 26:27",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "თხრის ორმოს — ჩავარდება მასში; და აგორებს ქვას — მასზე დაბრუნდება ⟨ის⟩.",
+  "tokens": [
+    {
+      "surface": "כרה",
+      "gloss": "თხრის"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "ორმოს"
+    },
+    {
+      "surface": "בה",
+      "gloss": "მასში"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ჩავარდება"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "და-აგორებს"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ქვას"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "მასზე"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "დაბრუნდება"
+    }
+  ],
+  "timestamp": "2026-09-06T10:27:01.305157301Z",
+  "model": "glm-5.3"
+}

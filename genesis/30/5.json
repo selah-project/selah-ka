@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "დაორჩა ბილჰამ და გაუჩინა იააკოვს ვაჟი.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "დაორჩა"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "ბილჰა"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "გაუჩინა"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "იააკოვს"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ვაჟი"
+    }
+  ],
+  "timestamp": "2026-09-06T03:56:24.235432742Z",
+  "model": "glm-5.3"
+}

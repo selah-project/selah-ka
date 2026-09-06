@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 19:21",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "და რემეთი, და ეინ განიმი, და ეინ ხადა, და ბეით ფაცეც.",
+  "tokens": [
+    {
+      "surface": "ורמת",
+      "gloss": "და რემეთი"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "და ეინ"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "განიმი"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "და ეინ"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "ხადა"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "და ბეით"
+    },
+    {
+      "surface": "פצץ",
+      "gloss": "ფაცეც"
+    }
+  ],
+  "timestamp": "2026-09-06T05:55:17.550234643Z",
+  "model": "glm-5.3"
+}

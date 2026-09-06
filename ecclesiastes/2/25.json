@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "რადგან ვინ ⟨იქნება რომ⟩ ჭამს, და ვინ ⟨იქნება რომ⟩ აჩქარდება, გარეთ ჩემგან?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ჭამს"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "და ვინ"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "აჩქარდება"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "გარეთ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ჩემგან"
+    }
+  ],
+  "timestamp": "2026-09-06T10:55:49.645110154Z",
+  "model": "glm-5.3"
+}

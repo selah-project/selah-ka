@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "ჭეშმარიტება იყიდე და ნუ გაყიდ; სიბრძნე, მოძღვრება და გაგება ⟨იყიდე⟩.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "ჭეშმარიტება"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "იყიდე"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და ნუ"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "გაყიდ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "სიბრძნე"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "და მოძღვრება"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "და გაგება"
+    }
+  ],
+  "timestamp": "2026-09-06T14:27:17.417313602Z",
+  "model": "glm-5.3"
+}

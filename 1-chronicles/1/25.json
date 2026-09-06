@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 1:25",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "ევერი, პელეგი, რეუ —",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "ევერი (ებერი)"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "პელეგი"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "რეუ"
+    }
+  ],
+  "timestamp": "2026-09-06T11:25:37.160432585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 14:12",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "და იყო იაჰვეს სიტყვა ჩემთან ნათქვამით:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "და იყო"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემთან"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ნათქვამით"
+    }
+  ],
+  "timestamp": "2026-09-06T08:41:06.896216050Z",
+  "model": "glm-5.3"
+}

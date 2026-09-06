@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 97,
+  "translation": "ცეცხლი მის წინაშე მიდის და აალებს მის მტრებს გარშემო.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "ცეცხლი"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "მის წინაშე"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "მიდის"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "და აალებს"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "გარშემო"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "მის მტრებს"
+    }
+  ],
+  "timestamp": "2026-09-06T09:59:39.562205763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "არს ბოროტი სნეულება, რომელიც ვნახე მზის ქვეშ: სიმდიდრე დაცული მის პატრონისათვის — მის საბოროტოდ.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "არს"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ბოროტი"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "სნეული"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ვნახე"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ქვეშ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "მზე"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "სიმდიდრე"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "დაცული"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "მის პატრონს"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "მის ბოროტებას"
+    }
+  ],
+  "timestamp": "2026-09-06T10:58:04.866670290Z",
+  "model": "glm-5.3"
+}

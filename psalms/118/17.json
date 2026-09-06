@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 118,
+  "translation": "არ მოვკვდები, რადგან ვიცხოვრებ, და მოვყვები იაჰ-ის საქმეებს.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "მოვკვდები"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ვიცხოვრებ"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "და მოვყვები"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "საქმეები"
+    },
+    {
+      "surface": "יה",
+      "gloss": "იაჰ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:06:58.609875531Z",
+  "model": "glm-5.3"
+}

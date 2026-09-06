@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 65,
+  "translation": "ლოცვის მსმენელო — შენთან მოვა ყოველი ხორცი.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "მსმენელი"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ლოცვა"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "შენთან"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყოველი"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ხორცი"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "მოვა"
+    }
+  ],
+  "timestamp": "2026-09-06T09:49:57.944211224Z",
+  "model": "glm-5.3"
+}

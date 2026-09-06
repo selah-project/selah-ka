@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "და ⟨את⟩ ერთი ზღვა, და ⟨את⟩ თორმეტი ხარი ზღვის ქვეშ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ზღვა"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ზღვა"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ხარები"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ხარები"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ორი"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ათი"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ქვეშ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ზღვის"
+    }
+  ],
+  "timestamp": "2026-09-06T06:55:33.655408429Z",
+  "model": "glm-5.3"
+}

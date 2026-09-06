@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 11:27",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "შამოთი ჰარორელი, ხელეცი ფელონელი.",
+  "tokens": [
+    {
+      "surface": "שמות",
+      "gloss": "შამოთი"
+    },
+    {
+      "surface": "ההרורי",
+      "gloss": "ჰარორელი"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "ხელეცი"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "ფელონელი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:31:04.544922478Z",
+  "model": "glm-5.3"
+}

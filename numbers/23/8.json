@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "რა დავწყევლო — არ დასწყევლია ელმა; და რა გმობდე — არ გმობს იაჰვე.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "დავწყევლო"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "დასწყევლია"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ელი"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "და რა"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "გმობდე"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "გმობს"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T05:15:14.381966604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "და გავა ის მის სახლიდან, და წავა და გახდება ⟨ცოლად⟩ სხვა კაცის.",
+  "tokens": [
+    {
+      "surface": "ויצאה",
+      "gloss": "და გავა"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "მის სახლიდან"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "და წავა"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "და გახდება"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "კაცის"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "სხვა"
+    }
+  ],
+  "timestamp": "2026-09-06T18:56:02.829397206Z",
+  "model": "glm-5.3"
+}

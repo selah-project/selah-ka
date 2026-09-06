@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 135,
+  "translation": "აქეთ იაჰს; აქეთ ⟨את⟩ სახელი იაჰვესი; აქეთ, მსახურნო იაჰვესი.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "აქეთ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "იაჰ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "აქეთ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "სახელი"
+    },
+    {
+      "surface": "שם",
+      "gloss": "სახელი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "აქეთ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "მსახურები"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:11:27.248718431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 5:7",
+  "book": "zechariah",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "და აჰა, ასწიეს ტყვიის წრე, და ეს ⟨არის⟩ ერთი დედაკაცი, მჯდომი ეიფის შუაში.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "და აჰა"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "წრე"
+    },
+    {
+      "surface": "עפרת",
+      "gloss": "ტყვიის"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "ასწიეს"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "და ეს"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "დედაკაცი"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "მჯდომი"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "შუაში"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ეიფა"
+    }
+  ],
+  "timestamp": "2026-09-06T16:19:33.392852523Z",
+  "model": "glm-5.3"
+}

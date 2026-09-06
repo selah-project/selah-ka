@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "სიკვდილის წელს მეფისა, ახაზის, იყო ეს ტვირთი.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "სიკვდილის წელს"
+    },
+    {
+      "surface": "מות",
+      "gloss": "სიკვდილი"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ახაზი"
+    },
+    {
+      "surface": "היה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "ტვირთი"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ეს"
+    }
+  ],
+  "timestamp": "2026-09-06T13:08:55.930643840Z",
+  "model": "glm-5.3"
+}

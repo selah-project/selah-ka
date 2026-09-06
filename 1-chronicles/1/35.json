@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 1:35",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "ესავის ძენი: ელიფაზი, რეუელი, იეუში, იალამი და კორახი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ესავი"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ელიფაზი"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "რეუელი"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "და იეუში"
+    },
+    {
+      "surface": "ויעלם",
+      "gloss": "და იალამი"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "და კორახი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:26:12.652824358Z",
+  "model": "glm-5.3"
+}

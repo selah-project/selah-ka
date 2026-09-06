@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 26:21",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "და გათხარეს სხვა ჭა, და მასზეც დავაობდნენ; და უწოდა მას სახელად შიტნა.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "გათხარეს"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ჭა"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "სხვა"
+    },
+    {
+      "surface": "ויריבו",
+      "gloss": "დავაობდნენ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "კიდევ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "მასზე"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "და უწოდა"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "სახელი"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "შიტნა"
+    }
+  ],
+  "timestamp": "2026-09-06T03:54:11.220157634Z",
+  "model": "glm-5.3"
+}

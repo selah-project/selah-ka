@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "და გააგზავნა ხირამმა მეფესთან ას ოცი ქიქარი ოქრო.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "და გააგზავნა"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ხირამი"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "მეფესთან"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ას"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "და ოცი"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "ქიქარი"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ოქრო"
+    }
+  ],
+  "timestamp": "2026-09-06T07:00:18.049639288Z",
+  "model": "glm-5.3"
+}

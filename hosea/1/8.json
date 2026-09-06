@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და მოწყვიტა ⟨את⟩ ლო-რუხამამ, და ჩაისახა, და შვა ძე.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "მოწყვიტა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ლო-რუחამა"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ლო-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "რუხამა"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ჩაისახა"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    }
+  ],
+  "timestamp": "2026-09-06T18:31:37.763197397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 7:17",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "და ულამის შვილები: ბედანი. ესენი ⟨არიან⟩ გილადის შვილები, მაქირის ძე, მენაშეჰის ძე.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "და შვილები"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "ულამი"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "ბედანი"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ესენი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "გილადი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "მაქირი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "მენაშეჰი"
+    }
+  ],
+  "timestamp": "2026-09-06T15:06:42.767897838Z",
+  "model": "glm-5.3"
+}

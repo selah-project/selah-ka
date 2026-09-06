@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 119,
+  "translation": "შორს ⟨არის⟩ უკეთურთაგან ხსნა, რადგან შენი წესები არ მოიძიეს.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "შორს"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "უკეთურთაგან"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "ხსნა"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "შენი წესები"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "მოიძიეს"
+    }
+  ],
+  "timestamp": "2026-09-06T16:28:23.923233108Z",
+  "model": "glm-5.3"
+}

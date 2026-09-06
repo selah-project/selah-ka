@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 24:27",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "მერარის ძენი — იააზიაჰუსგან: მისი ძე ბენო, და შოჰამი, და ზაქური, და იბრი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "მერარი"
+    },
+    {
+      "surface": "ליעזיהו",
+      "gloss": "იააზიაჰუსგან"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი ძე"
+    },
+    {
+      "surface": "ושהם",
+      "gloss": "და შოჰამი"
+    },
+    {
+      "surface": "וזכור",
+      "gloss": "და ზაქური"
+    },
+    {
+      "surface": "ועברי",
+      "gloss": "და იბრი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:37:28.270130048Z",
+  "model": "glm-5.3"
+}

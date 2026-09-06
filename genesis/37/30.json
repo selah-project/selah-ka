@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 37,
+  "translation": "და მიუბრუნდა თავის ძმებთან და თქვა: ბავშვი აღარ არის, ხოლო მე — სად მივალ?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "მიუბრუნდა"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-სთან"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "თავისი ძმები"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ბავშვი"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "აღარ არის"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ხოლო მე"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "სად"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "בא",
+      "gloss": "მივალ"
+    }
+  ],
+  "timestamp": "2026-09-06T12:06:59.682742101Z",
+  "model": "glm-5.3"
+}

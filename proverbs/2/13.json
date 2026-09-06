@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 2:13",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "რომელნიც ტოვებენ სიმართლის ბილიკებს, სავალად ბნელის გზებში,",
+  "tokens": [
+    {
+      "surface": "העזבים",
+      "gloss": "ტოვებენ"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "ბილიკები"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "სიმართლის"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "სავალად"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "გზებში"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ბნელის"
+    }
+  ],
+  "timestamp": "2026-09-06T10:15:41.842453176Z",
+  "model": "glm-5.3"
+}

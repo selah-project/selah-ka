@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "და მოუწოდა იაჰვეს მალაქმა აბრაჰამს მეორედ ციდან.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "მოუწოდა"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "მალაქი (ანგელოზი)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-სკენ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "აბრაჰამი"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "მეორედ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-დან"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ცა"
+    }
+  ],
+  "timestamp": "2026-09-06T03:51:25.426788393Z",
+  "model": "glm-5.3"
+}

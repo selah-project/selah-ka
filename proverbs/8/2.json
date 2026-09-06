@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "მაღლების თავში, გზის ზემოთ, ბილიკთა სახლთან ⟨იგი⟩ მიდგას.",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "თავში"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "მაღლები"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ზემოთ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "გზა"
+    },
+    {
+      "surface": "בית",
+      "gloss": "სახლი"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "ბილიკების"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "მიდგას"
+    }
+  ],
+  "timestamp": "2026-09-06T17:24:20.120626889Z",
+  "model": "glm-5.3"
+}

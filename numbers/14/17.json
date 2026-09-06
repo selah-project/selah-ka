@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 14:17",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "და ახლა განდიდდეს, აწ, ადონაის ძალი, როგორც მითქვამს სიტყვით:",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "და ახლა"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "განდიდდეს"
+    },
+    {
+      "surface": "נא",
+      "gloss": "აწ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ძალი"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ადონაი"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "როგორც"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "მითქვამს"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სიტყვით"
+    }
+  ],
+  "timestamp": "2026-09-06T05:07:18.431864427Z",
+  "model": "glm-5.3"
+}

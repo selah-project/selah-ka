@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 7:19",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ბიგვაის შვილები — ორი ათასსა და სამოცდაშვიდი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "ბიგვაი"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ორი ათასი"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "სამოცი"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "შვიდი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:21:33.197550607Z",
+  "model": "glm-5.3"
+}

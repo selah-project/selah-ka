@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 40,
+  "translation": "და აანთო ნერები იაჰვეს წინაშე, როგორც ბრძანა იაჰვემ ⟨את⟩ მოშეს.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "აანთო"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "ნერები"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "წინაშე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "როგორც"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ბრძანა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მოშე"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    }
+  ],
+  "timestamp": "2026-09-06T04:34:32.794242307Z",
+  "model": "glm-5.3"
+}

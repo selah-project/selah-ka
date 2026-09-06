@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 28:44",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 28,
+  "translation": "ის შენ გადაგიდებს, შენ კი მას არ გადასცემ; ის იქნება თავად, შენ კი იქნები კუდად.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "ילוך",
+      "gloss": "გადაგიდებს"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "და შენ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "გადასცემ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "იქნება"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "თავად"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "და შენ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "იქნები"
+    },
+    {
+      "surface": "לזנב",
+      "gloss": "კუდად"
+    }
+  ],
+  "timestamp": "2026-09-06T05:40:30.002994927Z",
+  "model": "glm-5.3"
+}

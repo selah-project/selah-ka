@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 7:36",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ცოფაქის შვილები: სუახი და ხარნეფერი და შუალი და ბერი და იმრა.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "ცოფაქის"
+    },
+    {
+      "surface": "סוח",
+      "gloss": "სუახი"
+    },
+    {
+      "surface": "וחרנפר",
+      "gloss": "და ხარნეფერი"
+    },
+    {
+      "surface": "ושועל",
+      "gloss": "და შუალი"
+    },
+    {
+      "surface": "וברי",
+      "gloss": "და ბერი"
+    },
+    {
+      "surface": "וימרה",
+      "gloss": "და იმრა"
+    }
+  ],
+  "timestamp": "2026-09-06T11:29:33.642990453Z",
+  "model": "glm-5.3"
+}

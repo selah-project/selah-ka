@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 20:5",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 20,
+  "translation": "ღრმა წყალი — ზრაფი კაცის გულში, და ბოჭკოვანი კაცი ამოიღებს მას.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "წყალი"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "ღრმა"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ზრაფი"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "გულში"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცის"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "და კაცი"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "ბოჭკოვანი"
+    },
+    {
+      "surface": "ידלנה",
+      "gloss": "ამოიღებს მას"
+    }
+  ],
+  "timestamp": "2026-09-06T14:27:30.968604339Z",
+  "model": "glm-5.3"
+}

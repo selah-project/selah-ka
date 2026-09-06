@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 13:11",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "იოსეფის (იოსების) ტომიდან — მენაშეს ტომიდან — გადი სუსის ძე.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ტომიდან"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "იოსეფი"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ტომიდან"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "მენაშე"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "გადი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "סוסי",
+      "gloss": "სუსი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:26:13.598635847Z",
+  "model": "glm-5.3"
+}

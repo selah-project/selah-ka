@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 7:27",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ერთი ხარი, სახლარის ძე, ერთი ვერძი, ერთი კრავი, წლის ძე, აღსავლენად.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ხარი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "სახლარი"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ვერძი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "კრავი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "წლის"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "აღსავლენად"
+    }
+  ],
+  "timestamp": "2026-09-06T12:25:11.630314228Z",
+  "model": "glm-5.3"
+}

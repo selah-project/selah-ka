@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 39,
+  "translation": "⟨את⟩ მეჯლისი სუფრა, ⟨את⟩ ყველა მისი ჭურჭელი და ⟨את⟩ სახის პური.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "სუფრა"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "სუფრა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ყველა"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ჭურჭელი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "პური"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "პური"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "სახის"
+    }
+  ],
+  "timestamp": "2026-09-06T04:34:07.261187852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 24:32",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "მაშინ დავინახე მე, დავდევ ჩემი გული: ვიხილე და შევითვისე დარიგება.",
+  "tokens": [
+    {
+      "surface": "ואחזה",
+      "gloss": "დავინახე"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "დავდევ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ჩემი გული"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ვიხილე"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "შევითვისე"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "დარიგება"
+    }
+  ],
+  "timestamp": "2026-09-06T10:26:13.764724821Z",
+  "model": "glm-5.3"
+}

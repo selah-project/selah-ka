@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 11:1",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "სიტყვა, რომელიც იყო ირმიაჰუსთან (იერემია) იაჰვესგან ⟨את⟩, სათქმელად:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "היה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "אל",
+      "gloss": "კიდევ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ირმიაჰუ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩-გან",
+      "marks": "იაჰვე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T18:20:55.310879604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "შენთან, იაჰვე, ვღაღადებ და ადონაის ვევედრები.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "შენთან"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ვღაღადებ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და …-თან"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ადონაი"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "ვევედრებ"
+    }
+  ],
+  "timestamp": "2026-09-06T09:38:30.047999589Z",
+  "model": "glm-5.3"
+}

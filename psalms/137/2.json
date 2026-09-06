@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 137,
+  "translation": "ტირიფებზე მის შუაში ჩამოვკიდეთ ჩვენი ქნარები.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "ტირიფები"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "მის შუაში"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "ჩამოვკიდეთ"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "ჩვენი ქნარები"
+    }
+  ],
+  "timestamp": "2026-09-06T10:13:04.621520837Z",
+  "model": "glm-5.3"
+}

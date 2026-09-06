@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 14:6",
+  "book": "zechariah",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "და იქნება იმ დღეს: არ იქნება სინათლე — ბრწყინვალე სხივები გაყინდება.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "და იქნება"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "იმ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "იქნება"
+    },
+    {
+      "surface": "אור",
+      "gloss": "სინათლე"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "ბრწყინვალე სხივები"
+    },
+    {
+      "surface": "יקפאון",
+      "gloss": "გაყინდება"
+    }
+  ],
+  "timestamp": "2026-09-06T09:28:27.988751822Z",
+  "model": "glm-5.3"
+}

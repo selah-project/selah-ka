@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 31:14",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 31,
+  "translation": "იყო ვაჭრულ გემებივით: შორიდან შემოიტანს თავის საჭმელს.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "כאניות",
+      "gloss": "გემებივით"
+    },
+    {
+      "surface": "סוחר",
+      "gloss": "ვაჭრის"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "შორიდან"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "შემოიტანს"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "თავის საჭმელი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:29:05.326775352Z",
+  "model": "glm-5.3"
+}

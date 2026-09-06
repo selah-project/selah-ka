@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezra 2:21",
+  "book": "ezra",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "ბეთ-ლეხემის შვილნი — ას ოცდასამი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილნი"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ბეთ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ლეხემი"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ას"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ოცი"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "და სამი"
+    }
+  ],
+  "timestamp": "2026-09-06T14:58:20.728201757Z",
+  "model": "glm-5.3"
+}

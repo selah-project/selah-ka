@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "და აბრაჰამი ⟨იყო⟩ ძე ასი წლისა, როცა მას დაებადა ⟨את⟩ იცხაკი, მისი ძე.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "და აბრაჰამი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელი"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "დაბადებისას"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იცხაკი"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "იცხაკი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი ძე"
+    }
+  ],
+  "timestamp": "2026-09-06T03:50:11.724073245Z",
+  "model": "glm-5.3"
+}

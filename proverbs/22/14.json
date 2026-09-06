@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 22:14",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "უცხო ქალთა პირი ღრმა ორმო ⟨არის⟩; იაჰვეს მიერ შეძულებული ჩავარდება იქ.",
+  "tokens": [
+    {
+      "surface": "שוחה",
+      "gloss": "ორმო"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "ღრმა"
+    },
+    {
+      "surface": "פי",
+      "gloss": "პირი"
+    },
+    {
+      "surface": "זרות",
+      "gloss": "უცხო ქალთა"
+    },
+    {
+      "surface": "זעום",
+      "gloss": "შეძულებული"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ჩავარდება"
+    },
+    {
+      "surface": "שם",
+      "gloss": "იქ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:24:24.195544750Z",
+  "model": "glm-5.3"
+}

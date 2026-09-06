@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "და ემსახურნენ იშრაელის ძენი ⟨את⟩ ეგლონს, მეფესა მოაბისასა, თვრამეტი წელი.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "ემსახურნენ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელის"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ეგლონს"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "ეგლონი"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "მოაბი"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "რვა"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ათი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელი"
+    }
+  ],
+  "timestamp": "2026-09-06T06:02:22.323761744Z",
+  "model": "glm-5.3"
+}

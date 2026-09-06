@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 2:20",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "იმისთვის, რომ იარო კეთილთა გზით და მართალთა ბილიკები დაიცვა.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "იმისთვის რომ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "იარო"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "გზით"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "კეთილნი"
+    },
+    {
+      "surface": "וארחות",
+      "gloss": "და ბილიკები"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "მართალნი"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "დაიცვა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:16:15.074716912Z",
+  "model": "glm-5.3"
+}

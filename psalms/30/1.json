@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "მზმორი, სიმღერა — სახლის ხანუქისა ⟨განწმენდისა⟩, დავითისა.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "მზმორი"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "სიმღერა"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "ხანუქისა"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "სახლის"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "დავითისა"
+    }
+  ],
+  "timestamp": "2026-09-06T13:58:55.074286534Z",
+  "model": "glm-5.3"
+}

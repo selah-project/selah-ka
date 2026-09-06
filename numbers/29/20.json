@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 29:20",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 29,
+  "translation": "და მესამე დღეს: თერთმეტი ხარი, ორი ვერძი, თოთხმეტი კრავი ერთი წლისა, უნაკლონი.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "და დღეს"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "მესამე"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ხარები"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "თერთმეტი"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ათი"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ვერძები"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ორი"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "კრავები"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წლის"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ოთხი"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ათი"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "უნაკლონი"
+    }
+  ],
+  "timestamp": "2026-09-06T20:34:29.446730930Z",
+  "model": "glm-5.3"
+}

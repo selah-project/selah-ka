@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 135,
+  "translation": "რადგან მე ვიცი, რომ იაჰვე ⟨არის⟩ დიდი, და ჩვენი ადონაი ⟨არის⟩ ყველა ღმერთზე.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ვიცი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "დიდი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "ჩვენი ადონაი"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ღმერთები"
+    }
+  ],
+  "timestamp": "2026-09-06T10:11:29.332756354Z",
+  "model": "glm-5.3"
+}

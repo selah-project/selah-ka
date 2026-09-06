@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "პირის ნაყოფიდან ჭამს კაცი სიკეთეს, ხოლო მოღალატეთა ნეფეში — ძალადობა.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "ნაყოფიდან"
+    },
+    {
+      "surface": "פי",
+      "gloss": "პირი"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ჭამს"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "სიკეთე"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "და ნეფეში"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "მოღალატენი"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ძალადობა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:20:56.983035621Z",
+  "model": "glm-5.3"
+}

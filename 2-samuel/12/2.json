@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 12:2",
+  "book": "2-samuel",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "მდიდარს ჰყავდა საძოვარი და პირუტყვი ძალიან ბევრი.",
+  "tokens": [
+    {
+      "surface": "לעשיר",
+      "gloss": "მდიდარს"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ჰყავდა"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "საძოვარი"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "და პირუტყვი"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ბევრი"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ძალიან"
+    }
+  ],
+  "timestamp": "2026-09-06T15:53:34.090897855Z",
+  "model": "glm-5.3"
+}

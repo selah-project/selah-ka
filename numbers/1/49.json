@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "მხოლოდ ლევის ტომი ⟨את⟩ არ აღრიცხავ, და ⟨את⟩ მათს თავს არ ასწევ იშრაელის ძეთა შორის.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "მხოლოდ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ტომი"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ტომი"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ლევი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "აღრიცხავ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "მათი თავი"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "მათი თავი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ასწევ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "შორის"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელის"
+    }
+  ],
+  "timestamp": "2026-09-06T04:58:57.303804412Z",
+  "model": "glm-5.3"
+}

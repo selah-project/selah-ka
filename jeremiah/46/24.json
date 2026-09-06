@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 46:24",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 46,
+  "translation": "დამცირდა ასული მიცრაიმისა — მიეცა ჩრდილოეთის ხალხის ხელში.",
+  "tokens": [
+    {
+      "surface": "הבישה",
+      "gloss": "დამცირდა"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ასული"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "მიცრაიმი"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "მიეცა"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ხელში"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ჩრდილოეთის"
+    }
+  ],
+  "timestamp": "2026-09-06T13:25:09.582975144Z",
+  "model": "glm-5.3"
+}

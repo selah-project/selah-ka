@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 115,
+  "translation": "ჩვენი ელოჰიმი ⟨არის⟩ ცაში; ყველაფერს, რაც ინება, გააკეთა.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "და ჩვენი ელოჰიმი"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ცაში"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველაფერი"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რაც"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ინება"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "გააკეთა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:06:07.359371366Z",
+  "model": "glm-5.3"
+}

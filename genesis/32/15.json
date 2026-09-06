@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 32,
+  "translation": "ას ოცი მდედრი თხა და ოცი მამალი თხა, ორასი ნაპირი და ოცი ვერძი.",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "მდედრი თხა"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ორასი"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "და მამალი თხა"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ოცი"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "ნაპირი"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ორასი"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "და ვერძი"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ოცი"
+    }
+  ],
+  "timestamp": "2026-09-06T03:57:53.741279425Z",
+  "model": "glm-5.3"
+}

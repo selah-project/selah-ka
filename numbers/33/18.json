@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 33:18",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 33,
+  "translation": "და წავიდნენ ხაწეროთიდან და დაბანაკდნენ რითმაში.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "წავიდნენ"
+    },
+    {
+      "surface": "מחצרת",
+      "gloss": "ხაწეროთი"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "დაბანაკდნენ"
+    },
+    {
+      "surface": "ברתמה",
+      "gloss": "რითმა"
+    }
+  ],
+  "timestamp": "2026-09-06T05:20:27.031196864Z",
+  "model": "glm-5.3"
+}

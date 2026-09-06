@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "ორმის ამთხრელი ჩავარდება მასში და ღობის დამრღვევს გველი დაუკბენს.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "ამთხრელი"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "ორმო"
+    },
+    {
+      "surface": "בו",
+      "gloss": "მასში"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ჩავარდება"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "და დამრღვევი"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "ღობე"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "დაუკბენს"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "გველი"
+    }
+  ],
+  "timestamp": "2026-09-06T14:49:20.795536865Z",
+  "model": "glm-5.3"
+}

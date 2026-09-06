@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 13:9",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "ბინიამინის ტომისთვის ⟨არის⟩ ფალთი, რაფუს ძე.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ტომისთვის"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ბინიამინი"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "ფალთი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "רפוא",
+      "gloss": "რაფუ"
+    }
+  ],
+  "timestamp": "2026-09-06T12:25:56.896359460Z",
+  "model": "glm-5.3"
+}

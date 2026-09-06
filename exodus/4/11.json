@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 4:11",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და უთხრა იაჰვემ მას: ვინ დაუდგა პირი ადამიანს, ან ვინ დგას მუნჯს, ან ყრუს, ან მხედველს, ან ბრმას? ნუ ცა არა მე ვარ იაჰვე?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "უთხრა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "დაუდგა"
+    },
+    {
+      "surface": "פה",
+      "gloss": "პირი"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ადამიანს"
+    },
+    {
+      "surface": "או",
+      "gloss": "ან"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "ישום",
+      "gloss": "დგას"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "მუნჯს"
+    },
+    {
+      "surface": "או",
+      "gloss": "ან"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ყრუს"
+    },
+    {
+      "surface": "או",
+      "gloss": "ან"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "მხედველს"
+    },
+    {
+      "surface": "או",
+      "gloss": "ან"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ბრმას"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ნუ ცა"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T17:46:37.247079673Z",
+  "model": "glm-5.3"
+}

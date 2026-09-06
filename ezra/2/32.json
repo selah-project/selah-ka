@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 2:32",
+  "book": "ezra",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "შვილნი ხარიმისი — სამასი ოცი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილნი"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ხარიმი"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "სამი"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "და ოცი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:13:17.657978353Z",
+  "model": "glm-5.3"
+}

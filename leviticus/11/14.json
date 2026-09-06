@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "და ⟨את⟩ ქირა და ⟨את⟩ ქორი თავისი სახეობისა.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ქირა"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "ქირა"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ქორი"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "ქორი"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "თავისი სახეობა"
+    }
+  ],
+  "timestamp": "2026-09-06T04:39:31.599543463Z",
+  "model": "glm-5.3"
+}

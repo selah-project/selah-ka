@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 29:24",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 29,
+  "translation": "და შემაია ნეხელამელს უთხარი სათქმელად:",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "და –"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "შემაია"
+    },
+    {
+      "surface": "הנחלמי",
+      "gloss": "ნეხელამელი"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "უთხარი"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T08:17:06.700075185Z",
+  "model": "glm-5.3"
+}

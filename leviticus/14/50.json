@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "და დაკლავს ⟨את⟩ ერთ ჩიტს თიხის ჭურჭელში, ცოცხალ წყალზე.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "და დაკლავს"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ჩიტი"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "ჩიტი"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ში"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ჭურჭელი"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "თიხის"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზედ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "წყალი"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ცოცხალი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:42:15.541282738Z",
+  "model": "glm-5.3"
+}

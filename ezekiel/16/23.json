@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 16:23",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 16,
+  "translation": "და მოხდა ყველა შენი ბოროტების შემდეგ — ვაი, ვაი შენ! ადონაი იაჰვეს ნათქვამი.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "და მოხდა"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "შემდეგ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "შენი ბოროტება"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ვაი"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ვაი"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ნათქვამი"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ადონაი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T08:41:38.910645219Z",
+  "model": "glm-5.3"
+}

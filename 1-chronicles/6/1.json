@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "ძენი ლევისა: გერშომი, კეჰათი და მერარი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ლევი (ლევი)"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "გერშომი"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "კეჰათი"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "და მერარი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:28:37.065672039Z",
+  "model": "glm-5.3"
+}

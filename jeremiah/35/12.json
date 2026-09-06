@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 35:12",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 35,
+  "translation": "და მოხდა იაჰვეს სიტყვა ირმეიაჰუსთან (იერემიასთან), რომ ეთქვა:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "და მოხდა"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ისკენ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ირმეიაჰუ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "რომ ეთქვა"
+    }
+  ],
+  "timestamp": "2026-09-06T08:19:48.702295487Z",
+  "model": "glm-5.3"
+}

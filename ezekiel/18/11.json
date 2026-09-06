@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 18:11",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "ხოლო ის ⟨את⟩ ყველა ამათ არ აღასრულა, რადგან მთებზეც კი ჭამა და ⟨את⟩ თავისი მოყვრის ცოლი შებილწა.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "ხოლო ის"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ყველა ამათ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ესე"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "აღასრულა"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ცვი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "მთები"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ჭამა"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "მოყვრის ცოლი"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ცოლი"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "მისი მოყვარე"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "შებილწა"
+    }
+  ],
+  "timestamp": "2026-09-06T13:32:35.814197394Z",
+  "model": "glm-5.3"
+}

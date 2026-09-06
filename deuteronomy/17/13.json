@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 17:13",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 17,
+  "translation": "და მთელი ხალხი ისმინებს და დაიშინის, და აღარ მოიქცევიან ამპარტავნად.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "და მთელი"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ისმინებს"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "და დაიშინის"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არა"
+    },
+    {
+      "surface": "יזידון",
+      "gloss": "ამპარტავნობს"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "კიდევ"
+    }
+  ],
+  "timestamp": "2026-09-06T05:34:06.586712019Z",
+  "model": "glm-5.3"
+}

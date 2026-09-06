@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "და იხილა მისი იარაღის მტვირთველმა, რომ მოკვდა შაული, და დავარდა ისიც ხმალზე და მოკვდა.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "და იხილა"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "მტვირთველმა"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "მისი იარაღი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "მოკვდა"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "შაული"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "და დავარდა"
+    },
+    {
+      "surface": "גם",
+      "gloss": "აგრეთვე"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "ხმალი"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "და მოკვდა"
+    }
+  ],
+  "timestamp": "2026-09-06T11:31:54.705420024Z",
+  "model": "glm-5.3"
+}

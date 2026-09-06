@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 7:8",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "აჰა, თქვენ ეყრდნობით თქვენთას ტყუილის სიტყვებს — უსარგებლოდ.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "თქვენ"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "ეყრდნობით"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "თქვენთას"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "სიტყვები"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "ტყუილის"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "რათა არ"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "ისარგებლოს"
+    }
+  ],
+  "timestamp": "2026-09-06T08:02:47.754761861Z",
+  "model": "glm-5.3"
+}

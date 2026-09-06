@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 20:18",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 20,
+  "translation": "ზრახვანი რჩევით იმტკიცება, და გეგმებით აწარმოე ომი.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "ზრახვანი"
+    },
+    {
+      "surface": "בעצה",
+      "gloss": "რჩევით"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "იმტკიცება"
+    },
+    {
+      "surface": "ובתחבלות",
+      "gloss": "და გეგმებით"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "აწარმოე"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ომი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:23:52.559752673Z",
+  "model": "glm-5.3"
+}

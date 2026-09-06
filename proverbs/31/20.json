@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 31:20",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 31,
+  "translation": "გაშალა ხელტეკილს თავისი სახელური და გაუწოდა ხელები მიუსაფარს.",
+  "tokens": [
+    {
+      "surface": "כפה",
+      "gloss": "სახელური"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "გაშალა"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ხელტეკილს"
+    },
+    {
+      "surface": "וידיה",
+      "gloss": "ხელები"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "გაუწოდა"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "მიუსაფარს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:29:05.330522291Z",
+  "model": "glm-5.3"
+}

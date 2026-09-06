@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 33,
+  "translation": "და უთხრა მას: თუ არ ⟨არის⟩ მავალნი შენი პირი, ნუ აგვიყვან აქიდან.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და უთხრა"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "არ ⟨არის⟩"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "შენი პირი"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "მავალნი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "აგვიყვან"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "აქიდან"
+    }
+  ],
+  "timestamp": "2026-09-06T12:17:07.344851572Z",
+  "model": "glm-5.3"
+}

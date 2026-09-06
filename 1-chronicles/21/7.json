@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "და იყო ბოროტი ელოჰიმის თვალებში ამ საქმეზე, და დაარტყა ⟨את⟩ იშრაელს.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "იყო ბოროტი"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "თვალებში"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "საქმე"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "დაარტყა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იშრაელი"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:35:27.044763698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 19:38",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "და უმცროსმაც (ქალმა), ისიც, ვაჟი შვა, და უწოდა სახელი მისი ბენ-ამი; ის ⟨არის⟩ ამონის ძეთა მამა დღემდე ⟨ამ⟩.",
+  "tokens": [
+    {
+      "surface": "והצעירה",
+      "gloss": "და უმცროსი"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ც"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ისიც"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ვაჟი"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "და უწოდა"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "სახელი მისი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ამი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "მამა"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ამონის"
+    },
+    {
+      "surface": "עד",
+      "gloss": "დღემდე"
+    },
+    {
+      "surface": "היום",
+      "gloss": "დღე"
+    }
+  ],
+  "timestamp": "2026-09-06T03:49:34.909834338Z",
+  "model": "glm-5.3"
+}

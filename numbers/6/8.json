@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 6:8",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "ყველა დღე მისი ნაზირობისა წმიდა ⟨არის⟩ იგი იაჰვესთვის.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "მისი ნაზირობა"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "წმიდა"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "იგი"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "იაჰვესთვის"
+    }
+  ],
+  "timestamp": "2026-09-06T12:24:43.312825491Z",
+  "model": "glm-5.3"
+}

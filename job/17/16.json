@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 17:16",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 17,
+  "translation": "შეოლის საკეტებთან ჩავლენ; თუ ერთად მტვერზე განვისვენებთ.",
+  "tokens": [
+    {
+      "surface": "בדי",
+      "gloss": "საკეტები"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "შეოლი"
+    },
+    {
+      "surface": "תרדנה",
+      "gloss": "ჩავლენ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ერთად"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "მტვერი"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "განსვენება"
+    }
+  ],
+  "timestamp": "2026-09-06T14:36:08.140239705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 17:8",
+  "book": "1-kings",
+  "lang": "ka",
+  "chapter": 17,
+  "translation": "და მოხდა იაჰვეს სიტყვა მასთან ასე თქმით:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "და მოხდა"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "მასთან"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ასე თქმით"
+    }
+  ],
+  "timestamp": "2026-09-06T07:04:25.404864104Z",
+  "model": "glm-5.3"
+}

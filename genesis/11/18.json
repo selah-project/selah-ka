@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "და იცოცხლა ფელეგმა ოცდაათი წელი, და შვა ⟨את⟩ რეუ.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "იცოცხლა"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "ფელეგი"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ოცდაათი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელი"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "და შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "რეუ"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "რეუ"
+    }
+  ],
+  "timestamp": "2026-09-06T12:01:37.064752448Z",
+  "model": "glm-5.3"
+}

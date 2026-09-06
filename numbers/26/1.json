@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 26:1",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "და თქვა იაჰვემ მოშეს (მოსე) და ელაზარს, აჰარონის ძეს, ქურუმს, ასე რომ თქმა:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და -ს"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ელაზარი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "აჰარონი"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ქურუმი"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ასე რომ თქმა"
+    }
+  ],
+  "timestamp": "2026-09-06T05:15:33.246103794Z",
+  "model": "glm-5.3"
+}

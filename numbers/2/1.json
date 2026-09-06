@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 2:1",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და ელაპარაკა იაჰვემ მოშეს (მოსე) და აჰარონს, სათქმელად:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "და ელაპარაკა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვემ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "საკენ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშეს"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და საკენ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "აჰარონს"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T04:59:16.395808366Z",
+  "model": "glm-5.3"
+}

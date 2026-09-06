@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 3:2",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "და დაიწყო აშენება მეორე თვეში, მეორე ⟨დღეს⟩, თავისი მეფობის მეოთხე წელს.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "დაიწყო"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "აშენება"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "თვეში"
+    },
+    {
+      "surface": "השני",
+      "gloss": "მეორე"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "მეორე ⟨დღეს⟩"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "წელს"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "მეოთხე"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "თავისი მეფობის"
+    }
+  ],
+  "timestamp": "2026-09-06T16:42:36.379918725Z",
+  "model": "glm-5.3"
+}

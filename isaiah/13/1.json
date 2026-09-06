@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "ბაველის ტვირთი, რომელიც იხილა იეშაიაჰუმ (ესაია), ამოცის ძემ:",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ტვირთი"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ბაველი"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "იხილა"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "იეშაიაჰუ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "ამოცი"
+    }
+  ],
+  "timestamp": "2026-09-06T07:34:19.060011323Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 28:11",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 28,
+  "translation": "რადგან მასხრად ამხედრავი ბაგით და სხვა ენით ილაპარაკებს ამ ხალხთან.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "בלעגי",
+      "gloss": "მასხრად ამხედრავი"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ბაგე"
+    },
+    {
+      "surface": "ובלשון",
+      "gloss": "და ენით"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "სხვა"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ილაპარაკებს"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ამ"
+    }
+  ],
+  "timestamp": "2026-09-06T07:39:34.838679081Z",
+  "model": "glm-5.3"
+}

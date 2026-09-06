@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 7:2",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "და შენ, ადამის ძეგლ: ასე იტყვის ადონაი იაჰვე იშრაელის მიწას: ბოლო! მოვიდა ბოლო მიწის ოთხ კიდეზე.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "და შენ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ადამის"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ადონაი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "לאדמת",
+      "gloss": "მიწას"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელის"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "ბოლო"
+    },
+    {
+      "surface": "בא",
+      "gloss": "მოვიდა"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "ბოლო"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზედა"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "ოთხივე"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "კიდეები"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    }
+  ],
+  "timestamp": "2026-09-06T08:36:32.238411634Z",
+  "model": "glm-5.3"
+}

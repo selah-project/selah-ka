@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "lamentations 3:40",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "გამოვიკვლიოთ ჩვენი გზები და გამოვიძიოთ და მოვიქცეთ იაჰვესკენ.",
+  "tokens": [
+    {
+      "surface": "נחפשה",
+      "gloss": "გამოვიკვლიოთ"
+    },
+    {
+      "surface": "דרכינו",
+      "gloss": "ჩვენი გზები"
+    },
+    {
+      "surface": "ונחקרה",
+      "gloss": "და გამოვიძიოთ"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "და მოვიქცეთ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "სანამ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:53:06.110698033Z",
+  "model": "glm-5.3"
+}

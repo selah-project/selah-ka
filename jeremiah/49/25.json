@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 49:25",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 49,
+  "translation": "როგორ არ ⟨არის⟩ მიტოვებული ქების ქალაქი, ჩემი სიხარულის ქალაქი!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "როგორ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "მიატოვა"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ქალაქი"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ქება"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ქალაქი"
+    },
+    {
+      "surface": "משושי",
+      "gloss": "ჩემი სიხარული"
+    }
+  ],
+  "timestamp": "2026-09-06T08:29:30.622293800Z",
+  "model": "glm-5.3"
+}

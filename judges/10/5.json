@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "და მოკვდა იაირი და დაიკრძალა ყამონში.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "და მოკვდა"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "იაირი"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "და დაიკრძალა"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "ყამონში"
+    }
+  ],
+  "timestamp": "2026-09-06T19:37:28.575415002Z",
+  "model": "glm-5.3"
+}

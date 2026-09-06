@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 14:5",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "როგორც ბრძანა იაჰვემ ⟨את⟩ მოშეს (მოსე), ისე მოიქცნენ იშრაელის ძეებმა და გაიყვეს ⟨את⟩ მიწა.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "როგორც"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ბრძანა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მოშე"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ისე"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "მოიქცნენ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    },
+    {
+      "surface": "ויחלקו",
+      "gloss": "გაიყვეს"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მიწა"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    }
+  ],
+  "timestamp": "2026-09-06T05:53:12.460494781Z",
+  "model": "glm-5.3"
+}

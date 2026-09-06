@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 15:11",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "შეოლი და ავადონი იაჰვეს წინაშე ⟨არიან⟩, უმეტესად კი — ადამის შვილთა გულები.",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "შეოლი"
+    },
+    {
+      "surface": "ואבדון",
+      "gloss": "და ავადონი"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "წინაშე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אף",
+      "gloss": "უმეტესად"
+    },
+    {
+      "surface": "כי",
+      "gloss": "კი"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "გულები"
+    },
+    {
+      "surface": "בני",
+      "gloss": "შვილთა"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ადამის"
+    }
+  ],
+  "timestamp": "2026-09-06T17:04:16.368361112Z",
+  "model": "glm-5.3"
+}

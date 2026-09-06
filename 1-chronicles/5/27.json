@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 5:27",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "ლევის ძენი: გერეშონი, კეჰათი და მერარი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ლევი"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "გერეშონი"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "კეჰათი"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "და მერარი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:27:55.034310096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 1:9",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "ზებულონს — ელიავი ძე ხელონისა.",
+  "tokens": [
+    {
+      "surface": "לזבולן",
+      "gloss": "ზებულონს"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ელიავი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "ხელონი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:58:06.024754911Z",
+  "model": "glm-5.3"
+}

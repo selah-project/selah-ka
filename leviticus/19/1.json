@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 19:1",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "და ითქვა იაჰვემ მოშეს (მოსე):",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ითქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სიტყვით"
+    }
+  ],
+  "timestamp": "2026-09-06T04:46:28.963227177Z",
+  "model": "glm-5.3"
+}

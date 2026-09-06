@@ -1,0 +1,111 @@
+#:rendering{:label "ქართული",
+            :source
+            {:text :oshb-wlc,
+             :corpus :tanakh,
+             :verses 23213,
+             :tokens 305507},
+            :provenance
+            {:derived
+             [:lang
+              :version
+              :label
+              :status
+              :lineage
+              :source
+              :rails
+              :rails-commit
+              :name-seat
+              :models
+              :tiers
+              :produced
+              :license
+              :catalog],
+             :declared
+             [:role :open-questions :rendering/adjudication]},
+            :role :served,
+            :produced {:from "2026-09-06", :to "2026-09-06"},
+            :id "ka.v1",
+            :catalog {:ui "resources/i18n/ui/ka.edn"},
+            :license "CC BY-SA 4.0 (The Selah Georgian Rendering)",
+            :model
+            {:provider :z.ai,
+             :models {"glm-5.3" 23213},
+             :tiers {"glm-5.2" 23213},
+             :prompt "selah.translate.prompt",
+             :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline
+            {:rails "docs/methodology/translation-discipline/ka.md",
+             :rails-commit "ba2ab8b6",
+             :foundation
+             [:hebrew-first
+              :deut-6-4-double-fidelity
+              :no-foreknowledge
+              :aleph-tav-total
+              :fills-bracketed
+              :no-translator-notes
+              :tough-verse-lay-it-bare],
+             :name-seat
+             {"אדני" "ადონაი",
+              "אל" "ელი",
+              "אלהים" "ელოჰიმი",
+              "אלוה" "ელოაჰი",
+              "ה" "ჰ",
+              "ח" "ხ",
+              "ט" "ტ",
+              "יה" "იაჰ",
+              "יהוה" "იაჰვე",
+              "צ" "ც",
+              "צבאות" "ცევაოთი",
+              "ק" "კ",
+              "שדי" "შადაი",
+              "ת" "თ"},
+             :open-questions
+             ["TWO RAIL GAPS at the erasure word (the only 2 უფალი verses in the store): Aramaic מרא Dan 2:47 (hy filed the identical gap; en transliterates Mare) + divine אדון Zech 6:5 (one ruling covers Josh 3:11/13, Ps 97:5)"
+              "Old-Georgian extended-case register ~35 verses (სახლსა იაჰვესსა) — stem intact, one-register-or-mixed question"
+              "vocative split იაჰვეო 36 / იაჰვევ 31 — needs a Georgian ear"
+              "იაჰვესი full genitive ×207 — form the rails did not name"
+              "Joshua shadow form drift — ruling names two forms, store has seven"
+              "⟨את⟩ flow hand-tier: 91 parity residues + 101 family-present gains banked (fleet prepositional-את posture)"
+              "paren-shadows 3,287 across 2,547 files (between kk 1,644 and sr 3,705) — fleet shadow-convention campaign pending"
+              "«(იესო)» Joshua shadows ×6 — the familiar Georgian form for Joshua IS the NT name; kept per the hidden-names ruling; census NT-flag false positive by design"
+              "ღმერთი/ღვთის generic-floor review class 233 files + non-Name უფალი ×6 (Tekoa-read; substring-უფლ false-positive class named)"
+              "შატის/შითიმის shittim-wood transliteration variance — color, unranked"]},
+            :status :rendering,
+            :adjudication
+            {:chair 63,
+             :date "2026-09-06",
+             :first :kartvelian-script,
+             :polarity :georgian-home,
+             :seal
+             {:iehova 0,
+              :upal-at-name 0,
+              :jojokheti-sheol 0,
+              :aleph-tav [0 0 0 0],
+              :elohim 2084,
+              :nt-leak 0,
+              :et-verses 7239,
+              :spine-diff-vs-en 0,
+              :iahve 5798},
+             :tekoa
+             {:auditor :opus-fork,
+              :mode :read-only-class-a,
+              :name-seat-violations 0,
+              :class-a-verses-applied
+              "79 verses / 71 files (script-bleed 40, self-correction 16 re-rendered, Name misspelling, Caleb, Jehoiakim, ergative, enclitic-copula, double-case, ღმერთ ×3, ჯვალი ×2)",
+              :ambiguous-filed 7},
+             :cruxes
+             ["fourth census polarity — Georgian-home; Latin, Cyrillic, AND Armenian are all bleed classes; lookalike sweep clean at the Name"
+              "the Name through the ergative — იაჰვემ 1,826 pre-ruled at the bench, zero welds, zero stem-breaks across a 15-form case ladder"
+              "THE SPINE PLAGUE fourth witness — 1,448 tokens restored across 1,366 files (the ~6% model constant holds); 24 hand-inspected residues"
+              "hooks-word family SEVENTH chair — five drift forms across Exod 26–38 plus rebuilt hook tails 38:10–12"
+              "Jehoiada→იეჰოვადა drift (2 Chr 22:11) — the bleed gravitates toward the Name even inside personal names"]},
+            :version "v1",
+            :lineage
+            {:git
+             {:repo nil,
+              :ref "v1-final",
+              :commit nil,
+              :tags [],
+              :branches []},
+             :parents []},
+            :lang :ka}

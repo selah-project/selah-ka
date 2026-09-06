@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 29:10",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 29,
+  "translation": "ათი წილი ათი წილი თითოეულ კრავზე — შვიდივე კრავზე.",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "ათი წილი"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "ათი წილი"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "კრავზე"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "თითოეულ ერთ"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "შვიდივე"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "კრავები"
+    }
+  ],
+  "timestamp": "2026-09-06T15:40:35.489167831Z",
+  "model": "glm-5.3"
+}

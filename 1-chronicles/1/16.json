@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და ⟨את⟩ არვადელი, და ⟨את⟩ ცემარელი, და ⟨את⟩ ხამათელი.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "არვადელი"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "არვადელი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ცემარელი"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "ცემარელი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ხამათელი"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "ხამათელი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:25:54.542307303Z",
+  "model": "glm-5.3"
+}

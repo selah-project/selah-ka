@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 29,
+  "translation": "და მეათედი მეათედი ერთი კრავისთვის — თოთხმეტი კრავისთვის.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "და მეათედი"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "მეათედი"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "კრავისთვის"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "თოთხმეტ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "თოთხმეტ"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "კრავი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:29:35.903486216Z",
+  "model": "glm-5.3"
+}

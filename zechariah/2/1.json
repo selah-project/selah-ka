@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და ავიღე ⟨את⟩ თვალები ჩემი და ვიხილე, და აჰა ოთხი რქა.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "ავიღე"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "თვალები ჩემი"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "თვალები ჩემი"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "ვიხილე"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ოთხი"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "რქები"
+    }
+  ],
+  "timestamp": "2026-09-06T09:24:42.871145194Z",
+  "model": "glm-5.3"
+}

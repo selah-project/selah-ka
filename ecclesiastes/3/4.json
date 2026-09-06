@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "ჟამი ტირილისა და ჟამი სიცილის; ჟამი ოხვრისა და ჟამი ცეკვისა.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ჟამი"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "ტირილი"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "და ჟამი"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "სიცილი"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ჟამი"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "ოხვრა"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "და ჟამი"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "ცეკვა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:56:09.887254631Z",
+  "model": "glm-5.3"
+}

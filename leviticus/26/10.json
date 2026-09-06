@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "და შეჭამთ ძველ დიდხანს დარჩენილს, და ძველს ახლის გამო გამოიტანთ.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "შეჭამთ"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "ძველი"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "დიდხანს დარჩენილი"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "ძველი"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "გამო"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ახალი"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "გამოიტანთ"
+    }
+  ],
+  "timestamp": "2026-09-06T04:56:30.658948032Z",
+  "model": "glm-5.3"
+}

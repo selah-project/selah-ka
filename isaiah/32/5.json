@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 32,
+  "translation": "აღარ ეწოდება ნაბალს ნადივი (ქველი), და ქილს აღარ ერქმევა შოა (მდიდარი).",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "აღარ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ეწოდება"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "უკვე"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "ნაბალს"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "ნადივი"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "და ქილს"
+    },
+    {
+      "surface": "לא",
+      "gloss": "აღარ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ერქმევა"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "შოა"
+    }
+  ],
+  "timestamp": "2026-09-06T07:42:22.683842857Z",
+  "model": "glm-5.3"
+}

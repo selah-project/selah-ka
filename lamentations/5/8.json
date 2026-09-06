@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "მონებმა იმართეს ჩვენზე; გამომხსნელი არ არის მათი ხელისგან.",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "მონები"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "იმართეს"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ჩვენზე"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "გამომხსნელი"
+    },
+    {
+      "surface": "אין",
+      "gloss": "არ არის"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "მათი ხელისგან"
+    }
+  ],
+  "timestamp": "2026-09-06T10:55:19.458458737Z",
+  "model": "glm-5.3"
+}

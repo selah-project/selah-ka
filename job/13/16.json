@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 13:16",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "ის ჩემი ხსნაც იქნება, რადგან უწმიდური არ შევა მის წინაშე.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ასევე"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ჩემი"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "ხსნა"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "მის წინაშე"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "უწმიდური"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "შევა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:34:37.929448782Z",
+  "model": "glm-5.3"
+}

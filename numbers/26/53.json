@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 26:53",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "ამათ შორის გაიყოფა მიწა სამკვიდრელად — სახელთა რიცხვით.",
+  "tokens": [
+    {
+      "surface": "לאלה",
+      "gloss": "ამათ"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "გაიყოფა"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "სამკვიდრელად"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "რიცხვით"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "სახელთა"
+    }
+  ],
+  "timestamp": "2026-09-06T05:16:02.757418930Z",
+  "model": "glm-5.3"
+}

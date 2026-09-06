@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "რგოლებში არონის იქნებიან კოჭები, არ ჩამოცილდებიან მისგან.",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "რგოლებში"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "არონი"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "იქნებიან"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "კოჭები"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "ჩამოცილდებიან"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "მისგან"
+    }
+  ],
+  "timestamp": "2026-09-06T04:24:16.842422123Z",
+  "model": "glm-5.3"
+}

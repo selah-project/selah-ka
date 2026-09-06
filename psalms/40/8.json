@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 40,
+  "translation": "მაშინ ვთქვი: აჰა, მოვედი — წიგნის გრაგანში დაწერილი ⟨არის⟩ ჩემზე.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "მაშინ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ვთქვი"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "მოვედი"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "გრაგანში"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "წიგნის"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "დაწერილი"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ჩემზე"
+    }
+  ],
+  "timestamp": "2026-09-06T09:43:56.595274369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 8:23",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და ელაპარაკა იაჰვე მოშეს (მოსე):",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ელაპარაკა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "რომ ეთქვა"
+    }
+  ],
+  "timestamp": "2026-09-06T05:04:38.499446835Z",
+  "model": "glm-5.3"
+}

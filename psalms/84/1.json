@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 84,
+  "translation": "მოდირისთვის, გითითის თანა; კორახის ძეთა ფსალმუნი.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "მოდირისთვის"
+    },
+    {
+      "surface": "על",
+      "gloss": "თანა"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "გითითი"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ძეთა"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "კორახის"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ფსალმუნი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:58:26.035970349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "როცა სადიდი, არ შევიწროვდება შენი ნაბიჯი, და თუ ირბენ, არ წაიჭრები.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "როცა სადიდი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "შევიწროვდება"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "შენი ნაბიჯი"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "და თუ"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "ირბენ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "წაიჭრები"
+    }
+  ],
+  "timestamp": "2026-09-06T10:15:57.736678935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 3:21",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "ბეჭდები და რგოლები ცხვირისა",
+  "tokens": [
+    {
+      "surface": "הטבעות",
+      "gloss": "ბეჭდები"
+    },
+    {
+      "surface": "ונזמי",
+      "gloss": "და რგოლები"
+    },
+    {
+      "surface": "האף",
+      "gloss": "ცხვირი"
+    }
+  ],
+  "timestamp": "2026-09-06T07:30:36.951626700Z",
+  "model": "glm-5.3"
+}

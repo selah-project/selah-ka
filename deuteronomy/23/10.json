@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "როცა გავა ბანაკი შენს მტრებზე, დაიცავ თავს ყოველი ბოროტი რამისგან.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "როცა"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "გავა"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ბანაკი"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "შენს მტრებზე"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "დაიცავ თავს"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ყოველი…-სგან"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "რამე"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ბოროტი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:37:46.159976519Z",
+  "model": "glm-5.3"
+}

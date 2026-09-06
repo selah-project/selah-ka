@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 21:13",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "და იყო იაჰვეს სიტყვა ჩემდამო, რომ ეთქვას:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "და იყო"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემდამო"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "რომ ეთქვას"
+    }
+  ],
+  "timestamp": "2026-09-06T13:33:27.436416650Z",
+  "model": "glm-5.3"
+}

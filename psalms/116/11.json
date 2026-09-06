@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 116,
+  "translation": "მე ვთქვი ჩქარობაში: ყოველი ადამიანი ⟨არის⟩ მატყუარა.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ვთქვი"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "ჩქარობაში"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყოველი"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ადამიანი"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "მატყუარა"
+    }
+  ],
+  "timestamp": "2026-09-06T14:15:35.998415786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "და დალია ღვინიდან და დათვრა, და გაშიშვლდა თავის კარავში.",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "და დალია"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-დან"
+    },
+    {
+      "surface": "היין",
+      "gloss": "ღვინო"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "და დათვრა"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "და გაშიშვლდა"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "შუა"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "თავისი კარავი"
+    }
+  ],
+  "timestamp": "2026-09-06T03:43:30.565121100Z",
+  "model": "glm-5.3"
+}

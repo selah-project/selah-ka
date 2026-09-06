@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "რადგან ზღვებზე დააფუძნა მან ⟨ის⟩ და მდინარეებზე დაამკვიდრა მან ⟨ის⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ზღვები"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "დააფუძნა"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "და ზე"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "მდინარეები"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "დაამკვიდრა"
+    }
+  ],
+  "timestamp": "2026-09-06T09:38:46.964961187Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 6:22",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "ასე თქვა იაჰვემ: აჰ, ხალხი მოდის ჩრდილოეთის მიწიდან, და დიდი ერი აღიძულება მიწის კიდეებიდან.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "აჰ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "בא",
+      "gloss": "მოდის"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "მიწიდან"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ჩრდილოეთის"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "და ერი"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "დიდი"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "აღიძულება"
+    },
+    {
+      "surface": "מירכתי",
+      "gloss": "კიდეებიდან"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "მიწის"
+    }
+  ],
+  "timestamp": "2026-09-06T13:17:39.716065658Z",
+  "model": "glm-5.3"
+}

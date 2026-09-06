@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 8:8",
+  "book": "song-of-songs",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და გვყავს ჩვენ პატარა, და მკერდი არ აქვს მას; რა ვქნათ ჩვენს დასთვის იმ დღეს, როცა მასზე ილაპარაკებენ?",
+  "tokens": [
+    {
+      "surface": "אחות",
+      "gloss": "და"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ჩვენ"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "პატარა"
+    },
+    {
+      "surface": "ושדים",
+      "gloss": "და მკერდი"
+    },
+    {
+      "surface": "אין",
+      "gloss": "არ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "მას"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ვქნათ"
+    },
+    {
+      "surface": "לאחתנו",
+      "gloss": "ჩვენს დასთვის"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "იმ დღეს"
+    },
+    {
+      "surface": "שידבר",
+      "gloss": "როცა ილაპარაკებენ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "მასზე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:51:37.561155293Z",
+  "model": "glm-5.3"
+}

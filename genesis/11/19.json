@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 11:19",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "და იცოცხლა ფელეგი რეუს ⟨את⟩ შობის შემდეგ ცხრა წელი და ორასი წელი, და შვა ძენი და ასულნი.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "და იცოცხლა"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "ფელეგი"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "შემდეგ"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "შობა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "რეუ"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "რეუ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ცხრა"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "წელი"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "და ორასი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელი"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "და შვა"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "და ასულნი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:02:45.592759292Z",
+  "model": "glm-5.3"
+}

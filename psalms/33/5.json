@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 33,
+  "translation": "უყვარს სიმართლე და მსჯავრი; იაჰვეს ხესედით ⟨არის⟩ სავსე მიწა.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "უყვარს"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "სიმართლე"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "და მსჯავრი"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ხესედი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "სავსე"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    }
+  ],
+  "timestamp": "2026-09-06T18:37:35.711044446Z",
+  "model": "glm-5.3"
+}

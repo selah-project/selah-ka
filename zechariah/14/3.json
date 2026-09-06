@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 14:3",
+  "book": "zechariah",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "და გამოვა იაჰვე და იბრძოლებს იმ ხალხებთან, როგორც იბრძოდა ბრძოლის დღეს.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "და გამოვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "და იბრძოლებს"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ხალხებთან"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "იმ"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "როგორც დღეს"
+    },
+    {
+      "surface": "הלחמו",
+      "gloss": "იბრძოდა"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "ბრძოლა"
+    }
+  ],
+  "timestamp": "2026-09-06T09:28:45.960798213Z",
+  "model": "glm-5.3"
+}

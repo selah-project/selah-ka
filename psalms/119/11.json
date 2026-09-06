@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 119,
+  "translation": "ჩემს გულში დამალე ⟨⟩ შენი ნათქვამი, რათა არ შეგცოდო.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "ჩემს გულში"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "დამალე"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "შენი ნათქვამი"
+    },
+    {
+      "surface": "למען",
+      "gloss": "რათა"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "შევცოდო"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:07:58.041815284Z",
+  "model": "glm-5.3"
+}

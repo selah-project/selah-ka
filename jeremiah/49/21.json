@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 49:21",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 49,
+  "translation": "მათი დაცემის ხმისგან შეირხა მიწა; შეძახილი — სუფის ზღვაში ისმის მისი ხმა.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "ხმისგან"
+    },
+    {
+      "surface": "נפלם",
+      "gloss": "მათი დაცემა"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "შეირხა"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "შეძახილი"
+    },
+    {
+      "surface": "בים",
+      "gloss": "ზღვაში"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "სუფი"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "ისმის"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "მისი ხმა"
+    }
+  ],
+  "timestamp": "2026-09-06T19:35:30.816188734Z",
+  "model": "glm-5.3"
+}

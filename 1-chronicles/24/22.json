@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 24:22",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "იცჰარელთაგან: შელომოთ; შელომოთის ძეთაგან: იახათ.",
+  "tokens": [
+    {
+      "surface": "ליצהרי",
+      "gloss": "იცჰარელთაგან"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "შელომოთ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ძეთაგან"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "შელომოთ"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "იახათ"
+    }
+  ],
+  "timestamp": "2026-09-06T11:37:30.564078185Z",
+  "model": "glm-5.3"
+}

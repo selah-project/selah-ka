@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 4:22",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და უთხრა ფარაჰს: ასე თქვა იაჰვემ: ჩემი შვილი, ჩემი პირმშო ⟨არის⟩ იშრაელი.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "და იტყვი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ფარაჰი"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ჩემი შვილი"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "ჩემი პირმშო"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:12:43.746853658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 24:33",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "ცოტა ძილი, ცოტა თვლემა, ცოტა ჩახუტება ხელთა — დასაწვევად.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "ცოტა"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ძილი"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ცოტა"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "თვლემა"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ცოტა"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "ჩახუტება"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ხელთა"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "დასაწვევად"
+    }
+  ],
+  "timestamp": "2026-09-06T10:24:54.111362589Z",
+  "model": "glm-5.3"
+}

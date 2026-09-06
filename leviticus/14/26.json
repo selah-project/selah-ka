@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 14:26",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "და დაასხავს მღვდელი ზეთიდან მღვდლის მარცხენა ხელისგულზე.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "და საიდან"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ზეთი"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "დაასხა"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "მღვდელი"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ხელისგული"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "მღვდელი"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "მარცხენა"
+    }
+  ],
+  "timestamp": "2026-09-06T04:43:22.562492441Z",
+  "model": "glm-5.3"
+}

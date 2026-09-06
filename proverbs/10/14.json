@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 10:14",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "ბრძენნი დამალავენ ⟨ეს⟩ ცოდნას, და სულელის ბაგე — ახლოა დაღუპვა.",
+  "tokens": [
+    {
+      "surface": "חכמים",
+      "gloss": "ბრძენნი"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "დამალავენ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ცოდნა"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "და ბაგე"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "სულელი"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "დაღუპვა"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "ახლოა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:19:19.998714127Z",
+  "model": "glm-5.3"
+}

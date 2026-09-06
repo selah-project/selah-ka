@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და წავიდა შელომო ხამათ ცოვაში და დაიმორჩილა ის.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "და წავიდა"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "შელომო"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ხამათი"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "ცოვა"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "და გაბრუძდა"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "მასზე"
+    }
+  ],
+  "timestamp": "2026-09-06T11:45:27.760976889Z",
+  "model": "glm-5.3"
+}

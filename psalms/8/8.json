@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "წინდობა და ხარები, ყველა მათგანი, და აგრეთვე ველის ნადირი.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "წინდობა"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "და ხარები"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ყველა მათგანი"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "და აგრეთვე"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "მხეცები"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ველის"
+    }
+  ],
+  "timestamp": "2026-09-06T13:55:39.078971754Z",
+  "model": "glm-5.3"
+}

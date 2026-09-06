@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 71,
+  "translation": "შენში, იაჰვე, ვივარგულე; ნუ შემრცხვენს სამარადისოდ.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "შენში"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "გავეფარე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "შემრცხვენს"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "სამარადისოდ"
+    }
+  ],
+  "timestamp": "2026-09-06T14:06:45.444861975Z",
+  "model": "glm-5.3"
+}

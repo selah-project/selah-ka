@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 11:7",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "ძიებით ელოაჰს იპოვნი? თუ ეშადაის საზღვრამდე მიაღწევ?",
+  "tokens": [
+    {
+      "surface": "החקר",
+      "gloss": "ძიებით"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ელოაჰს"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "იპოვნი"
+    },
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "საზღვრამდე"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "საზღვარი"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ეშადაის"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "მიაღწევ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:34:53.726709370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და იყო შლომო (სოლომონ) მეფე მეფედ მთელ იშრაელზე.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "და იყო"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "შლომო"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "כל",
+      "gloss": "მთელ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    }
+  ],
+  "timestamp": "2026-09-06T06:53:32.287620276Z",
+  "model": "glm-5.3"
+}

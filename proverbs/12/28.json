@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "სიმართლის გზაში ⟨არის⟩ სიცოცხლე, და მისი ბილიკის გზაზე არა ⟨არის⟩ სიკვდილი.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "გზაში"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "სიმართლის"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "სიცოცხლე"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "და გზა"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "ბილიკი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "არა"
+    },
+    {
+      "surface": "מות",
+      "gloss": "სიკვდილი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:20:06.531764220Z",
+  "model": "glm-5.3"
+}

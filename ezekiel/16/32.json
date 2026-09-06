@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 16:32",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 16,
+  "translation": "ცოლი მემრუშე! თავისი ქმრის ნაცვლად ირთავ ⟨את⟩ უცხოებს.",
+  "tokens": [
+    {
+      "surface": "האשה",
+      "gloss": "ცოლი"
+    },
+    {
+      "surface": "המנאפת",
+      "gloss": "მემრუშე"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ნაცვლად"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "თავისი ქმრის"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ირთავ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "უცხოებს"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "უცხოები"
+    }
+  ],
+  "timestamp": "2026-09-06T16:09:56.732188820Z",
+  "model": "glm-5.3"
+}

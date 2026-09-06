@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 101,
+  "translation": "გადახრილი გული ჩემგან განმერიდება; ბოროტებას არ ვიცნობ.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "გული"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "გადახრილი"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "განმერიდება"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ჩემგან"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ბოროტებას"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ვიცნობ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:01:31.024461774Z",
+  "model": "glm-5.3"
+}

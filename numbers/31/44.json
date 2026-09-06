@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 31:44",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 31,
+  "translation": "და საქონელი — ექვსი და ოცდაათი ათასი.",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "და საქონელი"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ექვსი"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "და ოცდაათი"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ათასი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:29:05.649278899Z",
+  "model": "glm-5.3"
+}

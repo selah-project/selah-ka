@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 2:4",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "თუ მოიძიებ მას ვერცხლივით და დაფარულ განძს როგორც დაეძებ —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "תבקשנה",
+      "gloss": "მოიძიებ"
+    },
+    {
+      "surface": "ככסף",
+      "gloss": "ვერცხლივით"
+    },
+    {
+      "surface": "וכמטמונים",
+      "gloss": "და დაფარულ განძს"
+    },
+    {
+      "surface": "תחפשנה",
+      "gloss": "დაეძებ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:17:02.107959740Z",
+  "model": "glm-5.3"
+}

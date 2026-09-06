@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 126,
+  "translation": "დიდად მოიქცა იაჰვე ჩვენთან; გავიხარეთ.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "დიდად მოიქცა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "საქმედ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ჩვენთან"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "ვვიყავით"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "გახარებულნი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:11:23.149806271Z",
+  "model": "glm-5.3"
+}

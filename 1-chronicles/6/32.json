@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 6:32",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "მახლის ძე, მუშის ძე, მერარის ძე, ლევის ძე.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "მახლი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "მუში"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "მერარი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ლევი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:29:01.382043890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 33:1",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 33,
+  "translation": "და მოხდა იაჰვეს სიტყვა ჩემდა მიმართ ⟨სათქმელად⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "მოხდა"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემდა მიმართ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨სათქმელად⟩"
+    }
+  ],
+  "timestamp": "2026-09-06T16:16:20.655356686Z",
+  "model": "glm-5.3"
+}

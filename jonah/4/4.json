@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და თქვა იაჰვემ: განა კარგი ⟨არის⟩, რომ გაგიმწარდეს შენ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "განა კარგი"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "განრისხება"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენ"
+    }
+  ],
+  "timestamp": "2026-09-06T09:16:22.922475188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "და თქვა ხალხმა იეჰოშუას: არა, არამედ ⟨את⟩ იაჰვეს ვმსახურებთ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "იეჰოშუა"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "כי",
+      "gloss": "არამედ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იაჰვეს"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "ვმსახურებთ"
+    }
+  ],
+  "timestamp": "2026-09-06T05:58:02.396043729Z",
+  "model": "glm-5.3"
+}

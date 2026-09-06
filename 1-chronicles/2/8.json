@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 2:8",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და ეითანის ძენი: აზარიაჰი.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "და ძენი"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ეითანი"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "აზარიაჰი"
+    }
+  ],
+  "timestamp": "2026-09-06T18:45:52.779384738Z",
+  "model": "glm-5.3"
+}

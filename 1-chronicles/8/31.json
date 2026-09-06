@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 8:31",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და გედორი, და ახიო, და ზაქარი —",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "და გედორი"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "და ახიო"
+    },
+    {
+      "surface": "וזכר",
+      "gloss": "და ზაქარი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:30:10.626814296Z",
+  "model": "glm-5.3"
+}

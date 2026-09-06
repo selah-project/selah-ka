@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 140,
+  "translation": "იაჰვე, ადონაი, ჩემი ხსნის ძალავ, დაფარე ჩემი თავი იარაღის დღეს.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ადონაი"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ძალა"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "ჩემი ხსნა"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "დაფარე"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "ჩემი თავი"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "იარაღის"
+    }
+  ],
+  "timestamp": "2026-09-06T10:13:06.550569844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 7:16",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "მამალი თხა თხებისაგან ერთი, საცოდაოდ.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "მამალი თხა"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "თხები"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "საცოდაოდ"
+    }
+  ],
+  "timestamp": "2026-09-06T05:01:30.586127579Z",
+  "model": "glm-5.3"
+}

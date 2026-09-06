@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 23:29",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "რადგან ყველა ნეფეში, რომელი არ დაიმდაბლოს სრულად ამ დღეს, და მოიჭრება თავის ხალხისგან.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ნეფეში"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "დაიმდაბლოს"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "სრულად"
+    },
+    {
+      "surface": "היום",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "მოიჭრება"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "თავის ხალხისგან"
+    }
+  ],
+  "timestamp": "2026-09-06T04:55:55.607610597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "ღრმა წყლები ⟨არიან⟩ კაცის პირის სიტყვები, მომდინარე ნაკადი — სიბრძნის წყარო.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "წყლები"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "ღრმა"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "სიტყვები"
+    },
+    {
+      "surface": "פי",
+      "gloss": "პირის"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ნაკადი"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "მომდინარე"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "წყარო"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "სიბრძნე"
+    }
+  ],
+  "timestamp": "2026-09-06T16:29:35.573245800Z",
+  "model": "glm-5.3"
+}

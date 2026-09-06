@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 4:26",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და მიშმაყის ძენი: ხამუელი მისი ძე, ზაკური მისი ძე, შიმყი მისი ძე.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "და ძენი"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "მიშმაყის"
+    },
+    {
+      "surface": "חמואל",
+      "gloss": "ხამუელი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი ძე"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "ზაკური"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი ძე"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "შიმყი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი ძე"
+    }
+  ],
+  "timestamp": "2026-09-06T16:37:32.921792149Z",
+  "model": "glm-5.3"
+}

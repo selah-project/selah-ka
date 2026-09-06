@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "და როცა ღამით ჩამოდიოდა ნამი ბანაკზე, ჩამოდის მანი მასზე.",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "და ჩამოსვლისას"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "ნამი"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ბანაკი"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ღამით"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ჩამოდის"
+    },
+    {
+      "surface": "המן",
+      "gloss": "მანი"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "მასზე"
+    }
+  ],
+  "timestamp": "2026-09-06T05:07:17.523092405Z",
+  "model": "glm-5.3"
+}

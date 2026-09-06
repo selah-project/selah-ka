@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "მე ⟨ვარ⟩ შარონის ყვავილი, ხეობათა შროშანი.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "ყვავილი"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "შარონის"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "შროშანი"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "ხეობათა"
+    }
+  ],
+  "timestamp": "2026-09-06T14:44:04.045425821Z",
+  "model": "glm-5.3"
+}

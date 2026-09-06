@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 91,
+  "translation": "არ დაგხვდება ბოროტება და წყლული არ მიუახლოვდება შენს კარავს.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "დაგხვდება"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ბოროტება"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "და წყლული"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "მიუახლოვდება"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "შენს კარავს"
+    }
+  ],
+  "timestamp": "2026-09-06T09:58:54.325307121Z",
+  "model": "glm-5.3"
+}

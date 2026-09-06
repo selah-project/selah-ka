@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 120,
+  "translation": "დიდხანს დასახლდა მის თან ჩემი ნეფეში, მშვიდობის მოძულესთან.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "დიდხანს"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "დასახლდა"
+    },
+    {
+      "surface": "לה",
+      "gloss": "მის"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ჩემი ნეფეში"
+    },
+    {
+      "surface": "עם",
+      "gloss": "თან"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "მოძულე"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "მშვიდობა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:09:32.983800888Z",
+  "model": "glm-5.3"
+}

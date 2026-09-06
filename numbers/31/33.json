@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 31,
+  "translation": "ხარები — ორი და სამოცდაათი ათასი.",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "ხარები"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ორი"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "და სამოცდაათი"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ათასი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:18:25.791574087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 2:2",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "დანი, იოსეფი (იოსები) და ბინიამინი, ნაფთალი, გადი და აშერი.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "დანი"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "იოსეფი"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "და ბინიამინი"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ნაფთალი"
+    },
+    {
+      "surface": "גד",
+      "gloss": "გადი"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "და აშერი"
+    }
+  ],
+  "timestamp": "2026-09-06T18:45:51.935856353Z",
+  "model": "glm-5.3"
+}

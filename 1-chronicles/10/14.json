@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "და არ იკითხა იაჰვეს; და მოკლა ⟨იგი⟩ და გადასცა ⟨את⟩ სამეფო დავიდს (დავითს), იშაის ძეს.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "და არა"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "იკითხა"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "და მოკლა იგი"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "და გადასცა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "სამეფო"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "სამეფო"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "დავიდს"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "იშაი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:30:30.699277408Z",
+  "model": "glm-5.3"
+}

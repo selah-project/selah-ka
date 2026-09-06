@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 3:26",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "რადგან იაჰვე იქნება შენს სასოდ, და დაიცავს შენს ფეხს მახისგან.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "იქნება"
+    },
+    {
+      "surface": "בכסלך",
+      "gloss": "შენს სასოს"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "და დაიცავს"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "შენს ფეხს"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "მახისგან"
+    }
+  ],
+  "timestamp": "2026-09-06T10:16:39.188596963Z",
+  "model": "glm-5.3"
+}

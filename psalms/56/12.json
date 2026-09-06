@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 56,
+  "translation": "ელოჰიმს მივენდე, არ შევეშინდები — რას მიზამს ადამიანი მე?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "ელოჰიმს"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "მივენდე"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "შევეშინდები"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რას"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "მიზამს"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ადამიანი"
+    },
+    {
+      "surface": "לי",
+      "gloss": "მე"
+    }
+  ],
+  "timestamp": "2026-09-06T09:46:33.754322799Z",
+  "model": "glm-5.3"
+}

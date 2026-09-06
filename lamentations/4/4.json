@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 4:4",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "მისჩეკა მოსაწოვარის ენა მის სასმას წყურვილით; ჩვილები პურს ითხოვენ — გამცემი კი არა ჰყავთ.",
+  "tokens": [
+    {
+      "surface": "דבק",
+      "gloss": "მისჩეკა"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ენა"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "მოსაწოვარის"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მის"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "სასმას"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "წყურვილით"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "ჩვილები"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "ითხოვენ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "პური"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "გამცემი"
+    },
+    {
+      "surface": "אין",
+      "gloss": "არა"
+    },
+    {
+      "surface": "להם",
+      "gloss": "მათ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:53:56.427345920Z",
+  "model": "glm-5.3"
+}

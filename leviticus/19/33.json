@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "და თუ დამკვიდრდება თქვენთან ⟨את⟩ გერი თქვენ მიწაში, არ ჩააგოთ ⟨את⟩ იგი.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "და თუ"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "დამკვიდრდება"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "თქვენთან ⟨את⟩"
+    },
+    {
+      "surface": "גר",
+      "gloss": "გერი"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "თქვენ მიწაში"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "ჩააგოთ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "იგი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:22:40.683327205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "შიმრონ მერონის მეფე, ერთი; ახშაფის მეფე, ერთი.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "შიმრონ"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "მერონი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "ახშაფი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:38:37.983153192Z",
+  "model": "glm-5.3"
+}

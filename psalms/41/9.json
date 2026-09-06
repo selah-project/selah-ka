@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 41,
+  "translation": "„ბელიალის სიტყვა იღვრება მასში, და ვინც დაწვა, ვეღარ დადგება.“",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ბელიალის"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "იღვრება"
+    },
+    {
+      "surface": "בו",
+      "gloss": "მასში"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "და ვინც"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "დაწვა"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "დაამატებს"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "ადგომას"
+    }
+  ],
+  "timestamp": "2026-09-06T20:32:33.602950760Z",
+  "model": "glm-5.3"
+}

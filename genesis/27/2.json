@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 27,
+  "translation": "და თქვა: აჰა, მე დავბერდი; არ ვიცი ჩემი სიკვდილის დღე.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "נא",
+      "gloss": "მე"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "დავბერდი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ვიცი"
+    },
+    {
+      "surface": "יום",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "ჩემი სიკვდილის"
+    }
+  ],
+  "timestamp": "2026-09-06T03:54:36.860757987Z",
+  "model": "glm-5.3"
+}

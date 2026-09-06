@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 43:21",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 43,
+  "translation": "ეს ხალხი შევქმენი ჩემთვის; ჩემს ქებას გადმოსცემენ.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "შევქმენი"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ჩემთვის"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "ჩემი ქება"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "გადმოსცემენ"
+    }
+  ],
+  "timestamp": "2026-09-06T07:48:14.655276362Z",
+  "model": "glm-5.3"
+}

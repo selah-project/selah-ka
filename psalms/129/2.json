@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 129,
+  "translation": "მრავალჯერ შემაწუხეს ჭაბუკობიდანვე, ვერც კი არ შესძლეს ჩემი.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "მრავალჯერ"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "შემაწუხეს"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "ჭაბუკობიდან"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ვერც"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "შესძლეს"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ჩემი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:10:57.816663718Z",
+  "model": "glm-5.3"
+}

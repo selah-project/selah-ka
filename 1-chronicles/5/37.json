@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "და გაუჩინა აზარიამ ⟨את⟩ ამარია, და ამარიამ გაუჩინა ⟨את⟩ ახითუბი.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "გაუჩინა"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "აზარია"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ამარია"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "ამარია"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "და ამარია"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "გაუჩინა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ახითუბი"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "ახითუბი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:27:16.135256328Z",
+  "model": "glm-5.3"
+}

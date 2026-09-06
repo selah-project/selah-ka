@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 24:17",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "შიში და ორმო და მახე ⟨არის⟩ შენზე, მიწის მკვიდარო.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "შიში"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "და ორმო"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "და მახე"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "შენზე"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "მკვიდარი"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    }
+  ],
+  "timestamp": "2026-09-06T07:39:37.177153832Z",
+  "model": "glm-5.3"
+}

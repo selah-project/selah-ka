@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 10:6",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "კურთხევები — მართლის თავს, ხოლო ბოროტთა პირი დაჰფარავს ძალადობას.",
+  "tokens": [
+    {
+      "surface": "ברכות",
+      "gloss": "კურთხევები"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "თავს"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "მართალი"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ხოლო პირი"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ბოროტთა"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "დაჰფარავს"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ძალადობა"
+    }
+  ],
+  "timestamp": "2026-09-06T17:35:30.262749834Z",
+  "model": "glm-5.3"
+}

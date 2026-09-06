@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "და თქვა იააკოვმა: მიყიდე დღესვე ⟨את⟩ შენი პირმშოობა მე.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "დათქვა"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "იააკოვი"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "მიყიდე"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "დღესვე"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "შენი პირმშოობა"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "შენი პირმშოობა"
+    },
+    {
+      "surface": "לי",
+      "gloss": "მე"
+    }
+  ],
+  "timestamp": "2026-09-06T03:53:38.926724027Z",
+  "model": "glm-5.3"
+}

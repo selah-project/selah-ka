@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 80,
+  "translation": "იყოს შენი ხელი კაცზე შენი მარჯვენისას, კაცის ძეზე, რომელიც განამტკიცე შენთვის.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "იყოს"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "შენი ხელი"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "შენი მარჯვენა"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ადამის"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "განამტკიცე"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენთვის"
+    }
+  ],
+  "timestamp": "2026-09-06T09:56:04.310234892Z",
+  "model": "glm-5.3"
+}

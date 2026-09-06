@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 24:16",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "მეცხრამეტე — ფთახია, მეოცე — იხეზკელ.",
+  "tokens": [
+    {
+      "surface": "לפתחיה",
+      "gloss": "ფთახია"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "ცხრა"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ათი"
+    },
+    {
+      "surface": "ליחזקאל",
+      "gloss": "იხეზკელ"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "ოცი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:37:27.014591411Z",
+  "model": "glm-5.3"
+}

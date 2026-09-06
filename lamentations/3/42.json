@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "ჩვენ ვიშრამეთ და ვიყავით ურჩნი — შენ კი არ მოგვიტევე.",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "ჩვენ"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "ვიშრამეთ"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "ვიყავით ურჩნი"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "მოგვიტევე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:52:32.439360687Z",
+  "model": "glm-5.3"
+}

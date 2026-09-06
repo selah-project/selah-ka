@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 3:2",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "რადგან სიგრძე დღეთა, და წლები სიცოცხლისა, და შალომი დაგემატება შენ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "სიგრძე"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "დღეები"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "და წლები"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "სიცოცხლე"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "და შალომი"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "დაამატონ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:16:46.152572925Z",
+  "model": "glm-5.3"
+}

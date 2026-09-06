@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "და მოისმინა მოშემ, და კეთილ იქცა ეს მის თვალებში.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "მოისმინა"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "კეთილ იქცა"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "მის თვალებში"
+    }
+  ],
+  "timestamp": "2026-09-06T12:20:29.801300652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "და თქვა მოშეს სიძემ მას: არ ⟨არის⟩ კეთილი საქმე, რომელსაც შენ აკეთებ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "სიძე"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშეს"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "კეთილი"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "საქმე"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელსაც"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "აკეთებ"
+    }
+  ],
+  "timestamp": "2026-09-06T04:19:56.408981440Z",
+  "model": "glm-5.3"
+}

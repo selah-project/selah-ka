@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 32:37",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 32,
+  "translation": "და იტყვის: სად ⟨არიან⟩ მათი ღმერთები, კლდე, რომელშიც ისინი ჩაიფარებოდნენ?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "და იტყვის"
+    },
+    {
+      "surface": "אי",
+      "gloss": "სად"
+    },
+    {
+      "surface": "אלהימו",
+      "gloss": "მათი ღმერთები"
+    },
+    {
+      "surface": "צור",
+      "gloss": "კლდე"
+    },
+    {
+      "surface": "חסיו",
+      "gloss": "ჩაიფარებოდნენ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "მასში"
+    }
+  ],
+  "timestamp": "2026-09-06T12:36:26.890681052Z",
+  "model": "glm-5.3"
+}

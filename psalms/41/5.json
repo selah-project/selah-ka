@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 41,
+  "translation": "მე ვთქვი: იაჰვე, მიწყალე მე, განმიკურნე ჩემი ნეფეში, რადგან შევცოდე შენ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "მიწყალე"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "განკურნება"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ნეფეში"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "შეცდომა"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენ"
+    }
+  ],
+  "timestamp": "2026-09-06T09:43:32.219538167Z",
+  "model": "glm-5.3"
+}

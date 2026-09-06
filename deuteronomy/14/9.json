@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 14:9",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "⟨את⟩ ეს შეჭამთ ყოველი წყლებში მყოფთაგან: ყველა, რომელსაც აქვს ფარფლი და ქერცლი, შეჭამთ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ეს"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "შეჭამთ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ყოვლისაგან"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელი"
+    },
+    {
+      "surface": "במים",
+      "gloss": "წყლებში"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელსაც"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "ფარფლი"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "და ქერცლი"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "შეჭამთ"
+    }
+  ],
+  "timestamp": "2026-09-06T05:30:08.350645685Z",
+  "model": "glm-5.3"
+}

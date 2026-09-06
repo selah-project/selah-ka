@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "და აიღებ სოლეთს და შეაცხობ ⟨את⟩ მას თორმეტ კვერად; ორი ისარონი იქნება ერთი კვერი.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "აიღებ"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "სოლეთი"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "შეაცხობ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "მას (სოლეთი)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ორი"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ათი"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "კვერი"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ორი"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "ისარონი"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "იქნება"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "კვერი"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ერთი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:55:08.100692689Z",
+  "model": "glm-5.3"
+}

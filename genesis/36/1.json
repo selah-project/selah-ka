@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 36,
+  "translation": "და ესენი ⟨არის⟩ შთამომავლობა ესავისი — ის ⟨არის⟩ ედომი.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "და ესენი"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "შთამომავლობა"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ესავი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ედომი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:00:37.510810289Z",
+  "model": "glm-5.3"
+}

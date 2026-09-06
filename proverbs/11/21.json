@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 11:21",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "ხელი ხელს რომ ეხება, ბოროტი უგასწორო არ დარჩება, და მართალთა თესლი გადარჩების.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "ხელი"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "ხელს"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "უგასწორდება"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ბოროტი"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "და თესლი"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "მართალთა"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "გადარჩების"
+    }
+  ],
+  "timestamp": "2026-09-06T10:19:51.870407266Z",
+  "model": "glm-5.3"
+}

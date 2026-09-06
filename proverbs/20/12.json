@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 20:12",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 20,
+  "translation": "მსმენელი ყური და მხედველი თვალი — იაჰვემ შექმნა სწორედ ორივე.",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "ყური"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "მსმენელი"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "და თვალი"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "მხედველი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "შექმნა"
+    },
+    {
+      "surface": "גם",
+      "gloss": "სწორედ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ორივე"
+    }
+  ],
+  "timestamp": "2026-09-06T14:27:52.761149775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 20:24",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 20,
+  "translation": "იაჰვესგან ⟨არის⟩ კაცის ნაბიჯები, და კაცმა — როგორ გაიგოს თავისი გზა?",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "იაჰვესგან"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "ნაბიჯები"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "კაცის"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "და კაცმა"
+    },
+    {
+      "surface": "מה",
+      "gloss": "როგორ"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "გაიგოს"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "თავისი გზა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:23:28.599046799Z",
+  "model": "glm-5.3"
+}

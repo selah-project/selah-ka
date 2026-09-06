@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 22:6",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "ასწავლე ყმაწვილს მისი გზის პირისამებრ; თუნდაც მოხუცდება, არ ჩამოშორდება მას.",
+  "tokens": [
+    {
+      "surface": "חנך",
+      "gloss": "ასწავლე"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ყმაწვილს"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ის მიხედვით"
+    },
+    {
+      "surface": "פי",
+      "gloss": "პირი"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "მისი გზა"
+    },
+    {
+      "surface": "גם",
+      "gloss": "თუნდაც"
+    },
+    {
+      "surface": "כי",
+      "gloss": "როცა"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "მოხუცდება"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ჩამოშორდება"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "მას"
+    }
+  ],
+  "timestamp": "2026-09-06T10:24:49.170794651Z",
+  "model": "glm-5.3"
+}

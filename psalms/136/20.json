@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 136,
+  "translation": "და ოგს, ბაშანის მეფეს, რომ უწყრელია ⟨არის⟩ მარადის მისი ხესედი.",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "და ოგს"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ბაშანი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "მარადის"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ხესედი"
+    }
+  ],
+  "timestamp": "2026-09-06T14:18:26.581814601Z",
+  "model": "glm-5.3"
+}

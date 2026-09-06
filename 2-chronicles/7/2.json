@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 7:2",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "და ვერ შესძლეს მღვდლებს იაჰვეს სახლში შესვლა, რადგან იაჰვეს დიდებამ აავსო ⟨את⟩ იაჰვეს სახლი.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ვერ შესძლეს"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "მღვდლები"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "შესვლა"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ში"
+    },
+    {
+      "surface": "בית",
+      "gloss": "სახლი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "აავსო"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "დიდება"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იაჰვეს სახლი"
+    },
+    {
+      "surface": "בית",
+      "gloss": "სახლი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T11:44:24.111148225Z",
+  "model": "glm-5.3"
+}

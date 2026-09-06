@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "და არ დატოვოთ მისგან დილამდე; და დარჩენილი მისგან დილამდე ცეცხლში დასწვათ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "დატოვებს"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "მისგან"
+    },
+    {
+      "surface": "עד",
+      "gloss": "მდე"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "დილა"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "და დარჩენილი"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "მისგან"
+    },
+    {
+      "surface": "עד",
+      "gloss": "მდე"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "დილა"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ცეცხლში"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "დასწვათ"
+    }
+  ],
+  "timestamp": "2026-09-06T12:12:01.588156006Z",
+  "model": "glm-5.3"
+}

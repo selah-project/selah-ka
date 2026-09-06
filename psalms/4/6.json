@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "შესწირეთ სიმართლის მსხვერპლნი და მიენდეთ იაჰვეს.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "შესწირეთ"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "მსხვერპლნი"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "სიმართლე"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "და მიენდეთ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T09:31:18.713822613Z",
+  "model": "glm-5.3"
+}

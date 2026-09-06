@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 104,
+  "translation": "დაადგენ ბნელს და ხდება ღამე — მასში დაძრავს ადგილს ტყის ყველა მხეცი.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "დაადგენ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ბნელი"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "და ხდება"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ღამე"
+    },
+    {
+      "surface": "בו",
+      "gloss": "მასში"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "დაძრავს ადგილს"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "მხეცი"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ტყე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:02:03.045799168Z",
+  "model": "glm-5.3"
+}

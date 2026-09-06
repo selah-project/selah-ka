@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 26:17",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "აროდის — აროდელთა გვარი; არელის — არელელთა გვარი.",
+  "tokens": [
+    {
+      "surface": "לארוד",
+      "gloss": "აროდის"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "გვარი"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "აროდელი"
+    },
+    {
+      "surface": "לאראלי",
+      "gloss": "არელის"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "გვარი"
+    },
+    {
+      "surface": "האראלי",
+      "gloss": "არელელი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:15:29.069534002Z",
+  "model": "glm-5.3"
+}

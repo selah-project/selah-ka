@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 37,
+  "translation": "და გააკეთა კოჭები შითიმის ხისგან და დააფარა ⟨את⟩-ისინი ოქროთი.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "და გააკეთა"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "კოჭები"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ხე"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "შითიმი"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "და დააფარა"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "კოჭები"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ოქრო"
+    }
+  ],
+  "timestamp": "2026-09-06T12:16:22.697120871Z",
+  "model": "glm-5.3"
+}

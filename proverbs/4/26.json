@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 4:26",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "გაასწორე შენი ფეხის ბილიკი, და დამყარდება ყველა შენი გზა.",
+  "tokens": [
+    {
+      "surface": "פלס",
+      "gloss": "გაასწორე"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "ბილიკი"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "შენი ფეხის"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "და ყველა"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "შენი გზა"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "დამყარდება"
+    }
+  ],
+  "timestamp": "2026-09-06T14:20:56.128839822Z",
+  "model": "glm-5.3"
+}

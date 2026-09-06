@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 27:22",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 27,
+  "translation": "დაწყევლილია მწოლარე თავის დასთან — მამამისის ასულთან ან დედამისის ასულთან — და იტყვის მთელი ხალხი: ამინ.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "დაწყევლილია"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "მწოლარე"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-თან"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "თავის და"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ასული"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "მამამისი"
+    },
+    {
+      "surface": "או",
+      "gloss": "ან"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ასული"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "დედამისი"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "და იტყვის"
+    },
+    {
+      "surface": "כל",
+      "gloss": "მთელი"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ამინ"
+    }
+  ],
+  "timestamp": "2026-09-06T05:40:11.995959147Z",
+  "model": "glm-5.3"
+}

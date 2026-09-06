@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "რადგან ხშირადაც იცის შენმა გულმა, რომ ასევე შენ წყევლიდი სხვებს.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ასევე"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ჯერ"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ხშირად"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "იცის"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "შენი გული"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ასევე"
+    },
+    {
+      "surface": "את",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "წყევლიდი"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "სხვები"
+    }
+  ],
+  "timestamp": "2026-09-06T10:57:25.538994205Z",
+  "model": "glm-5.3"
+}

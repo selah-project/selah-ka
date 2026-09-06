@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 46:12",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 46,
+  "translation": "ისმინეთ ჩემი, ჯიუტგულნო, შორს მყოფნი სიმართლისგან:",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ისმინეთ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემი"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "ჯიუტგულნი"
+    },
+    {
+      "surface": "לב",
+      "gloss": "გული"
+    },
+    {
+      "surface": "הרחוקים",
+      "gloss": "შორს-მყოფნი"
+    },
+    {
+      "surface": "מצדקה",
+      "gloss": "სიმართლე"
+    }
+  ],
+  "timestamp": "2026-09-06T13:14:44.475384187Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 2:32",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და გამოვიდა სიხონი ჩვენს შესახვედრად — ის და მთელი მისი ხალხი — ომად იაჰცაში.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "გამოვიდა"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "სიხონი"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "ჩვენს შესახვედრად"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "და მთელი"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "მისი ხალხი"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ომად"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "იაჰცა"
+    }
+  ],
+  "timestamp": "2026-09-06T12:31:00.120481440Z",
+  "model": "glm-5.3"
+}

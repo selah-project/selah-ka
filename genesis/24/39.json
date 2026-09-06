@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 24:39",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "და ვუთხარი ჩემ ბატონს: იქნებ ის ქალი არ წამომიდგეს უკან.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ვუთხარი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ჩემი ბატონი"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "იქნებ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "წამოდგეს"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ის ქალი"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ჩემს უკან"
+    }
+  ],
+  "timestamp": "2026-09-06T03:52:55.397698106Z",
+  "model": "glm-5.3"
+}

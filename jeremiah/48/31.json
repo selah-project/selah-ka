@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 48:31",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 48,
+  "translation": "ამიტომ ოხრავ მოაბზე და მთელ მოაბს შევაძახებ; ყირ-ხერესის კაცებზე ⟨ის⟩ გოდებს.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ამიტომ_რომ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ამიტომ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "მოაბი"
+    },
+    {
+      "surface": "איליל",
+      "gloss": "ოხრავ"
+    },
+    {
+      "surface": "ולמואב",
+      "gloss": "და_მოაბს"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "მთელი"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "შევაძახებ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "კენ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "კაცები"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "ყირ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ხერესი"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "გოდებს"
+    }
+  ],
+  "timestamp": "2026-09-06T16:56:18.837524104Z",
+  "model": "glm-5.3"
+}

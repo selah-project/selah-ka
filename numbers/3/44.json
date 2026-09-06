@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 3:44",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "და ელაპარაკა იაჰვე მოშეს და უთხრა:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "და ელაპარაკა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "და უთხრა"
+    }
+  ],
+  "timestamp": "2026-09-06T05:00:11.108346184Z",
+  "model": "glm-5.3"
+}

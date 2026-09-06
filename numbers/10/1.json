@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 10:1",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "და ითქვა იაჰვეს მოშესთან (მოსე), სათქვენად:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ითქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-სთან"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქვენად"
+    }
+  ],
+  "timestamp": "2026-09-06T15:42:57.646101902Z",
+  "model": "glm-5.3"
+}

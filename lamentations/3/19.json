@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 3:19",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "მოვიგონებ ჩემს გაჭირვებას და ჩემს მოხეტიალობას — ღვარას და ბადაგს.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "მოვიგონებ"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ჩემი გაჭირვება"
+    },
+    {
+      "surface": "ומרודי",
+      "gloss": "და ჩემი მოხეტიალობა"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "ღვარა"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "და ბადაგი"
+    }
+  ],
+  "timestamp": "2026-09-06T14:45:45.126389362Z",
+  "model": "glm-5.3"
+}

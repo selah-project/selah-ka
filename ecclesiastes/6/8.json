@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "რადგან რა უპირატესობა აქვს ბრძენს სულელზე? რა აქვს ღარიბს, რომელმაც იცის ცოცხლების წინაშე ⟨სიარული⟩?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "უპირატესობა"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ბრძენს"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "სულელზე"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ღარიბს"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "იცის"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "სიარული"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "წინაშე"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ცოცხლების"
+    }
+  ],
+  "timestamp": "2026-09-06T10:58:31.585492819Z",
+  "model": "glm-5.3"
+}

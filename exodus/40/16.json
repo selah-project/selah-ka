@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 40:16",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 40,
+  "translation": "და აღასრულა მოშემ (მოსე) ყოველივე, რაც ბრძანა იაჰვემ ⟨את⟩ მას; ასე აღასრულა.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "და აღასრულა"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ყოველივესავით"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რაც"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ბრძანა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "მას"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "აღასრულა"
+    }
+  ],
+  "timestamp": "2026-09-06T04:34:45.435553508Z",
+  "model": "glm-5.3"
+}

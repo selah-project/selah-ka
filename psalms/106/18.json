@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 106:18",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 106,
+  "translation": "და ატკიდა ცეცხლი მათ კრებულში, ალმა შთანთქა ბოროტები.",
+  "tokens": [
+    {
+      "surface": "ותבער",
+      "gloss": "და ატკიდა"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ცეცხლი"
+    },
+    {
+      "surface": "בעדתם",
+      "gloss": "მათ კრებულში"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "ალი"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "შთანთქავს"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ბოროტები"
+    }
+  ],
+  "timestamp": "2026-09-06T10:03:42.023036920Z",
+  "model": "glm-5.3"
+}

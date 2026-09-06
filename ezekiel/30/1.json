@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 30:1",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "და მოხდა იაჰვეს სიტყვა ჩემთან მეტყველმა:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "მოხდა"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემთან"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "მეტყველმა"
+    }
+  ],
+  "timestamp": "2026-09-06T13:35:56.381957311Z",
+  "model": "glm-5.3"
+}

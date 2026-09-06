@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "lamentations 3:63",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "მათი დაჯდომა და მათი აღდგომა — შეხედე ⟨ზუსტად⟩: მე ⟨ვარ⟩ მათი სიმღერა.",
+  "tokens": [
+    {
+      "surface": "שבתם",
+      "gloss": "მათი დაჯდომა"
+    },
+    {
+      "surface": "וקימתם",
+      "gloss": "და მათი აღდგომა"
+    },
+    {
+      "surface": "הביטה",
+      "gloss": "შეხედე"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "მათი სიმღერა"
+    }
+  ],
+  "timestamp": "2026-09-06T14:46:24.029094184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 23:23",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "მუშის შვილნი: მახლი, ედერი და იერემოთი — სამნი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილნი"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "მუშის"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "მახლი"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "და ედერი"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "და იერემოთი"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "სამნი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:38:05.859313515Z",
+  "model": "glm-5.3"
+}

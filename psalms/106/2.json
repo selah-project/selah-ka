@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 106,
+  "translation": "ვინ იტყვის იაჰვეს გმირობებს? ვინ გააჟღერებს მის ყოველ ქებას?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "იტყვის"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "გმირობები"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "გააჟღერებს"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყოველ"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "მისი ქება"
+    }
+  ],
+  "timestamp": "2026-09-06T10:03:57.070718161Z",
+  "model": "glm-5.3"
+}

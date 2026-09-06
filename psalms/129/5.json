@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 129,
+  "translation": "დაე, შერცხვნენ და უკუიქცენ ყველა ციონის მოძულე.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "შერცხვნენ"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "და უკუიქცენ"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "უკან"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "მოძულე"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ციონი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:10:49.168294432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 24:11",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "მეცხრედ — იეშუას, მეათედ — შქანიაჰუს.",
+  "tokens": [
+    {
+      "surface": "לישוע",
+      "gloss": "იეშუას"
+    },
+    {
+      "surface": "התשעי",
+      "gloss": "მეცხრე"
+    },
+    {
+      "surface": "לשכניהו",
+      "gloss": "შქანიაჰუს"
+    },
+    {
+      "surface": "העשרי",
+      "gloss": "მეათე"
+    }
+  ],
+  "timestamp": "2026-09-06T11:37:18.754795762Z",
+  "model": "glm-5.3"
+}

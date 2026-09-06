@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 7:17",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "მივაპხურე ჩემს საწოლს მური, აჰალი და დარიჩინი.",
+  "tokens": [
+    {
+      "surface": "נפתי",
+      "gloss": "მივაპხურე"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "ჩემს საწოლს"
+    },
+    {
+      "surface": "מר",
+      "gloss": "მური"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "აჰალი"
+    },
+    {
+      "surface": "וקנמון",
+      "gloss": "და დარიჩინი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:18:27.069335475Z",
+  "model": "glm-5.3"
+}

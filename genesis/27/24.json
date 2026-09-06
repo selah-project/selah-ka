@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 27,
+  "translation": "და თქვა: შენ ⟨ხარ⟩ ის, ძე ჩემი, ესავი? და თქვა: მე ვარ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ის"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძე ჩემი"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ესავი"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე ვარ"
+    }
+  ],
+  "timestamp": "2026-09-06T12:05:18.288349290Z",
+  "model": "glm-5.3"
+}

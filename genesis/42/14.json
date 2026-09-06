@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 42,
+  "translation": "და თქვა მათ იოსეფმა: სწორედ ის ⟨არის⟩, რაც ვუთხარი თქვენ: ჯაშუშები ხართ თქვენ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "მათ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "იოსეფმა"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რაც"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ვუთხარი"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "თქვენ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "ჯაშუშები"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "თქვენ"
+    }
+  ],
+  "timestamp": "2026-09-06T04:06:01.717426792Z",
+  "model": "glm-5.3"
+}

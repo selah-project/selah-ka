@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "რადგან როგორც ბუშტბალახთა ხმა ქვაბის ქვეშ, ისე ⟨არის⟩ სულელის სიცილი, და ესეც ⟨არის⟩ ამაოება.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "როგორც ხმა"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "ბუშტბალახთა"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ქვეშ"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ქვაბის"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ისე"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "სიცილი"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "სულელის"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "და აგრეთვე"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ამაოება"
+    }
+  ],
+  "timestamp": "2026-09-06T14:51:18.894072878Z",
+  "model": "glm-5.3"
+}

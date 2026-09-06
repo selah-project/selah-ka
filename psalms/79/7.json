@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 79,
+  "translation": "რადგან შთანთქა ⟨את⟩ იააკოვი და ⟨את⟩ მისი სავანე აოხრეს.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "შთანთქა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იააკოვი"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "იააკოვი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "მისი სავანე"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "მისი სავანე"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "აოხრეს"
+    }
+  ],
+  "timestamp": "2026-09-06T09:56:22.283148933Z",
+  "model": "glm-5.3"
+}

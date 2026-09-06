@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "და ეს ⟨არის⟩ თორა დანაშაულის შესაწირისა: წმიდა წმიდათაგან ⟨არის⟩ ⟨ის⟩.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "და ეს"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "თორა"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "დანაშაულის შესაწირი"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "წმიდა"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "წმიდათა"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    }
+  ],
+  "timestamp": "2026-09-06T04:37:33.422800564Z",
+  "model": "glm-5.3"
+}

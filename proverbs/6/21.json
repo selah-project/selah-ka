@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 6:21",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "შეაკარი ისინი შენს გულზე მუდმივად, შემოიკარი ისინი შენს გრგრისქვეშ.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "შეაკარი ისინი"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "შენს გულ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "მუდმივად"
+    },
+    {
+      "surface": "ענדם",
+      "gloss": "შემოიკარი ისინი"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "גרגרתך",
+      "gloss": "შენს ყელ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:17:27.099023663Z",
+  "model": "glm-5.3"
+}

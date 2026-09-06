@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 17:26",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 17,
+  "translation": "ზუსტად ამ დღეს იწინდა აბრაჰამი და იშმაელი, მისი ძე.",
+  "tokens": [
+    {
+      "surface": "בעצם",
+      "gloss": "ზუსტად... "
+    },
+    {
+      "surface": "היום",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ამ"
+    },
+    {
+      "surface": "נמול",
+      "gloss": "იწინდა"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "აბრაჰამი"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "და იშმაელი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი ძე"
+    }
+  ],
+  "timestamp": "2026-09-06T03:47:36.054694586Z",
+  "model": "glm-5.3"
+}

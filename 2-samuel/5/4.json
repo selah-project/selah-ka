@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 5:4",
+  "book": "2-samuel",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "ოცდაათის წლის იყო დავიდი თავის მეფობისას; ორმოცი წელი იმეფა.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "შვილი"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ოცდაათი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელი"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "დავიდი"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "მეფობისას"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ორმოცი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელი"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "იმეფა"
+    }
+  ],
+  "timestamp": "2026-09-06T06:37:40.502072245Z",
+  "model": "glm-5.3"
+}

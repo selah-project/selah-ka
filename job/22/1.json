@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 22:1",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "უპასუხა ელიფაზმა თემანელმა და თქვა:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "უპასუხა"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ელიფაზმა"
+    },
+    {
+      "surface": "התמני",
+      "gloss": "თემანელმა"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "თქვა"
+    }
+  ],
+  "timestamp": "2026-09-06T14:37:34.453186709Z",
+  "model": "glm-5.3"
+}

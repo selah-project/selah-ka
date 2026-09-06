@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 7:17",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "და ნარჩენი ხორცისა მსხვერპლისა მესამე დღეს ცეცხლში დაიწვება.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "და ნარჩენი"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "ხორცი"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "მსხვერპლი"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "მესამე"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ცეცხლში"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "დაიწვება"
+    }
+  ],
+  "timestamp": "2026-09-06T12:19:45.258334040Z",
+  "model": "glm-5.3"
+}

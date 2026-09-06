@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 7:22",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ხაშუმის შვილები — სამას ოცდარვა.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "ხაშუმი"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "სამ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ოცი"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "და რვა"
+    }
+  ],
+  "timestamp": "2026-09-06T11:21:32.539910495Z",
+  "model": "glm-5.3"
+}

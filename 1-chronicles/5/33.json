@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "მერაიოთმა შვა ⟨את⟩ ამარიაჰი და ამარიაჰმა შვა ⟨את⟩ ახითუბი.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "მერაიოთი"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ამარიაჰი"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "ამარიაჰი"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "და ამარიაჰმა"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ახითუბი"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "ახითუბი"
+    }
+  ],
+  "timestamp": "2026-09-06T15:06:39.808855555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 6:38",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "ცადოკი მისი შვილი, ახიმააცი მისი შვილი.",
+  "tokens": [
+    {
+      "surface": "צדוק",
+      "gloss": "ცადოკი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი შვილი"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "ახიმააცი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი შვილი"
+    }
+  ],
+  "timestamp": "2026-09-06T18:47:05.467999360Z",
+  "model": "glm-5.3"
+}

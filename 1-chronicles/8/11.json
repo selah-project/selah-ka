@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და ხუშიმისგან შვა ⟨את⟩ აბიტუბს და ⟨את⟩ ელფაალს",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "და ხუშიმისგან"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "აბიტუბი"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "აბიტუბი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ელფაალი"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "ელფაალი"
+    }
+  ],
+  "timestamp": "2026-09-06T20:33:59.479412950Z",
+  "model": "glm-5.3"
+}

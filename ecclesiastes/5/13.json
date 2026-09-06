@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "და დაიღუპა ის სიმდიდრე ბოროტ საქმეში, და შვა ძე, და არა აქვს ხელში არაფერი.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "და დაიღუპა"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "სიმდიდრე"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "საქმეში"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ბოროტი"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "და შვა"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "და არა"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ხელში მისსა"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "არაფერი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:57:51.507604009Z",
+  "model": "glm-5.3"
+}

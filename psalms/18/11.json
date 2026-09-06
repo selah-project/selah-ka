@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "და ამხედრდა ქერუბს და იფრინა, და გადაფრინდა ქარის ფრთებზე.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "და ამხედრდა"
+    },
+    {
+      "surface": "על",
+      "gloss": "–ზე"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "ქერუბი"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "და იფრინა"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "და გადაფრინდა"
+    },
+    {
+      "surface": "על",
+      "gloss": "–ზე"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "ფრთები"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ქარის"
+    }
+  ],
+  "timestamp": "2026-09-06T09:35:57.654010776Z",
+  "model": "glm-5.3"
+}

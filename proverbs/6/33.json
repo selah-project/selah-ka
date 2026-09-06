@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 6:33",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "ჭირს და სირცხვილს იპოვნის, და მისი გინება არ წაიშლება.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "ჭირი"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "და სირცხვილი"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "იპოვნის"
+    },
+    {
+      "surface": "וחרפתו",
+      "gloss": "და მისი გინება"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תמחה",
+      "gloss": "წაიშლება"
+    }
+  ],
+  "timestamp": "2026-09-06T10:17:29.601313819Z",
+  "model": "glm-5.3"
+}

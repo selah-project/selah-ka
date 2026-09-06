@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 48:3",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 48,
+  "translation": "ხორონაიმიდან ყვირილის ხმა — აოხრება და მსხვრევა დიდი.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ხმა"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "ყვირილი"
+    },
+    {
+      "surface": "מחרונים",
+      "gloss": "ხორონაიმიდან"
+    },
+    {
+      "surface": "שד",
+      "gloss": "აოხრება"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "და მსხვრევა"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "დიდი"
+    }
+  ],
+  "timestamp": "2026-09-06T08:27:44.175963935Z",
+  "model": "glm-5.3"
+}

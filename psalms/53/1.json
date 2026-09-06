@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 53,
+  "translation": "გუშაგს, მახალათის თანა, მასქილი დავითს.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "გუშაგს"
+    },
+    {
+      "surface": "על",
+      "gloss": "თანა"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "მახალათი"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "მასქილი"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "დავითს"
+    }
+  ],
+  "timestamp": "2026-09-06T14:03:15.329804243Z",
+  "model": "glm-5.3"
+}

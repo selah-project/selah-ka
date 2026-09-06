@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და ბოაზმა შვა ⟨את⟩ ოვედი, და ოვედმა შვა ⟨את⟩ იშაი.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "და ბოაზმა"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ოვედი"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ოვედი"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "და ოვედმა"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იშაი"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "იშაი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:26:23.582683201Z",
+  "model": "glm-5.3"
+}

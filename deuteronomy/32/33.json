@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 32:33",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 32,
+  "translation": "თავბრების შხამი ⟨არის⟩ მათი ღვინო, და ასპიდების თავი — მედგარი სისასტიკე.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "შხამი"
+    },
+    {
+      "surface": "תנינם",
+      "gloss": "თავბრები"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "ღვინო"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "და თავი"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "ასპიდები"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "მედგარი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:44:19.467151708Z",
+  "model": "glm-5.3"
+}

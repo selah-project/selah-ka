@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "ყოველი მჭიკნარე მფრინავი, რომელიც ოთხზე დადის — სისაძაგლე ⟨არის⟩ ის თქვენთვის.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ყოველი"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "მჭიკნარე"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "მფრინავი"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "რომელიც დადის"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ოთხი"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "სისაძაგლე"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "თქვენთვის"
+    }
+  ],
+  "timestamp": "2026-09-06T12:20:04.400118688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 10:16",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "და ლაშქარზე ზებულუნის ძეთა ტომისა — ელიავი, ძე ხელონისა.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "და ზედ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ლაშქარი"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ტომი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ზებულუნი"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ელიავი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "ხელონი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:04:23.136636104Z",
+  "model": "glm-5.3"
+}

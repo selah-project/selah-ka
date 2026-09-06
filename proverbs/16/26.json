@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 16:26",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 16,
+  "translation": "შრომის ნეფეში შრომობს მისთვის, რადგან აიძულებს მას მისი პირი.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "ნეფეში"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "მოშრომე"
+    },
+    {
+      "surface": "עמלה",
+      "gloss": "შრომობს"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მისთვის"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "אכף",
+      "gloss": "აიძულებს"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "მისი პირი"
+    }
+  ],
+  "timestamp": "2026-09-06T14:24:53.021798745Z",
+  "model": "glm-5.3"
+}

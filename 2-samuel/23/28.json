@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 23:28",
+  "book": "2-samuel",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "ცალმონ ახოხელი, მაჰარაი ნეტოფათელი,",
+  "tokens": [
+    {
+      "surface": "צלמון",
+      "gloss": "ცალმონ"
+    },
+    {
+      "surface": "האחחי",
+      "gloss": "ახოხელი"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "მაჰარაი"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "ნეტოფათელი"
+    }
+  ],
+  "timestamp": "2026-09-06T06:48:22.649350874Z",
+  "model": "glm-5.3"
+}

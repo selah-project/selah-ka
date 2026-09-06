@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 10:15",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "და ლაშქარზე ისაკარის ძეთა ტომისა — ნეთანელი, ძე ცუარისა.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "და ზედ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ლაშქარი"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ტომი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ისაკარი"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "ნეთანელი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "ცუარი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:04:23.136505770Z",
+  "model": "glm-5.3"
+}

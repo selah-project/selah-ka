@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 27:23",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 27,
+  "translation": "იცოდე ჭეშმარიტად სახე შენი ფარისა; მიმართე შენი გული ჯოგებს.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "ცოდნად"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "იცოდე"
+    },
+    {
+      "surface": "פני",
+      "gloss": "სახე"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "შენი ფარა"
+    },
+    {
+      "surface": "שית",
+      "gloss": "მიმართე"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "შენი გული"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "ჯოგებს"
+    }
+  ],
+  "timestamp": "2026-09-06T14:28:36.717373269Z",
+  "model": "glm-5.3"
+}

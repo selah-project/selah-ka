@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 27,
+  "translation": "წყეული ⟨არის⟩ ვინც შეურაცხავს მამამისს და დედამისს; და იტყვის მთელი ხალხი: ამენ.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "წყეული"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "შეურაცხყოფს"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "მამამისს"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "და დედამისს"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "და იტყვის"
+    },
+    {
+      "surface": "כל",
+      "gloss": "მთელი"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ამენ"
+    }
+  ],
+  "timestamp": "2026-09-06T12:35:22.710299687Z",
+  "model": "glm-5.3"
+}

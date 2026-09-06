@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "nehemiah 7:46",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ნეთინიმები: ძენი ციჰასა, ძენი ჰასუფასა, ძენი ტაბაოთისა.",
+  "tokens": [
+    {
+      "surface": "הנתינים",
+      "gloss": "ნეთინიმები"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "צחא",
+      "gloss": "ციჰა"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "חשפא",
+      "gloss": "ჰასუფა"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "ტაბაოთი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:21:49.250417595Z",
+  "model": "glm-5.3"
+}

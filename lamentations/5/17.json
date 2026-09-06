@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 5:17",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "ამის გამო ⟨არის⟩ ავადმყოფი ჩვენი გული, ამათ გამო დაბნელდნენ ჩვენი თვალები.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ამის გამო"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ამის"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨არის⟩"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "ავადმყოფი"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "გული"
+    },
+    {
+      "surface": "על",
+      "gloss": "ამათ გამო"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ამათ"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "დაბნელდნენ"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "თვალები"
+    }
+  ],
+  "timestamp": "2026-09-06T10:55:01.341191879Z",
+  "model": "glm-5.3"
+}

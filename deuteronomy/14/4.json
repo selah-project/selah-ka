@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "ეს ⟨არის⟩ პირუტყვი, რომელსაც შეჭამთ: ხარი, ცხვრის ბაჭი და თხის ბაჭი.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "პირუტყვი"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელსაც"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "შეჭამთ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ხარი"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ბაჭი"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "ცხვრის"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "და ბაჭი"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "თხის"
+    }
+  ],
+  "timestamp": "2026-09-06T05:30:38.070691234Z",
+  "model": "glm-5.3"
+}

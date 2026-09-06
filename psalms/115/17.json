@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 115,
+  "translation": "არა მკვდრები ადიდებენ იაჰს, და არც სიჩუმეში ჩამავალნი ⟨ყველა⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "მკვდრები"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "ადიდებენ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "იაჰ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არც"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "ჩამავალნი"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "სიჩუმე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:06:35.999352233Z",
+  "model": "glm-5.3"
+}

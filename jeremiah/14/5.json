@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "რადგან ასევე შვერინი ველზე ბადა და მიატოვა, რადგან არ იყო ბალახი.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ასევე"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "შვერინი"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ველზე"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ბადა"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "და მიატოვა"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ბალახი"
+    }
+  ],
+  "timestamp": "2026-09-06T08:07:34.442976259Z",
+  "model": "glm-5.3"
+}

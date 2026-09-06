@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 29,
+  "translation": "იაჰვეს ხმა თლის ცეცხლის ალებს.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ხმა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "თლის"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "ალები"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ცეცხლის"
+    }
+  ],
+  "timestamp": "2026-09-06T09:38:25.305680527Z",
+  "model": "glm-5.3"
+}

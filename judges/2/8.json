@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და მოკვდა იეჰოშუა, ძე ნუნისა, მსახური იაჰვესი, ძე ასისა და ათისა წელიწადისა.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "მოკვდა"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "იეჰოშუა"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "נון",
+      "gloss": "ნუნი"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "მსახური"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "და ათი"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "წელიწადი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:40:37.110109343Z",
+  "model": "glm-5.3"
+}

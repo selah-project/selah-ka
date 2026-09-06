@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "არ იყოს შენთვის სხვა ღმერთები ჩემს სახეს ზემოთ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "იყოს"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენთვის"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ღმერთები"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "სხვა"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზემოთ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "სახეს"
+    }
+  ],
+  "timestamp": "2026-09-06T05:25:28.031442283Z",
+  "model": "glm-5.3"
+}

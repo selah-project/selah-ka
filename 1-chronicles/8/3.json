@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და იყვნენ ბელას ვაჟები: ადარი, და გერა, და ავიჰუდი.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "და იყვნენ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ვაჟები"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "ბელას"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "ადარი"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "და გერა"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "და ავიჰუდი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:29:42.614524172Z",
+  "model": "glm-5.3"
+}

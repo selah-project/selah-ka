@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 17:3",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 17,
+  "translation": "და იყო იმ ღამეს, და იყო ელოჰიმის სიტყვა ნატანისკენ ⟨სათქმელად⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "და იყო"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ღამეს"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "იმ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "და იყო"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-სკენ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ნატანი"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T16:43:22.674481518Z",
+  "model": "glm-5.3"
+}

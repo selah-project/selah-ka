@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 24:9",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "ამიტომ ასე თქვა ადონაი იაჰვემ: ვაი სისხლების ქალაქო! ასევე მე გავადიდებ კოცონს.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ამიტომ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ადონაი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ვაი"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ქალაქ"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "სისხლების"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ასევე"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "אגדיל",
+      "gloss": "გავადიდებ"
+    },
+    {
+      "surface": "המדורה",
+      "gloss": "კოცონი"
+    }
+  ],
+  "timestamp": "2026-09-06T13:33:17.506524508Z",
+  "model": "glm-5.3"
+}

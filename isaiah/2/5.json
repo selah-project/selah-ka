@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "იააკოვის სახლო, მოდით და ვიაროთ იაჰვეს სინათლეში.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "სახლო"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "იააკოვი"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "მოდით"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "და ვიაროთ"
+    },
+    {
+      "surface": "באור",
+      "gloss": "სინათლეში"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    }
+  ],
+  "timestamp": "2026-09-06T19:15:50.731673389Z",
+  "model": "glm-5.3"
+}

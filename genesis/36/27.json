@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 36:27",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 36,
+  "translation": "ესენი ⟨არიან⟩ ძენი ყოფილისა: ყოფილი, და ყოფილი და ყოფილი.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ესენი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "ყოფილი"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "ყოფილი"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "და ყოფილი"
+    },
+    {
+      "surface": "ועקן",
+      "gloss": "და ყოფილი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:00:40.435667325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 6:15",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "შიმეა მისი შვილი, ხაგიაჰი მისი შვილი, ასაიაჰი მისი შვილი.",
+  "tokens": [
+    {
+      "surface": "שמעא",
+      "gloss": "შიმეა"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი შვილი"
+    },
+    {
+      "surface": "חגיה",
+      "gloss": "ხაგიაჰი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი შვილი"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "ასაიაჰი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი შვილი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:29:04.002527359Z",
+  "model": "glm-5.3"
+}

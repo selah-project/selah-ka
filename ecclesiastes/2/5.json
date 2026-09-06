@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "გავაკეთე ჩემთვის ბაღები და პარდესები, და დავრგე მათში ხე ყოველი ნაყოფისა.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "გავაკეთე"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ჩემთვის"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "ბაღები"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "და პარდესები"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "და დავრგე"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "მათში"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ხე"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყოველი"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ნაყოფი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:56:50.511503185Z",
+  "model": "glm-5.3"
+}

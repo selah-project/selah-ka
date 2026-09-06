@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 2:31",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და ძენი აპაიმისანი ⟨არიან⟩ იშიი; და ძენი იშიისანი — შეშანი; და ძენი შეშანისანი — ახლაი.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "და ძენი"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "აპაიმი"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "იშიი"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "და ძენი"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "იშიისანი"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "შეშანი"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "და ძენი"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "შეშანისანი"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "ახლაი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:26:26.694004410Z",
+  "model": "glm-5.3"
+}

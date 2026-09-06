@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 24:17",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "ოცდაერთი იახინს, ოცდაორი გამულს.",
+  "tokens": [
+    {
+      "surface": "ליכין",
+      "gloss": "იახინი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "და ოცი"
+    },
+    {
+      "surface": "לגמול",
+      "gloss": "გამული"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ორი"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "და ოცი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:37:41.444068547Z",
+  "model": "glm-5.3"
+}

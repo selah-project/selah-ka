@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 23:6",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "და ამ თვის თხუთმეტე დღეს — მაცოთის დღესასწაული ⟨არის⟩ იაჰვეს; შვიდი დღე მაცოთს შეჭამთ.",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "და ხუთ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "მეთხუთმეტე"
+    },
+    {
+      "surface": "יום",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "თვის"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "חג",
+      "gloss": "დღესასწაული"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "მაცოთი"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "შვიდ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "მაცოთი"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "შეჭამთ"
+    }
+  ],
+  "timestamp": "2026-09-06T04:49:20.970523727Z",
+  "model": "glm-5.3"
+}

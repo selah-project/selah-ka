@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "იქით იარდენის, მოაბის ქვეყანაში, შეუდგა მოშე (მოსე) ⟨את⟩ ამ თორას განმარტებას, სიტყვით:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "იქით"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "იარდენი"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ქვეყანაში"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "მოაბი"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "შეუდგა"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "באר",
+      "gloss": "განმარტება"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ამ თორას"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "თორა"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სიტყვით"
+    }
+  ],
+  "timestamp": "2026-09-06T15:43:43.718582421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 12:24",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "რადგან აღარ იქნება არც ერთი ცრუ ხილვა და გლუვი მკითხაობა იშრაელის სახლის შუაგულში.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "იქნება"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "აღარ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "ხილვა"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ცრუ"
+    },
+    {
+      "surface": "ומקסם",
+      "gloss": "და მკითხაობა"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "გლუვი"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "შუაგულში"
+    },
+    {
+      "surface": "בית",
+      "gloss": "სახლი"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    }
+  ],
+  "timestamp": "2026-09-06T08:39:09.032266873Z",
+  "model": "glm-5.3"
+}

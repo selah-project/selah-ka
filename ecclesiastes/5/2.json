@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "რადგან სიზმარი მოდის საქმეთა სიმრავლით, და სულელის ხმა — სიტყვათა სიმრავლით.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "בא",
+      "gloss": "მოდის"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "სიზმარი"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "სიმრავლით"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "საქმე"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "და ხმა"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "სულელი"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "სიმრავლით"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "სიტყვები"
+    }
+  ],
+  "timestamp": "2026-09-06T10:57:04.474495808Z",
+  "model": "glm-5.3"
+}

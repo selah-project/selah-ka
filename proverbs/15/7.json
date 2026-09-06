@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 15:7",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "ბაგენი ბრძენთა გააბნევენ ცოდნას, ხოლო გული სულელთა — არა ⟨არის⟩ ასე.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "ბაგენი"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ბრძენთა"
+    },
+    {
+      "surface": "יזרו",
+      "gloss": "გააბნევენ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ცოდნა"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ხოლო გული"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "სულელთა"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ასე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:21:16.196782289Z",
+  "model": "glm-5.3"
+}

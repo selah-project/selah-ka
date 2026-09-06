@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 104,
+  "translation": "სადაც ჩიტები ბუდობენ; იბისს სოჭები ⟨არის⟩ სახლად.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "სადაც"
+    },
+    {
+      "surface": "שם",
+      "gloss": "იქ"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "ჩიტები"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "ბუდობენ"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "იბისი"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "სოჭები"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "მისი სახლი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:02:03.045230963Z",
+  "model": "glm-5.3"
+}

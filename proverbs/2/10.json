@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "რადგან შევა სიბრძნე შენს გულში და შენს ნეფეშს ეამება ცოდნა.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "შევა"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "სიბრძნე"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "შენს გულში"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "და ცოდნა"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "შენს ნეფეშს"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "ეამება"
+    }
+  ],
+  "timestamp": "2026-09-06T10:15:42.340262937Z",
+  "model": "glm-5.3"
+}

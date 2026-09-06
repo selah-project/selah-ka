@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "და ოთხი მხეცნი დიდნი აღვიდნენ ზღვიდან, სხვანი ამისგან სხვანი.",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "და ოთხი"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "მხეცნი"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "დიდნი"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "აღვიდნენ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-დან"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "ზღვა"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "სხვანი"
+    },
+    {
+      "surface": "דא",
+      "gloss": "ამისგან"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-გან"
+    },
+    {
+      "surface": "דא",
+      "gloss": "სხვანი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:11:18.954070047Z",
+  "model": "glm-5.3"
+}

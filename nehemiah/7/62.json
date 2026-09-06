@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "nehemiah 7:62",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "დელაიას შვილები, ტობიიას შვილები, ნეკოდას შვილები — ექვსას ორმოცდაორი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "דליה",
+      "gloss": "დელაია"
+    },
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "ტობიია"
+    },
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "ნეკოდა"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ექვსას"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ორმოცი"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ორი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:22:06.701020538Z",
+  "model": "glm-5.3"
+}

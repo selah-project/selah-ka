@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 18:1",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "სიტყვა, რომელიც მოხდა ირმიაჰუსთან, ⟨את⟩-ისგან იაჰვესგან, სათქმელად:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "היה",
+      "gloss": "მოხდა"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-სთან"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ირმიაჰუ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩-ისგან",
+      "marks": "იაჰვესგან"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T08:12:04.030551135Z",
+  "model": "glm-5.3"
+}

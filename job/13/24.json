@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 13:24",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "რატომ მალავ შენს სახეს და მიმიჩნევ შენს მტრად?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "რატომ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "შენს სახეს"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "მალავ"
+    },
+    {
+      "surface": "ותחשבני",
+      "gloss": "მიმიჩნევ"
+    },
+    {
+      "surface": "לאויב",
+      "gloss": "მტრად"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:33:47.013002741Z",
+  "model": "glm-5.3"
+}

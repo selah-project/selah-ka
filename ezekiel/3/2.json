@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "და გავხსენი ⟨את⟩ ჩემი პირი, და მაჭამებინა ⟨את⟩ ეს გრაგნი.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "და გავხსენი"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ჩემი პირი"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ჩემი პირი"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "და მაჭამებინა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ეს გრაგნი"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "გრაგნი"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ეს"
+    }
+  ],
+  "timestamp": "2026-09-06T08:36:31.124178137Z",
+  "model": "glm-5.3"
+}

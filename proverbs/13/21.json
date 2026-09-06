@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "სიავე დევნის ცოდველებს, ხოლო მართალთათვის სასჯელს იხდის სიკეთე.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "ცოდველებს"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "დევნის"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "სიავე"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "მართალნი"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "მართალნი"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "იხდის"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "სიკეთე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:19:46.206287471Z",
+  "model": "glm-5.3"
+}

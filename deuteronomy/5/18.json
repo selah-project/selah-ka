@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 5:18",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "და არ იმრუშო.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "იმრუშო"
+    }
+  ],
+  "timestamp": "2026-09-06T05:24:37.252247185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "მოკვდა იოსეფი, და ყველა მისი ძმა, და ყველა ის თაობა.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "მოკვდა"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "იოსეფი"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "და ყველა"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "მისი ძმა"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "და ყველა"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "თაობა"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ის"
+    }
+  ],
+  "timestamp": "2026-09-06T04:09:45.268155055Z",
+  "model": "glm-5.3"
+}

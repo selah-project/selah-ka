@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "და ეს ⟨არის⟩ თორა შელამიმთა ზევახისა, რომელსაც მიაახლოებენ იაჰვეს.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "და ეს"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "თორა"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ზევახი"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "შელამიმი"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "მიაახლოებს"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "იაჰვეს"
+    }
+  ],
+  "timestamp": "2026-09-06T04:36:52.102603991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 31:26",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 31,
+  "translation": "პირი მისი გახსნა სიბრძნით, და თორა ხესედისა ⟨არის⟩ ენაზე მისსა.",
+  "tokens": [
+    {
+      "surface": "פיה",
+      "gloss": "პირი მისი"
+    },
+    {
+      "surface": "פתחה",
+      "gloss": "გახსნა"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "სიბრძნით"
+    },
+    {
+      "surface": "ותורת",
+      "gloss": "და თორა"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ხესედი"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "לשונה",
+      "gloss": "ენა მისი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:28:53.071133186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 43,
+  "translation": "და ⟨את⟩ თქვენი ძმები წაიყვანეთ, ადგით, დაბრუნდით იმ კაცთან.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "თქვენი ძმები"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "თქვენი ძმები"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "წაიყვანეთ"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "ადგით"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "დაბრუნდით"
+    },
+    {
+      "surface": "אל",
+      "gloss": "თან"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "იმ კაცი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:06:32.989855654Z",
+  "model": "glm-5.3"
+}

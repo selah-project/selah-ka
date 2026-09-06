@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "თქვა ბალაკმა ბილამს: არც კი დასწყევლო ის, არც კი აკურთხო ის.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ბალაკი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ბილამი"
+    },
+    {
+      "surface": "גם",
+      "gloss": "არც"
+    },
+    {
+      "surface": "קב",
+      "gloss": "დაწყევლა"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "დასწყევლო"
+    },
+    {
+      "surface": "גם",
+      "gloss": "არც"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "კურთხევა"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "აკურთხო"
+    }
+  ],
+  "timestamp": "2026-09-06T05:14:08.701437280Z",
+  "model": "glm-5.3"
+}

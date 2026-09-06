@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 12:23",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "დორის მეფე, ნაფათ-დორისა — ერთი; გოიიმის მეფე, გილგალისა — ერთი.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "דור",
+      "gloss": "დორი"
+    },
+    {
+      "surface": "לנפת",
+      "gloss": "ნაფათის"
+    },
+    {
+      "surface": "דור",
+      "gloss": "დორი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "გოიიმი"
+    },
+    {
+      "surface": "לגלגל",
+      "gloss": "გილგალის"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:51:08.817299016Z",
+  "model": "glm-5.3"
+}

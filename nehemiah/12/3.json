@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 12:3",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "შექანია, რეხუმი, მერემოთი.",
+  "tokens": [
+    {
+      "surface": "שכניה",
+      "gloss": "შექანია"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "რეხუმი"
+    },
+    {
+      "surface": "מרמת",
+      "gloss": "მერემოთი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:24:16.353240211Z",
+  "model": "glm-5.3"
+}

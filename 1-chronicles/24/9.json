@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 24:9",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "მეხუთედ — მალქიიას, მეექვსედ — მიამინს.",
+  "tokens": [
+    {
+      "surface": "למלכיה",
+      "gloss": "მალქიას"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "მეხუთე"
+    },
+    {
+      "surface": "למימן",
+      "gloss": "მიამინს"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "მეექვსე"
+    }
+  ],
+  "timestamp": "2026-09-06T11:37:18.754437867Z",
+  "model": "glm-5.3"
+}

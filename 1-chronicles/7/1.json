@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 7:1",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ხოლო ისაქარის (ისაქარი) ძენი ⟨არიან⟩: თოლა და ფუა, იაშუვი და შიმრონი — ოთხნი.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "ხოლო ძენი"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ისაქარი"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "თოლა"
+    },
+    {
+      "surface": "ופואה",
+      "gloss": "და ფუა"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "იაშუვი"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "და შიმრონი"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ოთხი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:30:03.862507011Z",
+  "model": "glm-5.3"
+}

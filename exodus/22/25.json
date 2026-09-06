@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "თუ გირაოდ აიღებ შენი მოყვარის სამოს, მზის ჩასვლამდე დაუბრუნებ მას.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "გირაოდ"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "აიღებ"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "სამოს"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "შენი მოყვარის"
+    },
+    {
+      "surface": "עד",
+      "gloss": "მდე"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ჩასვლა"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "მზის"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "დაუბრუნებ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    }
+  ],
+  "timestamp": "2026-09-06T04:22:05.526448019Z",
+  "model": "glm-5.3"
+}

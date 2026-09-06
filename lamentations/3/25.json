@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "კარგი ⟨არის⟩ იაჰვე მომლოდინისთვის, ნეფეშისთვის, რომელიც მას ეძებს.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "კარგი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "მომლოდინისთვის"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "ნეფეშისთვის"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "ეძებს მას"
+    }
+  ],
+  "timestamp": "2026-09-06T10:53:19.710966107Z",
+  "model": "glm-5.3"
+}

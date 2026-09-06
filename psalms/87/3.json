@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 87,
+  "translation": "დიადი საგნები ითქმება შენზე: ელოჰიმის ქალაქო. სელა.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "დიადი საგნები"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ითქმება"
+    },
+    {
+      "surface": "בך",
+      "gloss": "შენზე"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ქალაქი"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ელოჰიმის"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "სელა"
+    }
+  ],
+  "timestamp": "2026-09-06T09:57:40.075643035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 11:36",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "ხეფერ მეხერათელი, ახიია ფელონელი.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "ხეფერი"
+    },
+    {
+      "surface": "המכרתי",
+      "gloss": "მეხერათელი"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ახიია"
+    },
+    {
+      "surface": "הפלני",
+      "gloss": "ფელონელი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:30:56.643023493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 13:3",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "და იყო იაჰვეს სიტყვა ჩემდამო მეორედ სათქმელად:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "და იყო"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემდამო"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "მეორედ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T13:20:24.600617126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 23:32",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "მისი ბოლო გველივით გკბენს და ასპიტივით გიშვერს შხამს.",
+  "tokens": [
+    {
+      "surface": "אחריתו",
+      "gloss": "მისი ბოლო"
+    },
+    {
+      "surface": "כנחש",
+      "gloss": "გველივით"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "გკბენს"
+    },
+    {
+      "surface": "וכצפעני",
+      "gloss": "და ასპიტივით"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "განიბნევს შხამს"
+    }
+  ],
+  "timestamp": "2026-09-06T14:28:29.120582547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 36,
+  "translation": "საგუნდო მმართველს. იაჰვეს მსახურის დავიდისა.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "საგუნდო მმართველს"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "მსახურის"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "დავიდისა"
+    }
+  ],
+  "timestamp": "2026-09-06T17:27:29.937768059Z",
+  "model": "glm-5.3"
+}

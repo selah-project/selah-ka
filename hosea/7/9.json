@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 7:9",
+  "book": "hosea",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "უცხოებმა შეჭამა მისი ძალა და ის არ იცოდა; ასევე სიბერე მოეფრქვა მასში და ის არ იცოდა.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "შეჭამა"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "უცხოებმა"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "მისი ძალა"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "და ის"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "იცოდა"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ასევე"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "სიბერე"
+    },
+    {
+      "surface": "זרקה",
+      "gloss": "მოეფრქვა"
+    },
+    {
+      "surface": "בו",
+      "gloss": "მასში"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "და ის"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "იცოდა"
+    }
+  ],
+  "timestamp": "2026-09-06T09:06:50.612631037Z",
+  "model": "glm-5.3"
+}

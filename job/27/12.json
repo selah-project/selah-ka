@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 27:12",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 27,
+  "translation": "აჰა, თქვენ — ყველანი ⟨ეს⟩ იხილეთ; და რატომ ამისთვის ამაოდ ამაობთ?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "თქვენ"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "ყველანი"
+    },
+    {
+      "surface": "חזיתם",
+      "gloss": "იხილეთ"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "და რატომ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ამაოდ"
+    },
+    {
+      "surface": "תהבלו",
+      "gloss": "ამაობთ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:39:39.550574153Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 3:23",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "და შევევედრე იაჰვეს იმ დროს, სიტყვით:",
+  "tokens": [
+    {
+      "surface": "ואתחנן",
+      "gloss": "შევევედრე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "დროს"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "იმ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სიტყვით"
+    }
+  ],
+  "timestamp": "2026-09-06T05:22:52.386131651Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "nehemiah 7:40",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "იმერის შვილები — ათასი ორმოცდათორმეტი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "იმერი"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ათასი"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ორმოცდაათი"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "და ორი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:21:50.245026424Z",
+  "model": "glm-5.3"
+}

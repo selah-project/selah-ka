@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 1:1",
+  "book": "nahum",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "სატვირთო ნინვესი: წიგნი ხილვისა ნახუმ ელკეშელისა.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "სატვირთო"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "ნინვე"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "წიგნი"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "ხილვა"
+    },
+    {
+      "surface": "נחום",
+      "gloss": "ნახუმი"
+    },
+    {
+      "surface": "האלקשי",
+      "gloss": "ელკეშელი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:20:01.881503854Z",
+  "model": "glm-5.3"
+}

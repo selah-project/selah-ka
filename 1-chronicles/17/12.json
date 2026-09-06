@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 17,
+  "translation": "ის ააშენებს ჩემთვის სახლს, და დავამყარებ ⟨את⟩ მის ტახტს უკუნისამდე.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ააშენებს"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ჩემთვის"
+    },
+    {
+      "surface": "בית",
+      "gloss": "სახლი"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "და დავამყარებ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მისი ტახტი"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "მისი ტახტი"
+    },
+    {
+      "surface": "עד",
+      "gloss": "მდე"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "უკუნ"
+    }
+  ],
+  "timestamp": "2026-09-06T11:35:34.112097062Z",
+  "model": "glm-5.3"
+}

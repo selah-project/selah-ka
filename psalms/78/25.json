@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 78,
+  "translation": "აბირთა პური შეჭამა კაცმა; საზრდო გაუგზავნა მათ გაჯერებამდე.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "პური"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "აბირები"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ჭამა"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "საზრდო"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "გაგზავნა"
+    },
+    {
+      "surface": "להם",
+      "gloss": "მათ"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "გაჯერებამდე"
+    }
+  ],
+  "timestamp": "2026-09-06T16:26:56.231242477Z",
+  "model": "glm-5.3"
+}

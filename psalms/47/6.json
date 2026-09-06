@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 47,
+  "translation": "ამაღლდა ელოჰიმი შეძახილით, იაჰვე შოფარის (საყვირის) ხმით.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "ამაღლდა"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "შეძახილით"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ხმით"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "შოფარი"
+    }
+  ],
+  "timestamp": "2026-09-06T14:03:15.169557147Z",
+  "model": "glm-5.3"
+}

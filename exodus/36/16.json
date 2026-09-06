@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 36,
+  "translation": "და შეაერთა ⟨את⟩ ხუთი ფარდი ცალკე, და ⟨את⟩ ექვსი ფარდი ცალკე.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "და შეაერთა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ხუთი ფარდი"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ხუთი"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ფარდი"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ცალკე"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ექვსი ფარდი"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ექვსი"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ფარდი"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ცალკე"
+    }
+  ],
+  "timestamp": "2026-09-06T04:33:00.039200364Z",
+  "model": "glm-5.3"
+}

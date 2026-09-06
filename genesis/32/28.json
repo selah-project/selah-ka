@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 32:28",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 32,
+  "translation": "და ჰკითხა მას: რა ⟨არის⟩ შენი სახელი? და თქვა: იააკოვი.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ჰკითხა"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "შენი სახელი"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "იააკოვი"
+    }
+  ],
+  "timestamp": "2026-09-06T03:58:00.349676301Z",
+  "model": "glm-5.3"
+}

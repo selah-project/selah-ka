@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "და დასახლდა დავითი ციხე-სიმაგრეში; ამიტომ უწოდეს მას დავითის ქალაქი.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "დასახლდა"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "დავითმა"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "ციხე-სიმაგრეში"
+    },
+    {
+      "surface": "על",
+      "gloss": "ამიტომ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ამიტომ"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "უწოდეს"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ქალაქი"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "დავითის"
+    }
+  ],
+  "timestamp": "2026-09-06T11:30:42.687573015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 6:10",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "და იცნობენ, რომ მე ⟨ვარ⟩ იაჰვე: არა ამაოდ ვთქვი, რომ მოვახდინო მათთვის ეს ბოროტება.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "და იცნობენ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "אל",
+      "gloss": "არა"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ამაოდ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ვთქვი"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "მოსახდენად"
+    },
+    {
+      "surface": "להם",
+      "gloss": "მათთვის"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ბოროტება"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ეს"
+    }
+  ],
+  "timestamp": "2026-09-06T16:12:09.548473724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 89,
+  "translation": "აგრეთვე მე პირმშოდ ვაქცევ მას, უმაღლესად მიწის მეფეთა შორის.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "აგრეთვე"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "პირმშო"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "ვაქცევ მას"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "უმაღლესი"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "მეფეთა"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "მიწის"
+    }
+  ],
+  "timestamp": "2026-09-06T09:57:04.747084216Z",
+  "model": "glm-5.3"
+}

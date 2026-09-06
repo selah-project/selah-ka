@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "და მთელი მიწა იყო ერთი ენა და სიტყვები ერთნი.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "და იყო"
+    },
+    {
+      "surface": "כל",
+      "gloss": "მთელი"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ენა"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "და სიტყვები"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "ერთნი"
+    }
+  ],
+  "timestamp": "2026-09-06T03:46:03.559437814Z",
+  "model": "glm-5.3"
+}

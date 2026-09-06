@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და ხეცრონის შვილები, რომლებიც მას ეშვა: ⟨את⟩ იერახმელი და ⟨את⟩ რამი და ⟨את⟩ ქელუბაი.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "და შვილები"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ხეცრონი"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომლებიც"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "ეშვა"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იერახმელი"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "იერახმელი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "რამი"
+    },
+    {
+      "surface": "רם",
+      "gloss": "რამი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ქელუბაი"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "ქელუბაი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:26:23.582137836Z",
+  "model": "glm-5.3"
+}

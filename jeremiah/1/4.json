@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 1:4",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და მომივიდა იაჰვეს სიტყვა, რომ ეთქვა:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "და იყო"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემდამი"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "რომ ეთქვა"
+    }
+  ],
+  "timestamp": "2026-09-06T13:17:34.170692509Z",
+  "model": "glm-5.3"
+}

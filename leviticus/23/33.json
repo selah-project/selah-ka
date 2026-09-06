@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 23:33",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "და უთხრა იაჰვემ მოშეს (მოსე) სიტყვად:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "და უთხრა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სიტყვად"
+    }
+  ],
+  "timestamp": "2026-09-06T04:55:43.849999906Z",
+  "model": "glm-5.3"
+}

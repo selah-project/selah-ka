@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 56,
+  "translation": "დღეს, როცა მე ვშინობ, შენ ვენდობი.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ვშინობ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ვენდობი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:47:33.055993724Z",
+  "model": "glm-5.3"
+}

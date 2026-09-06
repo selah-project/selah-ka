@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 55,
+  "translation": "შიში და ძაბაობა შემოდის ჩემში, და საზარელი მაფარავს.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "შიში"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "და ძაბაობა"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "შემოდის"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ჩემში"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "და მაფარავს"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "საზარელი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:46:25.533731932Z",
+  "model": "glm-5.3"
+}

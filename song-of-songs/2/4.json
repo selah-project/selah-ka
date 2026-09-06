@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "შემიყვანა მან ღვინის სახლში, და მის დროშებული სიყვარული ⟨იყო⟩ ჩემ ზემოთ.",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "შემიყვანა"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ში"
+    },
+    {
+      "surface": "בית",
+      "gloss": "სახლ"
+    },
+    {
+      "surface": "היין",
+      "gloss": "ღვინის"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "და მისი დროშა"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ჩემ ზემოთ"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "სიყვარული"
+    }
+  ],
+  "timestamp": "2026-09-06T17:25:23.159367576Z",
+  "model": "glm-5.3"
+}

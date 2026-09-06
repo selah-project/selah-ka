@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 15:9",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "რა იცი შენ და არ ვიცით ჩვენ? რას გაიგებ და არ ⟨არის⟩ ის ჩვენთან?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "იცი"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "ვიცით"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "გაიგებ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ჩვენთან"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    }
+  ],
+  "timestamp": "2026-09-06T10:35:41.563307752Z",
+  "model": "glm-5.3"
+}

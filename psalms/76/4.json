@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 76,
+  "translation": "იქ დამსხვრია ⟨მან⟩ მშვილდის ალისრები, ფარი და მახვილი და ომი. სელა.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "იქ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "დამსხვრია"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "ალისრები"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "მშვილდის"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ფარი"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "და მახვილი"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "და ომი"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "სელა"
+    }
+  ],
+  "timestamp": "2026-09-06T09:53:27.134538128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 56,
+  "translation": "ყოველი ველის ნადირო, მოდით საჭმელად — ყოველი ნადირი ტყეში.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ყოველი"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "ნადირი"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ველის"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "მოდით"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "საჭმელად"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყოველი"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "ნადირი"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "ტყეში"
+    }
+  ],
+  "timestamp": "2026-09-06T13:16:02.275744793Z",
+  "model": "glm-5.3"
+}

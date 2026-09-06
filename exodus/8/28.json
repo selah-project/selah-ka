@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და დამძიმდა ფაროჰეს გული ⟨את⟩ მისი გულისა ამ ჯერადაც, და არ გაუშვა ⟨את⟩ ხალხი.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "და დამძიმდა"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ფაროჰეს"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მისი გულისა"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "მისი გულისა"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ამაც"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "ჯერად"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ამ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "გაუშვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ხალხი"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ხალხი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:15:33.305732211Z",
+  "model": "glm-5.3"
+}

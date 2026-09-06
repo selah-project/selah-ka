@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 28:29",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 28,
+  "translation": "მეათედი მეათედი ერთი ცხვრისთვის, შვიდი ცხვრისთვის.",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "მეათედი"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "მეათედი"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "ცხვრისთვის"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "შვიდისთვის"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "ცხვრები"
+    }
+  ],
+  "timestamp": "2026-09-06T15:40:47.086543986Z",
+  "model": "glm-5.3"
+}

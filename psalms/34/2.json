@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 34,
+  "translation": "ვკურთხევ იაჰვეს ⟨את⟩ ყოველ ჟამს; მისი ქება ჩემს პირში მუდმივად.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "ვკურთხევ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იაჰვეს"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ყოველ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ჟამს"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "მუდმივად"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "მისი ქება"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ჩემს პირში"
+    }
+  ],
+  "timestamp": "2026-09-06T09:40:58.516752756Z",
+  "model": "glm-5.3"
+}

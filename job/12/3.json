@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "მეც გული მაქვს, როგორც თქვენ; არ ჩავცვივდები მე თქვენგან; და ⟨את⟩ ვის არ ჰგავს ესენი?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "მეც"
+    },
+    {
+      "surface": "לי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "გული"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "როგორც თქვენ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ჩაცვენა"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "თქვენგან"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ვის"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "არ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "როგორც"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ესენი"
+    }
+  ],
+  "timestamp": "2026-09-06T14:33:49.778035036Z",
+  "model": "glm-5.3"
+}

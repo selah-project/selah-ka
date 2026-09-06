@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "იაჰვე იბრძოლებს თქვენთვის, ხოლო თქვენ დადუმდებით.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "იბრძოლებს"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "თქვენთვის"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ხოლო თქვენ"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "დადუმდებით"
+    }
+  ],
+  "timestamp": "2026-09-06T12:12:37.450777439Z",
+  "model": "glm-5.3"
+}

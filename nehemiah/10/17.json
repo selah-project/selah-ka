@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 10:17",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "ადონიია, ბიგვაი, ადინი,",
+  "tokens": [
+    {
+      "surface": "אדניה",
+      "gloss": "ადონიია"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "ბიგვაი"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "ადინი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:23:15.422814776Z",
+  "model": "glm-5.3"
+}

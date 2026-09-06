@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 10:18",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "და გავიდა ⟨ის⟩ ფარაონისგან და ივედრა იაჰვეს.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "და გავიდა"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "-გან"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ფარაონი"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "და ივედრა"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    }
+  ],
+  "timestamp": "2026-09-06T15:35:41.802649450Z",
+  "model": "glm-5.3"
+}

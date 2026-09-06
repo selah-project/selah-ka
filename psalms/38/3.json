@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 38,
+  "translation": "რადგან შენი ისრები ჩასობია ჩემში, და შენმა ხელმა დააწე ჩემზე.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "შენი ისრები"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "ჩასობია"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ჩემში"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "და დააწე"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ჩემზე"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "შენმა ხელმა"
+    }
+  ],
+  "timestamp": "2026-09-06T16:23:38.532697068Z",
+  "model": "glm-5.3"
+}

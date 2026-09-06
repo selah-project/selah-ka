@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "lamentations 3:58",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "იდავე შენ, ადონაი, ჩემი ნეფეშის საქმე; გამოისყიდე ჩემი სიცოცხლე.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "იდავე"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ადონაი"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "ჩემი დავა"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ჩემი ნეფეში"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "გამოისყიდე"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ჩემი სიცოცხლე"
+    }
+  ],
+  "timestamp": "2026-09-06T14:45:35.564414223Z",
+  "model": "glm-5.3"
+}

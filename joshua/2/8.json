@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 2:8",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და ისინი — სანამ დაწვებოდნენ — და ის ავიდა მათთან სახურავზე.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "და ისინი"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "სანამ"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "დაწვებოდნენ"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "და ის"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "ავიდა"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "მათთან"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "სახურავი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:45:52.818240900Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "აიღეთ თქვენ ხალხისგან თორმეტი კაცი — თითო კაცი, თითო კაცი ტომიდან.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "აიღეთ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "თქვენ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ისგან"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ორ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ათი"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "איש",
+      "gloss": "თითო კაცი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "איש",
+      "gloss": "თითო კაცი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "ტომიდან"
+    }
+  ],
+  "timestamp": "2026-09-06T05:46:55.113691016Z",
+  "model": "glm-5.3"
+}

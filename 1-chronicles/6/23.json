@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 6:23",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "იცჰარის ძე, კეჰათის ძე, ლევის ძე, იშრაელის ძე.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "იცჰარი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "კეჰათი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ლევი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    }
+  ],
+  "timestamp": "2026-09-06T16:39:08.735386156Z",
+  "model": "glm-5.3"
+}

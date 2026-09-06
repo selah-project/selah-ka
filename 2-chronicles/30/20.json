@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "და ისმინა იაჰვემ ხიზკიაჰუ (ეზეკიელის მეფე ხიზეკია) — და განიკურნა ⟨את⟩ ერი.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "და ისმინა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "ხიზკიაჰუ"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "და განკურნა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ერი"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ერი"
+    }
+  ],
+  "timestamp": "2026-09-06T18:51:26.889941863Z",
+  "model": "glm-5.3"
+}

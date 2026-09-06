@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 5:4",
+  "book": "esther",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "და თქვა ესთერმა: თუ მეფისთვის კარგია, მოვიდეს მეფე და ჰამანი დღეს ნადიმზე, რომელი მოვუმზადე მას.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ესთერი"
+    },
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "על",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "კარგი"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "მოვიდეს"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "და ჰამანი"
+    },
+    {
+      "surface": "היום",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "ნადიმი"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელი"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "გავაკეთე"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    }
+  ],
+  "timestamp": "2026-09-06T11:02:18.038852217Z",
+  "model": "glm-5.3"
+}

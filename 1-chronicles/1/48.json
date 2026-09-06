@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 1:48",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და მოკვდა სამლაჰი, და მეფობდა მის ნაცვლად შაული, მდინარის რეხობოთიდან.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "მოკვდა"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "სამლაჰი"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "მეფობდა"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "მის ნაცვლად"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "შაული"
+    },
+    {
+      "surface": "מרחבות",
+      "gloss": "რეხობოთი"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "მდინარე"
+    }
+  ],
+  "timestamp": "2026-09-06T11:25:51.017786959Z",
+  "model": "glm-5.3"
+}

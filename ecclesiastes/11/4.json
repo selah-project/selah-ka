@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "რომელიც ქარს იცავს, არ დათესავს; და რომელიც ღრუბლებს უყურებს, არ მოიმკის.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "იცავს"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ქარი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "დათესავს"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "და უყურებს"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "ღრუბლებს"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "მოიმკის"
+    }
+  ],
+  "timestamp": "2026-09-06T14:49:27.338708587Z",
+  "model": "glm-5.3"
+}

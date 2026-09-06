@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 7:23",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ბეცაის შვილები — სამას ოცდაოთხი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "בצי",
+      "gloss": "ბეცაი"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "სამ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ოცი"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "და ოთხი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:21:32.540041738Z",
+  "model": "glm-5.3"
+}

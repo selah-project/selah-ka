@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "და კეჰათის ძენი ⟨არიან⟩ ამრამი (ყორათის ძე), იცჰარი, ხებრონი და უზიელი.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "და ძენი"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "კეჰათი"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "ამრამი"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "და იცჰარი"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "და ხებრონი"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "და უზიელი"
+    }
+  ],
+  "timestamp": "2026-09-06T20:05:46.672601049Z",
+  "model": "glm-5.3"
+}

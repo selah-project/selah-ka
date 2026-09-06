@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 10:27",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "იაჰვეს შიში ამატებს დღეებს, და ბოროტთა წლები შემოკლდება.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "შიში"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "ამატებს"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "დღეებს"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "და წლები"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ბოროტთა"
+    },
+    {
+      "surface": "תקצרנה",
+      "gloss": "შემოკლდება"
+    }
+  ],
+  "timestamp": "2026-09-06T10:19:23.911728101Z",
+  "model": "glm-5.3"
+}

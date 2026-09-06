@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 7:16",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "საფარებით დავფინე ჩემი საწოლი — ქარგულები, მიცრაიმის ძაფი.",
+  "tokens": [
+    {
+      "surface": "מרבדים",
+      "gloss": "საფარები"
+    },
+    {
+      "surface": "רבדתי",
+      "gloss": "დავფინე"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "ჩემი საწოლი"
+    },
+    {
+      "surface": "חטבות",
+      "gloss": "ქარგულები"
+    },
+    {
+      "surface": "אטון",
+      "gloss": "ძაფი"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "მიცრაიმი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:18:25.099446087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 19:26",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "და მიიხედა მისმა ცოლმა მის უკანდან, და იქცა მარილის სვეტად.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "და მიიხედა"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ცოლი"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "მის უკანდან"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "და იქცა"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "სვეტი"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "მარილი"
+    }
+  ],
+  "timestamp": "2026-09-06T03:48:49.596554267Z",
+  "model": "glm-5.3"
+}

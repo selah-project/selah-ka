@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 92,
+  "translation": "კაცი ბრიყო არა იცის, და სულელი არა გაიგებს ⟨את⟩ ამას.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ბრიყო"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "იცის"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "და სულელი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "გაიგებს"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ამას"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ამას"
+    }
+  ],
+  "timestamp": "2026-09-06T09:59:51.475659987Z",
+  "model": "glm-5.3"
+}

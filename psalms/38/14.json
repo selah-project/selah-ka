@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 38,
+  "translation": "და მე — როგორც ყრუ, არ ვისმენ; და როგორც მუნჯი, არ გახსნის თავის პირს.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "და მე"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "როგორც ყრუ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ვისმენ"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "და როგორც მუნჯი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "გახსნის"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "თავის პირს"
+    }
+  ],
+  "timestamp": "2026-09-06T09:42:53.689917399Z",
+  "model": "glm-5.3"
+}

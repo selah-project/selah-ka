@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 16:21",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 16,
+  "translation": "არ დაუშვია ვერც ერთ კაცს მათი ჩაგვრა და შეაგონა მათ გამო მეფეები.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "დაუშვია"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ვერც ერთ კაცს"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "მათი ჩაგვრა"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "შეაგონა"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "მათ გამო"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "მეფეები"
+    }
+  ],
+  "timestamp": "2026-09-06T11:32:36.490308223Z",
+  "model": "glm-5.3"
+}

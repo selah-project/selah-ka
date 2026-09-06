@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 24:19",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "და თქვა ხალხმა ჩემთან: განა არ გვითხრა, რა ⟨არის⟩ ესენი ჩვენთვის, რომ შენ აკეთებ?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემთან"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "განა"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "გვითხრა"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ჩვენ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ესენი"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ჩვენთვის"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "აკეთებ"
+    }
+  ],
+  "timestamp": "2026-09-06T13:34:44.763600372Z",
+  "model": "glm-5.3"
+}

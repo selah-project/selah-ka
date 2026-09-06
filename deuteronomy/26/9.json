@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "და შემოგვიყვანა ⟨იგი⟩ ამ ადგილამდე, და მოგვცა ჩვენ ⟨את⟩ ეს მიწა — მიწა, მოდინარე ⟨არის⟩ რძით და თაფლით.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "და შემოგვიყვანა"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ადგილამდე"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ადგილი"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "და მოგვცა"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ჩვენ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ეს მიწა"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "მოდინარე"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "რძე"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "და თაფლი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:39:38.437594200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "და იხილა შების დედოფალმა ⟨את⟩ შლომოს სიბრძნე და ⟨את⟩ სახლი, რომელი ააშენა.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "და იხილა"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "დედოფალი"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "შება"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "სიბრძნე"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "სიბრძნე"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "შლომო"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "და სახლი"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელი"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ააშენა"
+    }
+  ],
+  "timestamp": "2026-09-06T11:46:53.546667191Z",
+  "model": "glm-5.3"
+}

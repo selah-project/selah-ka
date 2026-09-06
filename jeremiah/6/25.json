@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 6:25",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "არ გახვიდე ველად და გზაზე არ იარო, რადგან მტრის მახვილ ⟨არის⟩ — საშინელება ირგვლივ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "გახვიდე"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ველი"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "და გზაზე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "იარო"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "მახვილი"
+    },
+    {
+      "surface": "לאיב",
+      "gloss": "მტეხს"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "საშინელება"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ირგვლივ"
+    }
+  ],
+  "timestamp": "2026-09-06T08:01:23.032559180Z",
+  "model": "glm-5.3"
+}

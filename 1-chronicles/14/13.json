@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 14:13",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "და შემატეს კვლავ ფლიშთიმებმა და გავრცელდნენ ხეობაში.",
+  "tokens": [
+    {
+      "surface": "ויסיפו",
+      "gloss": "შემატეს"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "კვლავ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ფლიშთიმები"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "გავრცელდნენ"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "ხეობაში"
+    }
+  ],
+  "timestamp": "2026-09-06T11:33:06.251006391Z",
+  "model": "glm-5.3"
+}

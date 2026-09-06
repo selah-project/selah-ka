@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 10:5",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "და თქვა მათ: კიდევ სამი დღე — და მომიბრუნდით ჩემთან. და წავიდა ხალხი.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "მათ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "კიდევ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "სამი"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "მობრუნდით"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემთან"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "წავიდა"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ხალხი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:47:17.656330688Z",
+  "model": "glm-5.3"
+}

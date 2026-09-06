@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 19:19",
+  "book": "1-samuel",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "და აუწყეს შაულს: აჰა, დავიდი ⟨არის⟩ ნაიოთში, რამაში.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "აუწყეს"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "შაულს"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სიტყვით"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "დავიდი"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "ნაიოთი"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "რამა"
+    }
+  ],
+  "timestamp": "2026-09-06T06:25:43.835908890Z",
+  "model": "glm-5.3"
+}

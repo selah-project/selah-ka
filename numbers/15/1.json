@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 15:1",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "და თქვა იაჰვემ მოშეს ⟨სიტყვად⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სიტყვად"
+    }
+  ],
+  "timestamp": "2026-09-06T05:09:37.480263754Z",
+  "model": "glm-5.3"
+}

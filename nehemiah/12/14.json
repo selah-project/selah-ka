@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 12:14",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "მალუქისა ⟨არის⟩ იონათანი, შევანიასისა — იოსეფი.",
+  "tokens": [
+    {
+      "surface": "למלוכי",
+      "gloss": "მალუქისა"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "იონათანი"
+    },
+    {
+      "surface": "לשבניה",
+      "gloss": "შევანიასისა"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "იოსეფი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:24:00.454497860Z",
+  "model": "glm-5.3"
+}

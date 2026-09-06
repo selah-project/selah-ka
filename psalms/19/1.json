@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "საგუშაგოდ. ფსალმუნი დავიდისი.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "საგუშაგოდ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ფსალმუნი"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "დავიდისი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:37:02.499105931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 137,
+  "translation": "როგორ ვუმღეროთ ⟨את⟩ სიმღერას იაჰვეს უცხო მიწაზე?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "როგორ"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "ვუმღეროთ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "სიმღერას"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "სიმღერა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "უცხო"
+    }
+  ],
+  "timestamp": "2026-09-06T10:13:04.621770749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 13:18",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "და იაჰცა, და ქედემოთი და მეფაათი,",
+  "tokens": [
+    {
+      "surface": "ויהצה",
+      "gloss": "და იაჰცა"
+    },
+    {
+      "surface": "וקדמת",
+      "gloss": "და ქედემოთი"
+    },
+    {
+      "surface": "ומפעת",
+      "gloss": "და მეფაათი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:51:22.036767554Z",
+  "model": "glm-5.3"
+}

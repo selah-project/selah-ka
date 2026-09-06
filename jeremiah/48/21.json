@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 48:21",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 48,
+  "translation": "და მოვიდა სამსჯავრო ვაკის ქვეყნის მიწაზე — ხოლონს, იაჰცას და მოფაათს.",
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "და სამსჯავრო"
+    },
+    {
+      "surface": "בא",
+      "gloss": "მოვიდა"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "ვაკის ქვეყანა"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "ხოლონი"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და ზე"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "იაჰცა"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "და ზე"
+    },
+    {
+      "surface": "מופעת",
+      "gloss": "მოფაათი"
+    }
+  ],
+  "timestamp": "2026-09-06T08:28:06.971313420Z",
+  "model": "glm-5.3"
+}

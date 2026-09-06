@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 7:1",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "სიტყვა, რომელიც მოხდა ირმეიაჰუსთან (იერემია), იაჰვესგან ⟨את⟩, სათქმელად:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "היה",
+      "gloss": "მოხდა"
+    },
+    {
+      "surface": "אל",
+      "gloss": "თან"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ირმეიაჰუ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "სგან ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T13:19:09.185563058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "და კაცი თუ ქალი — როცა იქნება მასში შეტევა თავზე ან წვერზე.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "და კაცი"
+    },
+    {
+      "surface": "או",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ქალი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "როცა"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "იქნება"
+    },
+    {
+      "surface": "בו",
+      "gloss": "მასში"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "შეტევა"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "თავზე"
+    },
+    {
+      "surface": "או",
+      "gloss": "ან"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "წვერზე"
+    }
+  ],
+  "timestamp": "2026-09-06T04:43:17.472216444Z",
+  "model": "glm-5.3"
+}

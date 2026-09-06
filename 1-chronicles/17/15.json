@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 17:15",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 17,
+  "translation": "ამ სიტყვებისამებრ და ამ ხილვისამებრ ისე თქვა ნათანმა დავითს.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "ყველა ... მიხედვით"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "სიტყვები"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "და ყველა ... მიხედვით"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "ხილვა"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ისე"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ნათანი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "დავითი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:35:37.224775943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 14:25",
+  "book": "1-samuel",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "და მთელი მიწა მივიდა ტყეში, და იყო თაფლი ველის პირზე.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "და მთელი"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "באו",
+      "gloss": "მივიდნენ"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "ტყეში"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "და იყო"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "თაფლი"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "פני",
+      "gloss": "პირი"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ველი"
+    }
+  ],
+  "timestamp": "2026-09-06T06:23:31.794937680Z",
+  "model": "glm-5.3"
+}

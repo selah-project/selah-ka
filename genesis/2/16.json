@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და დაავალა იაჰვე ელოჰიმმა ჰაადამს, თქვა: ბაღის ყოველი ხიდან ჭამით იჭამე.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "და დაავალა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "על",
+      "gloss": "ჰაადამს"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ჰაადამი"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ყოველიდან"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ხე"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "ბაღი"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ჭამით"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "იჭამე"
+    }
+  ],
+  "timestamp": "2026-09-06T03:41:31.507147582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 14:9",
+  "book": "zechariah",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "და იქნება იაჰვე მეფედ მთელ ⟨არის⟩ მიწა ზემოთ; იმ დღეს იქნება იაჰვე ⟨არის⟩ ერთი და სახელი მისი ⟨არის⟩ ერთი.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "და იქნება"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "მეფედ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზემოთ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "მთელი"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "იმ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "იქნება"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "და სახელი მისი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    }
+  ],
+  "timestamp": "2026-09-06T13:54:17.541849138Z",
+  "model": "glm-5.3"
+}

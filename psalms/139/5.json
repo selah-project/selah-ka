@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 139,
+  "translation": "უკან და წინ შემოღობე მე, და დადე ჩემზე ⟨არის⟩ შენი ხელისგული.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "უკან"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "და წინ"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "შემოღობე მე"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "და დადე"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ჩემზე"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "შენი ხელისგული"
+    }
+  ],
+  "timestamp": "2026-09-06T14:18:59.016593469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 23:23",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "და იაჰვემ ელაპარაკა მოშეს (მოსე), ასე რომ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "და ელაპარაკა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვემ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშეს"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ასე რომ"
+    }
+  ],
+  "timestamp": "2026-09-06T04:56:23.926573812Z",
+  "model": "glm-5.3"
+}

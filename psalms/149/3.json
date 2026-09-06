@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 149,
+  "translation": "ადიდებენ სახელს მისსა ცეკვით; დოლით და ქნარით უკრავენ მას.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "ადიდებენ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "სახელი მისი"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "ცეკვით"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "დოლით"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "და ქნარით"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "უკრავენ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    }
+  ],
+  "timestamp": "2026-09-06T10:15:02.213741603Z",
+  "model": "glm-5.3"
+}

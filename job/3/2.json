@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 3:2",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "და მიუგო იობმა და თქვა:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "და მიუგო"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "იობი"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:29:57.165582854Z",
+  "model": "glm-5.3"
+}

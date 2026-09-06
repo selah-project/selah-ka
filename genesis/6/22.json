@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "და აასრულა ნოამ (ნოე) ყველაფერი, რაც ბრძანა ⟨את⟩ ის ელოჰიმმა; ასე აასრულა ⟨ის⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "და აასრულა"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ნოამ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ყველაფერი"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რაც"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ბრძანა"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ის",
+      "marks": "ნოა"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ელოჰიმმა"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "აასრულა"
+    }
+  ],
+  "timestamp": "2026-09-06T03:42:50.142299374Z",
+  "model": "glm-5.3"
+}

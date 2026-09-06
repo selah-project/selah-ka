@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 21:1",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "და უპასუხა იიობმა და თქვა:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "და უპასუხა"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "იიობმა"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:38:35.511425021Z",
+  "model": "glm-5.3"
+}

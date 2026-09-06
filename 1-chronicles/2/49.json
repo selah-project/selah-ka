@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 2:49",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და შვა ⟨ის⟩ შააფი, მადმანას მამა; ⟨את⟩ შვა, მაკბენას მამა, და გიბეას მამა; და კალების ასული ⟨არის⟩ აქსა.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "და შვა"
+    },
+    {
+      "surface": "שעף",
+      "gloss": "შააფი"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "მამა"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "მადმანა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "შვა"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "მამა"
+    },
+    {
+      "surface": "מכבנה",
+      "gloss": "მაკბენა"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "და მამა"
+    },
+    {
+      "surface": "גבעא",
+      "gloss": "გიბეა"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "და ასული"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "კალები"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "აქსა"
+    }
+  ],
+  "timestamp": "2026-09-06T15:05:12.979642320Z",
+  "model": "glm-5.3"
+}

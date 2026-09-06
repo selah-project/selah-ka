@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 7:24",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ხარიფის შვილები — ას თორმეტი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "חריף",
+      "gloss": "ხარიფი"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ორი"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "თორმეტი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:21:32.540176752Z",
+  "model": "glm-5.3"
+}

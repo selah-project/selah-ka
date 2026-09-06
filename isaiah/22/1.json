@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "ტვირთი ხედვის ხეობისა. რა ⟨აქვს⟩ შენ, ახლა, რომ ავედი შენი ⟨მთლიანად⟩ სახურავებზე?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ტვირთი"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "ხეობა"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "ხედვა"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "ახლა"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "ავედი"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "შენი მთლიანად"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "სახურავებზე"
+    }
+  ],
+  "timestamp": "2026-09-06T07:37:47.444534866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 40,
+  "translation": "საგუნდო მოძღვარს — დავითის ფსალმუნი.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "საგუნდო მოძღვარს"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "დავითის"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ფსალმუნი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:43:28.430533729Z",
+  "model": "glm-5.3"
+}

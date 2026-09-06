@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 74,
+  "translation": "შენი ⟨არის⟩ დღე, აგრეთვე შენი ⟨არის⟩ ღამე; შენ დაამზადე სინათლე და მზე.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "შენი"
+    },
+    {
+      "surface": "יום",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "אף",
+      "gloss": "აგრეთვე"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენი"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ღამე"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "დაამზადა"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "სინათლე"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "და მზე"
+    }
+  ],
+  "timestamp": "2026-09-06T09:53:57.217901968Z",
+  "model": "glm-5.3"
+}

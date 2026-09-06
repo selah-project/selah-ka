@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 24:20",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "როცა დაჰკრავ შენს ზეთისხილს, არ გადახედო შენს შემდეგ; გერს, იათომს და ქვრივს იქნება.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "როცა"
+    },
+    {
+      "surface": "תחבט",
+      "gloss": "დაჰკრავ"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "ზეთისხილი შენი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תפאר",
+      "gloss": "გადახედო"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "შენს შემდეგ"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "გერს"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "იათომს"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "და ქვრივს"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "იქნება"
+    }
+  ],
+  "timestamp": "2026-09-06T05:39:32.248549286Z",
+  "model": "glm-5.3"
+}

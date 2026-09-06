@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 5:20",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "და თქვა იაჰვემ მოშეს ⟨ეტყოდა⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშეს"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ეტყოდა"
+    }
+  ],
+  "timestamp": "2026-09-06T12:19:03.330503750Z",
+  "model": "glm-5.3"
+}

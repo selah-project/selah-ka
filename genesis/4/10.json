@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და თქვა ⟨იაჰვემ⟩: რა ქმენი? ხმა სისხლისა ძმისა შენისა ღაღადებს ჩემდა მიწიდან.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ქმენი"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ხმა"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "სისხლისა"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ძმისა შენისა"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "ღაღადებს"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემდა"
+    },
+    {
+      "surface": "מן",
+      "gloss": "–დან"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "მიწა"
+    }
+  ],
+  "timestamp": "2026-09-06T03:41:33.488840863Z",
+  "model": "glm-5.3"
+}

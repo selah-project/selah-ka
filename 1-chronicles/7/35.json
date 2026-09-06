@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 7:35",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "და ჰელემის, მისი ძმის, შვილები: ცოფაქი და იმნა და შელეში და ამალი.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "და შვილები"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "ჰელემის"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "მისი ძმის"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "ცოფაქი"
+    },
+    {
+      "surface": "וימנע",
+      "gloss": "და იმნა"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "და შელეში"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "და ამალი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:29:33.642847616Z",
+  "model": "glm-5.3"
+}

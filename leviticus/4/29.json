@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 4:29",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და დაადებს ⟨את⟩ თავის ხელს ხატაათის თავზე, და დაკლავს ⟨את⟩ ხატაათს ოლას დაკლვის ადგილას.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "დაადებს"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "თავის ხელს"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ხელი"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "თავი"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ხატაათი"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "და დაკლავს"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ხატაათს"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ხატაათი"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ადგილას"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ოლა"
+    }
+  ],
+  "timestamp": "2026-09-06T04:38:51.973952049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 149,
+  "translation": "რომ აღასრულონ შური ხალხებში და სასჯელი — ერებში.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "აღსრულონ"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "შური"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ხალხებში"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "სასჯელი"
+    },
+    {
+      "surface": "בל",
+      "gloss": ""
+    },
+    {
+      "surface": "אמים",
+      "gloss": "ერებში"
+    }
+  ],
+  "timestamp": "2026-09-06T10:14:52.434687010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 104,
+  "translation": "ავიდნენ მთები, ჩაიწიეს ხეობები — იმ ადგილამდე, რომელ დაუფუძნე მათ.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "ავიდნენ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "მთები"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ჩაიწიეს"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "ხეობები"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–მდე"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ადგილი"
+    },
+    {
+      "surface": "זה",
+      "gloss": "იმ"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "დაუფუძნე"
+    },
+    {
+      "surface": "להם",
+      "gloss": "მათ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:01:41.876795913Z",
+  "model": "glm-5.3"
+}

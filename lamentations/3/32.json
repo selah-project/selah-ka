@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "lamentations 3:32",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "რადგან, თუ შეაწუხა კი, შეებრალებს ხესედის სიმრავლისამებრ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "הוגה",
+      "gloss": "შეაწუხა"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "და შეებრალებს"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "სიმრავლისამებრ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "მისი ხესედი"
+    }
+  ],
+  "timestamp": "2026-09-06T14:46:12.239367702Z",
+  "model": "glm-5.3"
+}

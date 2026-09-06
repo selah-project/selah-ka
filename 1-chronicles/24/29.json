@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 24:29",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "კიშისთვის: კიშის ძენი — იერახმელი.",
+  "tokens": [
+    {
+      "surface": "לקיש",
+      "gloss": "კიშისთვის"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "კიშის"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "იერახმელი"
+    }
+  ],
+  "timestamp": "2026-09-06T15:11:56.811032273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 40,
+  "translation": "და ⟨את⟩ მის ძეებს მოახლოებ, და შეამოსებ ⟨את⟩ მათ ტუნიკებით.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ძენი"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "მისი ძენი"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "მოახლოებ"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "და შეამოსებ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "მათ"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "ტუნიკა"
+    }
+  ],
+  "timestamp": "2026-09-06T04:34:45.435216630Z",
+  "model": "glm-5.3"
+}

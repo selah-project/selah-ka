@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და იყო დანიელი წლამდე პირველი კორეშის, მეფისა.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "დანიელი"
+    },
+    {
+      "surface": "עד",
+      "gloss": "წლამდე…-მდე"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "წელი"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "კორეშის"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "მეფე"
+    }
+  ],
+  "timestamp": "2026-09-06T11:02:18.374371853Z",
+  "model": "glm-5.3"
+}

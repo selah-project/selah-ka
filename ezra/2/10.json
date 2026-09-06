@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 2:10",
+  "book": "ezra",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "ბანის ძენი — ექვსასი ორმოცდაორი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ბანი"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ექვსი"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ორმოცი"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "და ორი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:13:25.363747618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 4:11",
+  "book": "1-kings",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "ბენ-აბინადაბი — დორის მთელი ნაფათი; ტაფათ, შელომოს ასული, იყო მას ცოლად.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ბენ"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "აბინადაბი"
+    },
+    {
+      "surface": "כל",
+      "gloss": "მთელი"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "ნაფათი"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "დორი"
+    },
+    {
+      "surface": "טפת",
+      "gloss": "ტაფათი"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ასული"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "შელომო"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ცოლად"
+    }
+  ],
+  "timestamp": "2026-09-06T06:52:03.012299455Z",
+  "model": "glm-5.3"
+}

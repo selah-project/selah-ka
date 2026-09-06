@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "როდემდე ვხედავ ნიშანს, ვისმენ შოფარის ხმას?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "სანამ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "როდემდე"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ვხედავ"
+    },
+    {
+      "surface": "נס",
+      "gloss": "ნიშანი"
+    },
+    {
+      "surface": "אשמעה",
+      "gloss": "ვისმენ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ხმა"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "შოფარი"
+    }
+  ],
+  "timestamp": "2026-09-06T08:01:15.951320909Z",
+  "model": "glm-5.3"
+}

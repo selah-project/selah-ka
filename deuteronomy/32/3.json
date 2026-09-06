@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 32,
+  "translation": "რადგან იაჰვეს სახელს მოვუხმობ — მიაგეთ სიდიადე ჩვენს ელოჰიმს!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "שם",
+      "gloss": "სახელს"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "მოვუხმობ"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "მიაგეთ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "სიდიადე"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "ჩვენს ელოჰიმს"
+    }
+  ],
+  "timestamp": "2026-09-06T12:37:10.717467909Z",
+  "model": "glm-5.3"
+}

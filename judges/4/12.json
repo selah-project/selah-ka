@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 4:12",
+  "book": "judges",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და აუწყეს სისერას, რომ ავიდა ბარაკი, ავინოამის ძე, თავორ მთაზე.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "და აუწყეს"
+    },
+    {
+      "surface": "לסיסרא",
+      "gloss": "სისერას"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ავიდა"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "ბარაკი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "ავინოამი"
+    },
+    {
+      "surface": "הר",
+      "gloss": "მთა"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "თავორი"
+    }
+  ],
+  "timestamp": "2026-09-06T06:01:32.208516289Z",
+  "model": "glm-5.3"
+}

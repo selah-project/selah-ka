@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 2:22",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "რადგან რა აქვს ადამიანს ყველა მისი შრომიდან და მისი გულის ზრახვისაგან, რომლითაც ის შრომობს მზის ქვეშ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "აქვს"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ადამიანს"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "მისი შრომა"
+    },
+    {
+      "surface": "וברעיון",
+      "gloss": "და ზრახვა"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "მისი გულის"
+    },
+    {
+      "surface": "שהוא",
+      "gloss": "რომელიც ის"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "შრომობს"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ქვეშ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "მზე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:56:32.830259508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 86,
+  "translation": "ჩემი ბედის დღეს შენ მოგიწოდებ, რადგან მიპასუხებ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "ჩემი ბედი"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "მოგიწოდებ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "მიპასუხებ"
+    }
+  ],
+  "timestamp": "2026-09-06T17:01:23.059246026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "და ⟨את⟩ მამრი არ დაწვე დედათა საწოლის დაწვნით — სისაძაგლე ⟨არის⟩ ის.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "მამრი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "დაწვე"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "საწოლის"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "დედაკაცის"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "სისაძაგლე"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    }
+  ],
+  "timestamp": "2026-09-06T12:22:34.326758304Z",
+  "model": "glm-5.3"
+}

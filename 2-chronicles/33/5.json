@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 33:5",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 33,
+  "translation": "და ააშენა სამსხვერპლოები ცის ყველა ლაშქრისთვის ორ ეზოში იაჰვეს სახლისა.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "და ააშენა"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "სამსხვერპლოები"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ყველა …-თვის"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ლაშქარი"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ცა"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "ორ …-ში"
+    },
+    {
+      "surface": "חצרות",
+      "gloss": "ეზო"
+    },
+    {
+      "surface": "בית",
+      "gloss": "სახლი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T11:59:02.037103780Z",
+  "model": "glm-5.3"
+}

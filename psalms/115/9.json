@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 115,
+  "translation": "იშრაელო, მიენდე იაჰვეს: მათი შემწე და მათი ფარი ის ⟨არის⟩.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელ"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "მიენდე"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "მათი შემწე"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "და მათი ფარი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    }
+  ],
+  "timestamp": "2026-09-06T10:06:35.763018440Z",
+  "model": "glm-5.3"
+}

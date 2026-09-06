@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 19:7",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "და თქვა: არა, მევედრებით, ძმნო ჩემნო, ნუ იმოქმედებთ ბოროტად.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "אל",
+      "gloss": "არა"
+    },
+    {
+      "surface": "נא",
+      "gloss": "მევედრებით"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ძმნო ჩემნო"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "იმოქმედებთ ბოროტად"
+    }
+  ],
+  "timestamp": "2026-09-06T03:49:33.070602403Z",
+  "model": "glm-5.3"
+}

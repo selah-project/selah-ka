@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 23:12",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "მიმართე შენი გული დარიგებას და შენი ყური — ცოდნის სიტყვებს.",
+  "tokens": [
+    {
+      "surface": "הביאה",
+      "gloss": "მიმართე"
+    },
+    {
+      "surface": "למוסר",
+      "gloss": "დარიგება"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "შენი გული"
+    },
+    {
+      "surface": "ואזנך",
+      "gloss": "და შენი ყური"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "სიტყვებს"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ცოდნის"
+    }
+  ],
+  "timestamp": "2026-09-06T14:27:23.153520622Z",
+  "model": "glm-5.3"
+}

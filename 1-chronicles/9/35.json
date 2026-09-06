@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 9:35",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "გივონში ისხდნენ გივონის მამა იეოალი, და მისი ცოლის სახელი ⟨არის⟩ მაახა.",
+  "tokens": [
+    {
+      "surface": "ובגבעון",
+      "gloss": "გივონში"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ისხდნენ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "მამა"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "გივონის"
+    },
+    {
+      "surface": "יעואל",
+      "gloss": "იეოალი"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "და სახელი"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "მისი ცოლის"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "მაახა"
+    }
+  ],
+  "timestamp": "2026-09-06T11:31:32.874681074Z",
+  "model": "glm-5.3"
+}

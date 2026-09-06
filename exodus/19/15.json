@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 19:15",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "და უთხრა ხალხს: იყავით მზად სამი დღისთვის; არ მიუახლოვდით ცოლს.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "უთხრა"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "היו",
+      "gloss": "იყავით"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "მზად"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "სამი"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "დღისთვის"
+    },
+    {
+      "surface": "אל",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "მიუახლოვდით"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ცოლს"
+    }
+  ],
+  "timestamp": "2026-09-06T04:20:41.077301459Z",
+  "model": "glm-5.3"
+}

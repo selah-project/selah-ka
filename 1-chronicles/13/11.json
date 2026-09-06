@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 13:11",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "და შეწუხდა დავიდ, რადგან გაარღვია იაჰვემ რღვენა უზაში; და უწოდა იმ ადგილს ფერეც-უზა, ამ დღემდე.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "შეწუხდა"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "დავიდს"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "გაარღვია"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "რღვენა"
+    },
+    {
+      "surface": "בעזא",
+      "gloss": "უზაში"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "უწოდა"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "ადგილს"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "იმ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ფერეც"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "უზა"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ამ დღემდე"
+    },
+    {
+      "surface": "היום",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ამ"
+    }
+  ],
+  "timestamp": "2026-09-06T11:33:43.644005148Z",
+  "model": "glm-5.3"
+}

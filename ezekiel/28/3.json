@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 28:3",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 28,
+  "translation": "აჰა, შენ ბრძენი ხარ დანიელზე; არცერთი დაფარული ⟨რამ⟩ არ დაუფარავს შენგან.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ბრძენი"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "מדנאל",
+      "gloss": "დანიელზე"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "סתום",
+      "gloss": "დაფარული"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "עממוך",
+      "gloss": "დაუფარავს შენგან"
+    }
+  ],
+  "timestamp": "2026-09-06T08:51:18.839752840Z",
+  "model": "glm-5.3"
+}

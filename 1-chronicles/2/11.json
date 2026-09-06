@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და ნახშონმა შვა ⟨את⟩ სალმა, და სალმამ შვა ⟨את⟩ ბოაზი.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "და ნახშონი"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "სალმა"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "სალმა"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "და სალმა"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ბოაზი"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "ბოაზი"
+    }
+  ],
+  "timestamp": "2026-09-06T18:45:40.683234892Z",
+  "model": "glm-5.3"
+}

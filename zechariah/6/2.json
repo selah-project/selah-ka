@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "პირველ ეტლში წითელი ცხენები, და მეორე ეტლში შავი ცხენები.",
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "ეტლში"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "პირველი"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ცხენები"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "წითელი"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "და ეტლში"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "მეორე"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ცხენები"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "შავი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:26:08.516758672Z",
+  "model": "glm-5.3"
+}

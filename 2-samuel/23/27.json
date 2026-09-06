@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 23:27",
+  "book": "2-samuel",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "აბიეზერ ანათოთელი, მებუნაი ხუშათელი,",
+  "tokens": [
+    {
+      "surface": "אביעזר",
+      "gloss": "აბიეზერ"
+    },
+    {
+      "surface": "הענתתי",
+      "gloss": "ანათოთელი"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "მებუნაი"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "ხუშათელი"
+    }
+  ],
+  "timestamp": "2026-09-06T06:48:22.648939337Z",
+  "model": "glm-5.3"
+}

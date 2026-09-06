@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "nehemiah 7:50",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "რეაიას შვილები, რეცინის შვილები, ნეკოდას შვილები.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "რეაია"
+    },
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "რეცინი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "ნეკოდა"
+    }
+  ],
+  "timestamp": "2026-09-06T20:34:02.631418820Z",
+  "model": "glm-5.3"
+}

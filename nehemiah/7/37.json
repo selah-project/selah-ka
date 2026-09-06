@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "nehemiah 7:37",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ლოდის შვილები, ხადიდი და ონო — შვიდას ოცდაერთი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "לד",
+      "gloss": "ლოდი"
+    },
+    {
+      "surface": "חדיד",
+      "gloss": "ხადიდი"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "და ონო"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "შვიდი"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "და ოცი"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "და ერთი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:21:50.244495307Z",
+  "model": "glm-5.3"
+}

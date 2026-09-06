@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 27,
+  "translation": "და თუ მდედრია ის — იქნება შენი შეფასება ოცდაათი შეკელი.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "და თუ"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "მდედრი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "და იქნება"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "შენი შეფასება"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ოცდაათი"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "შეკელი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:57:55.942618285Z",
+  "model": "glm-5.3"
+}

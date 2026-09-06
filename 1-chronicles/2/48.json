@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "ყალების ხარჭამ მაახაჰმა შვა ⟨את⟩ შებერი და ⟨את⟩ თირხანაჰი.",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "ხარჭა"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ყალები"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "მაახაჰი"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "შებერი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "თირხანაჰი"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "თირხანაჰი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:26:11.171672758Z",
+  "model": "glm-5.3"
+}

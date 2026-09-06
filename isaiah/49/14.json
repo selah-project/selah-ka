@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 49:14",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 49,
+  "translation": "და თქვა ციონმა: მიმიტოვა იაჰვემ, და ადონაიმ დამივიწყო.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ციონი"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "მიმიტოვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "და ადონაი"
+    },
+    {
+      "surface": "שכחני",
+      "gloss": "დამივიწყო"
+    }
+  ],
+  "timestamp": "2026-09-06T07:50:23.078969428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 23:37",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "ასე ეტყვი ნავს: რა გიპასუხა იაჰვემ და რა თქვა იაჰვემ?",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ეტყვი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-კ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ნავი"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "ענך",
+      "gloss": "გიპასუხა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "და რა"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T13:23:19.227808968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 32:17",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 32,
+  "translation": "მეც ვუპასუხებ ჩემს წილს, მეც გამოვაცხადებ ჩემს ცოდნას.",
+  "tokens": [
+    {
+      "surface": "אענה",
+      "gloss": "ვუპასუხებ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "მეც"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "წილი"
+    },
+    {
+      "surface": "אחוה",
+      "gloss": "გამოვაცხადებ"
+    },
+    {
+      "surface": "דעי",
+      "gloss": "ცოდნა"
+    },
+    {
+      "surface": "אף",
+      "gloss": "მეც"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:41:57.405937117Z",
+  "model": "glm-5.3"
+}

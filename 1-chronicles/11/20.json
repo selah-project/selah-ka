@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 11:20",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "და აბშაი, ძმა იოავისი, ის იყო თავი სამთა; და ის აღძრა ⟨את⟩ თავისი შუბა სამას დაჭრილსა ზედა, და არ მიაღწია სამთა ⟨სახელს⟩.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "აბშაი"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ძმა"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "იოავი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "היה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "თავი"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "სამთა"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "და ის"
+    },
+    {
+      "surface": "עורר",
+      "gloss": "აღძრა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "შუბა"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "თავისი შუბა"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზედა"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "სამ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "დაჭრილი"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "სახელი"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "სამთა შორის"
+    }
+  ],
+  "timestamp": "2026-09-06T11:32:00.271070077Z",
+  "model": "glm-5.3"
+}

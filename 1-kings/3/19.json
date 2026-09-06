@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 3:19",
+  "book": "1-kings",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "და მოკვდა ამ დედაკაცის შვილი ღამით, რადგან დაწვა მასზე.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "და მოკვდა"
+    },
+    {
+      "surface": "בן",
+      "gloss": "შვილი"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "დედაკაცის"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ამ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ღამით"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "დაწვა"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "მასზე"
+    }
+  ],
+  "timestamp": "2026-09-06T06:53:03.042706292Z",
+  "model": "glm-5.3"
+}

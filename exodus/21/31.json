@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "ან ძეს ჩაეგებს, ან ასულს ჩაეგებს — ამ სასჯულისავით გაეკეთება მისთვის.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ან"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "ჩაეგებს"
+    },
+    {
+      "surface": "או",
+      "gloss": "ან"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ასული"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "ჩაეგებს"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "სასჯულისავით"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "გაეკეთება"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მისთვის"
+    }
+  ],
+  "timestamp": "2026-09-06T04:23:03.247619941Z",
+  "model": "glm-5.3"
+}

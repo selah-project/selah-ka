@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "შეჰცალე მას, ნუ გაივლი მასზე, გადაუხვიე მისგან და გაიარე.",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "შეჰცალე მას"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "გაივლი"
+    },
+    {
+      "surface": "בו",
+      "gloss": "მასზე"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "გადაუხვიე"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "მისგან"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "და გაიარე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:16:28.907129941Z",
+  "model": "glm-5.3"
+}

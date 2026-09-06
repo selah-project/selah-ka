@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 5:19",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "აშამი ის ⟨არის⟩ — დამნაშავე იქმნება იაჰვეს წინაშე.",
+  "tokens": [
+    {
+      "surface": "אשם",
+      "gloss": "აშამი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "დამნაშავე იქმნება"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "დამნაშავე იქმნება"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "იაჰვეს"
+    }
+  ],
+  "timestamp": "2026-09-06T12:19:03.330280170Z",
+  "model": "glm-5.3"
+}

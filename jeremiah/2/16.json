@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 2:16",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "აგრეთვე ნოფის ძეებმა და თახპანესის ძეებმა გამოძიბნეს შენი თავის წვერი.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "აგრეთვე"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძეებმა"
+    },
+    {
+      "surface": "נף",
+      "gloss": "ნოფი"
+    },
+    {
+      "surface": "ותחפנס",
+      "gloss": "თახპანესი"
+    },
+    {
+      "surface": "ירעוך",
+      "gloss": "გამოძიბნენ"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "თავის წვერი"
+    }
+  ],
+  "timestamp": "2026-09-06T13:18:03.852900646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 8:16",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "შეაკარი მოწმობა, დაბეჭდე თორა ჩემს მოწაფეებში.",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "შეაკარი"
+    },
+    {
+      "surface": "תעודה",
+      "gloss": "მოწმობა"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "დაბეჭდე"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "თორა"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "ჩემს მოწაფეებში"
+    }
+  ],
+  "timestamp": "2026-09-06T07:30:09.172520660Z",
+  "model": "glm-5.3"
+}

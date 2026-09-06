@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "joshua 15:52",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "არაბი და რუმაჰი და ეშანი.",
+  "tokens": [
+    {
+      "surface": "ארב",
+      "gloss": "არაბი"
+    },
+    {
+      "surface": "ורומה",
+      "gloss": "და რუმაჰი"
+    },
+    {
+      "surface": "ואשען",
+      "gloss": "და ეშანი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:53:38.073735578Z",
+  "model": "glm-5.3"
+}

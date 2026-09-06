@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და ⟨את⟩ მთელი კრებული შეკრიბე შეხვედრის კარვის შესასვლელთან.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "მთელი კრებული"
+    },
+    {
+      "surface": "כל",
+      "gloss": "მთელი"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "კრებული"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "შეკრიბე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-თან"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "შესასვლელი"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "კარავი"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "შეხვედრის"
+    }
+  ],
+  "timestamp": "2026-09-06T04:38:42.224471878Z",
+  "model": "glm-5.3"
+}

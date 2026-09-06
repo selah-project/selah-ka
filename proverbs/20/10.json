@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 20,
+  "translation": "ქვა და ქვა, ეიფა და ეიფა — სისაძილე ⟨არის⟩ იაჰვესთვის, ორივე ერთად.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "ქვა"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "და ქვა"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ეიფა"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "და ეიფა"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "სისაძილე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ორივე"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ორივე ერთად"
+    }
+  ],
+  "timestamp": "2026-09-06T14:26:15.950748406Z",
+  "model": "glm-5.3"
+}

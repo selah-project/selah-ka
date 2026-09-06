@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 105,
+  "translation": "თქვა — და მოვიდა ბუზთა ბრბო, მატლები მათ ყველა საზღვარში.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "და მოვიდა"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ბუზთა ბრბო"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "მატლები"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "მათი საზღვარი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:04:06.040741093Z",
+  "model": "glm-5.3"
+}

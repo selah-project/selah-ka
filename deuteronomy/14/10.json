@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "ხოლო ყველა, რომელსაც არ აქვს ფარფლი და ქერცლი, არ შეჭამთ: უწმინდური ⟨არის⟩ ის თქვენთვის.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ხოლო ყველა"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელსაც"
+    },
+    {
+      "surface": "אין",
+      "gloss": "არ აქვს"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "ფარფლი"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "და ქერცლი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "შეჭამთ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "უწმინდური"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "თქვენთვის"
+    }
+  ],
+  "timestamp": "2026-09-06T05:30:08.350899928Z",
+  "model": "glm-5.3"
+}

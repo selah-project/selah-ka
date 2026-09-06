@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 7:5",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ასე თქვა ადონაი იაჰვემ: ბოროტება — ერთი ბოროტება; აჰა, მოდის.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ადონაი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ბოროტება"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ბოროტება"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "באה",
+      "gloss": "მოდის"
+    }
+  ],
+  "timestamp": "2026-09-06T17:22:38.221056401Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 20:26",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 20,
+  "translation": "მეფე ბრძენი ათქვეფს ბოროტებს და აბრუნებს მათზე ბორბალს.",
+  "tokens": [
+    {
+      "surface": "מזרה",
+      "gloss": "ათქვეფს"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ბოროტნი"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ბრძენი"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "და აბრუნებს"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "მათზე"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "ბორბალი"
+    }
+  ],
+  "timestamp": "2026-09-06T14:27:39.660135654Z",
+  "model": "glm-5.3"
+}

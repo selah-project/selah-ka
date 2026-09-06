@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 7:4",
+  "book": "song-of-songs",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "შენი ორი მკერდი — ორი შვერილივით, ტყუპები ირმის ნუკრებისა.",
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "ორი"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "მკერდი"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "ორი...ვით"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "შვერილი"
+    },
+    {
+      "surface": "תאמי",
+      "gloss": "ტყუპები"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "ირმის ნუკრებისა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:50:10.158551850Z",
+  "model": "glm-5.3"
+}

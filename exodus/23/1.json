@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "არ ატევო ცრუ სმენა; ნუ დადებ შენს ხელს ბოროტის თანა, რომ იყო ძალადობის მოწმე.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ატევო"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "სმენა"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ცრუ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "დადებ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "შენი ხელი"
+    },
+    {
+      "surface": "עם",
+      "gloss": "თანა"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ბოროტი"
+    },
+    {
+      "surface": "להית",
+      "gloss": "რომ იყო"
+    },
+    {
+      "surface": "עד",
+      "gloss": "მოწმე"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ძალადობა"
+    }
+  ],
+  "timestamp": "2026-09-06T04:23:06.214926594Z",
+  "model": "glm-5.3"
+}

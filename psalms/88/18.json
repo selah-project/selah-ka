@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 88,
+  "translation": "წყლებივით შემმოსეს მთელი დღე; შემომვლეს ჩემზე ერთად.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "შემმოსეს"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "წყლებივით"
+    },
+    {
+      "surface": "כל",
+      "gloss": "მთელი"
+    },
+    {
+      "surface": "היום",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "შემომვლეს"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ჩემზე"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ერთად"
+    }
+  ],
+  "timestamp": "2026-09-06T09:56:53.644775471Z",
+  "model": "glm-5.3"
+}

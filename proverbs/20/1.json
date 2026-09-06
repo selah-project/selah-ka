@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 20:1",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 20,
+  "translation": "მასხარა ⟨არის⟩ ღვინო, მღარავს შექარი, და ყოველი მცდარე მასში არ დაბრძენდება.",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "მასხარა"
+    },
+    {
+      "surface": "היין",
+      "gloss": "ღვინო"
+    },
+    {
+      "surface": "המה",
+      "gloss": "მღარავს"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "შექარი"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "და ყოველი"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "მცდარე"
+    },
+    {
+      "surface": "בו",
+      "gloss": "მასში"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "დაბრძენდება"
+    }
+  ],
+  "timestamp": "2026-09-06T10:24:30.707701413Z",
+  "model": "glm-5.3"
+}

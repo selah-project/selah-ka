@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 23:17",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "არ შეეჭვდეს შენი გული ცოდვილებს, არამედ იაჰვეს შიშში ⟨იყოს⟩ მთელი დღე.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "შეეჭვდეს"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "შენი გული"
+    },
+    {
+      "surface": "בחטאים",
+      "gloss": "ცოდვილებს"
+    },
+    {
+      "surface": "כי",
+      "gloss": "არამედ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "არამედ"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "შიშში"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "כל",
+      "gloss": "მთელი"
+    },
+    {
+      "surface": "היום",
+      "gloss": "დღე"
+    }
+  ],
+  "timestamp": "2026-09-06T18:38:11.833213809Z",
+  "model": "glm-5.3"
+}

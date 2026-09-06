@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 6:2",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "და ეს სახელები გერშომის ძეთა: ლიბნი და შიმი.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "და ეს"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "სახელები"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "გერშომის"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ლიბნი"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "და შიმი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:28:37.065941090Z",
+  "model": "glm-5.3"
+}

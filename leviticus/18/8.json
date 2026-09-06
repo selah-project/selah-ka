@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "შენი მამის ცოლის შიშვლობას არ გააშიშვლებ; ის ⟨არის⟩ შენი მამის შიშვლობა.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "შიშვლობა"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ცოლი"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "შენი მამა"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "გააშიშვლებ"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "შიშვლობა"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "შენი მამა"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    }
+  ],
+  "timestamp": "2026-09-06T04:44:45.609447741Z",
+  "model": "glm-5.3"
+}

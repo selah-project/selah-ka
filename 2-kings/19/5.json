@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 19:5",
+  "book": "2-kings",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "და მივიდნენ მეფე ხიზკიაჰუს მსახურნი იეშაიაჰუსთან.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "მივიდნენ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "მსახური"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ხიზკიაჰუ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "თან"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "იეშაიაჰუ"
+    }
+  ],
+  "timestamp": "2026-09-06T07:23:27.302986825Z",
+  "model": "glm-5.3"
+}

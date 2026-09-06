@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "არ შემოჰკვეთოთ თქვენი თავის კიდე, და არ დაანგრიოთ ⟨את⟩ თქვენი წვერის კიდე.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "შემოჰკვეთ"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "კიდე"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "თქვენი თავი"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "დაანგრი"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "წვერის კიდე"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "კიდე"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "შენი წვერი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:22:44.678321444Z",
+  "model": "glm-5.3"
+}

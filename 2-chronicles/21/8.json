@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 21:8",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "მის დღეებში ამბოხდა ედომი იეჰუდას ხელის ქვეშიდან და დაამეფეს მათ ზედ მეფე.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "მის დღეებში"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ამბოხდა"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ედომი"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ქვეშიდან"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ხელის"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "იეჰუდას"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "და დაამეფეს"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "მათ ზედ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    }
+  ],
+  "timestamp": "2026-09-06T11:52:25.255719403Z",
+  "model": "glm-5.3"
+}

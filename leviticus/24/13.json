@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 24:13",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "და უთხრა იაჰვემ მოშეს (მოსე), სათქვად:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "და უთხრა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქვად"
+    }
+  ],
+  "timestamp": "2026-09-06T04:55:03.555837717Z",
+  "model": "glm-5.3"
+}

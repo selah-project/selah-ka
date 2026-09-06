@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 13:6",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "იეჰუდას ტომიდან ქალები, იეფუნეს ძე.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ტომიდან"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "იეჰუდა"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ქალები"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "იეფუნე"
+    }
+  ],
+  "timestamp": "2026-09-06T05:06:16.347403397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "გმირი და ბრძოლის კაცი, მსაჯული და ნავი, და მკითხავი და მოხუცი.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "გმირი"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "და კაცი"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ბრძოლა"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "მსაჯული"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "და ნავი"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "და მკითხავი"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "და მოხუცი"
+    }
+  ],
+  "timestamp": "2026-09-06T07:29:42.048746586Z",
+  "model": "glm-5.3"
+}

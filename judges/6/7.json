@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 6:7",
+  "book": "judges",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "და მოხდა, როცა შეჰღაღადეს იშრაელის ძეებმა იაჰვეს, მიდიანის გამო.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "და მოხდა"
+    },
+    {
+      "surface": "כי",
+      "gloss": "როცა"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "შეჰღაღადეს"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძეებმა"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელის"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "אדות",
+      "gloss": "გამო"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "მიდიანი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:41:04.566455583Z",
+  "model": "glm-5.3"
+}

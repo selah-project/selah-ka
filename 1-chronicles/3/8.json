@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 3:8",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "და ელიშამა, და ელიადა, და ელიფელეთი — ცხრა.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "და ელიშამა"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "და ელიადა"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "და ელიფელეთი"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "ცხრა"
+    }
+  ],
+  "timestamp": "2026-09-06T18:45:24.160041023Z",
+  "model": "glm-5.3"
+}

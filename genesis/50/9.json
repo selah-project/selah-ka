@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 50,
+  "translation": "და ავიდა მის თანახლად ასევე ეტლები, ასევე მხედრები, და იყო ბანაკი მძიმე მეტადრე.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ავიდა"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "მის თანახლად"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ასევე"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "ეტლები"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ასევე"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "მხედრები"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ბანაკი"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "მძიმე"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "მეტადრე"
+    }
+  ],
+  "timestamp": "2026-09-06T04:10:46.657388234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "ჩვენი კანი ღუმელივით შემჭმარდა შიმშილის მწვავებათა გამო.",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "ჩვენი კანი"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "ღუმელი"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "შემჭმარდა"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "გამო"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "მწვავება"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "შიმშილი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:55:11.786814070Z",
+  "model": "glm-5.3"
+}

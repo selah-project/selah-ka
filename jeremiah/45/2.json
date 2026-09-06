@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 45:2",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 45,
+  "translation": "ასე ამბობს იაჰვე, იშრაელის ელოჰიმი, შენზე, ბარუხო:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ამბობს"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "შენზე"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ბარუხო"
+    }
+  ],
+  "timestamp": "2026-09-06T08:26:07.035706005Z",
+  "model": "glm-5.3"
+}

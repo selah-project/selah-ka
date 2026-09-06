@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 35:25",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 35,
+  "translation": "და ბილჰას ვაჟები — რახელის მხევლისა: დანი და ნაფთალი.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "და ვაჟები"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "ბილჰა"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "მხევალი"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "რახელი"
+    },
+    {
+      "surface": "דן",
+      "gloss": "დანი"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "და ნაფთალი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:00:22.297587730Z",
+  "model": "glm-5.3"
+}

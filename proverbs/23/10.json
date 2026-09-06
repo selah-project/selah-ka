@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "არ გადასწიო საუკუნო საზღვარი და ობლების ყანებში არ შეხვიდე.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "გადასწიო"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "საზღვარი"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "საუკუნო"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "და … ყანებში"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "ობლები"
+    },
+    {
+      "surface": "אל",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "შეხვიდე"
+    }
+  ],
+  "timestamp": "2026-09-06T16:30:19.302574483Z",
+  "model": "glm-5.3"
+}

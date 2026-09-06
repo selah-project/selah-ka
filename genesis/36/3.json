@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 36,
+  "translation": "და ⟨את⟩ ბოსმათს, იშმაელის ასულს, ნებაიოთის დას.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ბოსმათ"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "ბოსმათი"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ასული"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "იშმაელი"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "და"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "ნებაიოთი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:00:37.515126905Z",
+  "model": "glm-5.3"
+}

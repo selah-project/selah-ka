@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 148,
+  "translation": "ადიდეთ იაჰ! ადიდეთ ⟨את⟩ იაჰვე ციდან, ადიდეთ იგი სიმაღლეებში!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ადიდეთ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "იაჰ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ადიდეთ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იაჰვე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-იდან"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ცა"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ადიდეთ იგი"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "სიმაღლეებში"
+    }
+  ],
+  "timestamp": "2026-09-06T10:14:47.593386272Z",
+  "model": "glm-5.3"
+}

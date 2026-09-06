@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "და ავიდა მოშე მთაზე, და დაფარა ღრუბელმა ⟨את⟩ მთა.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "და ავიდა"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "მთა"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "და დაფარა"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ღრუბელი"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მთა"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "მთა"
+    }
+  ],
+  "timestamp": "2026-09-06T04:22:55.086514976Z",
+  "model": "glm-5.3"
+}

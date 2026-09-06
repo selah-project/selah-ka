@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 1:14",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და ცოცხალნი მირბიან და ბრუნდებიან ელვის ბზარის ვითარ.",
+  "tokens": [
+    {
+      "surface": "והחיות",
+      "gloss": "ცოცხალნი"
+    },
+    {
+      "surface": "רצוא",
+      "gloss": "რბის"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "ბრუნდება"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "ხილვის ვითარ"
+    },
+    {
+      "surface": "הבזק",
+      "gloss": "ბზარი"
+    }
+  ],
+  "timestamp": "2026-09-06T13:28:58.045993169Z",
+  "model": "glm-5.3"
+}

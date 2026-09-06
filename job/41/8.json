@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 41:8",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 41,
+  "translation": "ერთი ერთს მიეკრობა და ქარი მათ შორის ვერ შევა.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ერთს"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "მიეკრობა"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "და ქარი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "შევა"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "მათ შორის"
+    }
+  ],
+  "timestamp": "2026-09-06T10:46:51.735343334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 105:44",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 105,
+  "translation": "და მისცა მათ ხალხთა მიწები, და ტომთა შრომა დაიმკვიდრეს.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "და მისცა"
+    },
+    {
+      "surface": "להם",
+      "gloss": "მათ"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "მიწები"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ხალხთა"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "და შრომა"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ტომთა"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "დაიმკვიდრეს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:02:53.914973533Z",
+  "model": "glm-5.3"
+}

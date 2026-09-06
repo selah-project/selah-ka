@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "დაიმსხვრა არარაობის ქალაქი; დაიხურა ყოველი სახლი შესვლაზე.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "დაიმსხვრა"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ქალაქი"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "არარაობა"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "დაიხურა"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყოველი"
+    },
+    {
+      "surface": "בית",
+      "gloss": "სახლი"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "შესვლა"
+    }
+  ],
+  "timestamp": "2026-09-06T07:39:04.320715387Z",
+  "model": "glm-5.3"
+}

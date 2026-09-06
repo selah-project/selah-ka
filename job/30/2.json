@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 30:2",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "აგრეთვე ძალა მათი ხელთა — რად მე? მათზე დაიღუპა სიმწიფე.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "აგრეთვე"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ძალა"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "მათი ხელები"
+    },
+    {
+      "surface": "למה",
+      "gloss": "რად"
+    },
+    {
+      "surface": "לי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "მათზე"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "დაიღუპა"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "სიმწიფე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:42:36.134334303Z",
+  "model": "glm-5.3"
+}

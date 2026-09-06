@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "კარგია, რომ მოიკიდო ამას, და ასევე ამისგან არ დაუთმო ⟨את⟩ შენი ხელი, რადგან ელოჰიმის მოშიში ⟨את⟩ ყველას გამო გამოვა.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "კარგი"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "მოიკიდებს"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ამას"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "და ასევე"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ამისგან"
+    },
+    {
+      "surface": "אל",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "დაუთმობს"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "შენი ხელი"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "შენი ხელი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "მოშიში"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "გამოვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ყველა"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ყველა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:58:27.017855076Z",
+  "model": "glm-5.3"
+}

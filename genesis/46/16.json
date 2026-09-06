@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 46:16",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 46,
+  "translation": "და გადის ძენი: ციფიონი და ხაგი, შუნი და ეცბონი, ერი და აროდი და არელი.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "და ძენი"
+    },
+    {
+      "surface": "גד",
+      "gloss": "გადის"
+    },
+    {
+      "surface": "צפיון",
+      "gloss": "ციფიონი"
+    },
+    {
+      "surface": "וחגי",
+      "gloss": "და ხაგი"
+    },
+    {
+      "surface": "שוני",
+      "gloss": "შუნი"
+    },
+    {
+      "surface": "ואצבן",
+      "gloss": "და ეცბონი"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ერი"
+    },
+    {
+      "surface": "וארודי",
+      "gloss": "და აროდი"
+    },
+    {
+      "surface": "ואראלי",
+      "gloss": "და არელი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:07:01.752200253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 46:15",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 46,
+  "translation": "რატომ დაცურდნენ შენი ძლიერნი? არ იდგნენ, რადგან იაჰვემ განდევნა ⟨ისინი⟩.",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "რატომ"
+    },
+    {
+      "surface": "נסחף",
+      "gloss": "დაცურდნენ"
+    },
+    {
+      "surface": "אביריך",
+      "gloss": "შენი ძლიერნი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "იდგნენ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "הדפו",
+      "gloss": "განდევნა"
+    }
+  ],
+  "timestamp": "2026-09-06T13:25:35.588526114Z",
+  "model": "glm-5.3"
+}

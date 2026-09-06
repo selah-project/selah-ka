@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 31:11",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 31,
+  "translation": "და მითხრა მე ელოჰიმის მალაქმა სიზმარში: იააკოვო! და ვთქვი: აი, მე.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "მითხრა"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "მალაქი"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ელოჰიმის"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "სიზმარში"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "იააკოვი"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ვთქვი"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "აი, მე"
+    }
+  ],
+  "timestamp": "2026-09-06T03:58:08.224954150Z",
+  "model": "glm-5.3"
+}

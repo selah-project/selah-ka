@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 21:17",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "ნაკლიან კაცს უყვარს სიხარული; უყვარს ღვინო და ზეთი — არ გამდიდრდება.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "ნაკლი"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "უყვარს"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "სიხარული"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "უყვარს"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ღვინო"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "და ზეთი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יעשיר",
+      "gloss": "გამდიდრდება"
+    }
+  ],
+  "timestamp": "2026-09-06T10:24:18.940448160Z",
+  "model": "glm-5.3"
+}

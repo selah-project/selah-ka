@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 53,
+  "translation": "ვინ დაიჯერა ჩვენი სმენა? და იაჰვეს მკლავი ვის ზედა განმჟღავნდა?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "დაიჯერა"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "ჩვენი სმენა"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "და მკლავი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზედა"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ვის"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "განმჟღავნდა"
+    }
+  ],
+  "timestamp": "2026-09-06T07:52:53.187643741Z",
+  "model": "glm-5.3"
+}

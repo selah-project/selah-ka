@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 24:22",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "რადგან უეცრად აღდგება მათი უბედურება და ორივეს ღუპავს — ვინ იცის?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "უეცრად"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "აღდგება"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "მათი უბედურება"
+    },
+    {
+      "surface": "ופיד",
+      "gloss": "და ღუპავს"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ორივე მათგან"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "იცის"
+    }
+  ],
+  "timestamp": "2026-09-06T10:25:44.493082657Z",
+  "model": "glm-5.3"
+}

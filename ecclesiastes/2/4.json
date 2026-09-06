@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "გავადიდე ჩემი საქმენი: ავიშენე ჩემთვის სახლები, დავრგე ჩემთვის ვენახები.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "გავადიდე"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ჩემი საქმენი"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ავიშენე"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ჩემთვის"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "სახლები"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "დავრგე"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ჩემთვის"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "ვენახები"
+    }
+  ],
+  "timestamp": "2026-09-06T10:56:49.249732678Z",
+  "model": "glm-5.3"
+}

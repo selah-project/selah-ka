@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "შორსაა ის, რაც იყო, და ღრმა, ღრმა — ვინ იპოვის მას?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "შორს"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "რომ იყო"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "და ღრმა"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ღრმა"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "იპოვის მას"
+    }
+  ],
+  "timestamp": "2026-09-06T10:57:25.539302509Z",
+  "model": "glm-5.3"
+}

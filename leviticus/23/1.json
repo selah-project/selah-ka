@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 23:1",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "და თქვა იაჰვემ მოშეს (მოსე) სათქმელად:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ელ ({-სთან})"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T04:49:07.314259530Z",
+  "model": "glm-5.3"
+}

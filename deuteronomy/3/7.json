@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "და ყველა საქონელი და ქალაქთა ნადავლი ვინადირეთ ჩვენთვის.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "და ყველა"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "საქონელი"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "და ნადავლი"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ქალაქების"
+    },
+    {
+      "surface": "בזונו",
+      "gloss": "ვინადირეთ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ჩვენთვის"
+    }
+  ],
+  "timestamp": "2026-09-06T12:30:55.915914557Z",
+  "model": "glm-5.3"
+}

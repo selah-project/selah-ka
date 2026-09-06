@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 34,
+  "translation": "და ⟨את⟩ ნეგევი, და ⟨את⟩ ველი — იერიხოს ხეობა, ფინიკების ქალაქი — ცოარამდე.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ნეგევი"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ნეგევი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ველი"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "ველი"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "ხეობა"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "იერიხო"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ქალაქი"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "ფინიკების"
+    },
+    {
+      "surface": "עד",
+      "gloss": "–მდე"
+    },
+    {
+      "surface": "צער",
+      "gloss": "ცოარი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:44:46.519317642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 39,
+  "translation": "და ახლა რას ველოდები? ადონაი, ჩემი მოლოდინი ⟨არის⟩ შენზე.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "და ახლა"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ველოდები"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ადონაი"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "ჩემი მოლოდინი"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენზე"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ის"
+    }
+  ],
+  "timestamp": "2026-09-06T19:36:27.220505378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 36:22",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 36,
+  "translation": "ხოლო მეფე იჯდა ზამთრის სახლში, მეცხრე თვეს, და ⟨את⟩ კერა მის წინაშე ანთდა.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "და მეფე"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ზის"
+    },
+    {
+      "surface": "בית",
+      "gloss": "სახლი"
+    },
+    {
+      "surface": "החרף",
+      "gloss": "ზამთრის"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "თვეს"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "მეცხრე"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "კერა"
+    },
+    {
+      "surface": "האח",
+      "gloss": "კერა"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "მის წინაშე"
+    },
+    {
+      "surface": "מבערת",
+      "gloss": "ანთდა"
+    }
+  ],
+  "timestamp": "2026-09-06T08:22:57.890775486Z",
+  "model": "glm-5.3"
+}

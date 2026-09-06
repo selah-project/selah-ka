@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "და იყვნენ თერახის დღენი ორას და ხუთი წელი, და მოკვდა თერახი ხარანში.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "და იყვნენ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "დღენი"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "თერახის"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ხუთი"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "წლები"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "და ორასი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელი"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "და მოკვდა"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "თერახი"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "ხარანში"
+    }
+  ],
+  "timestamp": "2026-09-06T03:47:10.682232424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 29,
+  "translation": "იაჰვე წარღვნისას ⟨იჯდა მეფედ⟩; და იჯდა იაჰვე მეფე უკუნისამდე.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "წარღვნისას"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "იჯდა"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "და იჯდა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "უკუნისამდე"
+    }
+  ],
+  "timestamp": "2026-09-06T09:37:55.788145329Z",
+  "model": "glm-5.3"
+}

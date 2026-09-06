@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 115,
+  "translation": "რატომ იტყოდნენ ხალხები: სად ახლა მათი ელოჰიმი?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "რატომ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "იტყოდნენ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ხალხები"
+    },
+    {
+      "surface": "איה",
+      "gloss": "სად"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ახლა"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "მათი ელოჰიმი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:06:07.359229786Z",
+  "model": "glm-5.3"
+}

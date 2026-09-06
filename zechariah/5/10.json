@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "და ვუთხარი ანგელოზს, რომელი მეტყველებდა ჩემში: სად მიაქვთ მათ ⟨את⟩ ეიფა?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "და ვუთხარი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ანგელოზს"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ანგელოზი"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "მეტყველებდა"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ჩემში"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "სად"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ისინი"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "მიაქვთ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ეიფა"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ეიფა"
+    }
+  ],
+  "timestamp": "2026-09-06T09:23:40.392809796Z",
+  "model": "glm-5.3"
+}

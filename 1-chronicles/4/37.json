@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 4:37",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და ზიზა (ზიზა), შიფის ძე, ალონის ძე, იედაიას ძე, შიმრის ძე, შემაიას ძე.",
+  "tokens": [
+    {
+      "surface": "וזיזא",
+      "gloss": "და ზიზა"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "שפעי",
+      "gloss": "შიფი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "ალონი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "იედაია"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "შიმრი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "შემაია"
+    }
+  ],
+  "timestamp": "2026-09-06T11:27:52.149569997Z",
+  "model": "glm-5.3"
+}

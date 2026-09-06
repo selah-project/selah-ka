@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 40,
+  "translation": "გავახარე სიმართლე დიდ კაჰალში; აჰა, ჩემს ბაგეებს არ შევუკავებ, იაჰვე, შენ იცი.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "გავახარე"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "სიმართლე"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "კაჰალში"
+    },
+    {
+      "surface": "רב",
+      "gloss": "დიდ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ჩემს ბაგეებს"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "შევუკავებ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "იცი"
+    }
+  ],
+  "timestamp": "2026-09-06T16:23:28.152581730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 21:3",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "და უთხრა ირმეიაჰუმ მათ: ასე უთხარით ციდკიაჰუს:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და უთხრა"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ირმეიაჰუ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "მათ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "תאמרן",
+      "gloss": "უთხარით"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ციდკიაჰუ"
+    }
+  ],
+  "timestamp": "2026-09-06T08:11:57.803259588Z",
+  "model": "glm-5.3"
+}

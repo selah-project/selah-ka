@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 83,
+  "translation": "ელოჰიმო, ნუ დაგიდუმებს სიჩუმე, ნუ დაიფარავ პირს და ნუ დამშვიდდები, ელი!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "სიჩუმე"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "დაიფარავ პირს"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და ნუ"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "დამშვიდდები"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ელი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:55:41.063659211Z",
+  "model": "glm-5.3"
+}

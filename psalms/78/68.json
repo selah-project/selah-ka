@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 78,
+  "translation": "და აირჩია ⟨את⟩ იეჰუდას ტომი, ⟨את⟩ მთა ციონი, რომელიც შეიყვარა.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "და აირჩია"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იეჰუდას ტომი"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ტომი"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "იეჰუდა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მთა ციონი"
+    },
+    {
+      "surface": "הר",
+      "gloss": "მთა"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ციონი"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "შეიყვარა"
+    }
+  ],
+  "timestamp": "2026-09-06T14:08:48.155973506Z",
+  "model": "glm-5.3"
+}

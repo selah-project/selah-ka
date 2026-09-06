@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 7:11",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ძენი ფახათ მოაბისა, იეშუას და იოავის ძეთაგან — ორი ათას რვაას თვრამეტი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "ფახათ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "მოაბი"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ძეთაგან"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "იეშუა"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "და იოავი"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ორი ათასი"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "და რვა"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "რვა"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "თერთმეტი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:20:59.193625475Z",
+  "model": "glm-5.3"
+}

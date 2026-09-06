@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და არ ინდომეთ ასვლა და აღუდგეთ ⟨את⟩ პირს იაჰვეს, თქვენი ელოჰიმისას.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "ინდომეთ"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "ასვლა"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "აღუდგეთ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "პირი"
+    },
+    {
+      "surface": "פי",
+      "gloss": "პირი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "თქვენი ელოჰიმი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:23:55.170606242Z",
+  "model": "glm-5.3"
+}

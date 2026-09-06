@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "და სამოსლის ცარაათისთვის და სახლისთვის.",
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "და ცარაათისთვის"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "სამოსელი"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "და სახლისთვის"
+    }
+  ],
+  "timestamp": "2026-09-06T20:31:56.569857012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "მე ⟨გირჩევ⟩: მეფის პირი დაიცავ, და ელოჰიმის ფიცის გამო.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "פי",
+      "gloss": "პირი"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფის"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "დაიცავ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "და გამო"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "გამო"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "ფიცის"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ელოჰიმი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:58:08.871328028Z",
+  "model": "glm-5.3"
+}

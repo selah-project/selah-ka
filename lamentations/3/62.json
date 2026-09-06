@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "lamentations 3:62",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "ჩემი აღმდგრების ბაგეები და მათი ჩურჩული ჩემს წინააღმდეგ მთელ დღეს.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "ბაგეები"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "ჩემი აღმდგრები"
+    },
+    {
+      "surface": "והגיונם",
+      "gloss": "და მათი ჩურჩული"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ჩემს წინააღმდეგ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "היום",
+      "gloss": "დღე"
+    }
+  ],
+  "timestamp": "2026-09-06T14:47:56.493533325Z",
+  "model": "glm-5.3"
+}

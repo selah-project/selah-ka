@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 15:37",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "და თქვა იაჰვემ მოშეს (მოსე), წარმოსათქმელად:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "წარმოსათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T05:10:15.460330769Z",
+  "model": "glm-5.3"
+}

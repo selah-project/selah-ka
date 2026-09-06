@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 31,
+  "translation": "რადგან გამოისყიდა იაჰვემ ⟨את⟩ იააკოვი და იხსნა ის მისზე ძლიერის ხელიდან.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "გამოისყიდა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვემ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იააკოვი"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "იააკოვი"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "და იხსნა ის"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ხელიდან"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ძლიერის"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "მისზე"
+    }
+  ],
+  "timestamp": "2026-09-06T08:16:20.807456153Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 35,
+  "translation": "არ დაანთოთ ცეცხლი არც ერთ თქვენს სადგომში შაბათის დღეს.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "დაანთოთ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ცეცხლი"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "არც ერთ"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "თქვენს სადგომში"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "შაბათის"
+    }
+  ],
+  "timestamp": "2026-09-06T04:31:32.392801597Z",
+  "model": "glm-5.3"
+}

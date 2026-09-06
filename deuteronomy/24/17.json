@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 24:17",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "არ გადახარო სამართალი გერს, იათომს, და არ აიღო გირაოდ სამოსელი ქვრივისა.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "გადახარო"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "სამართალი"
+    },
+    {
+      "surface": "גר",
+      "gloss": "გერი"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "იათომი"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "აიღო გირაოდ"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "სამოსელი"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "ქვრივი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:39:32.247551385Z",
+  "model": "glm-5.3"
+}

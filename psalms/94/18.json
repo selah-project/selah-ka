@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 94,
+  "translation": "თუ ვთქვი: მიცურდება ჩემი ფეხი, შენი ხესედი, იაჰვე, მაჭერს მე.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ვთქვი"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "მიცურდება"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ჩემი ფეხი"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "შენი ხესედი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "მაჭერს მე"
+    }
+  ],
+  "timestamp": "2026-09-06T09:59:23.349542449Z",
+  "model": "glm-5.3"
+}

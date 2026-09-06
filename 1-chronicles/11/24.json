@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 11:24",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "ეს ასწრო ბენაიაჰუმ (ბენაიას), ძემ იეჰოიადასი, და სახელი ჰქონდა სამ გმირთა შორის.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ასწრო"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "ბენაიაჰუ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "იეჰოიადა"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "და მას"
+    },
+    {
+      "surface": "שם",
+      "gloss": "სახელი"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "სამ შორის"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "გმირი"
+    }
+  ],
+  "timestamp": "2026-09-06T15:07:33.944222835Z",
+  "model": "glm-5.3"
+}

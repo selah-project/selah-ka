@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "ვიხილე ⟨את⟩ ყველა საქმე, რაც კეთდა მზის ქვეშ, და აჰა, ყველაფერი ⟨არის⟩ სიმარტოვე და ქარის ტანჯვა.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ვიხილე"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ყველა საქმე"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "საქმე"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "რაც კეთდა"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ქვეშ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "მზე"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "და აჰა"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ყველაფერი"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "სიმარტოვე"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "და ტანჯვა"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ქარი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:56:12.990210469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "ყოველ ადგილს ⟨არიან⟩ იაჰვეს თვალები, მომჩენელნი ბოროტთა და კეთილთა.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ყოველ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ადგილი"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "თვალები"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "მომჩენელნი"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ბოროტნი"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "და კეთილნი"
+    }
+  ],
+  "timestamp": "2026-09-06T14:25:23.892069381Z",
+  "model": "glm-5.3"
+}

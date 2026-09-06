@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "და დაამტვრა ხრეშით ჩემი კბილები, დამთრიულა ნაცარში.",
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "და დაამტვრა"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "ხრეშით"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ჩემი კბილები"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "დამთრიულა"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "ნაცარში"
+    }
+  ],
+  "timestamp": "2026-09-06T10:52:55.239429084Z",
+  "model": "glm-5.3"
+}

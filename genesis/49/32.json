@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 49:32",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 49,
+  "translation": "ველისა და გამოქვაბულის, რომელიც მასშია, შესყიდვა — ⟨את⟩-გან ხეთის ძეთა.",
+  "tokens": [
+    {
+      "surface": "מקנה",
+      "gloss": "შესყიდვა"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ველი"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "და გამოქვაბული"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "בו",
+      "gloss": "მასში"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩-გან"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ხეთი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:08:47.630496305Z",
+  "model": "glm-5.3"
+}

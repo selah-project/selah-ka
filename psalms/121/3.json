@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 121,
+  "translation": "ნუ მისცემს ჩაცურებას ფეხსა შენსა; ნუ მიეძინება შენს მცველს.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "მისცემს"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "ჩაცურება"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ფეხი შენი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "მიეძინება"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "შენი მცველი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:09:54.046758674Z",
+  "model": "glm-5.3"
+}

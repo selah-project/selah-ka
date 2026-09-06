@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 27,
+  "translation": "ნუ განიდიდებ ხვალე დღეს, რადგან არ იცი, რას ბადებს დღე.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "განიდიდებ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ხვალე"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "იცი"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ბადებს"
+    },
+    {
+      "surface": "יום",
+      "gloss": "დღე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:27:34.239257801Z",
+  "model": "glm-5.3"
+}

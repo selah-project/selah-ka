@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 27:17",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 27,
+  "translation": "ლევისთვის — ხაშავია, კემუელის ძე; აჰარონისთვის — ცადოკი.",
+  "tokens": [
+    {
+      "surface": "ללוי",
+      "gloss": "ლევისთვის"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ხაშავია"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "კემუელის"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "აჰარონისთვის"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ცადოკი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:39:25.688420118Z",
+  "model": "glm-5.3"
+}

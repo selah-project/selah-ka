@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 4:34",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და მეშობაბი, და იამლექი, და იოშაჰი ამაციას ძე.",
+  "tokens": [
+    {
+      "surface": "ומשובב",
+      "gloss": "მეშობაბი"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "იამლექი"
+    },
+    {
+      "surface": "ויושה",
+      "gloss": "იოშაჰი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "ამაცია"
+    }
+  ],
+  "timestamp": "2026-09-06T11:27:44.398685582Z",
+  "model": "glm-5.3"
+}

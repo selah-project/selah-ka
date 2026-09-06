@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "lamentations 3:64",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "დაუბრუნე მათ საზღაური, იაჰვევ, მათი ხელების საქმისამებრ.",
+  "tokens": [
+    {
+      "surface": "תשיב",
+      "gloss": "დაუბრუნე"
+    },
+    {
+      "surface": "להם",
+      "gloss": "მათ"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "საზღაური"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "საქმისამებრ"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "მათი ხელები"
+    }
+  ],
+  "timestamp": "2026-09-06T14:46:24.029273551Z",
+  "model": "glm-5.3"
+}

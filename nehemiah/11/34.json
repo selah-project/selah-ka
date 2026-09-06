@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 11:34",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "ხადიდი, ცევოიმი, ნევალატი;",
+  "tokens": [
+    {
+      "surface": "חדיד",
+      "gloss": "ხადიდი"
+    },
+    {
+      "surface": "צבעים",
+      "gloss": "ცევოიმი"
+    },
+    {
+      "surface": "נבלט",
+      "gloss": "ნევალატი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:24:26.774969393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 11:8",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "ცის სიმაღლეები — რა იქმ? უფრო ღრმა შეოლისა — რა იცი?",
+  "tokens": [
+    {
+      "surface": "גבהי",
+      "gloss": "სიმაღლეები"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ცის"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "תפעל",
+      "gloss": "იქმ"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "ღრმა"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "შეოლისა"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "იცი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:34:53.726819449Z",
+  "model": "glm-5.3"
+}

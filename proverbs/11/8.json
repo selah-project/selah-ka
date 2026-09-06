@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 11:8",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "წრფელი გამოვა ჭირისგან, და ბოროტი შევა მის ნაცვლად.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "წრფელი"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "ჭირისგან"
+    },
+    {
+      "surface": "נחלץ",
+      "gloss": "გამოვლენ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "და შევა"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ბოროტი"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "მის ნაცვლად"
+    }
+  ],
+  "timestamp": "2026-09-06T14:24:33.237267877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 23:31",
+  "book": "2-samuel",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "აბი-ალბონი არაბათელი; აზმავეთ ბარხუმელი;",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "აბი"
+    },
+    {
+      "surface": "עלבון",
+      "gloss": "ალბონი"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "არაბათელი"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "აზმავეთ"
+    },
+    {
+      "surface": "הברחמי",
+      "gloss": "ბარხუმელი"
+    }
+  ],
+  "timestamp": "2026-09-06T06:48:39.270390666Z",
+  "model": "glm-5.3"
+}

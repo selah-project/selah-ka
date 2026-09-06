@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 11:6",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "ყველა პერეცის ძენი, მკვიდრნი იერუშალაიმში, ოთხას სამოცდათვრამეტი მამაცი კაცი.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "პერეცი"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "მკვიდრნი"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "იერუშალაიმში"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ოთხი"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "სამოცი"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "და რვა"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "მამაცი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:24:06.028314589Z",
+  "model": "glm-5.3"
+}

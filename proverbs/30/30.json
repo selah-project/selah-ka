@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 30:30",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "ლომი — გიბორი პირუტყვთა შორის, და არ მოიქცევა არც ერთის პირისაგან.",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "ლომი"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "გიბორი"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "პირუტყვთა შორის"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არა"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "მოიქცევა"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "პირისაგან"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:28:19.009443095Z",
+  "model": "glm-5.3"
+}

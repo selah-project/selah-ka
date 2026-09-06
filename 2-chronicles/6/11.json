@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "და დავდგი იქ ⟨את⟩ კიდობანი, სადაც ⟨არის⟩ იაჰვეს ბრითი, რომელიც დაჭრა იშრაელის ძეებთან.",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "და დავდგი"
+    },
+    {
+      "surface": "שם",
+      "gloss": "იქ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "კიდობანი"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "კიდობანი"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "שם",
+      "gloss": "იქ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ბრითი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "დაჭრა"
+    },
+    {
+      "surface": "עם",
+      "gloss": "თან"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძეები"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:42:52.623177146Z",
+  "model": "glm-5.3"
+}

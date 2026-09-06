@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 36:2",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 36,
+  "translation": "ოცდასამი წლის იყო იეჰოახაზი თავისი გამეფებისას და სამი თვე იმეფა იერუშალაიმში.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "სამი"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ოცი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელი"
+    },
+    {
+      "surface": "יואחז",
+      "gloss": "იეჰოახაზი"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "გამეფებისას"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "სამი"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "თვე"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "იმეფა"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "იერუშალაიმი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:00:18.549119088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 8:19",
+  "book": "1-samuel",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და უარყო ხალხმა შემუელის ხმის მოსმენა, და თქვეს: არა, არამედ მეფე იქნება ჩვენზე.",
+  "tokens": [
+    {
+      "surface": "וימאנו",
+      "gloss": "უარყო"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ხალხმა"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "მოსმენად"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ხმა"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "შემუელის"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "და თქვეს"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "כי",
+      "gloss": "არამედ"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "იქნება"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ჩვენზე"
+    }
+  ],
+  "timestamp": "2026-09-06T06:15:58.310176876Z",
+  "model": "glm-5.3"
+}

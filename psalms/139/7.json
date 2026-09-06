@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 139,
+  "translation": "სად წავიდე შენი რუახისგან, და სად გავბეგავ შენი სახისგან?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "სად"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "წავიდე"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "შენი რუახი"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "და სად"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "შენი სახე"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "გავბეგავ"
+    }
+  ],
+  "timestamp": "2026-09-06T17:01:46.589288661Z",
+  "model": "glm-5.3"
+}

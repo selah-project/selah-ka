@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "უნაკლო საქო, მამრი, წლის შვილი იყოს თქვენთვის; ცხვრებიდან ან თხებიდან აიღებთ.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "საქო"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "უნაკლო"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "მამრი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "შვილი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელიწადი"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "იყოს"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "თქვენთვის"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-დან"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "ცხვრები"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "და -დან"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "თხები"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "აიღებთ"
+    }
+  ],
+  "timestamp": "2026-09-06T04:16:32.528492870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 23:39",
+  "book": "2-samuel",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "ურიია ხათელი; სულ ⟨არის⟩ შვიდი და ოცდაათი.",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "ურიია"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ხათელი"
+    },
+    {
+      "surface": "כל",
+      "gloss": "სულ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ოცდაათი"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "და შვიდი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:54:06.093279565Z",
+  "model": "glm-5.3"
+}

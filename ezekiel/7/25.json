@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 7:25",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "საშინელება მოდის და ეძიებენ შალომს, და ⟨არის⟩ არაფერი.",
+  "tokens": [
+    {
+      "surface": "קפדה",
+      "gloss": "საშინელება"
+    },
+    {
+      "surface": "בא",
+      "gloss": "მოდის"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "და ეძიებენ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "შალომი"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "და არაფერი"
+    }
+  ],
+  "timestamp": "2026-09-06T08:35:55.638736907Z",
+  "model": "glm-5.3"
+}

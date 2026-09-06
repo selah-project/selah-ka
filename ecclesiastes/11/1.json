@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "გაუშვი შენი პური წყლების ზედაპირზე, რადგან დღეთა სიმრავლეში იპოვი ⟨მას⟩.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "გაუშვი"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "შენი პური"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზედაპირზე"
+    },
+    {
+      "surface": "פני",
+      "gloss": "სახე"
+    },
+    {
+      "surface": "המים",
+      "gloss": "წყალი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "სიმრავლეში"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "იპოვი მას"
+    }
+  ],
+  "timestamp": "2026-09-06T14:50:09.619437257Z",
+  "model": "glm-5.3"
+}

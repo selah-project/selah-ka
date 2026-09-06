@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 19:45",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "და იეჰუდი, და ბენე-ბერაკი, და გათ-რიმონი.",
+  "tokens": [
+    {
+      "surface": "ויהד",
+      "gloss": "და იეჰუდი"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "და ბენე"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "ბერაკი"
+    },
+    {
+      "surface": "וגת",
+      "gloss": "და გათ"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "რიმონი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:56:00.253306381Z",
+  "model": "glm-5.3"
+}

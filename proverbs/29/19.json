@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 29:19",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 29,
+  "translation": "სიტყვებით არ დაიმორჩილდება მონა, რადგან გაიგებს, და პასუხი არ იქნება.",
+  "tokens": [
+    {
+      "surface": "בדברים",
+      "gloss": "სიტყვებით"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יוסר",
+      "gloss": "დაიმორჩილდება"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "მონა"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "გაიგებს"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "პასუხი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:27:23.455233920Z",
+  "model": "glm-5.3"
+}

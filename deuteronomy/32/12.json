@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 32,
+  "translation": "იაჰვე მარტო მიუძღოდა მას და არ იყო მასთან უცხო ელი.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "მარტო"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "მიუძღოდა მას"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "და არ იყო"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "მასთან"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ელი"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "უცხო"
+    }
+  ],
+  "timestamp": "2026-09-06T05:44:03.617317202Z",
+  "model": "glm-5.3"
+}

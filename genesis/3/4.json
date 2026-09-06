@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "და თქვა გველმა დედაკაცს: მოკვდენად არ მოკვდებით.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "გველმა"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "დედაკაცს"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "מות",
+      "gloss": "მოკვდენად"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "მოკვდებით"
+    }
+  ],
+  "timestamp": "2026-09-06T03:42:43.465920238Z",
+  "model": "glm-5.3"
+}

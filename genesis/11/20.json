@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "და იცოცხლა რეუ ორი და ოცდაათი წელი, და შვა ⟨את⟩ სერუგი.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "და იცოცხლა"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "რეუ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ორი"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "და ოცდაათი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელი"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "და შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "სერუგი"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "სერუგი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:02:45.593022545Z",
+  "model": "glm-5.3"
+}

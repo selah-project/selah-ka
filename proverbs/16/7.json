@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 16,
+  "translation": "როცა იაჰვეს მოსწონს კაცის გზები, თვინიერ მტრებსაც ამშვიდებს ⟨את⟩ მასთან.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "მოსწონს"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "გზები"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "גם",
+      "gloss": "თვინიერ"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "მტრები"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ამშვიდებს"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "მასთან"
+    }
+  ],
+  "timestamp": "2026-09-06T14:24:09.910730672Z",
+  "model": "glm-5.3"
+}

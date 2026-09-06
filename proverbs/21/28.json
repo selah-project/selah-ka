@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 21:28",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "მოწმე ქზავთა დაიღუპება, ხოლო კაცი მსმენელი სამუდამოდ იტყვის.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "მოწმე"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "ქზავთა"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "დაიღუპება"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "და კაცი"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "მსმენელი"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "სამუდამოდ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "იტყვის"
+    }
+  ],
+  "timestamp": "2026-09-06T14:27:45.081476696Z",
+  "model": "glm-5.3"
+}

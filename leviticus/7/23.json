@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "იტყვე ისრაელის ძეებს მით: ყველა ქონი სახარისა და ცხვრისა და თხისა არ შეჭამოთ.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "იტყვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძეებს"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ისრაელის"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "მით"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ქონი"
+    },
+    {
+      "surface": "שור",
+      "gloss": "სახარი"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "და ცხვრის"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "და თხის"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "შეჭამოთ"
+    }
+  ],
+  "timestamp": "2026-09-06T04:36:05.021266771Z",
+  "model": "glm-5.3"
+}

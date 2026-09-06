@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "zechariah 8:20",
+  "book": "zechariah",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "ასე თქვა იაჰვემ ცევაოთმა: კიდევ, რომ მოვლენ ხალხები და მცხოვრებნი ქალაქებისა მრავლისა —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ცევაოთი"
+    },
+    {
+      "surface": "עד",
+      "gloss": "კიდევ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "მოვლენ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ხალხები"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "და მცხოვრებნი"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ქალაქების"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "მრავლის"
+    }
+  ],
+  "timestamp": "2026-09-06T09:25:46.603818704Z",
+  "model": "glm-5.3"
+}

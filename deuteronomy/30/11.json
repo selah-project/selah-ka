@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 30:11",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "რადგან ეს მცნება, რომელსაც მე გაქცევ დღეს, არ არის საკვირველი ის შენგან და არც შორს არის ის.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "მცნება"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "გაქცევ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "საკვირველი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "შენგან"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არც"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "შორს"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    }
+  ],
+  "timestamp": "2026-09-06T05:41:13.931545037Z",
+  "model": "glm-5.3"
+}

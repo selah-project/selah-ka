@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 29:23",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 29,
+  "translation": "და იტყვიან ყველა ხალთა: რატომ მოიმოქმედა იაჰვემ ასე ამ ქვეყნის მიმართ? რა ⟨არის⟩ ამ დიდი რისხვის ალი?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "და იტყვიან"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ხალხები"
+    },
+    {
+      "surface": "על",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რატომ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "მოიმოქმედა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ამ ქვეყნის"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ამ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "ალი"
+    },
+    {
+      "surface": "האף",
+      "gloss": "რისხვის"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "დიდი"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ამ"
+    }
+  ],
+  "timestamp": "2026-09-06T05:41:52.935521246Z",
+  "model": "glm-5.3"
+}

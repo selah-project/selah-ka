@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "ობლები გვქვიან, მამა აღარ გვყავს; ჩვენი დედები ქვრივებივით ⟨არიან⟩.",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "ობლები"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "გვქვიან"
+    },
+    {
+      "surface": "אין",
+      "gloss": "არ გვყავს"
+    },
+    {
+      "surface": "אב",
+      "gloss": "მამა"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "ჩვენი დედები"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "ქვრივებივით"
+    }
+  ],
+  "timestamp": "2026-09-06T10:55:38.450817998Z",
+  "model": "glm-5.3"
+}

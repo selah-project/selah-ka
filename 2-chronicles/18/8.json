@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 18:8",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "და მოუწოდა იშრაელის მეფემ ერთ საჭურისს და თქვა: მალე მოიყვანე მიქაიაჰუ, ძე იმლასი.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "მოუწოდა"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "საჭურისი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "მალე"
+    },
+    {
+      "surface": "מיכהו",
+      "gloss": "მიქაიაჰუ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "იმლა"
+    }
+  ],
+  "timestamp": "2026-09-06T11:50:11.097472503Z",
+  "model": "glm-5.3"
+}

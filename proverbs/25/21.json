@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "თუ მშიერი ⟨არის⟩ შენი მოძულე, აჭმე მას პური, და თუ მწყურვალე ⟨არის⟩, ასვენ მას წყალი.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "მშიერი"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "შენი მოძულე"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "აჭმე"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "პური"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "და თუ"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "მწყურვალე"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "ასვენ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "წყალი"
+    }
+  ],
+  "timestamp": "2026-09-06T14:30:00.368485328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "რადგან ჩაგვრა სულელად აქცევს ბრძენს, და მისაჩუქრე აფუჭებს ⟨את⟩ გულს.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "ჩაგვრა"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "სულელად აქცევს"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ბრძენი"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "და აფუჭებს"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "გული"
+    },
+    {
+      "surface": "לב",
+      "gloss": "გული"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "მისაჩუქრე"
+    }
+  ],
+  "timestamp": "2026-09-06T14:50:01.712821104Z",
+  "model": "glm-5.3"
+}

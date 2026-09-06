@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 6:18",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "ამიტომ ისმინეთ, ხალხებო, და იცოდე, კრებულო, ⟨את⟩ რა ⟨არის⟩ მათზე.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ამიტომ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ისმინეთ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ხალხები"
+    },
+    {
+      "surface": "ודעי",
+      "gloss": "და იცოდე"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "კრებული"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "რა"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რა"
+    },
+    {
+      "surface": "בם",
+      "gloss": "მათზე"
+    }
+  ],
+  "timestamp": "2026-09-06T08:02:58.123927275Z",
+  "model": "glm-5.3"
+}

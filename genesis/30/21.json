@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "და შემდეგ შვა ასული, და დაარქვა ⟨את⟩ სახელს მისსა — დინაჰ.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "და შემდეგ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ასული"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "და დაარქვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "სახელს მისსა"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "სახელი მისი"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "დინაჰ"
+    }
+  ],
+  "timestamp": "2026-09-06T03:55:24.836842403Z",
+  "model": "glm-5.3"
+}

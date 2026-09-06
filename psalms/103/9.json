@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 103,
+  "translation": "არა სამუდამოდ იდავებს და არა საუკუნოდ დაიცავს ⟨რისხვას⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "სამუდამოდ"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "იდავებს"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არა"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "საუკუნოდ"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "დაიცავს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:01:01.777828142Z",
+  "model": "glm-5.3"
+}

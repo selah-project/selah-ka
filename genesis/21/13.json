@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "და აგრეთვე ⟨את⟩ მხევლის ძეს ხალხად დავადგენ, რადგან ის შენი თესლი ⟨არის⟩.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "და აგრეთვე"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მხევლის ძე"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "მხევალი"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "ხალხად"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "დავადგენ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "შენი თესლი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    }
+  ],
+  "timestamp": "2026-09-06T03:51:12.181500794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 8:20",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "აჰა, ელი არ უარყოფს უმანკოს, და არ გაამაგრებს ხელს ბოროტეულთა.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ელი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "უარყოფს"
+    },
+    {
+      "surface": "תם",
+      "gloss": "უმანკო"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "გაამაგრებს"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ხელს"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ბოროტეულნი"
+    }
+  ],
+  "timestamp": "2026-09-06T17:30:32.996064458Z",
+  "model": "glm-5.3"
+}

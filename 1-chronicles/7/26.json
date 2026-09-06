@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 7:26",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ლადანი მისი შვილი, ამიჰუდი მისი შვილი, ელიშამა მისი შვილი.",
+  "tokens": [
+    {
+      "surface": "לעדן",
+      "gloss": "ლადანი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი შვილი"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "ამიჰუდი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი შვილი"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "ელიშამა"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი შვილი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:29:38.492710738Z",
+  "model": "glm-5.3"
+}

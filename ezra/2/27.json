@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezra 2:27",
+  "book": "ezra",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "მიქმასის მამაკაცები — ას ოცდაორი.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "მამაკაცები"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "მიქმასი"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ას"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ოცი"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "და ორი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:13:12.039506659Z",
+  "model": "glm-5.3"
+}

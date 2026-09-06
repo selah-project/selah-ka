@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 40:29",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 40,
+  "translation": "აძლევს დაღლილს ძალას და უძლურებს სიმტკიცეს გაუმრავლებს.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "აძლევს"
+    },
+    {
+      "surface": "ליעף",
+      "gloss": "დაღლილს"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ძალას"
+    },
+    {
+      "surface": "ולאין",
+      "gloss": "და უძლურებს"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "ძალის"
+    },
+    {
+      "surface": "עצמה",
+      "gloss": "სიმტკიცე"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "გაუმრავლებს"
+    }
+  ],
+  "timestamp": "2026-09-06T07:47:45.837947798Z",
+  "model": "glm-5.3"
+}

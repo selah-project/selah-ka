@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 21:11",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "და იყო სიტყვა ძალიან ცუდი აბრაჰამის თვალებში, მისი ძის გამო.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "იყო ცუდი"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ძალიან"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "თვალებში"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "აბრაჰამის"
+    },
+    {
+      "surface": "על",
+      "gloss": "გამო"
+    },
+    {
+      "surface": "אודת",
+      "gloss": "მიზეზით"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი ძე"
+    }
+  ],
+  "timestamp": "2026-09-06T12:04:43.274075246Z",
+  "model": "glm-5.3"
+}

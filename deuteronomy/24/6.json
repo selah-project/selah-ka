@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "არ აიღოს ვერავინ გირაოდ წისქვილსა და მის ზედა ქვას, რადგან ნეფეშს იღებს გირაოდ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "აიღოს გირაოდ"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "წისქვილი"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "და ზედა ქვა"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ნეფეში"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "იღებს გირაოდ"
+    }
+  ],
+  "timestamp": "2026-09-06T05:38:21.489933277Z",
+  "model": "glm-5.3"
+}

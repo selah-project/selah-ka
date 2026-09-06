@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "დამახინჯებულს ვერ გაასწორებენ, და ნაკლებს ვერ დაითვლიან.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "დამახინჯებული"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "შეუძლია"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "გასასწორებლად"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "და ნაკლები"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "შეუძლია"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "დასათვლელად"
+    }
+  ],
+  "timestamp": "2026-09-06T10:56:12.990338848Z",
+  "model": "glm-5.3"
+}

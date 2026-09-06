@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 42,
+  "translation": "ვიცი, რომ შენ ყოველს შეძლებ, და არ შეიკრიბება შენგან მზიმა.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "ვიცი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყოველი"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "შეძლებ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არა"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "შეიზღუდება"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "შენგან"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "მზიმა"
+    }
+  ],
+  "timestamp": "2026-09-06T14:43:40.458219498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 25:1",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "და უთხრა იაჰვემ მოშეს (მოსე), სათქმელად:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "უთხრა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T04:24:55.618554230Z",
+  "model": "glm-5.3"
+}

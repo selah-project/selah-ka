@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 68,
+  "translation": "მთა ელოჰიმისა — მთა ბაშანი; მთა მწვერვალებისა — მთა ბაშანი.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "მთა"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ელოჰიმის"
+    },
+    {
+      "surface": "הר",
+      "gloss": "მთა"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "ბაშანი"
+    },
+    {
+      "surface": "הר",
+      "gloss": "მთა"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "მწვერვალების"
+    },
+    {
+      "surface": "הר",
+      "gloss": "მთა"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "ბაშანი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:51:17.454950537Z",
+  "model": "glm-5.3"
+}

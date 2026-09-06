@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და შამაის ძე ⟨არის⟩ მაონი, და მაონი ⟨არის⟩ ბეით ცურის მამა.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "და ძე"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "შამაი"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "მაონი"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "და მაონი"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "მამა"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ბეით"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ცური"
+    }
+  ],
+  "timestamp": "2026-09-06T11:26:11.171097847Z",
+  "model": "glm-5.3"
+}

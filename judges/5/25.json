@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 5:25",
+  "book": "judges",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "წყალი ითხოვა — რძე მისცა მას; ადირთა თეფშში მიახლობდა კარაქს.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "წყალი"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ითხოვა"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "რძე"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "მისცა"
+    },
+    {
+      "surface": "בספל",
+      "gloss": "თეფშში"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "ადირთა"
+    },
+    {
+      "surface": "הקריבה",
+      "gloss": "მიახლობდა"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "კარაქი"
+    }
+  ],
+  "timestamp": "2026-09-06T15:49:17.802462181Z",
+  "model": "glm-5.3"
+}

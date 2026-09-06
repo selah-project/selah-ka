@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 19:36",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "და დაორსულდნენ ორივე ლოტის ასული თავიანთი მამისგან.",
+  "tokens": [
+    {
+      "surface": "ותהרין",
+      "gloss": "და დაორსულდნენ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ორივე"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ასული"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ლოტის"
+    },
+    {
+      "surface": "מאביהן",
+      "gloss": "თავიანთი მამისგან"
+    }
+  ],
+  "timestamp": "2026-09-06T03:50:13.194846890Z",
+  "model": "glm-5.3"
+}

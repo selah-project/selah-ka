@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 17:2",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 17,
+  "translation": "ადამის ძევ, განმარტე გამოცანა და წარმოთქვი იგავი იშრაელის სახლს.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ადამი"
+    },
+    {
+      "surface": "חוד",
+      "gloss": "განმარტე"
+    },
+    {
+      "surface": "חידה",
+      "gloss": "გამოცანა"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "და იგავი"
+    },
+    {
+      "surface": "משל",
+      "gloss": "წარმოთქვი იგავი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "სახლი"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელის"
+    }
+  ],
+  "timestamp": "2026-09-06T08:43:10.520657869Z",
+  "model": "glm-5.3"
+}

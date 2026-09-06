@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "ხოლო მე — დავადგინე ჩემი მეფე ციონზე, ჩემს წმინდა მთაზე.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ხოლო მე"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "დავადგინე"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ჩემი მეფე"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ციონი"
+    },
+    {
+      "surface": "הר",
+      "gloss": "მთა"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "ჩემი წმინდა"
+    }
+  ],
+  "timestamp": "2026-09-06T13:56:02.658575985Z",
+  "model": "glm-5.3"
+}

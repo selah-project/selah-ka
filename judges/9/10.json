@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "და უთხრეს ხეებმა ლეღვს: მოდი, შენ იმეფე ჩვენზე.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "უთხრეს"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ხეებმა"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "ლეღვს"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "მოდი"
+    },
+    {
+      "surface": "את",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "იმეფე"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ჩვენზე"
+    }
+  ],
+  "timestamp": "2026-09-06T06:03:51.502775596Z",
+  "model": "glm-5.3"
+}

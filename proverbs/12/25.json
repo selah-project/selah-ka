@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 12:25",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "შფორი კაცის გულში დააწევს მას, და კარგი სიტყვა გაახარებს მას.",
+  "tokens": [
+    {
+      "surface": "דאגה",
+      "gloss": "შფორი"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "გულში"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "ישחנה",
+      "gloss": "დააწევს მას"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "და სიტყვა"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "კარგი"
+    },
+    {
+      "surface": "ישמחנה",
+      "gloss": "გაახარებს მას"
+    }
+  ],
+  "timestamp": "2026-09-06T10:20:06.531305605Z",
+  "model": "glm-5.3"
+}

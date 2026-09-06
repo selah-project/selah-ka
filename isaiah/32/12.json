@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 32:12",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 32,
+  "translation": "მკერდებს გლოვით იცემენ, საწადელ ყანებზე, ნაყოფიერ ვაზზე.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "მკერდებს"
+    },
+    {
+      "surface": "ספדים",
+      "gloss": "გლოვით იცემენ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ყანებზე"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "საწადელ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "ვაზზე"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "ნაყოფიერ"
+    }
+  ],
+  "timestamp": "2026-09-06T07:40:58.017726993Z",
+  "model": "glm-5.3"
+}

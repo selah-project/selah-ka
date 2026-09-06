@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 27:35",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 27,
+  "translation": "და თქვა: მოვიდა შენი ძმა სიცბიერით და აიღო შენი კურთხევა.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "בא",
+      "gloss": "მოვიდა"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "შენი ძმა"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "სიცბიერით"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "და აიღო"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "შენი კურთხევა"
+    }
+  ],
+  "timestamp": "2026-09-06T16:46:33.312533292Z",
+  "model": "glm-5.3"
+}

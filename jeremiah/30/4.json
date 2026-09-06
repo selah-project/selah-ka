@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 30:4",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "და ეს არის სიტყვები, რომელიც იტყოდა იაჰვე ისრაელზე და იეჰუდაზე.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "და ეს"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "სიტყვები"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "იტყოდა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ისრაელი"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და ზე"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "იეჰუდა"
+    }
+  ],
+  "timestamp": "2026-09-06T08:17:46.127523682Z",
+  "model": "glm-5.3"
+}

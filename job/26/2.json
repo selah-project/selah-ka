@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 26:2",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "რად დაეხმარე უძლურს, რად იხსენი მკლავი, რომელსაც არა აქვს ძალი!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "რად"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "დაეხმარე"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ძალა"
+    },
+    {
+      "surface": "הושעת",
+      "gloss": "იხსენი"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "მკლავი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ძალი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:40:18.884596074Z",
+  "model": "glm-5.3"
+}

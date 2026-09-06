@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 7:52",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ერთი თხათა მამალი — ცოდვის შესაწირად.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "მამალი თხა"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "თხები"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ცოდვის შესაწირი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:03:01.335258354Z",
+  "model": "glm-5.3"
+}

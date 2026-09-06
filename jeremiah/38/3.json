@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 38:3",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 38,
+  "translation": "ასე თქვა იაჰვემ: მიცემა მიეცემა ეს ქალაქი ბაველის მეფის ლაშქრის ხელში და დაიპყრობს მას.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "მიცემა"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "მიეცემა"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ქალაქი"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ხელში"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ლაშქარი"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ბაველი"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "დაიპყრობს"
+    }
+  ],
+  "timestamp": "2026-09-06T08:24:27.745609481Z",
+  "model": "glm-5.3"
+}

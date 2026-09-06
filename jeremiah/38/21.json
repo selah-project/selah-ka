@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 38:21",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 38,
+  "translation": "და თუ უარყოფ შენ გასვლას, ეს ⟨არის⟩ სიტყვა, რომელიც მიმიჩვენა იაჰვემ:",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "და თუ"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "უარყოფ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "გასვლა"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "მიმიჩვენა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T08:24:09.092997981Z",
+  "model": "glm-5.3"
+}

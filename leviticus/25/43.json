@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 25:43",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "არ დაიმორჩილო იგი სასტიკად, არამედ ეშინოდე შენი ელოჰიმის.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תרדה",
+      "gloss": "დაიმორჩილო"
+    },
+    {
+      "surface": "בו",
+      "gloss": "იგი"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "სასტიკად"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "და ეშინოდე"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "შენი ელოჰიმის"
+    }
+  ],
+  "timestamp": "2026-09-06T04:56:23.425084556Z",
+  "model": "glm-5.3"
+}

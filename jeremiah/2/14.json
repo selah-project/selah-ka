@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "ისრაელი მონაა? თუ სახლში დაბადებული? რატომ გახდა ის მტაცებლად?",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "მონა"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ისრაელი"
+    },
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "დაბადებული"
+    },
+    {
+      "surface": "בית",
+      "gloss": "სახლში"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "რატომ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "გახდა"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "მტაცებელი"
+    }
+  ],
+  "timestamp": "2026-09-06T13:18:42.674013234Z",
+  "model": "glm-5.3"
+}

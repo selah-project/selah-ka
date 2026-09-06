@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "lamentations 3:34",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "ფეხქვე დასათელად ყველა ქვეყნის ტყვე.",
+  "tokens": [
+    {
+      "surface": "לדכא",
+      "gloss": "დასათელად"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ქვეშ"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "მისი ფეხები"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "ტყვენი"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ქვეყნის"
+    }
+  ],
+  "timestamp": "2026-09-06T10:52:57.274648471Z",
+  "model": "glm-5.3"
+}

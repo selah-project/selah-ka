@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 7:34",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "შვილნი სხვა ეილამისა — ათას ორას ორმოცდათორმეტი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილნი"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ეილამი"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "სხვა"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ათასი"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ორასი"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ორმოცდაათი"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ოთხი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:21:34.524229926Z",
+  "model": "glm-5.3"
+}

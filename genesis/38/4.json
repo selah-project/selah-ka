@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 38,
+  "translation": "და კვლავ დაორსულდა და შვა ძე, და დაარქვა ⟨את⟩ მის სახელს ონანი.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "დაორსულდა"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "კვლავ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "დაარქვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მის სახელს"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "მისი სახელი"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "ონანი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:02:48.754818687Z",
+  "model": "glm-5.3"
+}

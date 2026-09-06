@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "მოდით, ჭამეთ ჩემს პურს და სვით ღვინოს ჩემს შერეულს.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "მოდით"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "ჭამეთ"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "ჩემს პურს"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "და სვით"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "ღვინოს"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "შევურიე"
+    }
+  ],
+  "timestamp": "2026-09-06T14:21:38.736683265Z",
+  "model": "glm-5.3"
+}

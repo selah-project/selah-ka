@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 8:4",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და ავიშუა, და ნაამანი, და ახოახი.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "და ავიშუა"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "და ნაამანი"
+    },
+    {
+      "surface": "ואחוח",
+      "gloss": "და ახოახი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:29:42.614626637Z",
+  "model": "glm-5.3"
+}

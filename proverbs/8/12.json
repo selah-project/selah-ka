@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 8:12",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "მე, სიბრძნე, დავბინავდი საზრიანობასთან და მზაობათა ცოდნას ვპოვებ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "სიბრძნე"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "დავბინავდი"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "საზრიანობა"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "და ცოდნა"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "მზაობა"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ვპოვებ"
+    }
+  ],
+  "timestamp": "2026-09-06T14:21:57.043021685Z",
+  "model": "glm-5.3"
+}

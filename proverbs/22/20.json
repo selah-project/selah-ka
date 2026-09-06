@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "განა არ დაგიწერია შენ სამმაგად — რჩევებსა და ცოდნაში?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "განა არ"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "დაგიწერია"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "სამმაგად"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "რჩევებში"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "და ცოდნაში"
+    }
+  ],
+  "timestamp": "2026-09-06T10:24:33.002268889Z",
+  "model": "glm-5.3"
+}

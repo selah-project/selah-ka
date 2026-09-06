@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 5:12",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "და იტყვი: როგორ შევიძულე მოძღვრება და უარყო ჩემმა გულმა მხილება!",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "და იტყვი"
+    },
+    {
+      "surface": "איך",
+      "gloss": "როგორ"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "შევიძულე"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "მოძღვრება"
+    },
+    {
+      "surface": "ותוכחת",
+      "gloss": "და მხილება"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "უარყო"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ჩემმა გულმა"
+    }
+  ],
+  "timestamp": "2026-09-06T14:20:39.124976351Z",
+  "model": "glm-5.3"
+}

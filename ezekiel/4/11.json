@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 4:11",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და წყალს ზომით დალევ — ჰინის მეექვსედს; დროიდან დრომდე დალევ.",
+  "tokens": [
+    {
+      "surface": "ומים",
+      "gloss": "და წყალი"
+    },
+    {
+      "surface": "במשורה",
+      "gloss": "ზომით"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "დალევ"
+    },
+    {
+      "surface": "ששית",
+      "gloss": "მეექვსედი"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "ჰინი"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "დროიდან"
+    },
+    {
+      "surface": "עד",
+      "gloss": "დრომდე"
+    },
+    {
+      "surface": "עת",
+      "gloss": "დრო"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "დალევ"
+    }
+  ],
+  "timestamp": "2026-09-06T08:34:18.475375510Z",
+  "model": "glm-5.3"
+}

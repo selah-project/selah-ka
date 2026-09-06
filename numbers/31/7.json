@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 31:7",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 31,
+  "translation": "და დაესხნენ მიდიანს, როგორც ბრძანა იაჰვემ ⟨את⟩ მოშეს, და მოკლეს ყოველი მამრი.",
+  "tokens": [
+    {
+      "surface": "ויצבאו",
+      "gloss": "დაესხნენ"
+    },
+    {
+      "surface": "על",
+      "gloss": "მიდიანს"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "მიდიანი"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "როგორც"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ბრძანა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მოშეს"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "ויהרגו",
+      "gloss": "და მოკლეს"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყოველი"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "მამრი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:19:40.022580437Z",
+  "model": "glm-5.3"
+}

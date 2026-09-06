@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 81,
+  "translation": "არ იყოს შენში უცხო ელი, და არ თაყვანს-სცე უცხოურ ელს.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "იყოს"
+    },
+    {
+      "surface": "בך",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ელი"
+    },
+    {
+      "surface": "זר",
+      "gloss": "უცხო"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "თაყვანს-სცე"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ელს"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "უცხოური"
+    }
+  ],
+  "timestamp": "2026-09-06T09:55:20.788943648Z",
+  "model": "glm-5.3"
+}

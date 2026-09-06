@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 127,
+  "translation": "აჰა, მემკვიდრეობა იაჰვესი ⟨არის⟩ ძენი, საზღაური — მუცლის ნაყოფი.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "მემკვიდრეობა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "საზღაური"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ნაყოფი"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "მუცელი"
+    }
+  ],
+  "timestamp": "2026-09-06T14:17:40.695015436Z",
+  "model": "glm-5.3"
+}

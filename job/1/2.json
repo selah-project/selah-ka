@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და ებადათ მას შვიდი ვაჟი და სამი ასული.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "და ებადნენ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "შვიდი"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ვაჟი"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "და სამი"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ასული"
+    }
+  ],
+  "timestamp": "2026-09-06T10:30:50.086190606Z",
+  "model": "glm-5.3"
+}

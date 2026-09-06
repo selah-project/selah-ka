@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 29:6",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 29,
+  "translation": "ბოროტი კაცის დანაშაულში ⟨არის⟩ მახე, და მართალი იმღერებს და იხარებს.",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "დანაშაულში"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ბოროტი"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "მახე"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "და მართალი"
+    },
+    {
+      "surface": "ירון",
+      "gloss": "იმღერებს"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "და იხარებს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:28:15.217074953Z",
+  "model": "glm-5.3"
+}

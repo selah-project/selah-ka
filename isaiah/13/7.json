@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "ამიტომ ყველა ხელი დაუძლურდება და ყოველი მოკვდავის გული დადნება.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ამიტომ ზე"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ამიტომ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ხელი"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "დაუძლურდება"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "და ყოველი"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "გული"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "მოკვდავის"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "დადნება"
+    }
+  ],
+  "timestamp": "2026-09-06T07:32:53.538232271Z",
+  "model": "glm-5.3"
+}

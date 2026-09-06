@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 10:37",
+  "book": "ezra",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "მათანიაჰი, მათენაი და იაასაუ.",
+  "tokens": [
+    {
+      "surface": "מתניה",
+      "gloss": "მათანიაჰი"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "მათენაი"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "და იაასაუ"
+    }
+  ],
+  "timestamp": "2026-09-06T11:17:06.980910218Z",
+  "model": "glm-5.3"
+}

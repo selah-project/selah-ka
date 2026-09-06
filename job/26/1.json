@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 26:1",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "და უპასუხა იოვმა (იობმა) და თქვა:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "და უპასუხა"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "იოვი"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:40:18.884326744Z",
+  "model": "glm-5.3"
+}

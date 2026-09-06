@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 39,
+  "translation": "დავიმდუმითე და არ გავხსენი ჩემი პირი, რადგან შენ ქმენი ⟨ეს⟩.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "დავიმდუმითე"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "გავხსენი"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ჩემი პირი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ქმენი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:42:50.933157505Z",
+  "model": "glm-5.3"
+}

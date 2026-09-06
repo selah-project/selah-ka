@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 23:14",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "შენ კვერთხით დაჰრტყამა მას, და მის ნეფეშს შეოლიდან გადაარჩენ.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "კვერთხით"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "დაჰრტყამა"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "მისი ნეფეში"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "შეოლიდან"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "გადაარჩენ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:25:07.008292833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "დაიცავ ⟨את⟩ შაბათის დღეს მის საკეთოდ, როგორც ბრძანა შენ იაჰვემ, შენმა ელოჰიმმა.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "დაიცავ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "დღეს"
+    },
+    {
+      "surface": "יום",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "შაბათი"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "მის საკეთოდ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "როგორც"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "ბრძანა შენ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "შენი ელოჰიმი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:25:05.600172190Z",
+  "model": "glm-5.3"
+}

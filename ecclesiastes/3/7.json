@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "დრო დასახეჩობად და დრო დასაკერავად; დრო დასადუმებლად და დრო სალაპარაკოდ.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "დრო"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "დასახეჩობად"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "და დრო"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "დასაკერავად"
+    },
+    {
+      "surface": "עת",
+      "gloss": "დრო"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "დასადუმებლად"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "და დრო"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "სალაპარაკოდ"
+    }
+  ],
+  "timestamp": "2026-09-06T14:45:06.687405171Z",
+  "model": "glm-5.3"
+}

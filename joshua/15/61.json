@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "joshua 15:61",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "უდაბნოში: ბეით-ჰაარავა, მიდინი და სექაქა.",
+  "tokens": [
+    {
+      "surface": "במדבר",
+      "gloss": "უდაბნოში"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ბეით"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "ჰაარავა"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "მიდინი"
+    },
+    {
+      "surface": "וסככה",
+      "gloss": "და სექაქა"
+    }
+  ],
+  "timestamp": "2026-09-06T05:53:52.212984520Z",
+  "model": "glm-5.3"
+}

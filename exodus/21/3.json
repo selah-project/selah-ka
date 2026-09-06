@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "თუ მარტო შემოვიდა, მარტოვე გავა; თუ ცოლის პატრონი ⟨არის⟩, მისი ცოლიც მასთან ერთად გავა.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "მარტო"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "შემოვიდა"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "მარტო"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "გავა"
+    },
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ცოლის პატრონი"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ცოლი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "და გავა"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "მისი ცოლი"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "მასთან"
+    }
+  ],
+  "timestamp": "2026-09-06T04:22:58.154780111Z",
+  "model": "glm-5.3"
+}

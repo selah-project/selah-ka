@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "და გათავდა წყალი ტიკიდან, და დააგდო ⟨את⟩ ყმაწვილი ერთ-ერთი ბუჩქის ქვეშ.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "გათავდა"
+    },
+    {
+      "surface": "המים",
+      "gloss": "წყალი"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-დან"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "ტიკი"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "დააგდო"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ყმაწვილი"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ყმაწვილი"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ქვეშ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთ-ერთი"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "ბუჩქი"
+    }
+  ],
+  "timestamp": "2026-09-06T03:51:12.186694480Z",
+  "model": "glm-5.3"
+}

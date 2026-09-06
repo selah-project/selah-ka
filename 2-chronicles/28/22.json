@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 28:22",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 28,
+  "translation": "და ჭირის დროს მისისა დაუმატა ურჩება იაჰვეს მიმართ — ⟨ის⟩ მეფე ახაზი.",
+  "tokens": [
+    {
+      "surface": "ובעת",
+      "gloss": "და დროს"
+    },
+    {
+      "surface": "הצר",
+      "gloss": "მოჭირა"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "დაუმატა"
+    },
+    {
+      "surface": "למעול",
+      "gloss": "ურჩება"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "იაჰვეს მიმართ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ახაზი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:54:09.197256521Z",
+  "model": "glm-5.3"
+}

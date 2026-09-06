@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 37,
+  "translation": "უმჯობესია მართალს მცირე, ვიდრე მრავალი ბოროტთა სიმდიდრე.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "უმჯობესია"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "მცირე"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "მართალს"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "სიმდიდრე"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ბოროტთა"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "მრავალი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:41:46.190667212Z",
+  "model": "glm-5.3"
+}

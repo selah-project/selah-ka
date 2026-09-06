@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 3:31",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "არ შეშურდეს შენ ძალადობის კაცი, და არ აირჩიო მისი გზებიდან არც ერთი.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "შეშურდეს"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ძალადობა"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "აირჩიო"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "არც ერთი"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "მისი გზები"
+    }
+  ],
+  "timestamp": "2026-09-06T10:16:58.628629574Z",
+  "model": "glm-5.3"
+}

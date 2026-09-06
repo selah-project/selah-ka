@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და თქვა იაჰვემ თევზს, და ამოანთხა თევზმა ⟨את⟩ იონა ხმელეთზე.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "თევზს"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "და ამოანთხა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იონა"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "იონა"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "ხმელეთი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:15:11.570623604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 38,
+  "translation": "და უპასუხა იაჰვემ ⟨את⟩ იოვს ქარიშხლიდან და თქვა:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "უპასუხა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იოვს"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "იოვი"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "-დან"
+    },
+    {
+      "surface": "הסערה",
+      "gloss": "ქარიშხალი"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "თქვა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:46:26.745719560Z",
+  "model": "glm-5.3"
+}

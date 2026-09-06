@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "ციდონელები უწოდებენ ხერმონს სირიონს, ხოლო ემორელები უწოდებენ მას სენირს.",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "ციდონელები"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "უწოდებენ"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "ხერმონს"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "სირიონი"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "ხოლო ემორელები"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "უწოდებენ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "სენირი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:31:02.421452681Z",
+  "model": "glm-5.3"
+}

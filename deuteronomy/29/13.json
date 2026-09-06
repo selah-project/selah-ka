@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 29,
+  "translation": "და არა ⟨את⟩ თქვენ მხოლოდ-საკუთრად მე ვჭრი ⟨את⟩ ამ ბრითს და ⟨את⟩ ამ წყევლას.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "და არა"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ თქვენ",
+      "marks": "თქვენ"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "მხოლოდ-საკუთრად"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ვჭრი"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ბრითი"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ბრითი"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "წყევლა"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "წყევლა"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ეს"
+    }
+  ],
+  "timestamp": "2026-09-06T05:41:21.045025996Z",
+  "model": "glm-5.3"
+}

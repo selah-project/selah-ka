@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 20:26",
+  "book": "2-samuel",
+  "lang": "ka",
+  "chapter": 20,
+  "translation": "და აგრეთვე ირა იაირელი იყო დავიდის მღვდელი.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "და აგრეთვე"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "ირა"
+    },
+    {
+      "surface": "היארי",
+      "gloss": "იაირელი"
+    },
+    {
+      "surface": "היה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "მღვდელი"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "დავიდის"
+    }
+  ],
+  "timestamp": "2026-09-06T06:44:50.568182289Z",
+  "model": "glm-5.3"
+}

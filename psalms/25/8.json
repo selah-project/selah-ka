@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "კეთილი და წრფელი ⟨არის⟩ იაჰვე; ამიტომ ასწავლის ცოდვილებს გზაში.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "კეთილი"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "და წრფელი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "על",
+      "gloss": "ამის"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ამიტომ"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "ასწავლის"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ცოდვილები"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "გზაში"
+    }
+  ],
+  "timestamp": "2026-09-06T09:38:23.419218096Z",
+  "model": "glm-5.3"
+}

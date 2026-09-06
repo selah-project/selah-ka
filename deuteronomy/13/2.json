@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 13:2",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "როცა აღდგება შენს შორის ნავი (წინასწარმეტყველი) ან სიზმრის მხილველი, და მოგცემს შენ ნიშანს ან სასწაულს.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "როცა"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "აღდგება"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "შენს შორის"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "ნავი"
+    },
+    {
+      "surface": "או",
+      "gloss": "ან"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "მხილველი"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "სიზმარი"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "და მოგცემს"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "אות",
+      "gloss": "ნიშანი"
+    },
+    {
+      "surface": "או",
+      "gloss": "ან"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "სასწაული"
+    }
+  ],
+  "timestamp": "2026-09-06T12:32:22.754716148Z",
+  "model": "glm-5.3"
+}

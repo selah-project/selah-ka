@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 1:7",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "ხოლო იავანის ძენი: ელიშა, თარშიშა, ქითიმი და როდანიმი.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "და ძენი"
+    },
+    {
+      "surface": "יון",
+      "gloss": "იავანი"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "ელიშა"
+    },
+    {
+      "surface": "ותרשישה",
+      "gloss": "და თარშიშა"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "ქითიმი"
+    },
+    {
+      "surface": "ורודנים",
+      "gloss": "და როდანიმი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:25:22.212246390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 38,
+  "translation": "ყველა ეზოს ფარდაგი ირგვლივ იყო ⟨არის⟩ შებრუნებული სუფთა სელისა.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "ფარდაგი"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ეზოს"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ირგვლივ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "სუფთა სელი"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "შებრუნებული"
+    }
+  ],
+  "timestamp": "2026-09-06T17:48:38.441435994Z",
+  "model": "glm-5.3"
+}

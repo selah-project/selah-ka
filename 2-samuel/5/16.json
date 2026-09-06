@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 5:16",
+  "book": "2-samuel",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "და ელიშამა, და ელიადა, და ელიფალეტ.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "და ელიშამა"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "და ელიადა"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "და ელიფალეტ"
+    }
+  ],
+  "timestamp": "2026-09-06T06:36:09.156589343Z",
+  "model": "glm-5.3"
+}

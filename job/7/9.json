@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 7:9",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "გაიფანტა ღრუბელი და წავიდა; ასე ჩადის შეოლს, აღარ ავა.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "გაიფანტა"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ღრუბელი"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "და წავიდა"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "יורד",
+      "gloss": "ჩადის"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "შეოლს"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ავა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:31:30.698574690Z",
+  "model": "glm-5.3"
+}

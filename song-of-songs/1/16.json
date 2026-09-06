@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 1:16",
+  "book": "song-of-songs",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "აჰ, ლამაზი ხარ, ჩემო დოდო, და სასიამოვნოც; და ჩვენი საწოლი ⟨არის⟩ მწვანე.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "აჰ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "ლამაზი"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ჩემი დოდი"
+    },
+    {
+      "surface": "אף",
+      "gloss": "და...ც"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "სასიამოვნო"
+    },
+    {
+      "surface": "אף",
+      "gloss": "და"
+    },
+    {
+      "surface": "ערשנו",
+      "gloss": "ჩვენი საწოლი"
+    },
+    {
+      "surface": "רעננה",
+      "gloss": "მწვანე"
+    }
+  ],
+  "timestamp": "2026-09-06T14:43:36.321943145Z",
+  "model": "glm-5.3"
+}

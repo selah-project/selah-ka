@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 83,
+  "translation": "როგორც ცეცხლი წვავს ტყეს, და როგორც ალი ანთებს მთებს.",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "როგორც ცეცხლი"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "წვავს"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ტყეს"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "და როგორც ალი"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "ანთებს"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "მთებს"
+    }
+  ],
+  "timestamp": "2026-09-06T09:55:46.989819237Z",
+  "model": "glm-5.3"
+}

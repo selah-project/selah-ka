@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 17,
+  "translation": "და მივიდნენ მოშე და აჰარონი შეხვედრის კარვის პირისპირ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "მივიდნენ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "და აჰარონი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "საკენ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "პირისპირ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "კარავი"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "შეხვედრის"
+    }
+  ],
+  "timestamp": "2026-09-06T05:09:04.125772933Z",
+  "model": "glm-5.3"
+}

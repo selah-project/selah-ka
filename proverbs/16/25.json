@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 16:25",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 16,
+  "translation": "არს გზა წარმართი წინაშე ⟨„„კაცისა“„⟩, და მისი ბოლო — სიკვდილის გზანი.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "არს"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "გზა"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "წარმართი"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "წინაშე"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "და მისი ბოლო"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "გზანი"
+    },
+    {
+      "surface": "מות",
+      "gloss": "სიკვდილი"
+    }
+  ],
+  "timestamp": "2026-09-06T14:24:53.021563849Z",
+  "model": "glm-5.3"
+}

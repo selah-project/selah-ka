@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "რადგან მე ⟨ვარ⟩ იაჰვე, არ შემიცვლია, და თქვენ, იააკოვის ძენო, არ დაგსრულებიათ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "შემიცვლია"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "და თქვენ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენო"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "იააკოვის"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "დაგსრულებიათ"
+    }
+  ],
+  "timestamp": "2026-09-06T09:31:37.278088221Z",
+  "model": "glm-5.3"
+}

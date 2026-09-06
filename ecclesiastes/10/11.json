@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "თუ მიკბენს გველი შელოცვის გარეშე — და არ არის სარგებელი ენის ბატონისთვის.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "მიკბენს"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "გველი"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "გარეშე"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "შელოცვა"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "და არ არის"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "სარგებელი"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "ბატონისთვის"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "ენა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:57:37.008927796Z",
+  "model": "glm-5.3"
+}

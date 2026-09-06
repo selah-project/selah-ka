@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "იჯდეს მარტო და დადუმდეს, რადგან ⟨მან⟩ აიტვირთა ⟨ეს⟩ მასზე.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "იჯდეს"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "მარტო"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "და დადუმდეს"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "აიტვირთა"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "მასზე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:53:19.711442743Z",
+  "model": "glm-5.3"
+}

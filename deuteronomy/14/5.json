@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "ირემი, ჯეირანი, შველი, ველური თხა, დიშონი, ველური ხარი და ზამერი.",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "ირემი"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "ჯეირანი"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "შველი"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "ველური თხა"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "დიშონი"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "ველური ხარი"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "ზამერი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:32:03.969422595Z",
+  "model": "glm-5.3"
+}

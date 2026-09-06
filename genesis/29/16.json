@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 29:16",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 29,
+  "translation": "და ლავანს ჰყავდა ორი ასული: დიდის სახელი იყო ლეა, და პატარას სახელი — რახელი.",
+  "tokens": [
+    {
+      "surface": "וללבן",
+      "gloss": "და ლავანს"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ორი"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ასული"
+    },
+    {
+      "surface": "שם",
+      "gloss": "სახელი"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "დიდი"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ლეა"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "და სახელი"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "პატარა"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "რახელი"
+    }
+  ],
+  "timestamp": "2026-09-06T03:56:10.918125778Z",
+  "model": "glm-5.3"
+}

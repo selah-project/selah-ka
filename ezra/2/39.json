@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 2:39",
+  "book": "ezra",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "ხარიმის შვილები — ათასი და ჩვიდმეტი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ხარიმი"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ათასი"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "და შვიდი"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ათი"
+    }
+  ],
+  "timestamp": "2026-09-06T14:58:32.060644578Z",
+  "model": "glm-5.3"
+}

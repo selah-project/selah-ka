@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 19:20",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "ისმინე რჩევა და მიიღე დარიგება, რათა გაბრძნოულდე შენს ბოლოში.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ისმინე"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "რჩევა"
+    },
+    {
+      "surface": "וקבל",
+      "gloss": "და მიიღე"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "დარიგება"
+    },
+    {
+      "surface": "למען",
+      "gloss": "რათა"
+    },
+    {
+      "surface": "תחכם",
+      "gloss": "გაბრძნოულდები"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "შენს ბოლოში"
+    }
+  ],
+  "timestamp": "2026-09-06T10:23:57.588853348Z",
+  "model": "glm-5.3"
+}

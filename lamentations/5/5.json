@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "ჩვენს კისრებზე მოგვდევნეს ჩვენ; დავიღალეთ, არ მოგვეცა ჩვენთვის დასვენება.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ზედ"
+    },
+    {
+      "surface": "צוארנו",
+      "gloss": "ჩვენი კისრები"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "მოგვდევნეს"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "დავიღალეთ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "მოგვეცა"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ჩვენთვის"
+    }
+  ],
+  "timestamp": "2026-09-06T10:55:19.458004173Z",
+  "model": "glm-5.3"
+}

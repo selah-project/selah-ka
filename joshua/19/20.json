@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 19:20",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "და რაბითი, და ქიშიონი, და აბეცი,",
+  "tokens": [
+    {
+      "surface": "והרבית",
+      "gloss": "და რაბითი"
+    },
+    {
+      "surface": "וקשיון",
+      "gloss": "და ქიშიონი"
+    },
+    {
+      "surface": "ואבץ",
+      "gloss": "და აბეცი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:39:52.598283325Z",
+  "model": "glm-5.3"
+}

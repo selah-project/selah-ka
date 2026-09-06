@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "რადგან თქვენმა თვალებმა იხილეს ⟨את⟩ ყველა იაჰვეს დიდი საქმე, რომელიც ⟨მან⟩ აღასრულა.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "თქვენი თვალები"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "ხედავს"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ყველა საქმე"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "საქმე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "დიადი"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ასრულებს"
+    }
+  ],
+  "timestamp": "2026-09-06T12:32:21.907338981Z",
+  "model": "glm-5.3"
+}

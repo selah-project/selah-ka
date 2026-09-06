@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "ეს დავაბრუნებ ჩემს გულში — ამიტომ ვიმოლოდიებ.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "დავაბრუნებ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "უკან"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ჩემი გული"
+    },
+    {
+      "surface": "על",
+      "gloss": "ამიტომ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ამიტომ"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "ვიმოლოდიებ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:52:43.939710046Z",
+  "model": "glm-5.3"
+}

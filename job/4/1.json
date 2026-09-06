@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 4:1",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და მიუგო ელიფაზმა ჰათემანმა და თქვა:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "და მიუგო"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ელიფაზი"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "ჰათემანი"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    }
+  ],
+  "timestamp": "2026-09-06T14:32:46.878572114Z",
+  "model": "glm-5.3"
+}

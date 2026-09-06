@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "მზე ამოვიდა მიწაზე და ლოტმა შევიდა ცოარს.",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "მზე"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ამოვიდა"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "და ლოტი"
+    },
+    {
+      "surface": "בא",
+      "gloss": "შევიდა"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "ცოარს"
+    }
+  ],
+  "timestamp": "2026-09-06T03:48:17.183062080Z",
+  "model": "glm-5.3"
+}

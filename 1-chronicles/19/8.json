@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "და გაიგონა დავიდმა და გაგზავნა ⟨את⟩ იოაბი და ⟨את⟩ ყველა ლაშქარი გმირებისა.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "გაიგონა"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "დავიდმა"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "გაგზავნა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იოაბი"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "იოაბი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ყველა ლაშქარი"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ლაშქარი"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "გმირებისა"
+    }
+  ],
+  "timestamp": "2026-09-06T11:36:46.412194069Z",
+  "model": "glm-5.3"
+}

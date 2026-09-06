@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "იაჰვეს სული მეტყველობდა ჩემში და მისი სიტყვა ჩემს ენაზე ⟨იყო⟩.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "სული"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "მეტყველობდა"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ჩემში"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "და მისი სიტყვა"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ჩემი ენა"
+    }
+  ],
+  "timestamp": "2026-09-06T12:55:13.030505359Z",
+  "model": "glm-5.3"
+}

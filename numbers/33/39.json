@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 33:39",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 33,
+  "translation": "და აჰარონი ⟨იყო⟩ ას ოცდასამი წლის, თვის სიკვდილისას ჰორ მთაზე.",
+  "tokens": [
+    {
+      "surface": "ואהרן",
+      "gloss": "და აჰარონი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე ⟨...წლის⟩"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "სამი"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ოცდა"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ას"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წლის"
+    },
+    {
+      "surface": "במתו",
+      "gloss": "სიკვდილისას"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "მთაზე"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ჰორ მთა"
+    }
+  ],
+  "timestamp": "2026-09-06T05:20:55.320375450Z",
+  "model": "glm-5.3"
+}

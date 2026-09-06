@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "ეყრდნი იაჰვეს შენი მთელი გულით და შენსავე გონებაზე ნუ დაიყრდნობ.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "ეყრდნი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "მთელი…-ით"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "შენი გული"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და -ზე"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "შენი გონება"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "დაიყრდნობ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:15:55.669011908Z",
+  "model": "glm-5.3"
+}

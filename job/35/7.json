@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 35:7",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 35,
+  "translation": "თუ გამართლდი, რას აძლევ მას, ან რას იღებს ის შენი ხელიდან?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "გამართლდი"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "აძლევ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "או",
+      "gloss": "ან"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "შენი ხელიდან"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "იღებს ის"
+    }
+  ],
+  "timestamp": "2026-09-06T10:44:31.200815359Z",
+  "model": "glm-5.3"
+}

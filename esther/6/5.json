@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 6:5",
+  "book": "esther",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "უთხრეს მეფის ჭაბუკებმა მას: აჰა, ჰამანი დგას ეზოში; და თქვა მეფემ: შემოვიდეს.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "უთხრეს"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "ჭაბუკებმა"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "მეფის"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ჰამანი"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "დგას"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "ეზოში"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "მეფემ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "შემოვიდეს"
+    }
+  ],
+  "timestamp": "2026-09-06T11:00:49.919301696Z",
+  "model": "glm-5.3"
+}

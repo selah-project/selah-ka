@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "მაშინ წახვალ უსაფრთხოდ შენს გზას და შენი ფეხი არ შეეჯახება.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "მაშინ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "წახვალ"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "უსაფრთხოდ"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "შენს გზას"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "და შენი ფეხი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "შეეჯახება"
+    }
+  ],
+  "timestamp": "2026-09-06T10:15:42.729637542Z",
+  "model": "glm-5.3"
+}

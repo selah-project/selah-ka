@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 25:14",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "და მიშმა, და დუმა, და მაშა.",
+  "tokens": [
+    {
+      "surface": "ומשמע",
+      "gloss": "და მიშმა"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "და დუმა"
+    },
+    {
+      "surface": "ומשא",
+      "gloss": "და მაშა"
+    }
+  ],
+  "timestamp": "2026-09-06T03:53:02.667306941Z",
+  "model": "glm-5.3"
+}

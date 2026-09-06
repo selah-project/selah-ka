@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "რადგან ყველა სურვილს ⟨აქვს⟩ დრო და სამართალი, რადგან ადამიანის ბოროტება დიდი ⟨არის⟩ მასზე.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "სურვილს"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨აქვს⟩"
+    },
+    {
+      "surface": "עת",
+      "gloss": "დრო"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "და სამართალი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "ბოროტება"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ადამიანის"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "დიდი"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "მასზე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:58:56.294139067Z",
+  "model": "glm-5.3"
+}

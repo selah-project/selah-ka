@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 4:3",
+  "book": "zechariah",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და ორი ზეთისხილის ხე ⟨არის⟩ მასზე: ერთი თასის მარჯვნივ და ერთი მის მარცხნივ.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "და ორი"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "ზეთისხილის ხე"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "მასზე"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "მარჯვნივ"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "თასი"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "და ერთი"
+    },
+    {
+      "surface": "על",
+      "gloss": "–ზე"
+    },
+    {
+      "surface": "שמאלה",
+      "gloss": "მარცხნივ"
+    }
+  ],
+  "timestamp": "2026-09-06T13:48:18.255184142Z",
+  "model": "glm-5.3"
+}

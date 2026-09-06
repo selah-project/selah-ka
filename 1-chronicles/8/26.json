@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 8:26",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და შამშერაი, და შეხარიაჰუ, და ათალიაჰუ.",
+  "tokens": [
+    {
+      "surface": "ושמשרי",
+      "gloss": "და შამშერაი"
+    },
+    {
+      "surface": "ושחריה",
+      "gloss": "და შეხარიაჰუ"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "და ათალიაჰუ"
+    }
+  ],
+  "timestamp": "2026-09-06T19:38:46.550200044Z",
+  "model": "glm-5.3"
+}

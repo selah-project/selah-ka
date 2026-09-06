@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ყველა ხელი დაუძლურდება და ყველა მუხლი წყლად მიჰყვება.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "ხელი"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "დაუძლურდება"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "და ყველა"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "მუხლი"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "მიჰყვება"
+    },
+    {
+      "surface": "מים",
+      "gloss": "წყალი"
+    }
+  ],
+  "timestamp": "2026-09-06T08:35:40.406026943Z",
+  "model": "glm-5.3"
+}

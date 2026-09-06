@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "გაივლო მოსავლის აღებამ, დამთავრდა ზაფხული — და ჩვენ არ გვიშველეს.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "გაივლო"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "მოსავლის აღება"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "დამთავრდა"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "ზაფხული"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "და ჩვენ"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "გვიშველეს"
+    }
+  ],
+  "timestamp": "2026-09-06T08:05:47.923630365Z",
+  "model": "glm-5.3"
+}

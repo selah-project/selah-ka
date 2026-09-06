@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "numbers 7:63",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ერთი ხარი, საქონლის ძე, ერთი ვერძი, ერთი ტარიგი, თავისი წლის ძე, აღსავლენად.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ხარი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "საქონელი"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ვერძი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ტარიგი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "თავისი წლის"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "აღსავლენად"
+    }
+  ],
+  "timestamp": "2026-09-06T12:26:06.025366027Z",
+  "model": "glm-5.3"
+}

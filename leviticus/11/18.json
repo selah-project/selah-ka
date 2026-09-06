@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 11:18",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "და ⟨את⟩ თეთრი ბუ, და ⟨את⟩ პელიკანი, და ⟨את⟩ სვავი",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "თეთრი ბუ"
+    },
+    {
+      "surface": "התנשמת",
+      "gloss": "თეთრი ბუ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "პელიკანი"
+    },
+    {
+      "surface": "הקאת",
+      "gloss": "პელიკანი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "სვავი"
+    },
+    {
+      "surface": "הרחם",
+      "gloss": "სვავი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:19:26.586076117Z",
+  "model": "glm-5.3"
+}

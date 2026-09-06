@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "მე ვარ ⟨ის⟩ კაცი, რომელმაც იხილა შეჭირვება მისი რისხვის კვერთხით.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "იხილა"
+    },
+    {
+      "surface": "עני",
+      "gloss": "შეჭირვება"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "კვერთხით"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "მისი რისხვა"
+    }
+  ],
+  "timestamp": "2026-09-06T19:05:56.659990333Z",
+  "model": "glm-5.3"
+}

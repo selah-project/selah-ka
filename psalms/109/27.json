@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 109,
+  "translation": "და იცოდნენ, რომ ეს ⟨არის⟩ შენი ხელი — შენ, იაჰვე, აკეთე ის.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "და იცოდნენ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "შენი ხელი"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "აკეთე ის"
+    }
+  ],
+  "timestamp": "2026-09-06T10:05:13.341485680Z",
+  "model": "glm-5.3"
+}

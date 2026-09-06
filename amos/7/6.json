@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 7:6",
+  "book": "amos",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "შეუბრალა იაჰვეს ⟨ეს⟩: ესცა არ იქნება, — თქვა ადონაი იაჰვემ.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "შეუბრალა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "על",
+      "gloss": "ამას"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ცა"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "იქნება"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ადონაი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვემ"
+    }
+  ],
+  "timestamp": "2026-09-06T09:14:43.630531879Z",
+  "model": "glm-5.3"
+}

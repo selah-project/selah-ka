@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "და იცოცხლა შელახმა ოცდაათი წელიწადი, და შვა ⟨את⟩ ევერი.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "და შელახი"
+    },
+    {
+      "surface": "חי",
+      "gloss": "იცოცხლა"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ოცდაათი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელიწადი"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ევერი"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ევერი"
+    }
+  ],
+  "timestamp": "2026-09-06T03:45:59.577216586Z",
+  "model": "glm-5.3"
+}

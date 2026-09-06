@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "და იარა აბრამმა სვლად და წასვლად სამხრეთისკენ.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "იარა"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "აბრამმა"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "სვლად"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "და წასვლად"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "სამხრეთისკენ"
+    }
+  ],
+  "timestamp": "2026-09-06T03:46:01.922775023Z",
+  "model": "glm-5.3"
+}

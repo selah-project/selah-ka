@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "და ყველა მღვდლის ძღვენი სრულად იქნება — არ შეიჭმება.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "და ყველა"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "ძღვენი"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "მღვდლის"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "სრულად"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "იქნება"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "შეიჭმება"
+    }
+  ],
+  "timestamp": "2026-09-06T12:18:51.039335482Z",
+  "model": "glm-5.3"
+}

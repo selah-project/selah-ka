@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 30:16",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "შეოლი და დახშული საშო, მიწა — არ გაძღება წყლით, და ცეცხლი — არ თქვა: „საკმარისია“.",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "შეოლი"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "და დახშული"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "საშო"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "გაძღება"
+    },
+    {
+      "surface": "מים",
+      "gloss": "წყლით"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "და ცეცხლი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "הון",
+      "gloss": "საკმარისი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:28:52.886396845Z",
+  "model": "glm-5.3"
+}

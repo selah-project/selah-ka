@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "არ გადასცე მონა მის ბატონს, რომელიც გადარჩება შენთან თავისი ბატონისგან.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "გადაცემა"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "მონა"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ბატონი"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელი"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "გადარჩება"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "შენთან"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "განმავლობაში"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ბატონი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:38:16.693377706Z",
+  "model": "glm-5.3"
+}

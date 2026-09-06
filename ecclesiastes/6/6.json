@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "და თუნდაც ორჯერ ათას წელიწადს იცხოვრებდეს და სიკეთე არ უნახავს — განა ყველა ⟨ადამიანი⟩ ერთ ⟨ადგილად⟩ არ მიდის?",
+  "tokens": [
+    {
+      "surface": "ואלו",
+      "gloss": "და თუნდაც"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "იცხოვრებდეს"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ათას"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "წელიწადს"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ორჯერ"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "და სიკეთე"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "უნახავს"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "განა"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ერთ...მიმართ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ადგილას"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "მიდის"
+    }
+  ],
+  "timestamp": "2026-09-06T10:58:31.585194013Z",
+  "model": "glm-5.3"
+}

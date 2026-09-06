@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "დავითისა. შენკენ, იაჰვევ, ავსწევ ჩემს ნეფეშს.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "დავითისა"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "შენკენ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ჩემი ნეფეში"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ავსწევ"
+    }
+  ],
+  "timestamp": "2026-09-06T14:00:16.583003201Z",
+  "model": "glm-5.3"
+}

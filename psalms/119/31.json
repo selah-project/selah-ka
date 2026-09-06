@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 119:31",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 119,
+  "translation": "შენს მოწმობას მივეწებე: იაჰვე, ნუ შემარცხვებ.",
+  "tokens": [
+    {
+      "surface": "דבקתי",
+      "gloss": "მივეწებე"
+    },
+    {
+      "surface": "בעדותיך",
+      "gloss": "შენს მოწმობას"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "შემარცხვებ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:08:06.261900297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "და თქვა აბრაჰამმა: მე დავიფიცები.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "აბრაჰამმა"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "დავიფიცები"
+    }
+  ],
+  "timestamp": "2026-09-06T03:50:45.069510305Z",
+  "model": "glm-5.3"
+}

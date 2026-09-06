@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 46:22",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 46,
+  "translation": "ეს არიან რახელის შვილები, რომლებიც ეშვა იააკოვს (იაკობს); ყველა ნეფეში — თოთხმეტი.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "რახელი"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომლებიც"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ეშვა"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "იააკოვს"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ნეფეში"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ოთხი"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ათი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:07:02.929017041Z",
+  "model": "glm-5.3"
+}

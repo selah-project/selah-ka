@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 30:21",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "სამის ქვეშ ძრწოდეს მიწა, და ოთხის ქვეშ ვერ შესძლებს ⟨ატანას⟩.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "ქვეშ"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "სამი"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "ძრწოდეს"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "და ქვეშ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ოთხი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "შესძლებს"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "ატანა"
+    }
+  ],
+  "timestamp": "2026-09-06T14:29:24.247826851Z",
+  "model": "glm-5.3"
+}

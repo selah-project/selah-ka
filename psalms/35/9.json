@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 35,
+  "translation": "და ჩემი ნეფეში იხარებს იაჰვეს, ილხენს მის ხსნაში.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "და ჩემი ნეფეში"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "იხარებს"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "ილხენს"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "მის ხსნაში"
+    }
+  ],
+  "timestamp": "2026-09-06T09:40:48.879271840Z",
+  "model": "glm-5.3"
+}

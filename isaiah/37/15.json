@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 37:15",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 37,
+  "translation": "და ილოცა ხიზკიაჰუმ იაჰვესთან, სათქმელად:",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "და ილოცა"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ხიზკიაჰუ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-სთან"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T07:45:31.654641761Z",
+  "model": "glm-5.3"
+}

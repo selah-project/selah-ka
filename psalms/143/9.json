@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 143:9",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 143,
+  "translation": "გადამარჩინე მტრებისგან, იაჰვე; შენთან ⟨დავიფარე⟩.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "გადამარჩინე"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "მტრებისგან"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "შენთან"
+    },
+    {
+      "surface": "כסתי",
+      "gloss": "დავიფარე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:12:26.526038117Z",
+  "model": "glm-5.3"
+}

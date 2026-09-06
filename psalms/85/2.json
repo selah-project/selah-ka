@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 85,
+  "translation": "იაჰვე, სათნო იყო შენი მიწა, აბრუნე იააკოვის (იაკობის) ტყვეობა.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "სათნო იყო"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "შენი მიწა"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "აბრუნე"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ტყვეობა"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "იააკოვის"
+    }
+  ],
+  "timestamp": "2026-09-06T09:57:01.394500521Z",
+  "model": "glm-5.3"
+}

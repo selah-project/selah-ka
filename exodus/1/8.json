@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "აღდგა მიცრაიმზე ახალი მეფე, რომელიც არ იცნობდა ⟨את⟩ იოსეფს.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "აღდგა"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ახალი"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "მიცრაიმი"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "იცნობდა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იოსეფს"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "იოსეფი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:09:45.268437514Z",
+  "model": "glm-5.3"
+}

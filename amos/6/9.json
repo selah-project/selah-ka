@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 6:9",
+  "book": "amos",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "და მოხდება: თუ დარჩება ათი კაცი ერთ სახლში — და მოკვდებიან.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "და მოხდება"
+    },
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "יותרו",
+      "gloss": "დარჩება"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ათი"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "სახლში"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "და მოკვდებიან"
+    }
+  ],
+  "timestamp": "2026-09-06T09:13:54.534328315Z",
+  "model": "glm-5.3"
+}

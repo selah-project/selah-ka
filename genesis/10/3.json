@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "და გომერის ვაჟები: აშკენაზი, რიფათი და თოგარმა.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "და ვაჟები"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "გომერი"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "აშკენაზი"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "და რიფათი"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "და თოგარმა"
+    }
+  ],
+  "timestamp": "2026-09-06T03:45:00.524174671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 31:12",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 31,
+  "translation": "და უთხრა იაჰვემ მოშეს (მოსე), ასე რომ ეთქვას:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და უთხრა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ელ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ასე რომ ეთქვას"
+    }
+  ],
+  "timestamp": "2026-09-06T04:27:39.571525475Z",
+  "model": "glm-5.3"
+}

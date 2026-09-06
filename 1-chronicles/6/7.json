@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 6:7",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "კეჰათის შვილნი: ამინადაბი მისი შვილი, კორახი მისი შვილი, ასირი მისი შვილი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილნი"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "კეჰათის"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "ამინადაბი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი შვილი"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "კორახი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი შვილი"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ასირი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი შვილი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:28:17.633675043Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "დათვი ჩასაფრებული — ⟨ის⟩ ჩემთვის, ლომი დამალულ ადგილებში.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "დათვი"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "ჩასაფრებული"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ის⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ჩემთვის"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "ლომი"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "დამალულ ადგილებში"
+    }
+  ],
+  "timestamp": "2026-09-06T10:52:25.803452927Z",
+  "model": "glm-5.3"
+}

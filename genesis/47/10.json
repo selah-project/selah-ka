@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 47,
+  "translation": "და დალოცა იააკოვმა ⟨את⟩ ფაროჰი და გავიდა ფაროჰის წინაშიდან.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "დალოცა"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "იააკოვმა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ფაროჰი"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ფაროჰი"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "გავიდა"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "წინაშიდან"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ფაროჰის"
+    }
+  ],
+  "timestamp": "2026-09-06T04:07:33.376749629Z",
+  "model": "glm-5.3"
+}

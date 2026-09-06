@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 25:16",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "თაფლი იპოვე — ჭამე ⟨ის⟩, რაც საკმარისია, რომ არ გაძღე მას და არ ამოგაგდოს.",
+  "tokens": [
+    {
+      "surface": "דבש",
+      "gloss": "თაფლი"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "იპოვე"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ჭამე"
+    },
+    {
+      "surface": "דיך",
+      "gloss": "საკმარისი"
+    },
+    {
+      "surface": "פן",
+      "gloss": "რომ არა"
+    },
+    {
+      "surface": "תשבענו",
+      "gloss": "გაძღე მას"
+    },
+    {
+      "surface": "והקאתו",
+      "gloss": "და ამოგაგდოს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:26:26.768752810Z",
+  "model": "glm-5.3"
+}

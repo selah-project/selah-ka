@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 83,
+  "translation": "სიმღერა, მზმორი ასაფისა.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "სიმღერა"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "მზმორი"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ასაფისა"
+    }
+  ],
+  "timestamp": "2026-09-06T09:55:41.063403501Z",
+  "model": "glm-5.3"
+}

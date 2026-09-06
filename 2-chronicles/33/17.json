@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 33:17",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 33,
+  "translation": "თუმცა ჯერ კიდევ ერი სწირავდა ბამოთებში, მხოლოდ იაჰვეს, თავიანთ ელოჰიმს.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "თუმცა"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ჯერ კიდევ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ერი"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "სწირავდნენ"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "ბამოთებში"
+    },
+    {
+      "surface": "רק",
+      "gloss": "მხოლოდ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ელოჰიმი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:57:27.593903756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 14:1",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "რომელიც იყო სიტყვა იაჰვესი ირმიიას მიმართ გვალვების შესახებ.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "היה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ირმიიას"
+    },
+    {
+      "surface": "על",
+      "gloss": "შესახებ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "გვალვების"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "გვალვები"
+    }
+  ],
+  "timestamp": "2026-09-06T08:08:54.705052899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 89,
+  "translation": "კურთხეულია იაჰვე მარადისობამდე. ამენი და ამენი.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "კურთხეულია"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "მარადისობამდე"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ამენი"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "და ამენი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:58:32.657379836Z",
+  "model": "glm-5.3"
+}

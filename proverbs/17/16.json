@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 17:16",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 17,
+  "translation": "რატომ ⟨არის⟩ ეს — საზღაური უგუნურის ხელში სიბრძნის საყიდლად, გული კი ⟨არ არის⟩?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "რატომ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "საზღაური"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ხელში"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "უგუნური"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "საყიდლად"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "სიბრძნე"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "და გული"
+    },
+    {
+      "surface": "אין",
+      "gloss": "არ არის"
+    }
+  ],
+  "timestamp": "2026-09-06T14:25:13.860451991Z",
+  "model": "glm-5.3"
+}

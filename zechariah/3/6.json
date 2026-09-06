@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 3:6",
+  "book": "zechariah",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "და დააფრთხილა იაჰვეს ანგელოზმა იეჰოშუა, სიტყვად:",
+  "tokens": [
+    {
+      "surface": "ויעד",
+      "gloss": "და დააფრთხილა"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ანგელოზი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "ביהושע",
+      "gloss": "იეჰოშუა"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სიტყვად"
+    }
+  ],
+  "timestamp": "2026-09-06T13:48:08.718507510Z",
+  "model": "glm-5.3"
+}

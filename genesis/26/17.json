@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 26:17",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "და წავიდა იქიდან იცხაკი (ისააკი), და დაბანაკდა გერარის ხევში და დასახლდა იქ.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "წავიდა"
+    },
+    {
+      "surface": "משם",
+      "gloss": "იქიდან"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "იცხაკი"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "დაბანაკდა"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "ხევში"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "გერარის"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "დასახლდა"
+    },
+    {
+      "surface": "שם",
+      "gloss": "იქ"
+    }
+  ],
+  "timestamp": "2026-09-06T03:54:10.015678067Z",
+  "model": "glm-5.3"
+}

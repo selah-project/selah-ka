@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "საკმაოა თქვენთვის მიმობრუნება ⟨את⟩ ⟨ამ⟩ მთისა; მოიქეცით თქვენთვის ჩრდილოეთისკენ.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "საკმაო"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "თქვენთვის"
+    },
+    {
+      "surface": "סב",
+      "gloss": "მიმობრუნება"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მთა ეს"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "მთა"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "მოიქეცით"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "თქვენთვის"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "ჩრდილოეთისკენ"
+    }
+  ],
+  "timestamp": "2026-09-06T05:23:01.410228947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "ვინ ⟨არის⟩ ეს, დიდების მეფე? იაჰვე — ძლიერი და მამაცი, იაჰვე, ომში მამაცი.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "დიდების"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "ძლიერი"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "და მამაცი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "მამაცი"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ომი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:38:56.042033191Z",
+  "model": "glm-5.3"
+}

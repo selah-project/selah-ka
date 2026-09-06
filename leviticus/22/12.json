@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 22:12",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "და ქოჰენის ასული, თუ გახდება უცხო კაცის მეუღლედ, ის წმიდათა ტერუმიდან არ ჭამს.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "და ასული"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ქოჰენის"
+    },
+    {
+      "surface": "כי",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "გახდება"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "კაცის"
+    },
+    {
+      "surface": "זר",
+      "gloss": "უცხო"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "בתרומת",
+      "gloss": "ტერუმიდან"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "წმიდათა"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ჭამს"
+    }
+  ],
+  "timestamp": "2026-09-06T04:47:57.283744039Z",
+  "model": "glm-5.3"
+}

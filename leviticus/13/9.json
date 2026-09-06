@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "როცა იქნება ცარაათის ნეგა ადამიანში, მოყვანილ იქნება ის კოჰენთან.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "ნეგა"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ცარაათის"
+    },
+    {
+      "surface": "כי",
+      "gloss": "როცა"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "იქნება"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ადამიანში"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "და მოყვანილ იქნება"
+    },
+    {
+      "surface": "אל",
+      "gloss": "თან"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "კოჰენი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:42:41.010793108Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "და ააგო იაჰვემ რისხვა მათ წინააღმდეგ, და წავიდა ⟨იგი⟩.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ააგო (რისხვა)"
+    },
+    {
+      "surface": "אף",
+      "gloss": "რისხვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "בם",
+      "gloss": "მათ წინააღმდეგ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "წავიდა"
+    }
+  ],
+  "timestamp": "2026-09-06T05:06:36.510146946Z",
+  "model": "glm-5.3"
+}

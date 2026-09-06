@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 94,
+  "translation": "ქვრივს და ხიზანს მოკლავენ, და ობლებს კი კლავენ.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "ქვრივი"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "და ხიზანი"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "მოკლავენ"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "და ობლები"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "კლავენ"
+    }
+  ],
+  "timestamp": "2026-09-06T09:58:54.941875349Z",
+  "model": "glm-5.3"
+}

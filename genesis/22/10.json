@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "და გაიწვდინა აბრაჰამმა ⟨את⟩ თავისი ხელი და აიღო ⟨את⟩ დანა, რომ დაეკლა ⟨את⟩ თავისი ძე.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "გაიწვდინა"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "აბრაჰამი"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ხელი"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ხელი"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "აიღო"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "დანა"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "დანა"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "დასაკლავად"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ძე"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "თავისი ძე"
+    }
+  ],
+  "timestamp": "2026-09-06T03:50:58.068981262Z",
+  "model": "glm-5.3"
+}

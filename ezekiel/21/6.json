@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 21:6",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "მოხდა იაჰვეს სიტყვა ჩემ მიმართ სათქმელად:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "მოხდა"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემ მიმართ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T08:43:53.378231180Z",
+  "model": "glm-5.3"
+}

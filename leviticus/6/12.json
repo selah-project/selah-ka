@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 6:12",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "და უთხრა იაჰვემ მოშეს (მოსეს) თქმად:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "და უთხრა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვემ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშეს"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "თქმად"
+    }
+  ],
+  "timestamp": "2026-09-06T04:36:57.535085954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 102,
+  "translation": "და შენ ⟨არის⟩ იგივე, და შენი წლები არ დასრულდებიან.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "და შენ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "იგივე"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "და შენი წლები"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "დასრულდებიან"
+    }
+  ],
+  "timestamp": "2026-09-06T10:01:55.077990497Z",
+  "model": "glm-5.3"
+}

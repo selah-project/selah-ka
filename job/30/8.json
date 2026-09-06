@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 30:8",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "უვიცთა ძენი, აგრეთვე უსახელოთა ძენი — განიკვეთენ ქვეყნიდან.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "უვიცი"
+    },
+    {
+      "surface": "גם",
+      "gloss": "აგრეთვე"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "უ-"
+    },
+    {
+      "surface": "שם",
+      "gloss": "სახელი"
+    },
+    {
+      "surface": "נכאו",
+      "gloss": "განიკვეთენ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "დან"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ქვეყანა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:41:29.677309065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 28:22",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 28,
+  "translation": "და ერთი თხა ცოდვის შესაწირად, შესალხებლად თქვენთვის.",
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "და თხა"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ცოდვის შესაწირი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "შესალხებლად"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "თქვენ"
+    }
+  ],
+  "timestamp": "2026-09-06T05:16:37.766000459Z",
+  "model": "glm-5.3"
+}

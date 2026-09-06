@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 7:30",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ჰარამაჰისა და გებაყის კაცები — ექვსას ოცდაერთი.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "კაცები"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "ჰარამაჰი"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "და გებაყი"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ექვსი"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ოცი"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "და ერთი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:21:46.117333104Z",
+  "model": "glm-5.3"
+}

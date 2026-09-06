@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "და დავიდი მაშინ სიმაგრეში იყო, ხოლო ფელიშთიმელთა ფოსტი მაშინ ბეით ლეხემში იყო.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "დავიდი"
+    },
+    {
+      "surface": "אז",
+      "gloss": "მაშინ"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "სიმაგრეში"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "ფოსტი"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ფელიშთიმელთა"
+    },
+    {
+      "surface": "אז",
+      "gloss": "მაშინ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ბეით"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ლეხემში"
+    }
+  ],
+  "timestamp": "2026-09-06T11:30:54.195773210Z",
+  "model": "glm-5.3"
+}

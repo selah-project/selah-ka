@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 9:19",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "და თორმეტი ლომი მდგომი იმყოფებოდა იქ, ექვსსავე საფეხურზე, აქეთ და იქით; არ გაკეთებულა ასე არც ერთი სამეფოსთვის.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "და ორი"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ათი"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "ლომი"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "მდგომი"
+    },
+    {
+      "surface": "שם",
+      "gloss": "იქ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ექვს"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "საფეხური"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "აქეთ"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "და იქით"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "გაკეთებულა"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "სამეფო"
+    }
+  ],
+  "timestamp": "2026-09-06T11:45:58.136972464Z",
+  "model": "glm-5.3"
+}

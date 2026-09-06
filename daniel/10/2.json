@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 10:2",
+  "book": "daniel",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "იმ დღეებში მე, დანიელი, ვიყავი გლოვაში სამი კვირა — დღეები.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "დღეებში"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "იმ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "დანიელი"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ვიყავი"
+    },
+    {
+      "surface": "מתאבל",
+      "gloss": "მოვიგლოვდი"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "სამი"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "კვირა"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "დღეები"
+    }
+  ],
+  "timestamp": "2026-09-06T11:11:49.955768999Z",
+  "model": "glm-5.3"
+}

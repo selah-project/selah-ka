@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 12:1",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "და მოხდა იაჰვეს სიტყვა ჩემდამო ⟨ამბობს⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "მოხდა"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემდამო"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ამბობს"
+    }
+  ],
+  "timestamp": "2026-09-06T08:39:11.499881078Z",
+  "model": "glm-5.3"
+}

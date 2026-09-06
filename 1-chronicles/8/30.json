@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და მისი ვაჟი პირმშო ⟨იყო⟩ აბდონი, და ცური, და კიში, და ბაალი, და ნადაბი —",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "და მისი ვაჟი"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "პირმშო"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "აბდონი"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "და ცური"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "და კიში"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "და ბაალი"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "და ნადაბი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:30:10.626677396Z",
+  "model": "glm-5.3"
+}

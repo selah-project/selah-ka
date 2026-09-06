@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 18:3",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "და ჩავედი მხელოსნის სახლში, და აჰა ⟨ის⟩ აკეთებდა საქმეს ქვებზე.",
+  "tokens": [
+    {
+      "surface": "וארד",
+      "gloss": "და ჩავედი"
+    },
+    {
+      "surface": "בית",
+      "gloss": "სახლი"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "მხელოსნის"
+    },
+    {
+      "surface": "והנהו",
+      "gloss": "და აჰა ⟨ის⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "აკეთებდა"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "საქმე"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ქვები"
+    }
+  ],
+  "timestamp": "2026-09-06T08:12:04.031098946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 2:28",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და იყვნენ ძენი ონამის (ონამის) — შამაი და იადა; და შამაის ძენი — ნადავი და აბიშური.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "იყვნენ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ონამის"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "შამაი"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "და იადა"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "და ძენი"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "შამაის"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "ნადავი"
+    },
+    {
+      "surface": "ואבישור",
+      "gloss": "და აბიშური"
+    }
+  ],
+  "timestamp": "2026-09-06T19:38:02.317665100Z",
+  "model": "glm-5.3"
+}

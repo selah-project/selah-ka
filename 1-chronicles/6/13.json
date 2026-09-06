@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 6:13",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "და შემუელის შვილები ⟨არიან⟩ პირმშო ვაშნი და აბიაჰი.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "და შვილები"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "შემუელი (სამუელი)"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "პირმშო"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ვაშნი"
+    },
+    {
+      "surface": "ואביה",
+      "gloss": "და აბიაჰი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:29:04.002120430Z",
+  "model": "glm-5.3"
+}

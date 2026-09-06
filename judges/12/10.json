@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "და მოკვდა აიბცანი და დაიკრძალა ბეით-ლეხემში (ბეთლემში).",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "მოკვდა"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "აიბცანი"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "დაიკრძალა"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "სახლ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ლეხემი"
+    }
+  ],
+  "timestamp": "2026-09-06T06:07:14.108878527Z",
+  "model": "glm-5.3"
+}

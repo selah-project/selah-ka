@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "ყველა მამრობითი კოჰენთაგან (მღვდლებთაგან) ჭამს ⟨את⟩ მას; ის ⟨არის⟩ წმიდა წმიდათაგან.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "მამრობითი"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "კოჰენთაგან"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ჭამს"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "მას"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "წმიდა"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "წმიდათაგან"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    }
+  ],
+  "timestamp": "2026-09-06T12:19:25.163224880Z",
+  "model": "glm-5.3"
+}

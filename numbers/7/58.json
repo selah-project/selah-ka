@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "numbers 7:58",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "თხათა მამალი ერთი ცოდვის შესაწირად.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "მამალი"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "თხა"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ცოდვისათვის"
+    }
+  ],
+  "timestamp": "2026-09-06T05:02:52.690086751Z",
+  "model": "glm-5.3"
+}

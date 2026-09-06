@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 3:23",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "და ვაჟნი ნეარიაჰისა — ელიოენაი და ხიზქიაჰი და ოზრიქამი — სამი.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "და ვაჟი"
+    },
+    {
+      "surface": "נעריה",
+      "gloss": "ნეარიაჰ"
+    },
+    {
+      "surface": "אליועיני",
+      "gloss": "ელიოენაი"
+    },
+    {
+      "surface": "וחזקיה",
+      "gloss": "ხიზქიაჰ"
+    },
+    {
+      "surface": "ועזריקם",
+      "gloss": "ოზრიქამი"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "სამი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:27:31.394996491Z",
+  "model": "glm-5.3"
+}

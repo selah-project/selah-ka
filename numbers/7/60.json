@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 7:60",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "მეცხრე დღეს — ბინიამინის ძეთა მთავარი, აბიდანი, გიდონის ძე.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "მეცხრე"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "მთავარი"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ძეთა"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ბინიამინი"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "აბიდანი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "გიდონი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:02:52.690438358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "რას იწუწუნებს ცოცხალი ადამიანი — მამაკაცი თავისი ცოდვის გამო?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "რატომ"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "იწუწუნებს"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ადამიანი"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ცოცხალი"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "მამაკაცი"
+    },
+    {
+      "surface": "על",
+      "gloss": "გამო"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "თავისი ცოდვა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:53:06.110588233Z",
+  "model": "glm-5.3"
+}

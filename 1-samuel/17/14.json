@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 17:14",
+  "book": "1-samuel",
+  "lang": "ka",
+  "chapter": 17,
+  "translation": "ხოლო დავიდი იყო უმცროსი, და სამი უფროსი გაჰყვნენ შაულს.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "და დავიდი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "უმცროსი"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "და სამი"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "უფროსი"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "წავიდნენ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "შემდეგ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "შაული"
+    }
+  ],
+  "timestamp": "2026-09-06T06:23:40.959427577Z",
+  "model": "glm-5.3"
+}

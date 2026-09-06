@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 56,
+  "translation": "ელოჰიმში ვადიდებ სიტყვას; იაჰვეში ვადიდებ სიტყვას.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "ელოჰიმში"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "ვადიდებ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვას"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "იაჰვეში"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "ვადიდებ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვას"
+    }
+  ],
+  "timestamp": "2026-09-06T09:46:33.754189182Z",
+  "model": "glm-5.3"
+}

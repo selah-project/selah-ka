@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "დამრტყმელი კაცისა, და მოკვდა — სიკვდილით მოკვდება.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "დამრტყმელი"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცისა"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "და მოკვდა"
+    },
+    {
+      "surface": "מות",
+      "gloss": "სიკვდილით"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "მოკვდება"
+    }
+  ],
+  "timestamp": "2026-09-06T04:21:51.704167103Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 39,
+  "translation": "მოაცილე ჩემგან შენი დარტყმა; შენი ხელის შეტევით მე მოვისპი.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "მოაცილე"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ჩემგან"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "შენი დარტყმა"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "შეტევით"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "შენი ხელის"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "მოვისპი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:42:50.933288119Z",
+  "model": "glm-5.3"
+}

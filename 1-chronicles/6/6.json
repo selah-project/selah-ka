@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 6:6",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "იოახი მისი შვილი, იდო მისი შვილი, ზერახი მისი შვილი, იეათერაი მისი შვილი.",
+  "tokens": [
+    {
+      "surface": "יואח",
+      "gloss": "იოახი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი შვილი"
+    },
+    {
+      "surface": "עדו",
+      "gloss": "იდო"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი შვილი"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ზერახი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი შვილი"
+    },
+    {
+      "surface": "יאתרי",
+      "gloss": "იეათერაი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი შვილი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:28:17.633553299Z",
+  "model": "glm-5.3"
+}

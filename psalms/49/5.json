@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 49,
+  "translation": "მივახრი მაშალს ⟨არის⟩ ჩემი ყური; გავხსნი ბჭედს ჩემს ქნარზე.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "მივახრი"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "მაშალს"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "ჩემი ყური"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "გავხსნი"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ქნარზე"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "ჩემს ბჭედს"
+    }
+  ],
+  "timestamp": "2026-09-06T17:19:51.922586522Z",
+  "model": "glm-5.3"
+}

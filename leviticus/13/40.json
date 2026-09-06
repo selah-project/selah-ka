@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 13:40",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "და კაცი, თუ დავარდება თმა მის თავიდან, კერეახ ⟨არის⟩ ის — სუფთა ⟨არის⟩ ის.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "და კაცი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "ימרט",
+      "gloss": "დავარდება"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "მისი თავი"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "კერეახ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "სუფთა"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    }
+  ],
+  "timestamp": "2026-09-06T04:41:42.424616258Z",
+  "model": "glm-5.3"
+}

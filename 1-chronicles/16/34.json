@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 16:34",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 16,
+  "translation": "ჰმადლობდით იაჰვეს, რადგან კეთილი ⟨არის⟩, რადგან მარადის ⟨არის⟩ მისი ხესედი.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "ჰმადლობდით"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "კეთილი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "მარადის"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ხესედი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:35:01.280135443Z",
+  "model": "glm-5.3"
+}

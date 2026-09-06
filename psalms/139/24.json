@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 139,
+  "translation": "და ხედე, თუ ⟨არის⟩ ტკივილის გზა ჩემში, და წამიძღენი გზაზე მარადისობის.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "და ხედე"
+    },
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "გზა"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "ტკივილი"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ჩემში"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "და წამიძღენი"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "გზაზე"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "მარადისობა"
+    }
+  ],
+  "timestamp": "2026-09-06T14:19:33.935339231Z",
+  "model": "glm-5.3"
+}

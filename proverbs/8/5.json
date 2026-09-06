@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 8:5",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "გაიგენით, სულელნო, მოხერხება და, უმეცარნო, გაიგენით გული.",
+  "tokens": [
+    {
+      "surface": "הבינו",
+      "gloss": "გაიგენით"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "სულელნო"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "მოხერხება"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "და უმეცარნო"
+    },
+    {
+      "surface": "הבינו",
+      "gloss": "გაიგენით"
+    },
+    {
+      "surface": "לב",
+      "gloss": "გული"
+    }
+  ],
+  "timestamp": "2026-09-06T14:21:44.468724555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "და ჩემი ნეფეში ფრიად შეფითხია; შენ კი, იაჰვეო — რომდენამდე?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "და ჩემი ნეფეში"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "შეფითხია"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ფრიად"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და შენ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ვიდრე"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "რომდენამდე"
+    }
+  ],
+  "timestamp": "2026-09-06T09:32:30.973136343Z",
+  "model": "glm-5.3"
+}

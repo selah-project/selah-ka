@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 119,
+  "translation": "სიცრუის გზა მომარიდე და შენი თორა მიმადლე.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "გზა"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "სიცრუე"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "მოარიდე"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ჩემგან"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "და შენი თორა"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "მიმადლე მე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:08:06.261579350Z",
+  "model": "glm-5.3"
+}

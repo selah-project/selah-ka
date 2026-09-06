@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 2:11",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "გამჭრიახობა დაგიცავს შენ, გონება დაგიფარავს შენ.",
+  "tokens": [
+    {
+      "surface": "מזמה",
+      "gloss": "გამჭრიახობა"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "დაგიცავს"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "შენზე"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "გონება"
+    },
+    {
+      "surface": "תנצרכה",
+      "gloss": "დაგიფარავს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:15:42.340401793Z",
+  "model": "glm-5.3"
+}

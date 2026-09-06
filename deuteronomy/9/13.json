@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "და თქვა იაჰვემ ჩემდამი სათქვმელად: ვიხილე ⟨את⟩ ეს ხალხი, და აჰა, ხალხი მაგარ-კაფიანი ⟨არის⟩ ის.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემდამი"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქვმელად"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ვიხილე"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ეს ხალხი"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "და აჰა"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "მაგარი"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "კაფა"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    }
+  ],
+  "timestamp": "2026-09-06T05:29:03.539363172Z",
+  "model": "glm-5.3"
+}

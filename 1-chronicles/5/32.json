@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "და უზიმ შვა ⟨את⟩ ზერახია, და ზერახიამ შვა ⟨את⟩ მერაიოთ.",
+  "tokens": [
+    {
+      "surface": "וְעֻזִּי",
+      "gloss": "და უზი"
+    },
+    {
+      "surface": "הוֹלִיד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ზერახია"
+    },
+    {
+      "surface": "זְרַחְיָה",
+      "gloss": "ზერახია"
+    },
+    {
+      "surface": "וּזְרַחְיָה",
+      "gloss": "და ზერახია"
+    },
+    {
+      "surface": "הוֹלִיד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "მერაიოთ"
+    },
+    {
+      "surface": "מְרָיוֹת",
+      "gloss": "მერაიოთ"
+    }
+  ],
+  "timestamp": "2026-09-06T18:46:43.327981469Z",
+  "model": "glm-5.3"
+}

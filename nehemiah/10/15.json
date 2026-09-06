@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "ხალხის თავკაცები: ფაროში, ფახათ-მოაბი, ეილამი, ზათუი, ბანი (ბანი).",
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "თავკაცები"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ხალხის"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "ფაროში"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "ფახათ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "მოაბი"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ეილამი"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "ზათუი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ბანი"
+    }
+  ],
+  "timestamp": "2026-09-06T16:37:43.018188035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 19:27",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "და ადრე ადგა აბრაჰამი (აბრაამი) დილით, იმ ადგილას, სადაც იდგა იქ იაჰვეს პირისპირ.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "და ადრე ადგა"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "აბრაჰამი"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "დილით"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ადგილი"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "სადაც"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "იდგა"
+    },
+    {
+      "surface": "שם",
+      "gloss": "იქ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ თან"
+    },
+    {
+      "surface": "פני",
+      "gloss": "პირი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T03:48:49.597749140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "esther 2:19",
+  "book": "esther",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და ქალწულთა მეორედ შეკრებისას მორდექაი იჯდა მეფის ბჭეს.",
+  "tokens": [
+    {
+      "surface": "ובהקבץ",
+      "gloss": "და შეკრება"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "ქალწულები"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "მეორედ"
+    },
+    {
+      "surface": "ומרדכי",
+      "gloss": "მორდექაი"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "იჯდა"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ბჭეს"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "მეფე"
+    }
+  ],
+  "timestamp": "2026-09-06T14:52:05.750857020Z",
+  "model": "glm-5.3"
+}

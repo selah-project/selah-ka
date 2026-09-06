@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 16,
+  "translation": "მიხთამი დავიდს (დავითს): დამიცავ ელი, რადგან შენში ვიფარები.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "მიხთამი"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "დავიდს"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "დამიცავ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ელი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ვიფარები"
+    },
+    {
+      "surface": "בך",
+      "gloss": "შენში"
+    }
+  ],
+  "timestamp": "2026-09-06T09:34:03.539339052Z",
+  "model": "glm-5.3"
+}

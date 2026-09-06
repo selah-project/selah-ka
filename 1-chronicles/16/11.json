@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 16:11",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 16,
+  "translation": "მოიძიეთ იაჰვე და მისი ძალა, მოიძიეთ მისი პირი მუდმივად.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "მოიძიეთ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "და მისი ძალა"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "მოიძიეთ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "მისი პირი"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "მუდმივად"
+    }
+  ],
+  "timestamp": "2026-09-06T11:32:38.498752289Z",
+  "model": "glm-5.3"
+}

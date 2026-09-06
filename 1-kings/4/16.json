@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "ბაანა, ხუშაის ძე, აშერში და ბეალოთში.",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "ბაანა"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "ხუშაის"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "აშერში"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "და ბეალოთში"
+    }
+  ],
+  "timestamp": "2026-09-06T06:52:32.763640754Z",
+  "model": "glm-5.3"
+}

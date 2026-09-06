@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 10:4",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "ფაშხური, ამარიაჰი, მალქიაჰი.",
+  "tokens": [
+    {
+      "surface": "פשחור",
+      "gloss": "ფაშხური"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "ამარიაჰი"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "მალქიაჰი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:23:01.568807782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 5:14",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "და იყო კეინანის ყველა დღეთაგან ათი წელი და ცხრაასი წელი, და მოკვდა.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "დღეთა"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "კეინანის"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ათი"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "წელი"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ცხრა"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელი"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "მოკვდა"
+    }
+  ],
+  "timestamp": "2026-09-06T03:42:40.350806278Z",
+  "model": "glm-5.3"
+}

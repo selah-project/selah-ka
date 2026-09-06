@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "ამ დღეს გადიხართ, თვეში ავივისას.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "თქვენ"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "გამოდიხართ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "თვეში"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "ავივი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:11:30.360456844Z",
+  "model": "glm-5.3"
+}

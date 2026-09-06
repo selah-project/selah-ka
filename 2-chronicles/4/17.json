@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 4:17",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "იორდანის ვაკეში ჩაასხა მეფემ ისინი მიწის სისქეში, სუკოთსა და ცერედათს შორის.",
+  "tokens": [
+    {
+      "surface": "בככר",
+      "gloss": "ვაკეში"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "იორდანის"
+    },
+    {
+      "surface": "יצקם",
+      "gloss": "ჩაასხა ისინი"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "მეფემ"
+    },
+    {
+      "surface": "בעבי",
+      "gloss": "სისქეში"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "მიწის"
+    },
+    {
+      "surface": "בין",
+      "gloss": "შორის"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "სუკოთს"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "და"
+    },
+    {
+      "surface": "צרדתה",
+      "gloss": "ცერედათს"
+    }
+  ],
+  "timestamp": "2026-09-06T11:42:39.862951094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 7:10",
+  "book": "judges",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "და თუ გეშინია ჩასასვლელად, ჩადი შენ და ფურაჰი (ფურა), შენი ჭაბუკი, ბანაკში.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "და თუ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "გეშინია"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "ჩასასვლელად"
+    },
+    {
+      "surface": "רד",
+      "gloss": "ჩადი"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "ופרה",
+      "gloss": "და ფურაჰი"
+    },
+    {
+      "surface": "נערך",
+      "gloss": "შენი ჭაბუკი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ბანაკი"
+    }
+  ],
+  "timestamp": "2026-09-06T06:03:20.464831224Z",
+  "model": "glm-5.3"
+}

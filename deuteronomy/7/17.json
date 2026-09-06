@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 7:17",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "თუ იტყვი შენს გულში: მრავალნი ⟨არიან⟩ ეს ხალხები ჩემზე, როგორ შევძლებ მათ განდევნას?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "იტყვი"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "შენს გულში"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "მრავალნი"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ხალხები"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ჩემზე"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "როგორ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "შევძლებ"
+    },
+    {
+      "surface": "להורישם",
+      "gloss": "მათ განდევნას"
+    }
+  ],
+  "timestamp": "2026-09-06T12:31:16.155684917Z",
+  "model": "glm-5.3"
+}

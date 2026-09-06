@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 18:6",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "სულელის ბაგეები შფოთში შედიან და მისი პირი ცემას უძახის.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "ბაგეები"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "სულელი"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "შედიან"
+    },
+    {
+      "surface": "בריב",
+      "gloss": "შფოთში"
+    },
+    {
+      "surface": "ופיו",
+      "gloss": "და მისი პირი"
+    },
+    {
+      "surface": "למהלמות",
+      "gloss": "ცემისკენ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "უძახის"
+    }
+  ],
+  "timestamp": "2026-09-06T10:22:44.557002331Z",
+  "model": "glm-5.3"
+}

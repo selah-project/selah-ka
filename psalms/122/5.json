@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 122,
+  "translation": "რადგან იქ დგას ტახტები სამსაჯოდ, ტახტები დავითის სახლისათვის.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "იქ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "დგას"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "ტახტები"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "სამსაჯოდ"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "ტახტები"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "სახლისათვის"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "დავითის"
+    }
+  ],
+  "timestamp": "2026-09-06T10:10:18.027560280Z",
+  "model": "glm-5.3"
+}

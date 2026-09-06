@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 7:18",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "მოდი, დავრღობოთ სიყვარულით განთიადამდე, ვიმოგოთ სიყვარულში.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "მოდი"
+    },
+    {
+      "surface": "נרוה",
+      "gloss": "დავრღობოთ"
+    },
+    {
+      "surface": "דדים",
+      "gloss": "სიყვარულით"
+    },
+    {
+      "surface": "עד",
+      "gloss": "განთიადამდე"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "დილა"
+    },
+    {
+      "surface": "נתעלסה",
+      "gloss": "ვიმოგოთ"
+    },
+    {
+      "surface": "באהבים",
+      "gloss": "სიყვარულში"
+    }
+  ],
+  "timestamp": "2026-09-06T10:18:27.069584549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 28:2",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 28,
+  "translation": "და მოვლენ შენზე ყველა ეს კურთხევა და გიწევს, რადგან ისმენ იაჰვეს, შენი ელოჰიმის, ხმას.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "და მოვლენ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "შენზე"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "הברכות",
+      "gloss": "კურთხევა"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "והשיגך",
+      "gloss": "და გიწევს"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ისმენ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ხმას"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "შენი ელოჰიმის"
+    }
+  ],
+  "timestamp": "2026-09-06T12:34:13.277084129Z",
+  "model": "glm-5.3"
+}

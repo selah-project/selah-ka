@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 26:13",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "ზერახის — ზერახელთა გვარი; შაულის — შაულელთა გვარი.",
+  "tokens": [
+    {
+      "surface": "לזרח",
+      "gloss": "ზერახის"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "გვარი"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "ზერახელთა"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "შაულის"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "გვარი"
+    },
+    {
+      "surface": "השאולי",
+      "gloss": "შაულელთა"
+    }
+  ],
+  "timestamp": "2026-09-06T12:28:29.604552364Z",
+  "model": "glm-5.3"
+}

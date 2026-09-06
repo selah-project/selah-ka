@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 95,
+  "translation": "მოდით, ვიმღეროთ იაჰვეს, ვაძგეროთ ხმა ჩვენი ხსნის კლდეს.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "მოდით"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "ვიმღეროთ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "ვაძგეროთ ხმა"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "კლდეს"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "ჩვენი ხსნის"
+    }
+  ],
+  "timestamp": "2026-09-06T10:00:03.047145383Z",
+  "model": "glm-5.3"
+}

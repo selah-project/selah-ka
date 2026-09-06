@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 9:22",
+  "book": "judges",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "და იმთავრა აბიმელექმა იშრაელზე სამი წელიწადი.",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "იმთავრა"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "აბიმელექმა"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "სამი"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "წელიწადი"
+    }
+  ],
+  "timestamp": "2026-09-06T06:04:38.944530141Z",
+  "model": "glm-5.3"
+}

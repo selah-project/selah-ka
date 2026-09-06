@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 7:48",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "მეშვიდე დღეს — ნაში ⟨არის⟩ მთავარი ეფრაიმის ძეთა: ელიშამა, ძე ამიჰუდისა.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "მეშვიდე"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ნაში"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ძეთათვის"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ეფრაიმი"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "ელიშამა"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "ამიჰუდი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:02:51.559343426Z",
+  "model": "glm-5.3"
+}

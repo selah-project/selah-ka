@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 36:28",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 36,
+  "translation": "რომ ღრუბლები წვეთავენ, უხვად აწვეთებენ ადამიანზე.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "წვეთავენ"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ღრუბლები"
+    },
+    {
+      "surface": "ירעפו",
+      "gloss": "აწვეთებენ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ადამიანი"
+    },
+    {
+      "surface": "רב",
+      "gloss": "უხვად"
+    }
+  ],
+  "timestamp": "2026-09-06T16:36:44.507582180Z",
+  "model": "glm-5.3"
+}

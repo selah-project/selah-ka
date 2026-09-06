@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 9:14",
+  "book": "judges",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "და თქვეს ყველა ხეებმა შეუმოსს: მოდი ⟨შენ⟩, იმეფე ჩვენ ზემოთ.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "თქვეს"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ხე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–ს"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "შეუმოსი"
+    },
+    {
+      "surface": "לך",
+      "gloss": "მოდი"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "იმეფე"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ჩვენ ზემოთ"
+    }
+  ],
+  "timestamp": "2026-09-06T12:42:08.108446406Z",
+  "model": "glm-5.3"
+}

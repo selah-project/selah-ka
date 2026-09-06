@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 10:12",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "ადექი, იაჰვე! ელი, ასწიე შენი ხელი — არ დაივიწყო ღარიბნი!",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "ადექი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ელი"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ასწიე"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "შენი ხელი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "დაივიწყო"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ღარიბნი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:33:15.679920290Z",
+  "model": "glm-5.3"
+}

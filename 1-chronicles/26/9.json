@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 26:9",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "და მეშელემიაჰუს ⟨ჰყავდა⟩ ძენი და ძმები — სიმამაცის ძენი: თვრამეტი.",
+  "tokens": [
+    {
+      "surface": "ולמשלמיהו",
+      "gloss": "და მეშელემიაჰუს"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "ואחים",
+      "gloss": "და ძმები"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "სიმამაცის"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "თვრამეტი"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-06T11:38:28.224654099Z",
+  "model": "glm-5.3"
+}

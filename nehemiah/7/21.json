@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 7:21",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ათერის შვილები, ხიზკიაჰუს შთამომავლები — ოთხმოცდაცხრა და რვა.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "ათერი"
+    },
+    {
+      "surface": "לחזקיה",
+      "gloss": "ხიზკიაჰუს"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ოთხმოცდაცხრა"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "და რვა"
+    }
+  ],
+  "timestamp": "2026-09-06T11:21:32.539669034Z",
+  "model": "glm-5.3"
+}

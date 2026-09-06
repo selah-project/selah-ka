@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 24:7",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "მაღალ ⟨არის⟩ სიბრძნე სულელისთვის; კარიბჭეში არ გახსნის ის თავის ბაგეს.",
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "მაღალ"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "სულელისთვის"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "სიბრძნე"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "კარიბჭეში"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "გახსნის"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "მისი ბაგე"
+    }
+  ],
+  "timestamp": "2026-09-06T16:29:20.412284097Z",
+  "model": "glm-5.3"
+}

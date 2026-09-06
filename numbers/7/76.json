@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "numbers 7:76",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ერთი თხის მაჩვი, ცოდვის შესაწირად.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "მაჩვი"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "თხის"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ცოდვის შესაწირად"
+    }
+  ],
+  "timestamp": "2026-09-06T05:04:18.761279265Z",
+  "model": "glm-5.3"
+}

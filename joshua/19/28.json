@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 19:28",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "და ებრონი, და რეხობი, და ხამონი, და ქანა — დიდ ციდონამდე.",
+  "tokens": [
+    {
+      "surface": "ועברן",
+      "gloss": "ებრონი"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "რეხობი"
+    },
+    {
+      "surface": "וחמון",
+      "gloss": "ხამონი"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "ქანა"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-მდე"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "ციდონი"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "დიდი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:55:41.345814950Z",
+  "model": "glm-5.3"
+}

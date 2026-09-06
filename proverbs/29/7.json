@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 29,
+  "translation": "მართალი იცის გლახაკთა სამართალს, ბოროტი კი არ გაიგებს ცოდნას.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "იცის"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "მართალი"
+    },
+    {
+      "surface": "דין",
+      "gloss": "სამართალი"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "გლახაკები"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ბოროტი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "გაიგებს"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ცოდნა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:28:15.217212062Z",
+  "model": "glm-5.3"
+}

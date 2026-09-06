@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 71,
+  "translation": "აღივსებს ჩემი პირი შენი ქება, მთელი დღე — შენი დიდებულება.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "აღივსებს"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ჩემი პირი"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "შენი ქება"
+    },
+    {
+      "surface": "כל",
+      "gloss": "მთელი"
+    },
+    {
+      "surface": "היום",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "შენი დიდებულება"
+    }
+  ],
+  "timestamp": "2026-09-06T14:06:23.392459271Z",
+  "model": "glm-5.3"
+}

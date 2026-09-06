@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 18:25",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "და უთხრა იაჰვემ მოშეს (მოსე) ასე:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "და უთხრა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვემ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშეს"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ასე"
+    }
+  ],
+  "timestamp": "2026-09-06T05:11:42.342754704Z",
+  "model": "glm-5.3"
+}

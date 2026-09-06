@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 2:2",
+  "book": "song-of-songs",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "როგორც შროშანი ეკლებს შორის, ისე ⟨არის⟩ ჩემი საყვარელი ასულებს შორის.",
+  "tokens": [
+    {
+      "surface": "כשושנה",
+      "gloss": "როგორც შროშანი"
+    },
+    {
+      "surface": "בין",
+      "gloss": "შორის"
+    },
+    {
+      "surface": "החוחים",
+      "gloss": "ეკლები"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ისე"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "ჩემი საყვარელი"
+    },
+    {
+      "surface": "בין",
+      "gloss": "შორის"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "ასულები"
+    }
+  ],
+  "timestamp": "2026-09-06T14:44:04.045642626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 19:19",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "მძიმე რისხვის კაცი სასჯელს იტვირთავს: თუ იხსნი მას, კვლავ მოგიწევს ⟨იხსნა⟩.",
+  "tokens": [
+    {
+      "surface": "גרל",
+      "gloss": "მძიმე"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "რისხვა"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "იტვირთავს"
+    },
+    {
+      "surface": "ענש",
+      "gloss": "სასჯელი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "იხსნი"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "და კვლავ"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "დაამატებს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:23:57.588738519Z",
+  "model": "glm-5.3"
+}

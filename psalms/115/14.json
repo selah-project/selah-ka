@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 115,
+  "translation": "დაგამრავლებთ იაჰვე ⟨კიდევ⟩ თქვენ, თქვენ და თქვენს ძეებს.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "დაგამრავლებთ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "თქვენ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "თქვენ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "და"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "თქვენს ძეებს"
+    }
+  ],
+  "timestamp": "2026-09-06T14:16:14.131469859Z",
+  "model": "glm-5.3"
+}

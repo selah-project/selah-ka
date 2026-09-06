@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "haggai 1:15",
+  "book": "haggai",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "მეექვსე თვის ოცდაოთხე დღეს, დარიავოშ მეფის მეორე წელს.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ოცი"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "და ოთხი"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "თვე"
+    },
+    {
+      "surface": "בששי",
+      "gloss": "მეექვსე"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "წელს"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ორი"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "დარიავოში"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "მეფე"
+    }
+  ],
+  "timestamp": "2026-09-06T09:21:17.498632478Z",
+  "model": "glm-5.3"
+}

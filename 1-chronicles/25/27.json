@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 25:27",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "მეოცე ელიათაჰისთვის — ⟨ის⟩, მისი ძენი და მისი ძმები — თორმეტი.",
+  "tokens": [
+    {
+      "surface": "לעשרים",
+      "gloss": "მეოცედ"
+    },
+    {
+      "surface": "לאליתה",
+      "gloss": "ელიათაჰისთვის"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "მისი ძენი"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "და მისი ძმები"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "თორმეტი"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "თორმეტი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:37:36.409381711Z",
+  "model": "glm-5.3"
+}

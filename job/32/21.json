@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 32:21",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 32,
+  "translation": "ნუ, გევედრები, ავამაღლებ სახეს კაცის, და ადამიანს არ ვადიდებ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "გევედრები"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ავამაღლებ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "სახე"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ადამიანი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "אכנה",
+      "gloss": "ვადიდებ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:41:20.325100009Z",
+  "model": "glm-5.3"
+}

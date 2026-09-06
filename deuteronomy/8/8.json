@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "მიწა ხორბლისა და ქერისა, ვაზისა და ლეღვისა და ბროწეულისა; მიწა ზეთის ზეთისხილისა და თაფლისა.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "ხორბალი"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "და ქერი"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "და ვაზი"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "და ლეღვი"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "და ბროწეული"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "זית",
+      "gloss": "ზეთისხილი"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ზეთი"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "და თაფლი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:28:01.474615985Z",
+  "model": "glm-5.3"
+}

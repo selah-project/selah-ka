@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 115,
+  "translation": "ცა, ცანი იაჰვესია ⟨არიან⟩, ხოლო მიწა მისცა ადამის შვილებს.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "ცა"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ცანი"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "იაჰვესი"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ხოლო მიწა"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "მისცა"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "შვილებს"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ადამის"
+    }
+  ],
+  "timestamp": "2026-09-06T20:33:04.174127252Z",
+  "model": "glm-5.3"
+}

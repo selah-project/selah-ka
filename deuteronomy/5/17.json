@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 5:17",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "არ მოჰკალ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "მოჰკალ"
+    }
+  ],
+  "timestamp": "2026-09-06T05:24:37.252005235Z",
+  "model": "glm-5.3"
+}

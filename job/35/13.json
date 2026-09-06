@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 35:13",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 35,
+  "translation": "მართლაც, ამაოებას არ ისმენს ელი, და შადაი არ დაინახავს ⟨მას⟩.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "მართლაც"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ამაოება"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ისმენს"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ელი"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "და შადაი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "ישורנה",
+      "gloss": "დაინახავს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:44:07.705682408Z",
+  "model": "glm-5.3"
+}

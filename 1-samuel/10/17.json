@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "და შმუელმა მოიხმო ⟨את⟩ ხალხი იაჰვესთან მიცფაში.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "მოიხმო"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "შმუელი"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ხალხი"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "კიდევაც, -სკენ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "მიცფა"
+    }
+  ],
+  "timestamp": "2026-09-06T06:19:07.904468513Z",
+  "model": "glm-5.3"
+}

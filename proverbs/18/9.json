@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 18:9",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "ასევე განზრახ ზარმაცი თავის საქმეში — ძმა ⟨არის⟩ იგი დამანგრევლისა.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ასევე"
+    },
+    {
+      "surface": "מתרפה",
+      "gloss": "ზარმაცი"
+    },
+    {
+      "surface": "במלאכתו",
+      "gloss": "თავის საქმეში"
+    },
+    {
+      "surface": "אח",
+      "gloss": "ძმა"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "იგი"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "პატრონისა"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "დამანგრეველი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:22:32.654483923Z",
+  "model": "glm-5.3"
+}

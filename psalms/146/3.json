@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 146,
+  "translation": "ნუ ეყრდნობით დიდებულებს, ადამის ძეს, რომელსაც არ აქვს ხსნა.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "ეყრდნობით"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "დიდებულებს"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "ძეს"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ადამის"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "არ აქვს"
+    },
+    {
+      "surface": "לו",
+      "gloss": "რომელსაც"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "ხსნა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:14:49.942332552Z",
+  "model": "glm-5.3"
+}

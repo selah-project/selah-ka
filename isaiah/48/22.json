@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 48,
+  "translation": "არ ⟨არის⟩ მშვიდობა — თქვა იაჰვემ — ბოროტთათვის.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "არ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "მშვიდობა"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "ბოროტთათვის"
+    }
+  ],
+  "timestamp": "2026-09-06T07:49:08.229009543Z",
+  "model": "glm-5.3"
+}

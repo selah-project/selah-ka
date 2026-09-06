@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 24:21",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "და შეეთქვნენ მასზე და ჩაჰქოლეს იგი ქვით მეფის ბრძანებით, იაჰვეს სახლის ეზოში.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "შეთქვმა"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "მასზე"
+    },
+    {
+      "surface": "וירגמהו",
+      "gloss": "ჩაქოლვა"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ქვა"
+    },
+    {
+      "surface": "במצות",
+      "gloss": "ბრძანებით"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "ეზოში"
+    },
+    {
+      "surface": "בית",
+      "gloss": "სახლი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T11:54:37.622781771Z",
+  "model": "glm-5.3"
+}

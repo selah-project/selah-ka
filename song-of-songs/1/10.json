@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 1:10",
+  "book": "song-of-songs",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "მშვენიერივ ⟨არის⟩ შენი ლოყები რიგებით, შენი კისერი — მძივებით.",
+  "tokens": [
+    {
+      "surface": "נאוו",
+      "gloss": "მშვენიერივ"
+    },
+    {
+      "surface": "לחייך",
+      "gloss": "შენი ლოყები"
+    },
+    {
+      "surface": "בתרים",
+      "gloss": "რიგებით"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "შენი კისერი"
+    },
+    {
+      "surface": "בחרוזים",
+      "gloss": "მძივებით"
+    }
+  ],
+  "timestamp": "2026-09-06T10:47:20.055395355Z",
+  "model": "glm-5.3"
+}

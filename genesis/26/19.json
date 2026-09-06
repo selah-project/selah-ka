@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 26:19",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "და ამოთხარეს იცხაკის მონებმა ხევში და იპოვეს იქ ცოცხალი წყლის ჭა.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "ამოთხარეს"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "მონებმა"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "იცხაკის"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "ხევში"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "იპოვეს"
+    },
+    {
+      "surface": "שם",
+      "gloss": "იქ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ჭა"
+    },
+    {
+      "surface": "מים",
+      "gloss": "წყლის"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ცოცხალი"
+    }
+  ],
+  "timestamp": "2026-09-06T03:54:10.016379171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და შემიყვანა ⟨את⟩ მე ეზოს შესასვლელამდე, და ვიხილე, და აჰა, ერთი ხვრელი კედელში.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "დაშემიყვანა"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "მე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "შესასვლელი"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ეზოს"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "დავიხილე"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "დააჰა"
+    },
+    {
+      "surface": "חר",
+      "gloss": "ხვრელი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "კედელში"
+    }
+  ],
+  "timestamp": "2026-09-06T08:35:55.935327257Z",
+  "model": "glm-5.3"
+}

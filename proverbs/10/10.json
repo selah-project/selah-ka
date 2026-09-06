@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "მაჭუჭებელი თვალს აძლევს ტკივილს, და ბაგეების სულელი დაემხობა.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "მაჭუჭებელი"
+    },
+    {
+      "surface": "עין",
+      "gloss": "თვალს"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "აძლევს"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "ტკივილს"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "და სულელი"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ბაგეების"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "დაემხობა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:19:07.738526323Z",
+  "model": "glm-5.3"
+}

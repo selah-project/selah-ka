@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 78:46",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 78,
+  "translation": "და მისცა ხოჭოს მათი ნაყოფი და მათი შრომა — კალიას.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "და მისცა"
+    },
+    {
+      "surface": "לחסיל",
+      "gloss": "ხოჭოს"
+    },
+    {
+      "surface": "יבולם",
+      "gloss": "მათი ნაყოფი"
+    },
+    {
+      "surface": "ויגיעם",
+      "gloss": "და მათი შრომა"
+    },
+    {
+      "surface": "לארבה",
+      "gloss": "კალიას"
+    }
+  ],
+  "timestamp": "2026-09-06T09:54:55.120028758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 1:22",
+  "book": "judges",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და ავიდნენ იოსეფის სახლის ძენიც — ბეით ელზე, და იაჰვე ⟨იყო⟩ მათთან.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "ავიდნენ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "სახლი"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "იოსეფის"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ისინიც"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ისინი"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ბეით"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ელი"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "და იაჰვე"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "მათთან"
+    }
+  ],
+  "timestamp": "2026-09-06T05:58:38.563490180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 140,
+  "translation": "ვიცი, რომ იაჰვე აღასრულებს ღატაკის სამართალს, მწირთა განაჩენს.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "ვიცი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "აღასრულებს"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "דין",
+      "gloss": "სამართალი"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ღატაკი"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "განაჩენი"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "მწირნი"
+    }
+  ],
+  "timestamp": "2026-09-06T14:19:44.295397263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 10:24",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "ჰოშეა (ჰოშეა), ხანანია (ხანანია), ხაშუბი (ხაშუბი).",
+  "tokens": [
+    {
+      "surface": "הושע",
+      "gloss": "ჰოშეა"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "ხანანია"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "ხაშუბი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:23:05.377401188Z",
+  "model": "glm-5.3"
+}

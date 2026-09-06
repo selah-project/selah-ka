@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 49,
+  "translation": "და იცოცხლოს კიდეც უკუნისამდე, არა — არ იხილავს ⟨ის⟩ ორმოს.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "და იცოცხლოს"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "კიდეც"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "უკუნისამდე"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "იხილავს"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "ორმო"
+    }
+  ],
+  "timestamp": "2026-09-06T09:44:34.369796712Z",
+  "model": "glm-5.3"
+}

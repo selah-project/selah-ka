@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "უკეთესია ერთი მუჭა სიმშვიდე, ვიდრე ორი მუჭა სისავსე — შრომა და ქარის დევნა.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "უკეთესია"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "სისავსე"
+    },
+    {
+      "surface": "כף",
+      "gloss": "მუჭა"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "სიმშვიდე"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "სისავსე"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "ორი მუჭა"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "შრომა"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "და დევნა"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ქარი"
+    }
+  ],
+  "timestamp": "2026-09-06T14:49:59.264800026Z",
+  "model": "glm-5.3"
+}

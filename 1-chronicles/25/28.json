@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 25:28",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "ოცდაერთი ჰოთირისთვის — ⟨ის⟩, მისი ძენი და მისი ძმები — თორმეტი.",
+  "tokens": [
+    {
+      "surface": "לאחד",
+      "gloss": "ერთად"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "და ოცი"
+    },
+    {
+      "surface": "להותיר",
+      "gloss": "ჰოთირისთვის"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "მისი ძენი"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "და მისი ძმები"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "თორმეტი"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "თორმეტი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:37:36.409509950Z",
+  "model": "glm-5.3"
+}

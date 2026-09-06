@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 106,
+  "translation": "არ გაანადგურეს ⟨את⟩ ხალხები, რომლებზეც ბრძანა იაჰვემ მათ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "გაანადგურეს"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ხალხები"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ხალხები"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომლებზეც"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ბრძანა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "להם",
+      "gloss": "მათ"
+    }
+  ],
+  "timestamp": "2026-09-06T14:13:28.250599442Z",
+  "model": "glm-5.3"
+}

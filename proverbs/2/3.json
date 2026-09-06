@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "დიახ, თუ გონებას მოუწოდებ, და გონისმიერებისთვის აღვიძებ შენს ხმას,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "დიახ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "გონებას"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "მოუწოდებ"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "გონისმიერებისთვის"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "მისცემ"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "შენს ხმას"
+    }
+  ],
+  "timestamp": "2026-09-06T10:17:02.107818230Z",
+  "model": "glm-5.3"
+}

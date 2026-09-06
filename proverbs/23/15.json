@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 23:15",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "ჩემო შვილო, თუ ბრძენი გახდება შენი გული, იხარებს ჩემი გული, მეც ასევე.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ჩემო შვილო"
+    },
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ბრძენი"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "შენი გული"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "იხარებს"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ჩემი გული"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ასევე"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:25:07.008433435Z",
+  "model": "glm-5.3"
+}

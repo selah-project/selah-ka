@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 119,
+  "translation": "მე მიხარია შენს სიტყვაზე, როგორც მპოვნელს დიდი ნადავლისა.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "მიხარია"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "შენი სიტყვა"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "როგორც მპოვნელი"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ნადავლი"
+    },
+    {
+      "surface": "רב",
+      "gloss": "დიდი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:08:34.184777311Z",
+  "model": "glm-5.3"
+}

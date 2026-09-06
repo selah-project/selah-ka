@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 78,
+  "translation": "რადგან არ ირწმუნეს ელოჰიმი, და არ დაეყრდნენ მის ხსნას.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "ირწმუნეს"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "დაეყრდნენ"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "მის ხსნას"
+    }
+  ],
+  "timestamp": "2026-09-06T17:01:29.914605528Z",
+  "model": "glm-5.3"
+}

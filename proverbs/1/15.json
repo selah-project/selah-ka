@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "შენო ძე, არ იარო გზაზე ⟨את⟩ მათთან; შეიკავე შენი ფეხი მათი ბილიკისგან.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შენო ძე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "იარო"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "გზაზე"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "მათთან"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "შეიკავე"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "შენი ფეხი"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "მათი ბილიკისგან"
+    }
+  ],
+  "timestamp": "2026-09-06T10:15:23.191331964Z",
+  "model": "glm-5.3"
+}

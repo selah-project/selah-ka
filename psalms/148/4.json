@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 148,
+  "translation": "ადიდეთ იგი, ცათა ცანო, და წყლებო, რომლებიც ცათა ზემოთ ⟨ხართ⟩!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "ადიდეთ იგი"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ცათა"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ცანი"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "და წყლები"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომლებიც"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ზემოთ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ცათა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:14:47.593880508Z",
+  "model": "glm-5.3"
+}

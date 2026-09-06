@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 97,
+  "translation": "გაანათეს მისმა ელვებმა ქვეყანა — იხილა და შეარხია მიწამ.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "გაანათეს"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "მისმა ელვებმა"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ქვეყანა"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "იხილა"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "და შეარხია"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწამ"
+    }
+  ],
+  "timestamp": "2026-09-06T09:59:39.562325132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 30:11",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "და ელაპარაკა იაჰვემ მოშეს, სათქმელად:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ელაპარაკა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მოშესთან"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T12:15:31.098141636Z",
+  "model": "glm-5.3"
+}

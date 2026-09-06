@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 4:4",
+  "book": "zechariah",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და ვუპასუხე და ვუთხარი მალაქს, რომელიც მეტყველებდა ჩემში: რა ⟨არიან⟩ ეს, ბატონო ჩემო?",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "ვუპასუხე"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ვუთხარი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "მალაქი"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "მეტყველი"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ჩემში"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ბატონო ჩემო"
+    }
+  ],
+  "timestamp": "2026-09-06T13:48:18.255550070Z",
+  "model": "glm-5.3"
+}

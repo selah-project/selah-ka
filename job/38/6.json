@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 38:6",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 38,
+  "translation": "რაზე ⟨არიან⟩ ჩაძირული მისი საძირკვლები, ან ვინ დაჰკრა მისი კუთხის ქვა?",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "მისი საძირკვლები"
+    },
+    {
+      "surface": "הטבעו",
+      "gloss": "ჩაიძირნენ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ან"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "დაჰკრა"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ქვა"
+    },
+    {
+      "surface": "פנתה",
+      "gloss": "კუთხის"
+    }
+  ],
+  "timestamp": "2026-09-06T10:45:41.557288078Z",
+  "model": "glm-5.3"
+}

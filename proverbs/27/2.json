@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 27,
+  "translation": "განიდიდოს შენ უცხო, და არა შენი პირი; უცხოტოლი, და არა შენი ბაგეები.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "განიდიდოს შენ"
+    },
+    {
+      "surface": "זר",
+      "gloss": "უცხო"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არა"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "შენი პირი"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "უცხოტოლი"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და ნუ"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "შენი ბაგეები"
+    }
+  ],
+  "timestamp": "2026-09-06T10:27:34.239454839Z",
+  "model": "glm-5.3"
+}

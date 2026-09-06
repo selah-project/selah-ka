@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "1-samuel 17:58",
+  "book": "1-samuel",
+  "lang": "ka",
+  "chapter": 17,
+  "translation": "და უთხრა მას შაულმა: ვის ძე ხარ, ჭაბუკო? და თქვა დავითმა: შენი მონა იშაის ძე, ბეთ-ლეხემელი.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და უთხრა"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "შაული"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ვის"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ჭაბუკო"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "დავითი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "შენი მონა"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "იშაი"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ბეთ"
+    },
+    {
+      "surface": "הלחמי",
+      "gloss": "ლეხემელი"
+    }
+  ],
+  "timestamp": "2026-09-06T18:04:26.336062852Z",
+  "model": "glm-5.3"
+}

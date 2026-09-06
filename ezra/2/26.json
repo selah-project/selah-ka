@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezra 2:26",
+  "book": "ezra",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "რამაჰისა და გევას ძენი — ექვსას ოცდაერთი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "რამაჰი"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "და გევა"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ექვს"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ოცი"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "და ერთი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:13:12.039406848Z",
+  "model": "glm-5.3"
+}

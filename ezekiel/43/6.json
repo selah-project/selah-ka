@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 43:6",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 43,
+  "translation": "და ვისმინე ჩემთან მოლაპარაკე სახლიდან, და კაცი იდგა ჩემს გვერდით.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "და ვისმინე"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "მოლაპარაკე"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემთან"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "სახლიდან"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "და კაცი"
+    },
+    {
+      "surface": "היה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "იდგა"
+    },
+    {
+      "surface": "אצלי",
+      "gloss": "ჩემს გვერდით"
+    }
+  ],
+  "timestamp": "2026-09-06T09:00:36.715272418Z",
+  "model": "glm-5.3"
+}

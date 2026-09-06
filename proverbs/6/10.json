@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 6:10",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "ცოტა ძილი, ცოტა ჩაძინება, ცოტა ხელთა შეკრულება დასაძინებლად —",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "ცოტა"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ძილი"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ცოტა"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "ჩაძინება"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ცოტა"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "შეკრულება"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ხელთა"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "დასაძინებლად"
+    }
+  ],
+  "timestamp": "2026-09-06T20:33:20.647736655Z",
+  "model": "glm-5.3"
+}

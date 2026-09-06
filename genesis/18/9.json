@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 18:9",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "და უთხრეს მას: სად ⟨არის⟩ სარა, შენი ცოლი? და მან თქვა: აჰა, კარავში.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "და უთხრეს"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "איה",
+      "gloss": "სად"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "სარა"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "შენი ცოლი"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "კარავში"
+    }
+  ],
+  "timestamp": "2026-09-06T16:46:37.604486880Z",
+  "model": "glm-5.3"
+}

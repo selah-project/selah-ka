@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 10:18",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "ატერი, ხიზკიია, აზური,",
+  "tokens": [
+    {
+      "surface": "אטר",
+      "gloss": "ატერი"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "ხიზკიია"
+    },
+    {
+      "surface": "עזור",
+      "gloss": "აზური"
+    }
+  ],
+  "timestamp": "2026-09-06T11:23:15.423029486Z",
+  "model": "glm-5.3"
+}

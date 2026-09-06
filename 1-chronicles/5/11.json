@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 5:11",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "და გადის შვილნი მათ პირდაპირ დასახლდნენ ბაშანის მიწაზე, სალქამდე.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "და შვილნი"
+    },
+    {
+      "surface": "גד",
+      "gloss": "გადის"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "მათ პირდაპირ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "დასახლდნენ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "მიწაზე"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ბაშანის"
+    },
+    {
+      "surface": "עד",
+      "gloss": "მდე"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "სალქა"
+    }
+  ],
+  "timestamp": "2026-09-06T11:27:57.331589802Z",
+  "model": "glm-5.3"
+}

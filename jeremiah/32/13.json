@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 32:13",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 32,
+  "translation": "და დავავალე ⟨את⟩ ბარუხს მათ თვალთა წინაშე, სათქმელად:",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "დავავალე"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ბარუხი"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ბარუხი"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "მათ თვალთა წინაშე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T08:19:28.303873788Z",
+  "model": "glm-5.3"
+}

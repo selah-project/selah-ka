@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 115,
+  "translation": "ხოლო ჩვენ ვაკურთხევთ იაჰს ახლიდან და საუკუნომდე — ადიდეთ იაჰ!",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "ხოლო ჩვენ"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "ვაკურთხევთ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "იაჰ"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ახლიდან"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "და"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "საუკუნომდე"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ადიდეთ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "იაჰ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:06:35.999522101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 64,
+  "translation": "საგამგებლოდ. საგალობო დავითისა.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "საგამგებლოდ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "საგალობო"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "დავითისა"
+    }
+  ],
+  "timestamp": "2026-09-06T09:49:55.685075175Z",
+  "model": "glm-5.3"
+}

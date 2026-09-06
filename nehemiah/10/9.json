@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 10:9",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "მააზიაჰი, ბილგაი, შემაიაჰი — ესენი იყვნენ ქოჰენები.",
+  "tokens": [
+    {
+      "surface": "מעזיה",
+      "gloss": "მააზიაჰი"
+    },
+    {
+      "surface": "בלגי",
+      "gloss": "ბილგაი"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "შემაიაჰი"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ესენი"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ქოჰენები"
+    }
+  ],
+  "timestamp": "2026-09-06T15:03:28.240733074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 20:17",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 20,
+  "translation": "ტკბილი ⟨არის⟩ კაცს სიცრუის პური, და შემდეგ აივსება მისი პირი კაჭრადით.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "ტკბილი"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "კაცს"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "პური"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "სიცრუე"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "და შემდეგ"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "აივსება"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "მისი პირი"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "კაჭრადი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:23:52.559542853Z",
+  "model": "glm-5.3"
+}

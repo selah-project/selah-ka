@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 14:11",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "და თქვა იაჰვემ ჩემდამი: ნუ ილოცავ ამ ხალხის გულისთვის სიკეთეზე.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემდამი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "ილოცავ"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "გულისთვის"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "სიკეთეზე"
+    }
+  ],
+  "timestamp": "2026-09-06T13:20:52.425029659Z",
+  "model": "glm-5.3"
+}

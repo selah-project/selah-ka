@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 13:9",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "არ დათანხმდე მას, არც მოუსმინო მას; არც დაინანოს შენმა თვალმა მასზე, არც შებრალო ის, არც დაფარო ის.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "დათანხმდე"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "მოუსმინო"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "დაინანოს"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "შენი თვალი"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "მასზე"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "შებრალო"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "დაფარო"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "მასზე"
+    }
+  ],
+  "timestamp": "2026-09-06T05:30:37.487016096Z",
+  "model": "glm-5.3"
+}

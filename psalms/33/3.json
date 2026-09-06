@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 33,
+  "translation": "უმღერეთ მას ახალი სიმღერა; კარგად დაუკარით შეძახილით.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "უმღერეთ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "სიმღერა"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ახალი"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "კარგად"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "დაუკარით"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "შეძახილით"
+    }
+  ],
+  "timestamp": "2026-09-06T09:41:29.541952140Z",
+  "model": "glm-5.3"
+}

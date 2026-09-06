@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 44,
+  "translation": "განა არ გამოიკვლევს ამას ელოჰიმი? რადგან ის იცის გულის საიდუმლოებებს.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "განა არ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "გამოიკვლევს"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "იცის"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "საიდუმლოებები"
+    },
+    {
+      "surface": "לב",
+      "gloss": "გულის"
+    }
+  ],
+  "timestamp": "2026-09-06T09:44:05.753323890Z",
+  "model": "glm-5.3"
+}

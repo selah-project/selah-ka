@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 14:26",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "და იტყოდა იაჰვე მოშეს (მოსე) და აჰარონს, სათქმელად:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "და იტყოდა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და მიმართ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "აჰარონი"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T05:07:22.058566019Z",
+  "model": "glm-5.3"
+}

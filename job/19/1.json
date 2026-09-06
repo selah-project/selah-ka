@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 19:1",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "და მიუგო იოვმა და თქვა:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "და მიუგო"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "იოვი (იობი)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    }
+  ],
+  "timestamp": "2026-09-06T14:37:07.188057500Z",
+  "model": "glm-5.3"
+}

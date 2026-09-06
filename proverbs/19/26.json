@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 19:26",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "აოხრებს მამას, გააქცევს დედას — შვილი მარცხვენი და დამამცირებელი.",
+  "tokens": [
+    {
+      "surface": "משדד",
+      "gloss": "აოხრებს"
+    },
+    {
+      "surface": "אב",
+      "gloss": "მამა"
+    },
+    {
+      "surface": "יבריח",
+      "gloss": "გააქცევს"
+    },
+    {
+      "surface": "אם",
+      "gloss": "დედა"
+    },
+    {
+      "surface": "בן",
+      "gloss": "შვილი"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "მარცხვენი"
+    },
+    {
+      "surface": "ומחפיר",
+      "gloss": "და დამამცირებელი"
+    }
+  ],
+  "timestamp": "2026-09-06T14:26:50.339610258Z",
+  "model": "glm-5.3"
+}

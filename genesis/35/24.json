@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 35:24",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 35,
+  "translation": "რახელის ვაჟები: იოსეფი და ბინიამინი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ვაჟები"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "რახელის"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "იოსეფი"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "და ბინიამინი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:00:00.888826478Z",
+  "model": "glm-5.3"
+}

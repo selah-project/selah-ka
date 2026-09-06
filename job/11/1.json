@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 11:1",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "და უპასუხა ცოფარ ნაყამათელმა და თქვა:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "და უპასუხა"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "ცოფარი"
+    },
+    {
+      "surface": "הנעמתי",
+      "gloss": "ნაყამათელი"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:35:15.107146293Z",
+  "model": "glm-5.3"
+}

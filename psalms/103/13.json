@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 103,
+  "translation": "როგორც მამა შვილებს ებრალება, ისე იაჰვე ებრალება მის მოშიშებს.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "როგორც ებრალება"
+    },
+    {
+      "surface": "אב",
+      "gloss": "მამა"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "შვილებს"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "ებრალება"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "მის მოშიშებს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:01:27.693435050Z",
+  "model": "glm-5.3"
+}

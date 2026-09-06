@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "რადგან არა იაჰვედ ⟨არის⟩ ის, ვინც მარადის უარყოფს —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "უარყოფს"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "მარადის"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ადონაი"
+    }
+  ],
+  "timestamp": "2026-09-06T14:46:12.239117999Z",
+  "model": "glm-5.3"
+}

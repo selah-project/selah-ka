@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 10:12",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "მიქა (მიხა), რეხოვი, ხაშავია.",
+  "tokens": [
+    {
+      "surface": "מיכא",
+      "gloss": "მიქა"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "რეხოვი"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ხაშავია"
+    }
+  ],
+  "timestamp": "2026-09-06T15:03:16.466759538Z",
+  "model": "glm-5.3"
+}

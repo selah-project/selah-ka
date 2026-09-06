@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 7:14",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ზებახები შელამიმი ⟨არიან⟩ ჩემთან; დღეს შევასრულე ჩემი აღთქმები.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "ზებახები"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "შელამიმი"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ჩემთან"
+    },
+    {
+      "surface": "היום",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "שלמתי",
+      "gloss": "შევასრულე"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "ჩემი აღთქმები"
+    }
+  ],
+  "timestamp": "2026-09-06T10:18:25.099174942Z",
+  "model": "glm-5.3"
+}

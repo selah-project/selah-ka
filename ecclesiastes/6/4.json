@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "რადგან ამაოებაში მოდის და სიბნელეში წავა, და სიბნელეში დაიფარება მისი სახელი.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "ამაოებაში"
+    },
+    {
+      "surface": "בא",
+      "gloss": "მოდის"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "და სიბნელეში"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "წავა"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "და სიბნელეში"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "მისი სახელი"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "დაიფარება"
+    }
+  ],
+  "timestamp": "2026-09-06T16:36:47.792944665Z",
+  "model": "glm-5.3"
+}

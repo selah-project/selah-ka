@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "ნაფთალიდან: ახირა, ძე ეინანისა.",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "ნაფთალიდან"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "ახირა"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "ეინანი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:58:23.818880623Z",
+  "model": "glm-5.3"
+}

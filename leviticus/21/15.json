@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 21:15",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "და არ შეაბიწუროს თავისი თესლი თავის ერში, რადგან მე ⟨ვარ⟩ იაჰვე, მის წმედელი.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "შეაბიწუროს"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "თავისი თესლი"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "თავის ერში"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "მის წმედელი"
+    }
+  ],
+  "timestamp": "2026-09-06T15:39:07.113607893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 15:17",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "ხოლო ბამოთები არ მოცილებულან იშრაელიდან; მაგრამ ასას გული იყო მთლიანი ყველა მის დღეს.",
+  "tokens": [
+    {
+      "surface": "והבמות",
+      "gloss": "ხოლო ბამოთები"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "მოცილდნენ"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "იშრაელიდან"
+    },
+    {
+      "surface": "רק",
+      "gloss": "მაგრამ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "გული"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ასას"
+    },
+    {
+      "surface": "היה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "მთლიანი"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "მისი დღენი"
+    }
+  ],
+  "timestamp": "2026-09-06T18:50:48.194587184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 23:12",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "შვილნი კეჰათისნი — ამრამი, იცჰარი, ხევრონი და უზიელი, ოთხნი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილნი"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "კეჰათისნი"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "ამრამი"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "იცჰარი"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ხევრონი"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "უზიელი"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ოთხნი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:37:31.590700941Z",
+  "model": "glm-5.3"
+}

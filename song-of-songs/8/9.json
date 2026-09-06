@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 8:9",
+  "book": "song-of-songs",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "თუ კედელი ⟨არის⟩ ის, ავაშენებთ მასზე ვერცხლის კოშკს; და თუ კარი ⟨არის⟩ ის, დავხურავთ მას კედრის დაფებით.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "კედელი"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "ავაშენებთ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "მასზე"
+    },
+    {
+      "surface": "טירת",
+      "gloss": "კოშკი"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ვერცხლის"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "და თუ"
+    },
+    {
+      "surface": "דלת",
+      "gloss": "კარი"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "נצור",
+      "gloss": "დავხურავთ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "მასზე"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "დაფა"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "კედარი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:50:17.968487527Z",
+  "model": "glm-5.3"
+}

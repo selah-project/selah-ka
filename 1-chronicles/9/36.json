@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 9:36",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "და მისი ძე, პირმშო — ავდონი, და ცური, და კიში, და ბალი, და ნერი, და ნადავი.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "და მისი ძე"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "პირმშო"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "ავდონი"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "და ცური"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "და კიში"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "და ბალი"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "და ნერი"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "და ნადავი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:31:32.874805052Z",
+  "model": "glm-5.3"
+}

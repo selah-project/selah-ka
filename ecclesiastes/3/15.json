@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "რაც იყო — უკვე ⟨არის⟩ ის; და რაც ყოფილია ყოფნად — უკვე იყო; და ელოჰიმი მოითხოვს ⟨את⟩ მდევნებულს.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "რაც იყო"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "უკვე"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "და რაც"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ყოფნად"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "უკვე"
+    },
+    {
+      "surface": "היה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "და ელოჰიმი"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "მოითხოვს"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მდევნებულს"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "მდევნებული"
+    }
+  ],
+  "timestamp": "2026-09-06T10:56:23.572715901Z",
+  "model": "glm-5.3"
+}

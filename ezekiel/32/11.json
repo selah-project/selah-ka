@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 32:11",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 32,
+  "translation": "რადგან ასე თქვა ადონაი იაჰვემ: ბაველის მეფის მახვილი შეგესწრება.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ადონაი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "მახვილი"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფის"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ბაველი"
+    },
+    {
+      "surface": "תבואך",
+      "gloss": "შეგესწრება"
+    }
+  ],
+  "timestamp": "2026-09-06T08:52:35.069146117Z",
+  "model": "glm-5.3"
+}

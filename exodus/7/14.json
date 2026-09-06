@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "და თქვა იაჰვემ მოშეს: მძიმე ⟨არის⟩ ფარაოჰის გული, ის უარყოფს ხალხის გაშვებას.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვემ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშეს"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "მძიმე"
+    },
+    {
+      "surface": "לב",
+      "gloss": "გული"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ფარაოჰის"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "უარყოფს"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "გაშვებას"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ხალხის"
+    }
+  ],
+  "timestamp": "2026-09-06T04:13:29.722036659Z",
+  "model": "glm-5.3"
+}

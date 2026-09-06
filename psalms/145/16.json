@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 145,
+  "translation": "ხსნი შენ ⟨את⟩ ხელს შენს, და განაძღობ ყველა ცოცხალს სურვილით.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "ხსნი"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ხელი"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "შენი ხელი"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "და განაძღობ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ყველა...-ს"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ცოცხალი"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "სურვილი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:14:37.239846427Z",
+  "model": "glm-5.3"
+}

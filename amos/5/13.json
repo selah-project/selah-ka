@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 5:13",
+  "book": "amos",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "ამიტომ იმ დროს დაადუმებს გონიერი ⟨ესკურსი⟩, რადგან ის ბოროტი დრო ⟨არის⟩.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ამიტომ"
+    },
+    {
+      "surface": "המשכיל",
+      "gloss": "გონიერი"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "დროს"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "იმ"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "დადუმდება"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "עת",
+      "gloss": "დრო"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ბოროტი"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ის"
+    }
+  ],
+  "timestamp": "2026-09-06T09:14:41.536550589Z",
+  "model": "glm-5.3"
+}

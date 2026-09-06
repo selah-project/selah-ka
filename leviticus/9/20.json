@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "და დაადეს ⟨את⟩ ქონები მკერდებზე, და ააკმია ქონები სამსხვერპლოსკენ.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "დაადეს"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ქონები"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "ქონები"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "მკერდები"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ააკმია"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "ქონები"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "სამსხვერპლოსკენ"
+    }
+  ],
+  "timestamp": "2026-09-06T04:40:17.351146102Z",
+  "model": "glm-5.3"
+}

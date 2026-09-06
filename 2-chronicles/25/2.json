@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 25:2",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "და აკეთებდა სწორს იაჰვეს თვალებში, ოღონს არა მთელი გულით.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "და აკეთებდა"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "სწორი"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "თვალებში"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ოღონს"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "בלבב",
+      "gloss": "გულში"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "მთელი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:54:57.518841898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 16:23",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 16,
+  "translation": "უმღეროდეთ იაჰვეს, მთელო მიწავ; აუწყეთ დღიდან დღემდე მისი ხსნა.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "უმღეროდეთ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "כל",
+      "gloss": "მთელო"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწავ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "აუწყეთ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "დღიდან"
+    },
+    {
+      "surface": "אל",
+      "gloss": "დღემდე"
+    },
+    {
+      "surface": "יום",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "მისი ხსნა"
+    }
+  ],
+  "timestamp": "2026-09-06T11:32:36.490691682Z",
+  "model": "glm-5.3"
+}

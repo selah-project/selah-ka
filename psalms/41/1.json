@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 41,
+  "translation": "საგულისხმოდ მგალობელს, ფსალმუნი დავითისა.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "საგულისხმოდ მგალობელს"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ფსალმუნი"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "დავითისა"
+    }
+  ],
+  "timestamp": "2026-09-06T09:43:16.112920064Z",
+  "model": "glm-5.3"
+}

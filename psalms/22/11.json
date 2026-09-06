@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "შენზე მოვიგდე საშოდან, დედაჩემის მუცლიდან ჩემო ელი ⟨არის⟩ შენ.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "შენზე"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "მოვიგდე"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "საშოდან"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "მუცლიდან"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "დედაჩემის"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემო ელი"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    }
+  ],
+  "timestamp": "2026-09-06T16:22:03.071242264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "მე შეგიცანი უდაბნოში, ქვეყანასა შინა გვალვისასა.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "შეგიცანი"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "უდაბნოში"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ქვეყანაში"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "გვალვა"
+    }
+  ],
+  "timestamp": "2026-09-06T09:08:11.899504323Z",
+  "model": "glm-5.3"
+}

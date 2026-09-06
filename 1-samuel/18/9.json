@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "და იყო შაული მჭვრეტელი ⟨את⟩ დავიდისა იმ დღიდან და შემდეგ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "და იყო"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "შაული"
+    },
+    {
+      "surface": "עון",
+      "gloss": "თვალი"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "დავიდი"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "დავიდი"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "იმ დღიდან"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "და შემდეგ"
+    }
+  ],
+  "timestamp": "2026-09-06T06:24:44.081300236Z",
+  "model": "glm-5.3"
+}

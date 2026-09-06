@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 30:22",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "მონა, როცა მეფობს, და ნავალი, როცა პურით ინაყოფება.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "ქვეშ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "მონა"
+    },
+    {
+      "surface": "כי",
+      "gloss": "როცა"
+    },
+    {
+      "surface": "ימלוך",
+      "gloss": "მეფობს"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "და ნავალი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "როცა"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "ინაყოფება"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "პური"
+    }
+  ],
+  "timestamp": "2026-09-06T14:29:24.248146890Z",
+  "model": "glm-5.3"
+}

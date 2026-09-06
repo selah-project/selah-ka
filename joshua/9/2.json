@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 9:2",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "შეიკრიბნენ ერთად იეჰოშუასთან და იშრაელთან საომრად — ერთი პირით.",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "შეიკრიბნენ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ერთად"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "საომრად"
+    },
+    {
+      "surface": "עם",
+      "gloss": "–თან"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "იეჰოშუა"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "და –თან"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელ"
+    },
+    {
+      "surface": "פה",
+      "gloss": "პირი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:49:42.757190256Z",
+  "model": "glm-5.3"
+}

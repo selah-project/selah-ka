@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 17:26",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 17,
+  "translation": "ასევე დასჯა მართლისთვის — არა ⟨არის⟩ კეთილი, დაწყევლა დიდებულთა — სიმართლის გამო.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ასევე"
+    },
+    {
+      "surface": "ענוש",
+      "gloss": "დასჯა"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "მართლს"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "კეთილი"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "დასაცემად"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "დიდებულთა"
+    },
+    {
+      "surface": "על",
+      "gloss": "გამო"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "სიმართლე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:22:36.916604786Z",
+  "model": "glm-5.3"
+}

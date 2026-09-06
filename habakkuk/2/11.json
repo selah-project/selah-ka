@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "რადგან ქვა კედლიდან იყვირებს, და კოჭი ხისგან უპასუხებს ⟨მას⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ქვა"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "კედლიდან"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "იყვირებს"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "და კოჭი"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "ხისგან"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "უპასუხებს მას"
+    }
+  ],
+  "timestamp": "2026-09-06T13:46:46.770197156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 24:8",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "ხარიმისთვის — მესამე, სეორიმისთვის — მეოთხე.",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "ხარიმისთვის"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "მესამე"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "სეორიმისთვის"
+    },
+    {
+      "surface": "הרבעי",
+      "gloss": "მეოთხე"
+    }
+  ],
+  "timestamp": "2026-09-06T11:37:55.152639873Z",
+  "model": "glm-5.3"
+}

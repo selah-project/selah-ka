@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 48,
+  "translation": "და იხილა იშრაელმა ⟨את⟩ იოსეფის ვაჟები და თქვა: ვინ ⟨არიან⟩ ესენი?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "და იხილა"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელმა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იოსეფის ვაჟები"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ვაჟები"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "იოსეფის"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ესენი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:08:47.683904995Z",
+  "model": "glm-5.3"
+}

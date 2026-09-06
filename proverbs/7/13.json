@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 7:13",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "დაიჭირა მას, და დაამბორა მას; განიმტკიცა ⟨მისი⟩ სახე და უთხრა მას:",
+  "tokens": [
+    {
+      "surface": "והחזיקה",
+      "gloss": "დაიჭირა"
+    },
+    {
+      "surface": "בו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "ונשקה",
+      "gloss": "დაამბორა"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "העזה",
+      "gloss": "განიმტკიცა"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "სახე მისი"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    }
+  ],
+  "timestamp": "2026-09-06T10:18:25.098776815Z",
+  "model": "glm-5.3"
+}

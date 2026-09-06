@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 27:8",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 27,
+  "translation": "ოცდახუთი წლის იყო თავის მეფობაში და თექვსმეტი წელი მეფობდა იერუშალაიმში.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ოცი"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "და ხუთი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელიწადი"
+    },
+    {
+      "surface": "היה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "თავის მეფობაში"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "და ექვსი"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ათი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელი"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფობდა"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "იერუშალაიმში"
+    }
+  ],
+  "timestamp": "2026-09-06T11:53:44.096251935Z",
+  "model": "glm-5.3"
+}

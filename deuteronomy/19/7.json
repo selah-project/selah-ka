@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 19:7",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "ამიტომ მე გიბრძანებ შენ, ვთქვა: სამ ქალაქს გამოარჩევ შენთვის.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "მიზეზით"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ამიტომ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "გიბრძანებ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ვთქვა"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "სამ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ქალაქი"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "გამოარჩევ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენთვის"
+    }
+  ],
+  "timestamp": "2026-09-06T12:34:04.322825519Z",
+  "model": "glm-5.3"
+}

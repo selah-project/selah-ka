@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 15:39",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "ლაქიში და ბოცყათი და ეგლონი,",
+  "tokens": [
+    {
+      "surface": "לכיש",
+      "gloss": "ლაქიში"
+    },
+    {
+      "surface": "ובצקת",
+      "gloss": "და ბოცყათი"
+    },
+    {
+      "surface": "ועגלון",
+      "gloss": "და ეგლონი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:53:42.953149753Z",
+  "model": "glm-5.3"
+}

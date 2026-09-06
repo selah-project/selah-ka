@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 7:3",
+  "book": "amos",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "შეიბოდა იაჰვე ამაზე: არ იქნება, — თქვა იაჰვემ.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "შეიბოდა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "על",
+      "gloss": "ამაზე"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "იქნება"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T09:14:35.265064898Z",
+  "model": "glm-5.3"
+}

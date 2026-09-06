@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 33,
+  "translation": "იყოს შენი ხესედი (წყალობა), იაჰვე, ჩვენზე, როგორც შენ შეველოდეთ.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "იყოს"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ხესედი შენი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ჩვენზე"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "როგორც"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "შეველოდეთ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენ"
+    }
+  ],
+  "timestamp": "2026-09-06T09:40:01.698371529Z",
+  "model": "glm-5.3"
+}

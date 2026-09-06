@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "nehemiah 7:44",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "მგალობლები: ასაფის ძენი — ასი ორმოცდარვა.",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "მგალობლები"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ასაფი"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ორმოცი"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "და რვა"
+    }
+  ],
+  "timestamp": "2026-09-06T11:21:36.564051360Z",
+  "model": "glm-5.3"
+}

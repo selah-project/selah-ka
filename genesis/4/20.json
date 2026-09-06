@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და შვა ადაჰმა ⟨את⟩ იავალი; ის იყო მამა კარავში მცხოვრებთა და მესაქონლეთა.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "ადაჰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იავალი"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "იავალი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "היה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "მამა"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "მცხოვრები"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "კარავი"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "და საქონელი"
+    }
+  ],
+  "timestamp": "2026-09-06T03:42:23.914303338Z",
+  "model": "glm-5.3"
+}

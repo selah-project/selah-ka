@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 30:2",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "რადგან უგუნურესი ვარ მე ყველა კაცზე და ადამიანის გონება არ მაქვს.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "בער",
+      "gloss": "უგუნურესი"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "კაცზე"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "בינת",
+      "gloss": "გონება"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ადამიანის"
+    },
+    {
+      "surface": "לי",
+      "gloss": "მაქვს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:28:48.831658121Z",
+  "model": "glm-5.3"
+}

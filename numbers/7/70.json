@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "numbers 7:70",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "მამალი თხა ერთი ცოდვის შესაწირად.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "მამალი თხა"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "თხა"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ცოდვის შესაწირად"
+    }
+  ],
+  "timestamp": "2026-09-06T05:04:08.686494776Z",
+  "model": "glm-5.3"
+}

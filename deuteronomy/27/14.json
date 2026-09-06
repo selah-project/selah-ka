@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 27:14",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 27,
+  "translation": "და უპასუხებენ ლევიელები და იტყვიან ყოველ კაცს იშრაელისას ხმამაღლად:",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "და უპასუხებენ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ლევიელები"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "და იტყვიან"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყოველ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ხმა"
+    },
+    {
+      "surface": "רם",
+      "gloss": "მაღალი"
+    }
+  ],
+  "timestamp": "2026-09-06T15:43:20.341507185Z",
+  "model": "glm-5.3"
+}

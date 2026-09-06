@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 16:22",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 16,
+  "translation": "და არ აღმართავ შენთვის მაცევას, რომელიც სძულს იაჰვეს, შენს ელოჰიმს.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "და არა"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "აღმართებს"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენთვის"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "მაცევა"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "სძულს"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "შენი ელოჰიმი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:33:06.494262832Z",
+  "model": "glm-5.3"
+}

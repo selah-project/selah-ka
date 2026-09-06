@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 18:25",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "გიბონი, რამაჰი და ბეეროთი.",
+  "tokens": [
+    {
+      "surface": "גבעון",
+      "gloss": "გიბონი"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "და რამაჰი"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "და ბეეროთი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:54:54.395661292Z",
+  "model": "glm-5.3"
+}

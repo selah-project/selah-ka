@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 20:18",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 20,
+  "translation": "და თქვა ედომმა მას: არ გაივლი ჩემზე, თორემ მახვილით გამოვალ შენს შესახვედრად.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ედომმა"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "გაივლი"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ჩემზე"
+    },
+    {
+      "surface": "פן",
+      "gloss": "თორემ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "მახვილით"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "გამოვალ"
+    },
+    {
+      "surface": "לקראתך",
+      "gloss": "შენს შესახვედრად"
+    }
+  ],
+  "timestamp": "2026-09-06T12:28:48.383523202Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 29:11",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 29,
+  "translation": "არ გაივლის მასში ადამის ფეხი და პირუტყვის ფეხი არ გაივლის მასში, და არ დასახლდება ორმოცი წელი.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "გაივლის"
+    },
+    {
+      "surface": "בה",
+      "gloss": "მასში"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ფეხი"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ადამის"
+    },
+    {
+      "surface": "ורגל",
+      "gloss": "და ფეხი"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "პირუტყვის"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "გაივლის"
+    },
+    {
+      "surface": "בה",
+      "gloss": "მასში"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "დასახლდება"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ორმოცი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელი"
+    }
+  ],
+  "timestamp": "2026-09-06T08:51:44.112169119Z",
+  "model": "glm-5.3"
+}

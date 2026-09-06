@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "წავიდა ერთი კაცი ლევის სახლიდან და მოიყვანა ⟨את⟩ ლევის ასულს.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "წავიდა"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "სახლიდან"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ლევი"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "მოიყვანა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ლევის ასულს"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ასული"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ლევი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:09:42.409871675Z",
+  "model": "glm-5.3"
+}

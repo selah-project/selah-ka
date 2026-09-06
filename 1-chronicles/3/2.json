@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 3:2",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "მესამე ავშალომი (აბშალომი) — მაახას ძე, თალმაის, გეშურის მეფის, ასული; მეოთხე ადონიია — ხაგითის ძე.",
+  "tokens": [
+    {
+      "surface": "השלשי",
+      "gloss": "მესამე"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "ავშალომი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "მაახა"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ასული"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "თალმაი"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "გეშური"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "მეოთხე"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "ადონიია"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "ხაგითი"
+    }
+  ],
+  "timestamp": "2026-09-06T15:05:24.048181527Z",
+  "model": "glm-5.3"
+}

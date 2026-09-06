@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 20:1",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 20,
+  "translation": "და თქვა იაჰვემ იეჰოშუას სიტყვად:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "თან"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "იეჰოშუა"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სიტყვად"
+    }
+  ],
+  "timestamp": "2026-09-06T05:56:34.174336186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 109,
+  "translation": "დანიშნე მასზე ბოროტკაცი, და შატანი დაუდგეს მის მარჯვენეს.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "დანიშნე"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "მასზე"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ბოროტკაცი"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "და შატანი"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "დაუდგეს"
+    },
+    {
+      "surface": "על",
+      "gloss": "მის"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "მარჯვენეს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:05:07.886881707Z",
+  "model": "glm-5.3"
+}

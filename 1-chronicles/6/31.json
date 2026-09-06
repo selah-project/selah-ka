@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 6:31",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "ყამცის ძე, ბანის ძე, შემერის ძე.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "אמצי",
+      "gloss": "ყამცი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ბანი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "შემერი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:29:01.381881636Z",
+  "model": "glm-5.3"
+}

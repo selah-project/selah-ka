@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 13:41",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "და თუ სახის მხრიდან მოგლიჯავს მის თავს ⟨თმას⟩, შუბლშეშლილია ის; სუფთაა ის.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "და თუ"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "მხრიდან"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "მის სახის"
+    },
+    {
+      "surface": "ימרט",
+      "gloss": "მოგლიჯავს"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "მის თავი"
+    },
+    {
+      "surface": "גבח",
+      "gloss": "შუბლშეშლილი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "სუფთა"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    }
+  ],
+  "timestamp": "2026-09-06T19:28:02.303650499Z",
+  "model": "glm-5.3"
+}

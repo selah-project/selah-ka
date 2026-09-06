@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 8:1",
+  "book": "amos",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "ასე მაჩვენა ადონაი იაჰვემ და აჰა კალათი ზაფხულის.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "მაჩვენა"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ადონაი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "და აჰა"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "კალათი"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "ზაფხულის"
+    }
+  ],
+  "timestamp": "2026-09-06T09:13:23.627221847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 10:4",
+  "book": "daniel",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "და პირველი თვის ოცდაოთხე დღეს მე ვიყავი დიდი მდინარის პირას — ის ⟨არის⟩ ხიდეკელი.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "და დღეს"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ოცი"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "და ოთხი"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "თვეს"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "პირველი"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "და მე"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ვიყავი"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "יד",
+      "gloss": "პირას"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "მდინარე"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "დიდი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "חדקל",
+      "gloss": "ხიდეკელი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:11:49.956113135Z",
+  "model": "glm-5.3"
+}

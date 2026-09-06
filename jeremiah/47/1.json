@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 47:1",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 47,
+  "translation": "რომ იყო სიტყვა იაჰვესი ირმიაჰუ ნავის მიმართ, პელიშთიმის მიმართ, სანამ არ დაჰკრა ფაროჰმა ⟨את⟩ აზას.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ირმიაჰუ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ნავი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "პელიშთიმი"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "სანამ არ"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "დაჰკრა"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ფაროჰი"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "აზას"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "აზა"
+    }
+  ],
+  "timestamp": "2026-09-06T18:24:04.713816345Z",
+  "model": "glm-5.3"
+}

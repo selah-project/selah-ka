@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 14:11",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "ბოროტთა სახლი დაინგრევა, და წრფელთა კარავი აყვავდება.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "სახლი"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ბოროტი"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "ინგრევა"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "და კარავი"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "წრფელი"
+    },
+    {
+      "surface": "יפריח",
+      "gloss": "აყვავდება"
+    }
+  ],
+  "timestamp": "2026-09-06T10:19:44.648411037Z",
+  "model": "glm-5.3"
+}

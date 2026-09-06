@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 42,
+  "translation": "იხილე მრავალი, მაგრამ არ დაიცავ; გახსნილი აქვს ყურები, მაგრამ არ ისმენს.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "იხილე"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "მრავალი"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "დაიცავ"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "გახსნა"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "ყურების"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ისმენს"
+    }
+  ],
+  "timestamp": "2026-09-06T07:48:22.910857743Z",
+  "model": "glm-5.3"
+}

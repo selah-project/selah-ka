@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 26:28",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "და შუა ღერძი დაფების შუაში გამავალი ⟨იქნება⟩ — ბოლოდან ბოლომდე.",
+  "tokens": [
+    {
+      "surface": "והבריח",
+      "gloss": "ღერძი"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "შუა"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "შუაში"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "დაფების"
+    },
+    {
+      "surface": "מברח",
+      "gloss": "გამავალი"
+    },
+    {
+      "surface": "מן",
+      "gloss": "–დან"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "ბოლო"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–მდე"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "ბოლო"
+    }
+  ],
+  "timestamp": "2026-09-06T04:25:37.993686860Z",
+  "model": "glm-5.3"
+}

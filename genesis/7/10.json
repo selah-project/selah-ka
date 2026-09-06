@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "და მოხდა შვიდი დღის შემდეგ: მაბულის წყლები მოვიდნენ მიწაზე.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "მოხდა"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "შვიდის"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "და წყლები"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "მაბული"
+    },
+    {
+      "surface": "היו",
+      "gloss": "იყვნენ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    }
+  ],
+  "timestamp": "2026-09-06T03:43:01.298422192Z",
+  "model": "glm-5.3"
+}

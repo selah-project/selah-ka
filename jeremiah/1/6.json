@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 1:6",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და ვთქვი: ვაჰ, ადონაი იაჰვე! აჰა, არ ვიცი საუბრად, რადგან ჭაბუკი ვარ მე.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "და ვთქვი"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "ვაჰ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ადონაი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ვიცი"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "საუბრად"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ჭაბუკი"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "მე"
+    }
+  ],
+  "timestamp": "2026-09-06T07:59:22.419567065Z",
+  "model": "glm-5.3"
+}

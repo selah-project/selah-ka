@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 26:7",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "დაუძლურდება ფეხნი ნაბაჯალისა, და მაშალი ⟨არის⟩ სულელების პირში.",
+  "tokens": [
+    {
+      "surface": "דליו",
+      "gloss": "დაუძლურდება"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "ფეხნი"
+    },
+    {
+      "surface": "מפסח",
+      "gloss": "ნაბაჯალისა"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "და მაშალი"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "პირში"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "სულელების"
+    }
+  ],
+  "timestamp": "2026-09-06T10:26:47.778515062Z",
+  "model": "glm-5.3"
+}

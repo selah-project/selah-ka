@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 8:22",
+  "book": "2-kings",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და ამბოხდა ედომი იუდას ხელის ქვეით ამ დღემდე; მაშინ ამბოხდა ლიბნა იმ დროს.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "და ამბოხდა"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ედომი"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ქვეით"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ხელის"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "იუდას"
+    },
+    {
+      "surface": "עד",
+      "gloss": "მდე"
+    },
+    {
+      "surface": "היום",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "אז",
+      "gloss": "მაშინ"
+    },
+    {
+      "surface": "תפשע",
+      "gloss": "ამბოხდა"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ლიბნა"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "დროს"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "იმ"
+    }
+  ],
+  "timestamp": "2026-09-06T07:15:48.348161250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 27,
+  "translation": "და დაწერ ქვებზე ⟨את⟩ ყველა სიტყვა ამ თორასი — განმარტებულად კარგად.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "და დაწერ"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ქვები"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ყველა სიტყვა"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "თორა"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "באר",
+      "gloss": "განმარტებულად"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "კარგად"
+    }
+  ],
+  "timestamp": "2026-09-06T05:39:04.277230743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 28,
+  "translation": "და პირველ თვეს, თვის თოთხმეტე დღეს, ფესახი იაჰვესი.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "და თვეს"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "პირველ"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ოთხ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ათი"
+    },
+    {
+      "surface": "יום",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "თვის"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ფესახი"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "იაჰვესი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:17:05.529739262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 112,
+  "translation": "ძლიერი ⟨იქნება⟩ მიწაზე მისი თესლი; წრფელთა თაობა იკურთხება.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "ძლიერი"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "მიწაზე"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "იქნება"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "მისი თესლი"
+    },
+    {
+      "surface": "דור",
+      "gloss": "თაობა"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "წრფელთა"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "იკურთხება"
+    }
+  ],
+  "timestamp": "2026-09-06T10:05:09.799498485Z",
+  "model": "glm-5.3"
+}

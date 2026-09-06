@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 105:39",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 105,
+  "translation": "გაშალა ღრუბელი საფარად და ცეცხლი ღამის გასანათად.",
+  "tokens": [
+    {
+      "surface": "פרש",
+      "gloss": "გაშალა"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ღრუბელი"
+    },
+    {
+      "surface": "למסך",
+      "gloss": "საფარად"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "და ცეცხლი"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "გასანათად"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ღამე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:02:56.983664110Z",
+  "model": "glm-5.3"
+}

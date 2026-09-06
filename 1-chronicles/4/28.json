@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 4:28",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და დასახლდნენ ბეერ-შევაში, და მოლადაში, და ხაცარ-შუალში.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "და დასახლდნენ"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "ბეერ-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "შევა"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "და მოლადა"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "და ხაცარ-"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "შუალ"
+    }
+  ],
+  "timestamp": "2026-09-06T15:05:39.093739706Z",
+  "model": "glm-5.3"
+}

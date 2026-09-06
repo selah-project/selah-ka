@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 16,
+  "translation": "და დადიოდნენ ხალხიდან ხალხს, და სამეფოდან — სხვა ერთობას.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "და დადიოდნენ"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "ხალხიდან"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ხალხს"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "და სამეფოდან"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ერთობას"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ეროვნება"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "სხვა"
+    }
+  ],
+  "timestamp": "2026-09-06T11:33:25.809921703Z",
+  "model": "glm-5.3"
+}

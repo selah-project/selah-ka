@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 21:11",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "და იეჰუდას მეფის სახლო — ისმინეთ იაჰვეს სიტყვა.",
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "და სახლო"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფის"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "იეჰუდას"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ისმინეთ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    }
+  ],
+  "timestamp": "2026-09-06T08:10:44.954776485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 16:23",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 16,
+  "translation": "და ელაპარაკა იაჰვე მოშეს (მოსე), ასე რომ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "და ელაპარაკა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ასე რომ"
+    }
+  ],
+  "timestamp": "2026-09-06T05:09:08.973575490Z",
+  "model": "glm-5.3"
+}

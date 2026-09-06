@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 13:1",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "და ეტყვის იაჰვე მოშეს (მოსე) და აჰარონს (აარონ), სათქვად:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "და ეტყვის"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და მიმართ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "აჰარონი"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქვად"
+    }
+  ],
+  "timestamp": "2026-09-06T12:21:01.504312941Z",
+  "model": "glm-5.3"
+}

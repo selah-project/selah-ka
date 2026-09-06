@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 40:1",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 40,
+  "translation": "და თქვა იაჰვემ მოშეს (მოსე), სათქვად:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "სათქვად"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქვად"
+    }
+  ],
+  "timestamp": "2026-09-06T12:18:04.677496454Z",
+  "model": "glm-5.3"
+}

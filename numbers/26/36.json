@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 26:36",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "და ესენი არიან შუთელახის ძენი: ერანიდან — ერანელთა გვარი.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "და ესენი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "שותלח",
+      "gloss": "შუთელახი"
+    },
+    {
+      "surface": "לערן",
+      "gloss": "ერანიდან"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "გვარი"
+    },
+    {
+      "surface": "הערני",
+      "gloss": "ერანელნი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:27:34.033005865Z",
+  "model": "glm-5.3"
+}

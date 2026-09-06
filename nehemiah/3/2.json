@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 3:2",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "და მის გვერდით ააშენეს კაცებმა იერიხოსთა, და მათ გვერდით ააშენა ზაქურმა, იმრის ძემ.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "და გვერდით"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "მისი ხელი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ააშენეს"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "კაცები"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "იერიხო"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "და გვერდით"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "მათი ხელი"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ააშენა"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "ზაქური"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "იმრი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:20:45.885406602Z",
+  "model": "glm-5.3"
+}

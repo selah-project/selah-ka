@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 7:15",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ხარი ერთი, საქონლის ძე; ვერძი ერთი; ბატკანი ერთი, წლის ძე, საწვავად.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ხარი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "საქონელი"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ვერძი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ბატკანი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "მისი წელიწადი"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "საწვავად"
+    }
+  ],
+  "timestamp": "2026-09-06T05:01:30.585925583Z",
+  "model": "glm-5.3"
+}

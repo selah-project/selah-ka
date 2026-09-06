@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 67,
+  "translation": "დაგვლოცოს ელოჰიმმა, და ეშინოდეს ⟨את⟩-მას [„მას“] მიწის ყველა კიდემ.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "დაგვლოცოს"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "და ეშინოდეს"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "მას"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "კიდე"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "მიწა"
+    }
+  ],
+  "timestamp": "2026-09-06T19:37:53.051372770Z",
+  "model": "glm-5.3"
+}

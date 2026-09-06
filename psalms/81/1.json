@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 81,
+  "translation": "გუნდის მწარმოებელს, გითითის თანხლებით, ასაფს.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "გუნდის მწარმოებელს"
+    },
+    {
+      "surface": "על",
+      "gloss": "თანხლებით"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "გითითი"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ასაფს"
+    }
+  ],
+  "timestamp": "2026-09-06T09:55:50.719213399Z",
+  "model": "glm-5.3"
+}

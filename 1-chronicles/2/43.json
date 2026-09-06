@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 2:43",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "ხებრონის ძენი ⟨იყვნენ⟩ ყორახი, თაფუახი და რეყემი და შემაა.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ხებრონის"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ყორახი"
+    },
+    {
+      "surface": "ותפח",
+      "gloss": "თაფუახი"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "რეყემი"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "შემაა"
+    }
+  ],
+  "timestamp": "2026-09-06T15:03:41.406000413Z",
+  "model": "glm-5.3"
+}

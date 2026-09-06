@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 87,
+  "translation": "იაჰვე დაითვლის, როცა აღწერს ხალხებს: ეს იქ დაიბადა. სელა.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "დაითვლის"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "აღწერაში"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ხალხები"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "დაიბადა"
+    },
+    {
+      "surface": "שם",
+      "gloss": "იქ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "სელა"
+    }
+  ],
+  "timestamp": "2026-09-06T09:57:24.465290032Z",
+  "model": "glm-5.3"
+}

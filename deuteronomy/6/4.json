@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "ისმინე, იშრაელო: იაჰვე, ჩვენი ელოჰიმი, იაჰვე ⟨არის⟩ ერთი.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ისმინე"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ჩვენი ელოჰიმი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:26:35.314962076Z",
+  "model": "glm-5.3"
+}

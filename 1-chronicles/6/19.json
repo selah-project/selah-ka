@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 6:19",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "ელკანაჰის ძე, იეროხამის ძე, ელიელის ძე, თოახის ძე.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ელკანაჰი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "იეროხამი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "ელიელი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "תוח",
+      "gloss": "თოახი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:29:03.124975622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "მწირი და დაქირავებული არ ჭამს ⟨მასში⟩.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "მწირი"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "და დაქირავებული"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ჭამს"
+    },
+    {
+      "surface": "בו",
+      "gloss": "მასში"
+    }
+  ],
+  "timestamp": "2026-09-06T04:16:39.543713864Z",
+  "model": "glm-5.3"
+}

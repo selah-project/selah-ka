@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 7:51",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ერთი ხარი, საქონლის შვილი, ერთი ვერძი, ერთი წლის ბატკანი — სრულადდასაწველად.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ხარი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "შვილი"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "საქონელი"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ვერძი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ბატკანი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "შვილი"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "წელი"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "სრულადდასაწველად"
+    }
+  ],
+  "timestamp": "2026-09-06T05:03:01.335096310Z",
+  "model": "glm-5.3"
+}

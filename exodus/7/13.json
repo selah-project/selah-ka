@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 7:13",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "გაძლიერდა ფარაოჰის გული და არ ისმინა მათი, როგორც თქვა იაჰვემ.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "გაძლიერდა"
+    },
+    {
+      "surface": "לב",
+      "gloss": "გული"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ფარაოჰის"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ისმინა"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "მათი"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "როგორც"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვემ"
+    }
+  ],
+  "timestamp": "2026-09-06T04:13:29.721778366Z",
+  "model": "glm-5.3"
+}

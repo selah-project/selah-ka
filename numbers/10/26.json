@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 10:26",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "და აშერის შვილთა ტომის ლაშქარზე ⟨იყო⟩ ფაგიელი ძე ოქრანისი.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "და...ზე"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ლაშქარი"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ტომი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "აშერი"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "ფაგიელი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "ოქრანი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:26:15.585551120Z",
+  "model": "glm-5.3"
+}

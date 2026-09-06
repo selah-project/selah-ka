@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 89,
+  "translation": "არ შევბილწავ ჩემს ბრითს და ჩემი ბაგიდან გამომსულს არ შევცვლი.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "შევბილწავ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ჩემი ბრითი"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "და გამოსული"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ჩემი ბაგიდან"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "შევცვლი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:57:52.416799948Z",
+  "model": "glm-5.3"
+}

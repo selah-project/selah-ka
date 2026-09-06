@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "და მისცა აბრაჰამმა ⟨את⟩ ყველაფერი, რაც მას ჰქონდა, იცხაკს.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "მისცა"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "აბრაჰამი"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ყველაფერი, რაც მას ჰქონდა"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველაფერი"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რაც"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "იცხაკს"
+    }
+  ],
+  "timestamp": "2026-09-06T03:53:03.559075657Z",
+  "model": "glm-5.3"
+}

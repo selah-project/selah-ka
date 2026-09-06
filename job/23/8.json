@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 23:8",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "აჰა, წინ წავალ — ის ⟨არ არის⟩; და უკან — და არა გავიგებ მას.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "წინ"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "წავალ"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ის ⟨არ არის⟩"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "და უკან"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არა"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "გავიგებ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    }
+  ],
+  "timestamp": "2026-09-06T14:36:59.034794261Z",
+  "model": "glm-5.3"
+}

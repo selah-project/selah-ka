@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 12:11",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "იარმუთის მეფე, ერთი; ლახიშის მეფე, ერთი;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "იარმუთი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "ლახიში"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:51:12.912597069Z",
+  "model": "glm-5.3"
+}

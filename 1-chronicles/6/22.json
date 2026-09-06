@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 6:22",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "ძე თახათისი, ძე ასირისი, ძე ევიასაფისი, ძე კორახისი.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "თახათი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ასირი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "אביסף",
+      "gloss": "ევიასაფი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "კორახი"
+    }
+  ],
+  "timestamp": "2026-09-06T15:06:47.750803454Z",
+  "model": "glm-5.3"
+}

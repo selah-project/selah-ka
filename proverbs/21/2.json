@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 21:2",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "ყოველი გზა კაცისა სწორი ⟨ჩანს⟩ მის თვალებში, და გულთა გამომზომელი ⟨არის⟩ იაჰვე.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ყოველი"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "გზა"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "სწორი"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "მის თვალებში"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "და იწონის"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "გულები"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:24:16.646140265Z",
+  "model": "glm-5.3"
+}

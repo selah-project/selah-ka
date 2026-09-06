@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 18:13",
+  "book": "judges",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "გადავიდნენ იქიდან ეფრაიმის მთაში და მივიდნენ მიკას სახლამდე.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "გადავიდნენ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "იქიდან"
+    },
+    {
+      "surface": "הר",
+      "gloss": "მთა"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ეფრაიმის"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "მივიდნენ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "მდე"
+    },
+    {
+      "surface": "בית",
+      "gloss": "სახლი"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "მიკას"
+    }
+  ],
+  "timestamp": "2026-09-06T06:12:26.775710469Z",
+  "model": "glm-5.3"
+}

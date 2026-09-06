@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 6:30",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "ხაშაბიაჰის ძე, ყამაციაჰის ძე, ხილკიაჰის ძე.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ხაშაბიაჰი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "ყამაციაჰი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "ხილკიაჰი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:29:01.381779030Z",
+  "model": "glm-5.3"
+}

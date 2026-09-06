@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 36:32",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 36,
+  "translation": "და იმეფა ედომში ბელამ, ბეორის ძემ; და მისი ქალაქის სახელი ⟨იყო⟩ დინჰავა.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "და იმეფა"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "ედომში"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "ბელა"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "ბეორი"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "და სახელი"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "მისი ქალაქის"
+    },
+    {
+      "surface": "דנהבה",
+      "gloss": "დინჰავა"
+    }
+  ],
+  "timestamp": "2026-09-06T12:06:55.259170525Z",
+  "model": "glm-5.3"
+}

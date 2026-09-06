@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "⟨את⟩ მე მიმართავდა და გაატარა სიბნელეში, და არა ნათელში.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "მე"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "მიმართავდა"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "და გაატარა"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "სიბნელე"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არა"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ნათელი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:52:56.539800336Z",
+  "model": "glm-5.3"
+}

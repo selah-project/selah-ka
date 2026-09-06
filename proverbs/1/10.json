@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "ჩემო ძეო, თუ შეგაცდიებენ ცოდვილები — არ ისურვო.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ჩემო ძეო"
+    },
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "შეგაცდიებენ"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ცოდვილები"
+    },
+    {
+      "surface": "אל",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ისურვო"
+    }
+  ],
+  "timestamp": "2026-09-06T10:14:49.863810023Z",
+  "model": "glm-5.3"
+}

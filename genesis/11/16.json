@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "იცოცხლა ევერმა ოთხი და ცამოცდა სამი წელი და შვა ⟨את⟩ ფელეგი.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "იცოცხლა"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ევერი"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ოთხი"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "და ცამოცდა სამი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელი"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ფელეგი"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "ფელეგი"
+    }
+  ],
+  "timestamp": "2026-09-06T20:31:06.022045949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "და არ უპასუხო შენს მოყვრუს მტყუარე მოწმობით.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "უპასუხო"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "შენს მოყვრუს"
+    },
+    {
+      "surface": "עד",
+      "gloss": "მოწმე"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "მტყუარე"
+    }
+  ],
+  "timestamp": "2026-09-06T05:24:37.252548156Z",
+  "model": "glm-5.3"
+}

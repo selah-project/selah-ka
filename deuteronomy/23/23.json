@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "ხოლო თუ თავს შეიკავებ აღთქმის მიცემისგან, არ იქნება შენში ცოდვა.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ხოლო თუ"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "თავს შეიკავებ"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "აღთქმის მიცემისგან"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "იქნება"
+    },
+    {
+      "surface": "בך",
+      "gloss": "შენში"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ცოდვა"
+    }
+  ],
+  "timestamp": "2026-09-06T05:38:04.325300442Z",
+  "model": "glm-5.3"
+}

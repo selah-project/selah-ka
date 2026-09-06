@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 46:8",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 46,
+  "translation": "გაიხსენეთ ეს და განმტკიცდით; დააბრუნეთ ⟨ეს⟩ გულში, ურჩნო.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "გაიხსენეთ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "והתאששו",
+      "gloss": "განმტკიცდით"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "დააბრუნეთ"
+    },
+    {
+      "surface": "פושעים",
+      "gloss": "ურჩნო"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "לב",
+      "gloss": "გული"
+    }
+  ],
+  "timestamp": "2026-09-06T07:50:57.474542309Z",
+  "model": "glm-5.3"
+}

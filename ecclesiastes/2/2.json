@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "სიცილზე ვთქვი: სიგიჟე ⟨არის⟩, და სიხარულზე: რას იზამს ის?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "სიცილზე"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ვთქვი"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "სიგიჟე"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "და სიხარულზე"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რას"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ის"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "იზამს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:56:49.249403908Z",
+  "model": "glm-5.3"
+}

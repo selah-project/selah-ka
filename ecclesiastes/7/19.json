@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "სიბრძნე აძლიერებს ბრძენს ათ მბრძანებელზე მეტად, რომლებიც იყვნენ ქალაქში.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "სიბრძნე"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "აძლიერებს"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ბრძენს"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "ათზე"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "მბრძანებლები"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომლებიც"
+    },
+    {
+      "surface": "היו",
+      "gloss": "იყვნენ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ქალაქში"
+    }
+  ],
+  "timestamp": "2026-09-06T10:58:27.018007902Z",
+  "model": "glm-5.3"
+}

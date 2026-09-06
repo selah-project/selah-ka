@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 144,
+  "translation": "იაჰვე, რა ⟨არის⟩ ადამი, რომ იცნობ მას; მოკვდავის ძე, რომ ითვლის მას?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ადამი"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "იცნობ მას"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "მოკვდავი"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "ითვლის მას"
+    }
+  ],
+  "timestamp": "2026-09-06T17:23:58.348055050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "ამაღლებული თვალები და განიერი გული — სანთელი ბოროტთა — ცოდვა ⟨არის⟩.",
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "ამაღლება"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "თვალები"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "და სიგანე"
+    },
+    {
+      "surface": "לב",
+      "gloss": "გული"
+    },
+    {
+      "surface": "נר",
+      "gloss": "სანთელი"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ბოროტები"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ცოდვა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:24:16.646390736Z",
+  "model": "glm-5.3"
+}

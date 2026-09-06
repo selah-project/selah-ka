@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 30:18",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "სამი — ისინი საკვირველია ჩემთვის, და ოთხი არ ვიცი მათ.",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "სამი"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ისინი"
+    },
+    {
+      "surface": "נפלאו",
+      "gloss": "საკვირველია"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ჩემთვის"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "და ოთხი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "ידעתים",
+      "gloss": "ვიცი მათ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:28:29.982079068Z",
+  "model": "glm-5.3"
+}

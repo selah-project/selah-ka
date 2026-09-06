@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "და აღასრულონ იშრაელის ძეებმა ⟨את⟩ ფესახი თავის დროულ დროს.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "და აღასრულონ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძეებმა"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელის"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ფესახი"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ფესახი"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "დროულ დროს"
+    }
+  ],
+  "timestamp": "2026-09-06T17:51:58.200066826Z",
+  "model": "glm-5.3"
+}

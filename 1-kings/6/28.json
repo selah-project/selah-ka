@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "და დააფარა ⟨את⟩ ქერუბები ოქროთი.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "და დააფარა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ქერუბები"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "ქერუბები"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ოქრო"
+    }
+  ],
+  "timestamp": "2026-09-06T06:56:32.435048663Z",
+  "model": "glm-5.3"
+}

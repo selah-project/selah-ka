@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 38:28",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 38,
+  "translation": "ჰყავს თუ არა წვემას მამა? ან ვინ გააჩინა ცვენის წვეთები?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "ჰყავს თუ არა"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "წვემას"
+    },
+    {
+      "surface": "אב",
+      "gloss": "მამა"
+    },
+    {
+      "surface": "או",
+      "gloss": "ან"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "გააჩინა"
+    },
+    {
+      "surface": "אגלי",
+      "gloss": "წვეთები"
+    },
+    {
+      "surface": "טל",
+      "gloss": "ცვენი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:46:09.135709352Z",
+  "model": "glm-5.3"
+}

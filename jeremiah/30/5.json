@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "რადგან ასე თქვა იაჰვემ: ძრწოლის ხმა გვესმა — შიში, და მშვიდობა არ ⟨არის⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ხმა"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "ძრწოლა"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "გვესმა"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "შიში"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "მშვიდობა"
+    }
+  ],
+  "timestamp": "2026-09-06T13:23:52.592537680Z",
+  "model": "glm-5.3"
+}

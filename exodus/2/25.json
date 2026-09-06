@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 2:25",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და იხილა ელოჰიმმა ⟨את⟩ იშრაელის ძენი, და იცოდა ელოჰიმმა.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "იხილა"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იშრაელის ძენი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "იცოდა"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ელოჰიმი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:08:59.571164238Z",
+  "model": "glm-5.3"
+}

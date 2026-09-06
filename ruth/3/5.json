@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 3:5",
+  "book": "ruth",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "და თქვა მას: ყველაფერს, რასაც იტყვი, გავაკეთებ.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "მას"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველაფერი"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რასაც"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "იტყვი"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "გავაკეთებ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:50:40.573587237Z",
+  "model": "glm-5.3"
+}

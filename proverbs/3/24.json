@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "თუ დაწვები, არ შეგეშინდება; დაწეხ და ტკბილი იქნება შენი ძილი.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "დაწვები"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "შეგეშინდება"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "დაწეხ"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "და ტკბილი იქნება"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "შენი ძილი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:15:42.729769203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 1:11",
+  "book": "song-of-songs",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "ოქროს რიგებს გავაკეთებთ შენთვის ვერცხლის ბურთულებთან ერთად.",
+  "tokens": [
+    {
+      "surface": "תורי",
+      "gloss": "რიგებს"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ოქროს"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "გავაკეთებთ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენთვის"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ერთად"
+    },
+    {
+      "surface": "נקדות",
+      "gloss": "ბურთულებ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ვერცხლის"
+    }
+  ],
+  "timestamp": "2026-09-06T10:47:20.055582894Z",
+  "model": "glm-5.3"
+}

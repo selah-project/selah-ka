@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 7:37",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ბეცერი და ჰოდი და შამა და შილშა და ითრანი და ბეერა.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "ბეცერი"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "და ჰოდი"
+    },
+    {
+      "surface": "ושמא",
+      "gloss": "და შამა"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "და შილშა"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "და ითრანი"
+    },
+    {
+      "surface": "ובארא",
+      "gloss": "და ბეერა"
+    }
+  ],
+  "timestamp": "2026-09-06T11:29:53.173199600Z",
+  "model": "glm-5.3"
+}

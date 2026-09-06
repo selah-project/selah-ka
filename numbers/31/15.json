@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 31:15",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 31,
+  "translation": "და უთხრა მათ მოშემ: ცოცხლად დაიტოვეთ ყველა მდედრი?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "უთხრა"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "მათ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "החייתם",
+      "gloss": "დაიტოვეთ ცოცხალი"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "მდედრი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:18:44.285923798Z",
+  "model": "glm-5.3"
+}

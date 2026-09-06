@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "არ მიუშვებდა ღრუბლის სვეტს დღისით, და ცეცხლის სვეტს ღამით, ხალხის წინ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "მიუშვებდა"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "სვეტი"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ღრუბლის"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "დღისით"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "და სვეტი"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ცეცხლის"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ღამით"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "წინ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ხალხი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:16:16.737579096Z",
+  "model": "glm-5.3"
+}

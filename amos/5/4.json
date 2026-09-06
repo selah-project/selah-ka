@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 5:4",
+  "book": "amos",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "რადგან ასე თქვა იაჰვემ იშრაელის სახლს: მომეძიეთ და იცოცხლეთ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "სახლს"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელს"
+    },
+    {
+      "surface": "דרשוני",
+      "gloss": "მე მომეძიეთ"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "და იცოცხლეთ"
+    }
+  ],
+  "timestamp": "2026-09-06T09:14:25.623844954Z",
+  "model": "glm-5.3"
+}

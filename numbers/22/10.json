@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 22:10",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "და თქვა ბილამმა (ბალაამმა) ელოჰიმს: ბალაკმა, ციპორის ძემ, მოაბის მეფემ, მიმართა ჩემდა",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ბილამი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ელოჰიმს"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ბალაკი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "ციპორი"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "მოაბი"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "მიმართა"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემდა"
+    }
+  ],
+  "timestamp": "2026-09-06T05:13:03.931135951Z",
+  "model": "glm-5.3"
+}

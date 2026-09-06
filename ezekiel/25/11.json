@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 25:11",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "და მოაბში გავატარებ სასჯელნი, და იცნობენ, რომ მე ვარ იაჰვე.",
+  "tokens": [
+    {
+      "surface": "ובמואב",
+      "gloss": "და მოაბში"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "გავატარებ"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "სასჯელნი"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "და იცნობენ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T08:47:05.037156309Z",
+  "model": "glm-5.3"
+}

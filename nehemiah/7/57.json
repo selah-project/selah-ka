@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "nehemiah 7:57",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "შელომოს მონების შვილნი: სოტაის შვილნი, სოფერეთის შვილნი, ფერუდას შვილნი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილნი"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "მონების"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "შელომო"
+    },
+    {
+      "surface": "בני",
+      "gloss": "შვილნი"
+    },
+    {
+      "surface": "סוטי",
+      "gloss": "სოტაის"
+    },
+    {
+      "surface": "בני",
+      "gloss": "შვილნი"
+    },
+    {
+      "surface": "סופרת",
+      "gloss": "სოფერეთის"
+    },
+    {
+      "surface": "בני",
+      "gloss": "შვილნი"
+    },
+    {
+      "surface": "פרידא",
+      "gloss": "ფერუდას"
+    }
+  ],
+  "timestamp": "2026-09-06T18:45:13.261516239Z",
+  "model": "glm-5.3"
+}

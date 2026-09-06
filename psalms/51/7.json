@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 51,
+  "translation": "აჰა, უკანონობაში ვიბადე, და ცოდვაში ჩამისხა დედაჩემმა.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "უკანონობაში"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "ვიბადე"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "და ცოდვაში"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "ჩამისხა"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "დედაჩემმა"
+    }
+  ],
+  "timestamp": "2026-09-06T09:46:42.706058994Z",
+  "model": "glm-5.3"
+}

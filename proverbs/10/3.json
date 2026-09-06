@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 10:3",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "არ დაამშივრებს იაჰვე მართლის ნეფეშს, ხოლო ბოროტთა სურვილს უკუაგდებს.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "ירעיב",
+      "gloss": "დაამშივრებს"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ნეფეში"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "მართალი"
+    },
+    {
+      "surface": "והות",
+      "gloss": "და სურვილი"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ბოროტები"
+    },
+    {
+      "surface": "יהדף",
+      "gloss": "უკუაგდებს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:19:15.462445382Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 43:8",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 43,
+  "translation": "და მოხდა იაჰვეს სიტყვა ირმეიაჰუს მიმართ ტახპანხესში ასე:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "მოხდა"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…-ს მიმართ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ირმეიაჰუ"
+    },
+    {
+      "surface": "בתחפנחס",
+      "gloss": "ტახპანხესში"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ასე"
+    }
+  ],
+  "timestamp": "2026-09-06T08:26:07.820290893Z",
+  "model": "glm-5.3"
+}

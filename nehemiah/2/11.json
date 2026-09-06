@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და მივედი იერუშალაიმს და ვიყავი იქ სამი დღე.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "მივედი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "თან"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "იერუშალაიმი"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "ვიყავი"
+    },
+    {
+      "surface": "שם",
+      "gloss": "იქ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "სამი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:19:56.125828604Z",
+  "model": "glm-5.3"
+}

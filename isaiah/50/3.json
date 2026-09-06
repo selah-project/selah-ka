@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 50,
+  "translation": "ვაცმევ ცას სიბნელეს და საკს ვხდი მათ საფარად.",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "ვაცმევ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ცა"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "სიბნელე"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "და საკი"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "ვხდი"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "მათ საფარს"
+    }
+  ],
+  "timestamp": "2026-09-06T07:54:02.689180117Z",
+  "model": "glm-5.3"
+}

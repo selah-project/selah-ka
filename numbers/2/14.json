@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 2:14",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და გადის ტომი, და გადის შვილთა მთავარი იყოს ელიასაფი, რეუელის ძე.",
+  "tokens": [
+    {
+      "surface": "ומטה",
+      "gloss": "და ტომი"
+    },
+    {
+      "surface": "גד",
+      "gloss": "გადი"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "და მთავარი"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "შვილთა"
+    },
+    {
+      "surface": "גד",
+      "gloss": "გადი"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "ელიასაფი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "რეუელი"
+    }
+  ],
+  "timestamp": "2026-09-06T15:39:34.208190332Z",
+  "model": "glm-5.3"
+}

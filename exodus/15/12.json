@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 15:12",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "გაიწედინე შენი მარჯვენა — შთანთქა მათ მიწამ.",
+  "tokens": [
+    {
+      "surface": "נטית",
+      "gloss": "გაიწედინე"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "შენი მარჯვენა"
+    },
+    {
+      "surface": "תבלעמו",
+      "gloss": "შთანთქა მათ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "მიწამ"
+    }
+  ],
+  "timestamp": "2026-09-06T04:16:48.908796077Z",
+  "model": "glm-5.3"
+}

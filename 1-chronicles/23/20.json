@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 23:20",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "უზიელის შვილები: მიქაჰუ ⟨არის⟩ პირველი და იშიაჰუ მეორე.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "უზიელი"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "მიქაჰუ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "პირველი"
+    },
+    {
+      "surface": "וישיה",
+      "gloss": "და იშიაჰუ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "მეორე"
+    }
+  ],
+  "timestamp": "2026-09-06T15:11:48.630577511Z",
+  "model": "glm-5.3"
+}

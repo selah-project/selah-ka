@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 83,
+  "translation": "ასურიც შეუერთდა მათ; იყვნენ მხრად ლოტის შვილებისთვის. სელა.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ც"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ასური"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "შეუერთდა"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "მათ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "იყვნენ"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "მხარი"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "შვილებისთვის"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ლოტის"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "სელა"
+    }
+  ],
+  "timestamp": "2026-09-06T09:55:22.375534167Z",
+  "model": "glm-5.3"
+}

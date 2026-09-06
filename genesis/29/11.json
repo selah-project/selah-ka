@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 29,
+  "translation": "და აკოცა იააკოვმა რახელს, აღიმარცხა ⟨את⟩ ხმა თვისი და ატირდა.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "აკოცა"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "იააკოვმა"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "რახელს"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "აღიმარცხა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ხმა თვისი"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "ხმა თვისი"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "ატირდა"
+    }
+  ],
+  "timestamp": "2026-09-06T03:55:20.111995564Z",
+  "model": "glm-5.3"
+}

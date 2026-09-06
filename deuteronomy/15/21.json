@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 15:21",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "და თუ იქნება მასში ნაკლი — ჩახელული ან ბრმა, ყოველი ბოროტი ნაკლი — არ შესწირო იგი იაჰვეს, შენს ელოჰიმს.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "და თუ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "იქნება"
+    },
+    {
+      "surface": "בו",
+      "gloss": "მასში"
+    },
+    {
+      "surface": "מום",
+      "gloss": "ნაკლი"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ჩახელული"
+    },
+    {
+      "surface": "או",
+      "gloss": "ან"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ბრმა"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყოველი"
+    },
+    {
+      "surface": "מום",
+      "gloss": "ნაკლი"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ბოროტი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תזבחנו",
+      "gloss": "შესწირო იგი"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "შენს ელოჰიმს"
+    }
+  ],
+  "timestamp": "2026-09-06T05:30:18.489256008Z",
+  "model": "glm-5.3"
+}

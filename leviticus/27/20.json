@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 27,
+  "translation": "და თუ არ გამოისყიდის ⟨את⟩ ველს, და თუ გაჰყიდა ⟨את⟩ ველს სხვა კაცს, ვეღარ გამოისყიდება კვლავ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "და თუ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "გამოისყიდის"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ველი"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ველი"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "და თუ"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "გაჰყიდა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ველი"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ველი"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "კაცს"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "სხვა"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "გამოისყიდება"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "კვლავ"
+    }
+  ],
+  "timestamp": "2026-09-06T16:48:25.215206085Z",
+  "model": "glm-5.3"
+}

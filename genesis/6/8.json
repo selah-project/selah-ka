@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "ხოლო ნოახმა იპოვა მადლი იაჰვეს თვალებში.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "ხოლო ნოახმა"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "იპოვა"
+    },
+    {
+      "surface": "חן",
+      "gloss": "მადლი"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "თვალებში"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    }
+  ],
+  "timestamp": "2026-09-06T03:44:03.273098742Z",
+  "model": "glm-5.3"
+}

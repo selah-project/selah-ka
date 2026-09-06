@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 8:14",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და ახიო, და შაშაკი, და იერემოთი.",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "და ახიო"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "შაშაკი"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "და იერემოთი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:29:56.478329643Z",
+  "model": "glm-5.3"
+}

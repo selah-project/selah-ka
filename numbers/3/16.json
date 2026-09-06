@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "და აღწერა მოშემ ⟨את⟩ ისინი იაჰვეს პირისამებრ, როგორც იყო ნაბრძანები.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "და აღწერა"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ისინი"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "על",
+      "gloss": "მიხედვით"
+    },
+    {
+      "surface": "פי",
+      "gloss": "პირისამებრ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "როგორც"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "იყო ნაბრძანები"
+    }
+  ],
+  "timestamp": "2026-09-06T05:00:29.919663639Z",
+  "model": "glm-5.3"
+}

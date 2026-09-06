@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 2:16",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და ყოველ ტარშიშის გემზე, და ყოველ საწადელ სანახაობაზე.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "და ...-ზე"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყოველ"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "გემი"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "ტარშიში"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "და ...-ზე"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყოველ"
+    },
+    {
+      "surface": "שכיות",
+      "gloss": "სანახაობა"
+    },
+    {
+      "surface": "החמדה",
+      "gloss": "საწადელი"
+    }
+  ],
+  "timestamp": "2026-09-06T13:06:39.096414239Z",
+  "model": "glm-5.3"
+}

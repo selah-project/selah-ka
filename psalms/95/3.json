@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 95,
+  "translation": "რადგან დიდი ელი ⟨არის⟩ იაჰვე, და დიდი მეფე ყველა ღმერთზე.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ელი"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "დიდი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "და მეფე"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "დიდი"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზემოთ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ღმერთები"
+    }
+  ],
+  "timestamp": "2026-09-06T10:00:03.047513197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 47,
+  "translation": "გამეფდა ელოჰიმი ხალხებზე, ელოჰიმი დაჯდა თავის სიწმინდის ტახტზე.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "გამეფდა"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ხალხები"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "დაჯდა"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ტახტი"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "სიწმინდე მისი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:44:10.943974294Z",
+  "model": "glm-5.3"
+}

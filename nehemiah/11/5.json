@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 11:5",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "და მაასეია, ძე ბარუხისა, ძე ქოლ-ხოზეჰისა, ძე ხაზიასა, ძე ადაიასა, ძე იოიარივისა, ძე ზქარიასა, ძე ჰაშილონისა.",
+  "tokens": [
+    {
+      "surface": "ומעשיה",
+      "gloss": "და მაასეია"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ბარუხი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ქოლ"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ხოზეჰი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "חזיה",
+      "gloss": "ხაზია"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "ადაია"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "იოიარივი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "ზქარია"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "השלני",
+      "gloss": "ჰაშილონი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:24:06.028052174Z",
+  "model": "glm-5.3"
+}

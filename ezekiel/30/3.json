@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 30:3",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "რადგან ახლო ⟨არის⟩ დღე და ახლო ⟨არის⟩ იაჰვეს დღე; ღრუბლების დღე — ხალხთა ჟამი იქნება.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ახლო"
+    },
+    {
+      "surface": "יום",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "და ახლო"
+    },
+    {
+      "surface": "יום",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "יום",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ღრუბელი"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ჟამი"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ხალხები"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "იქნება"
+    }
+  ],
+  "timestamp": "2026-09-06T13:36:00.818369631Z",
+  "model": "glm-5.3"
+}

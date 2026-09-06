@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 48:40",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 48,
+  "translation": "რადგან ასე თქვა იაჰვემ: აჰა, როგორც არწივი იფრენს და გაშლის თავის ფრთებს მოაბისკენ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "როგორც არწივი"
+    },
+    {
+      "surface": "ידאה",
+      "gloss": "იფრენს"
+    },
+    {
+      "surface": "ופרש",
+      "gloss": "და გაშლის"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "თავის ფრთებს"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "მოაბი"
+    }
+  ],
+  "timestamp": "2026-09-06T08:28:19.313924953Z",
+  "model": "glm-5.3"
+}

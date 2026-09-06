@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 31,
+  "translation": "მგუნდურ ხელმძღვანელს — საგალობელი დავითისა.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ხელმძღვანელს"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "საგალობელი"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "დავითისა"
+    }
+  ],
+  "timestamp": "2026-09-06T09:39:15.996489664Z",
+  "model": "glm-5.3"
+}

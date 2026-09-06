@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 19:5",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "და ციკლაგი, და ბეით-ჰამარქავოთი და ხაცარ-სუსაჰი.",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "და ციკლაგი"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "და ბეით"
+    },
+    {
+      "surface": "המרכבות",
+      "gloss": "ჰამარქავოთი"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "და ხაცარ"
+    },
+    {
+      "surface": "סוסה",
+      "gloss": "სუსაჰი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:55:08.960483050Z",
+  "model": "glm-5.3"
+}

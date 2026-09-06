@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "და გამოვიდა ლოტი მათკენ კარში და კარი დახურა თავის უკან.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "გამოვიდა"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "მათკენ"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ლოტი"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "კარში"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "და კარი"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "დახურა"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "თავის უკან"
+    }
+  ],
+  "timestamp": "2026-09-06T03:49:33.069798115Z",
+  "model": "glm-5.3"
+}

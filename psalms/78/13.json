@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 78,
+  "translation": "განჭრა ზღვა და გაატარა ⟨ისინი⟩; და დაადგა წყლები ბორცვად.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "განჭრა"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ზღვა"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "და გაატარა ისინი"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "და დაადგა"
+    },
+    {
+      "surface": "מים",
+      "gloss": "წყლები"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "როგორც"
+    },
+    {
+      "surface": "נד",
+      "gloss": "ბორცვი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:54:23.303243890Z",
+  "model": "glm-5.3"
+}

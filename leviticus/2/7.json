@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და თუ მარხეშეთის მინხა ⟨არის⟩ შენი კორბანი — სოლეთი ზეთით გაკეთდეს.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "და თუ"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "მინხა"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "მარხეშეთი"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "შენი კორბანი"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "სოლეთი"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ზეთით"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "გაკეთდეს"
+    }
+  ],
+  "timestamp": "2026-09-06T04:35:19.484338456Z",
+  "model": "glm-5.3"
+}

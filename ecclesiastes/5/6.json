@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "რადგან სიმრავლეში ოცნებებისა და ამაოებებისა და სიტყვების მრავლისა — ⟨את⟩ ელოჰიმს ერიდე.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "სიმრავლეში"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "ოცნება"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "და ამაოებები"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "და სიტყვები"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "მრავალი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ელოჰიმს"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ერიდე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:58:28.579380121Z",
+  "model": "glm-5.3"
+}

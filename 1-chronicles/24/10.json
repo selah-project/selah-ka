@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 24:10",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "მეშვიდედ — ჰაკოცს, მერვედ — ავიას.",
+  "tokens": [
+    {
+      "surface": "להקוץ",
+      "gloss": "ჰაკოცს"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "მეშვიდე"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "ავიას"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "მერვე"
+    }
+  ],
+  "timestamp": "2026-09-06T11:37:18.754692878Z",
+  "model": "glm-5.3"
+}

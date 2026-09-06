@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 37,
+  "translation": "ადონაი იცინის მასზე, რადგან ხედავს, რომ მოდის მისი დღე.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ადონაი"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "იცინის"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ხედავს"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "მოდის"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "მისი დღე"
+    }
+  ],
+  "timestamp": "2026-09-06T09:41:46.189486312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "nehemiah 7:51",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "გაზამის შვილები, უზას შვილები, ფასეახის შვილები.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "გაზამი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "უზა"
+    },
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ფასეახი"
+    }
+  ],
+  "timestamp": "2026-09-06T20:34:02.632604193Z",
+  "model": "glm-5.3"
+}

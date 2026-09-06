@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 28:30",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 28,
+  "translation": "თხის ბელი ერთი, თქვენზე სალხენად.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ბელი"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "თხა"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "სალხენად"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "თქვენზე"
+    }
+  ],
+  "timestamp": "2026-09-06T15:40:47.086783492Z",
+  "model": "glm-5.3"
+}

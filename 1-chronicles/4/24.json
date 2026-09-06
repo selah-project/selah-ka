@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 4:24",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "შიმონის ძენი: ნემუელი და იამინი, იარიბი, ზერახი, შაული.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "შიმონი"
+    },
+    {
+      "surface": "נמואל",
+      "gloss": "ნემუელი"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "და იამინი"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "იარიბი"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ზერახი"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "შაული"
+    }
+  ],
+  "timestamp": "2026-09-06T11:27:55.581521735Z",
+  "model": "glm-5.3"
+}

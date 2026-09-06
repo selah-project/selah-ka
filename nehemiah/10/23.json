@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 10:23",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "ფელატია (ფელატია), ხანანი (ხანანი), ანაია (ანაია),",
+  "tokens": [
+    {
+      "surface": "פלטיה",
+      "gloss": "ფელატია"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ხანანი"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "ანაია"
+    }
+  ],
+  "timestamp": "2026-09-06T11:23:05.377284683Z",
+  "model": "glm-5.3"
+}

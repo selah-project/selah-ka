@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 3:10",
+  "book": "zechariah",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "იმ დღეს — იაჰვე ცევაოთის სიტყვა — მოიწვევთ თითო კაცი თავის მოყვარეს ვაზს ქვეშ და ლეღვს ქვეშ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "იმ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ცევაოთი"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "მოიწვევთ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "თავის მოყვარეს"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ქვეშ"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "ვაზი"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და მიმართ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ქვეშ"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "ლეღვი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:23:28.715503380Z",
+  "model": "glm-5.3"
+}

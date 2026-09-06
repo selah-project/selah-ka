@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 32:18",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 32,
+  "translation": "კლდეს, რომელმაც შეგბადა, უგულებელჰყავ და დაივიწყე ელი, რომელმაც გაგაჩინა.",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "კლდე"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "შეგბადა"
+    },
+    {
+      "surface": "תשי",
+      "gloss": "უგულებელჰყავ"
+    },
+    {
+      "surface": "ותשכח",
+      "gloss": "დაივიწყე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ელი"
+    },
+    {
+      "surface": "מחללך",
+      "gloss": "გაგაჩინა"
+    }
+  ],
+  "timestamp": "2026-09-06T05:44:30.696167275Z",
+  "model": "glm-5.3"
+}

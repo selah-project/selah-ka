@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "შენ გიჩვენეს ⟨იმისთვის⟩, რომ იცოდე: იაჰვე ⟨არის⟩ ელოჰიმი — არავინ არსებობს ⟨სხვა⟩ მის გარდა.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "გიჩვენეს"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "რომ იცოდე"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨არის⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "אין",
+      "gloss": "არავინ არსებობს"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "სხვა"
+    },
+    {
+      "surface": "מלבדו",
+      "gloss": "მის გარდა"
+    }
+  ],
+  "timestamp": "2026-09-06T05:26:52.227219783Z",
+  "model": "glm-5.3"
+}

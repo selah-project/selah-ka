@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და დააყენა ელოჰიმმა ⟨את⟩ ისინი ცის რაკიაში, რომ გაენათლებინა მიწა.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "და დააყენა"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ისინი"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "რაკია"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ცა"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "გასანათლებლად"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    }
+  ],
+  "timestamp": "2026-09-06T03:41:16.508202407Z",
+  "model": "glm-5.3"
+}

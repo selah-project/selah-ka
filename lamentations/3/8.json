@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "თუნდაც როცა ვყვირი და ვღაღადებ, ჩაკეტა ჩემი ლოცვა.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "თუნდაც"
+    },
+    {
+      "surface": "כי",
+      "gloss": "როცა"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "ვყვირი"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "და ვღაღადებ"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "ჩაკეტა"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ჩემი ლოცვა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:52:30.799546603Z",
+  "model": "glm-5.3"
+}

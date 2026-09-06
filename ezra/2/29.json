@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezra 2:29",
+  "book": "ezra",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "შვილნი ნევოსი — ორმოცდაათი და ორი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილნი"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "ნევო"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ორმოცდაათი"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "და ორი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:13:17.657509610Z",
+  "model": "glm-5.3"
+}

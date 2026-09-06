@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "და ბეით-ჰაარაბაჰი, და ცემარაიმი, და ბეით-ელი.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "და ბეით"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "ჰაარაბაჰი"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "ცემარაიმი"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "და ბეით"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ელი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:54:07.846196276Z",
+  "model": "glm-5.3"
+}

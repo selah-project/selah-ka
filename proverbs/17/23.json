@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 17:23",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 17,
+  "translation": "ქრთამს იღებს ბოროტი წინიდან, სამართლის გზების გადასახრელად.",
+  "tokens": [
+    {
+      "surface": "שחד",
+      "gloss": "ქრთამს"
+    },
+    {
+      "surface": "מחיק",
+      "gloss": "წინიდან"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ბოროტი"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "იღებს"
+    },
+    {
+      "surface": "להטות",
+      "gloss": "გადასახრელად"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "გზების"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "სამართლის"
+    }
+  ],
+  "timestamp": "2026-09-06T10:21:57.227729219Z",
+  "model": "glm-5.3"
+}

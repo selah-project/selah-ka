@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 24:20",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "რადგან არ ექნება ბოროტს აღსასრული, უკეთურთა ლამპარი ჩაქრება.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ექნება"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "აღსასრული"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ბოროტს"
+    },
+    {
+      "surface": "נר",
+      "gloss": "ლამპარი"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "უკეთურთა"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "ჩაქრება"
+    }
+  ],
+  "timestamp": "2026-09-06T16:31:48.188223664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 19:6",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "ამიტომ აჰა, დღენი მოდიან — იაჰვეს ამბავი — და აღარ ეწოდება ამ ადგილს თოფეთი და ჰინომის ძის ხეობა, არამედ ხოცვის ხეობა.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ამიტომ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "დღეები"
+    },
+    {
+      "surface": "באים",
+      "gloss": "მოდიან"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ამბავი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არა"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ეწოდება"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "ადგილს"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ამ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "აღარ"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "თოფეთი"
+    },
+    {
+      "surface": "וגיא",
+      "gloss": "და ხეობა"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "ჰინომის"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "ხეობა"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "ხოცვის"
+    }
+  ],
+  "timestamp": "2026-09-06T08:12:32.169543420Z",
+  "model": "glm-5.3"
+}

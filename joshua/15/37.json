@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 15:37",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "ცენანი და ხადაშა და მიგდალ გადი,",
+  "tokens": [
+    {
+      "surface": "צנן",
+      "gloss": "ცენანი"
+    },
+    {
+      "surface": "וחדשה",
+      "gloss": "და ხადაშა"
+    },
+    {
+      "surface": "ומגדל",
+      "gloss": "და მიგდალ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "გადი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:53:42.950123495Z",
+  "model": "glm-5.3"
+}

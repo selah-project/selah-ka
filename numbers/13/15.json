@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 13:15",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "გადის ტომიდან — გეუელი, მაქის ძე.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ტომიდან"
+    },
+    {
+      "surface": "גד",
+      "gloss": "გადი"
+    },
+    {
+      "surface": "גאואל",
+      "gloss": "გეუელი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "מכי",
+      "gloss": "მაქი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:06:27.146197440Z",
+  "model": "glm-5.3"
+}

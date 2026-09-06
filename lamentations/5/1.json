@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "დაიმახსოვრე, იაჰვეო, რა დგა ჩვენს თავს; შეხედე და იხილე ⟨את⟩ ჩვენი სირცხვილი.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "დაიმახსოვრე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "היה",
+      "gloss": "მოხდა"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ჩვენს თავს"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "შეხედე"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "და იხილე"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ჩვენი სირცხვილი"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "ჩვენი სირცხვილი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:55:38.450457239Z",
+  "model": "glm-5.3"
+}

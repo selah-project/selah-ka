@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 15:1",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "და მოხდა იაჰვეს სიტყვა ჩემზე, რომ ეთქვა:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "მოხდა"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემზე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "რომ ეთქვა"
+    }
+  ],
+  "timestamp": "2026-09-06T08:40:52.743846092Z",
+  "model": "glm-5.3"
+}

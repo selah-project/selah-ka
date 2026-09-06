@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 4:24",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "ვიხილე მთები, და აჰა — ირყევიან, და ყველა ბორცვი ირყეოდა.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ვიხილე"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "მთები"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "და აჰა"
+    },
+    {
+      "surface": "רעשים",
+      "gloss": "ირყევიან"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "და ყველა"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "ბორცვები"
+    },
+    {
+      "surface": "התקלקלו",
+      "gloss": "შეირყნენ"
+    }
+  ],
+  "timestamp": "2026-09-06T08:01:15.951879475Z",
+  "model": "glm-5.3"
+}

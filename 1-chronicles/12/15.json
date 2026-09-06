@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "ესენი გადის ძეთაგან ⟨არიან⟩ ლაშქრის თავები: ერთი ასს პატარა, და დიდი — ათასს.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ესენი"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ძეთაგან"
+    },
+    {
+      "surface": "גד",
+      "gloss": "გადი"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "თავები"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ლაშქრის"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "ასს"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "პატარა"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "და დიდი"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "ათასს"
+    }
+  ],
+  "timestamp": "2026-09-06T11:33:31.045422337Z",
+  "model": "glm-5.3"
+}

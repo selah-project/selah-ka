@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 109,
+  "translation": "იყვნენ მისი შვილები ობლებად და მისი ცოლი ქვრივად.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "იყვნენ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "მისი შვილები"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "ობლები"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "და მისი ცოლი"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "ქვრივი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:05:18.273569788Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 31:34",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 31,
+  "translation": "სახედრები — ერთი და სამოცი ათასი.",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "სახედრები"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "და სამოცი"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ათასი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:18:25.792245386Z",
+  "model": "glm-5.3"
+}

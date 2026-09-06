@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 12:18",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "და დაუძახა ფაროჰმა აბრამს და თქვა: რა ეს ჩემთვის ქენი? რატომ არ მიამბე ჩემთვის, რომ ცოლი შენი ⟨არის⟩ ის?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "დაუძახა"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ფაროჰი"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "აბრამს"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ქმნა"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ჩემთვის"
+    },
+    {
+      "surface": "למה",
+      "gloss": "რატომ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "მიამბო"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ჩემთვის"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "ცოლი შენი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    }
+  ],
+  "timestamp": "2026-09-06T03:46:35.001639381Z",
+  "model": "glm-5.3"
+}

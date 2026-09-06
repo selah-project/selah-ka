@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 1:2",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "რეუვენი, შიმონი (სვიმონი), ლევი და იეჰუდა (იუდა).",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "რეუვენი"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "შიმონი"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ლევი"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "და იეჰუდა"
+    }
+  ],
+  "timestamp": "2026-09-06T04:11:06.821464949Z",
+  "model": "glm-5.3"
+}

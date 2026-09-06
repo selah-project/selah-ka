@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 5:8",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "და იყვნენ ყველა დღენი შეთისი თორმეტი წელი და ცხრაასი წელი, და მოკვდა.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "და იყვნენ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "დღენი"
+    },
+    {
+      "surface": "שת",
+      "gloss": "შეთისი"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ორი"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ათი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელი"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "და ცხრა"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელი"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "და მოკვდა"
+    }
+  ],
+  "timestamp": "2026-09-06T03:42:51.632033465Z",
+  "model": "glm-5.3"
+}

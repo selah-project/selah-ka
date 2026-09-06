@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "ლადანის შვილნი: თავი ⟨არის⟩ იეხიელი, და ზეთამი, და იოელი — სამი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილნი"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "ლადანის"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "თავი"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "იეხიელი"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "და ზეთამი"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "და იოელი"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "სამი"
+    }
+  ],
+  "timestamp": "2026-09-06T18:48:19.344995502Z",
+  "model": "glm-5.3"
+}

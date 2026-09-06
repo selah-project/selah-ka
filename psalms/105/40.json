@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 105,
+  "translation": "ითხოვეს და მოიტანა მწყერი, და ცის პურით გააძღო ისინი.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "ითხოვეს"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "და მოიტანა"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "მწყერი"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "და პური"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ცა"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "გააძღობინა მათ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:02:56.983775656Z",
+  "model": "glm-5.3"
+}

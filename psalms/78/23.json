@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 78,
+  "translation": "და უბრძანა ღრუბლებს ზემოდან, და ცის კარები გახსნა —",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "და უბრძანა"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ღრუბლები"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ზემოდან"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "და კარები"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ცა"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "გახსნა"
+    }
+  ],
+  "timestamp": "2026-09-06T17:02:13.128223565Z",
+  "model": "glm-5.3"
+}

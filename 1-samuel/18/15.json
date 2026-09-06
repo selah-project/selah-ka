@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "და იხილა შაულმა, რომ ის მეტად გონიერი იყო, და შეეშინა მისგან.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "და იხილა"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "შაული"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "გონიერი"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "მეტად"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "და შეეშინა"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "მისგან"
+    }
+  ],
+  "timestamp": "2026-09-06T06:24:43.871467795Z",
+  "model": "glm-5.3"
+}

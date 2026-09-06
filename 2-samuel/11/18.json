@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "და გაგზავნა იოაბმა და აუწყა დავიდს ⟨את⟩ ყველა სიტყვა ომის.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "გაგზავნა"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "იოაბმა"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "აუწყა"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "დავიდს"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ყველა"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ომის"
+    }
+  ],
+  "timestamp": "2026-09-06T06:40:09.791101738Z",
+  "model": "glm-5.3"
+}

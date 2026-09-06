@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 10:23",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "და მენაშეს ძეთა ტომის ლაშქარზე ⟨იყო⟩ გამლიელი, ძე ფედა-ცურისა.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "და…-ზე"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ლაშქარი"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ტომი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "მენაშე"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "გამლიელი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "ფედა"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ცური"
+    }
+  ],
+  "timestamp": "2026-09-06T05:04:17.113736395Z",
+  "model": "glm-5.3"
+}

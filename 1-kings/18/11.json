@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "და ახლა შენ ამბობ: წადი, უთხარ შენს ბატონს: აჰა, ელიიაჰუ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "და ახლა"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ამბობ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "წადი"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "უთხარ"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "შენს ბატონს"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ელიიაჰუ"
+    }
+  ],
+  "timestamp": "2026-09-06T16:53:41.816019547Z",
+  "model": "glm-5.3"
+}

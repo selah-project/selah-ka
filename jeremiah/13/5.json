@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "და წავედი და დავმალევი იგი ფერათში, როგორც ბრძანა იაჰვემ ⟨את⟩ მე.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "წავედი"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "დავმალევი"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "ფერათში"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "როგორც"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ბრძანა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ მე",
+      "marks": "მე"
+    }
+  ],
+  "timestamp": "2026-09-06T08:07:20.698630878Z",
+  "model": "glm-5.3"
+}

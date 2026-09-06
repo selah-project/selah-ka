@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 32:10",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 32,
+  "translation": "ამიტომ ვთქვი: ისმინეთ მე, ვაჩვენებ ჩემს ცოდნას — აგრეთვე მე.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ამიტომ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ვთქვი"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "ისმინე"
+    },
+    {
+      "surface": "לי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "אחוה",
+      "gloss": "ვაჩვენებ"
+    },
+    {
+      "surface": "דעי",
+      "gloss": "ცოდნა"
+    },
+    {
+      "surface": "אף",
+      "gloss": "აგრეთვე"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:41:27.016756479Z",
+  "model": "glm-5.3"
+}

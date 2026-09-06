@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "არ დავჯდე მცრუ მამაკაცებთან და დამალულებთან არ შევალ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "დავჯდე"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-თან"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "მამაკაცი"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "მცრუ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "და -თან"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "დამალული"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "შევალ"
+    }
+  ],
+  "timestamp": "2026-09-06T09:39:05.987630664Z",
+  "model": "glm-5.3"
+}

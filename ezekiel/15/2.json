@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 15:2",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "ადამის ძეო, რად იქნება ვაზის ხე ყველა ხეზე, ყლორტი, რომელიც იყო ტყის ხეთა შორის?",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ადამის"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "იქნება"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ხე"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "ვაზის"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ყველა ... -ზე"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ხე"
+    },
+    {
+      "surface": "הזמורה",
+      "gloss": "ყლორტი"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "היה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "ხეთა შორის"
+    },
+    {
+      "surface": "היער",
+      "gloss": "ტყის"
+    }
+  ],
+  "timestamp": "2026-09-06T08:40:52.744157680Z",
+  "model": "glm-5.3"
+}

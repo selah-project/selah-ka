@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 28:21",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 28,
+  "translation": "სახის ამოცნობა არ არის კარგი, და პურის ნაჭერზე იმრაულებს კაცი.",
+  "tokens": [
+    {
+      "surface": "הכר",
+      "gloss": "ამოცნობა"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "სახე"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "კარგი"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "და …-ზე"
+    },
+    {
+      "surface": "פת",
+      "gloss": "ნაჭერი"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "პური"
+    },
+    {
+      "surface": "יפשע",
+      "gloss": "იმრაულებს"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "კაცი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:28:13.706592912Z",
+  "model": "glm-5.3"
+}

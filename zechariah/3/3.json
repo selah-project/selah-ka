@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 3:3",
+  "book": "zechariah",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "ხოლო იეჰოშუა იყო მოსილი ბინძური სამოსლებით და მდგომი მალაქის წინაშე.",
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "და იეჰოშუა"
+    },
+    {
+      "surface": "היה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "მოსილი"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "სამოსლები"
+    },
+    {
+      "surface": "צואים",
+      "gloss": "ბინძური"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "და მდგომი"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "წინაშე"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "მალაქი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:25:25.639766374Z",
+  "model": "glm-5.3"
+}

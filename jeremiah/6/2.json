@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 6:2",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "მშვენიერსა და ნაზს, ასულ ციონს, დავამსგავსე.",
+  "tokens": [
+    {
+      "surface": "הנוה",
+      "gloss": "მშვენიერი"
+    },
+    {
+      "surface": "והמענגה",
+      "gloss": "და ნაზი"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "დავამსგავსე"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ასული"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ციონი"
+    }
+  ],
+  "timestamp": "2026-09-06T17:35:24.417944952Z",
+  "model": "glm-5.3"
+}

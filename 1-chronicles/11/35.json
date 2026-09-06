@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 11:35",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "ახიამი საქარ ჰარარელის ძე, ელიფალ ოურის ძე.",
+  "tokens": [
+    {
+      "surface": "אחיאם",
+      "gloss": "ახიამი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "საქარი"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "ჰარარელი"
+    },
+    {
+      "surface": "אליפל",
+      "gloss": "ელიფალი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ოური"
+    }
+  ],
+  "timestamp": "2026-09-06T11:30:56.642865569Z",
+  "model": "glm-5.3"
+}

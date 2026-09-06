@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 2:5",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "პერეცის შვილები: ხეცრონი და ხამული.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "პერეცის"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ხეცრონი"
+    },
+    {
+      "surface": "וחמול",
+      "gloss": "და ხამული"
+    }
+  ],
+  "timestamp": "2026-09-06T16:38:06.375572156Z",
+  "model": "glm-5.3"
+}

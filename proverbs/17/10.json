@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 17:10",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 17,
+  "translation": "ჩადის შერისხვა გონიერში უფრო ვიდრე ასი დარტყმა სულელში.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "ჩადის"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "შერისხვა"
+    },
+    {
+      "surface": "במבין",
+      "gloss": "გონიერში"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "დარტყმა"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "სულელი"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ასი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:21:36.664594713Z",
+  "model": "glm-5.3"
+}

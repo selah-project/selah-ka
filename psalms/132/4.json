@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 132,
+  "translation": "თუ მივცემ ძილს ჩემს თვალებს, ჩემს ქუთულებს ჩაძინებას —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "მივცემ"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ძილს"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ჩემს თვალებს"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "ჩემს ქუთულებს"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "ჩაძინებას"
+    }
+  ],
+  "timestamp": "2026-09-06T10:10:51.025584106Z",
+  "model": "glm-5.3"
+}

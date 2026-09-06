@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 33:6",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 33,
+  "translation": "აჰა, მე შენისავით ვარ ელისთვის — თიხისგან მეც მოვიკვეთე.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "შენისავით"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ელისთვის"
+    },
+    {
+      "surface": "מחמר",
+      "gloss": "თიხისგან"
+    },
+    {
+      "surface": "קרצתי",
+      "gloss": "მოვიკვეთე"
+    },
+    {
+      "surface": "גם",
+      "gloss": "მეც"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:43:05.008325639Z",
+  "model": "glm-5.3"
+}

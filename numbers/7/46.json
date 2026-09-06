@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 7:46",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ერთი მამალი თხა, თხათა შთამომავალი, ცოდვის შესაწირად.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "მამალი თხა"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "თხები"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ცოდვის შესაწირად"
+    }
+  ],
+  "timestamp": "2026-09-06T05:02:51.558916804Z",
+  "model": "glm-5.3"
+}

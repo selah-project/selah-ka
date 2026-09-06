@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 30:19",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "და კვლავ ჩასახა ლეაჰმა და გაუჩინა იააკოვს ვაჟი — მეექვსე.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "და ჩასახა"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "კვლავ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ლეაჰმა"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "და გააჩინა"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ვაჟი"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "მეექვსე"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "იააკოვს"
+    }
+  ],
+  "timestamp": "2026-09-06T03:56:44.565952505Z",
+  "model": "glm-5.3"
+}

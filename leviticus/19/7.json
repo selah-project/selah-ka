@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "ხოლო თუ მართლაც შეიჭმება მესამე დღეს, ის სიბინძურეა — არ მიიღება.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ხოლო თუ"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "მართლაც ჭამა"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "შეიჭმება"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "მესამე"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "სიბინძურე"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის ⟨არის⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "მიიღება"
+    }
+  ],
+  "timestamp": "2026-09-06T04:46:06.010354708Z",
+  "model": "glm-5.3"
+}

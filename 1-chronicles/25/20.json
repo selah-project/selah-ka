@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 25:20",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "მეცამტეტედ — შუბაელი, მისი შვილები და მისი ძმები — თორმეტი.",
+  "tokens": [
+    {
+      "surface": "לשלשה",
+      "gloss": "მეცამტეტედ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(−მეტე)"
+    },
+    {
+      "surface": "שובאל",
+      "gloss": "შუბაელი"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "მისი შვილები"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "და მისი ძმები"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "თორმეტი"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(−მეტი)"
+    }
+  ],
+  "timestamp": "2026-09-06T11:37:20.022231991Z",
+  "model": "glm-5.3"
+}

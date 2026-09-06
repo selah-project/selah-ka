@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 21:26",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "მთელი დღე ისურვებს ⟨ის⟩ სურვილს, ხოლო მართალი მისცემს და არ დაიშურებს.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "მთელი"
+    },
+    {
+      "surface": "היום",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "ისურვებს"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "სურვილს"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ხოლო მართალი"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "მისცემს"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "დაიშურებს"
+    }
+  ],
+  "timestamp": "2026-09-06T17:04:30.929484577Z",
+  "model": "glm-5.3"
+}

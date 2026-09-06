@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "და თუ არ მისმენთ მე და არ აღასრულებთ ⟨את⟩ ყველა ამ მცნებათაგანს,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "და თუ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "მისმენთ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არა"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "აღასრულებთ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ყველა ამ მცნება"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "მცნება"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ეს"
+    }
+  ],
+  "timestamp": "2026-09-06T04:57:14.450302227Z",
+  "model": "glm-5.3"
+}

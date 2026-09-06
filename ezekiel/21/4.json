@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 21:4",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "და იხილავს ყოველი ხორცი, რამეთუ მე, იაჰვემ, ავნთე იგი; არ ჩაქრება.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "და იხილავს"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყოველი"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ხორცი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რამეთუ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "בערתיה",
+      "gloss": "ავნთე იგი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "ჩაქრება"
+    }
+  ],
+  "timestamp": "2026-09-06T08:45:36.294408265Z",
+  "model": "glm-5.3"
+}

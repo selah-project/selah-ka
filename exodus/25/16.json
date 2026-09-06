@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "და დადებ არონს ⟨את⟩ მოწმობას, რომელსაც მოგცემ შენ.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "დადებ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "არონი"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მოწმობა"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "მოწმობა"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელსაც"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "მოგცემ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "შენ"
+    }
+  ],
+  "timestamp": "2026-09-06T04:24:16.844010367Z",
+  "model": "glm-5.3"
+}

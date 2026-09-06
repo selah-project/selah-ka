@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 119,
+  "translation": "მაშინ არ შევრცხვები, როცა შევხედავ ყველა შენს მცნებას.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "მაშინ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "შევრცხვები"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "ჩემს შეხედვას"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "შენი მცნება"
+    }
+  ],
+  "timestamp": "2026-09-06T14:16:32.189364134Z",
+  "model": "glm-5.3"
+}

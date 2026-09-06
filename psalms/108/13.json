@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 108,
+  "translation": "მოგვეცი ჩვენ დახმარება მტრის წინააღმდეგ, და ამაო ⟨არის⟩ ადამის ხსნა.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "მოგვეცი"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ჩვენ"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "დახმარება"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "მტრის"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "და ამაო"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "ხსნა"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ადამის"
+    }
+  ],
+  "timestamp": "2026-09-06T10:04:32.789847358Z",
+  "model": "glm-5.3"
+}

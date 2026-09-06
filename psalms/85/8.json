@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 85,
+  "translation": "გვიჩვენე, იაჰვე, შენი ხესედი და შენი ხსნა მოგვეცი ჩვენ.",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "გვიჩვენე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "შენი ხესედი"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "და შენი ხსნა"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "მოგვეცი"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ჩვენ"
+    }
+  ],
+  "timestamp": "2026-09-06T09:56:54.997646965Z",
+  "model": "glm-5.3"
+}

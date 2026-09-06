@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 11:13",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "თუ შენ მოამზადებ შენს გულს და გაშლი მას შენს ხელტალოს,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "მოამზადებ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "შენი გული"
+    },
+    {
+      "surface": "ופרשת",
+      "gloss": "და გაშლი"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "כפך",
+      "gloss": "შენი ხელტალო"
+    }
+  ],
+  "timestamp": "2026-09-06T10:34:43.313897942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 4:13",
+  "book": "zechariah",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და მითხრა მე ლაპარაკად: განა არ იცი, რა ⟨არიან⟩ ესენი? და ვთქვი: არა, ბატონო ჩემო.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და მითხრა"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ლაპარაკად"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "განა არ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "იცი"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ესენი"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "და ვთქვი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ბატონო ჩემო"
+    }
+  ],
+  "timestamp": "2026-09-06T09:23:21.845318335Z",
+  "model": "glm-5.3"
+}

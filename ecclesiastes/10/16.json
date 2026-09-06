@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "ვაი შენ, მიწავ, როცა მეფედ შენად ყმაწვილი ⟨არის⟩, და შენი მთავრები დილით ჭამენ.",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "ვაი"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "შენი მეფე"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ყმაწვილი"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "და შენი მთავრები"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "დილით"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ჭამენ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:57:39.801410078Z",
+  "model": "glm-5.3"
+}

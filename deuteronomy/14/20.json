@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "ყოველი წმინდა ფრინველი ჭამთ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ყოველი"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ფრინველი"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "წმინდა"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ჭამთ"
+    }
+  ],
+  "timestamp": "2026-09-06T05:30:25.150195797Z",
+  "model": "glm-5.3"
+}

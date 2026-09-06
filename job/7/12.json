@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ვარ მე ზღვა, თუ თანინი, რომ დამირიგებ ჩემზე მცველს?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "ზღვა"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "თანინი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "დადებ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ჩემზე"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "მცველს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:31:30.699208830Z",
+  "model": "glm-5.3"
+}

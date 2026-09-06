@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 23:6",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "გადადით თარშიშში, იყვირეთ, სანაპიროს მცხოვრებნო.",
+  "tokens": [
+    {
+      "surface": "עברו",
+      "gloss": "გადადით"
+    },
+    {
+      "surface": "תרשישה",
+      "gloss": "თარშიშში"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "იყვირეთ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "მცხოვრებნი"
+    },
+    {
+      "surface": "אי",
+      "gloss": "სანაპირო"
+    }
+  ],
+  "timestamp": "2026-09-06T07:39:32.148378326Z",
+  "model": "glm-5.3"
+}

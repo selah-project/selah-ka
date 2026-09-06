@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 21:28",
+  "book": "1-kings",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "და მოხდა იაჰვეს სიტყვა ელიიაჰუ თიშბელთან ასე თქმით:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "მოხდა"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ელთან\/თან"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ელიიაჰუ"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "თიშბელი"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ასე თქმით"
+    }
+  ],
+  "timestamp": "2026-09-06T07:10:06.027429802Z",
+  "model": "glm-5.3"
+}

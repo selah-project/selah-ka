@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 6:32",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "ცოლთან მრუშობს გულმოკლე: თავის ნეფეშს ღუპავს — თავად აკეთებს ამას.",
+  "tokens": [
+    {
+      "surface": "נאף",
+      "gloss": "მრუშობს"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ცოლთან"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "მოკლე"
+    },
+    {
+      "surface": "לב",
+      "gloss": "გულის"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "ღუპავს"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "თავის ნეფეშს"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "თავად"
+    },
+    {
+      "surface": "יעשנה",
+      "gloss": "აკეთებს ამას"
+    }
+  ],
+  "timestamp": "2026-09-06T10:18:28.041881372Z",
+  "model": "glm-5.3"
+}

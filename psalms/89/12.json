@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 89,
+  "translation": "შენია ცა და შენია მიწა; ქვეყანა და მისი სისავსე — შენ დაამყარე ⟨ისინი⟩.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "შენია"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ცა"
+    },
+    {
+      "surface": "אף",
+      "gloss": "და"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენია"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ქვეყანა"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "და მისი სისავსე"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "დაამყარე ისინი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:57:46.135340659Z",
+  "model": "glm-5.3"
+}

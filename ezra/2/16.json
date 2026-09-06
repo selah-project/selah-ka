@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 2:16",
+  "book": "ezra",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "ატერის შვილები, ხიზქიაჰისენი — ოთხმოცდარვა.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "ატერის"
+    },
+    {
+      "surface": "ליחזקיה",
+      "gloss": "ხიზქიაჰისენი"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ოთხმოცი"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "და რვა"
+    }
+  ],
+  "timestamp": "2026-09-06T11:13:21.768830950Z",
+  "model": "glm-5.3"
+}

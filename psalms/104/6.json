@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 104,
+  "translation": "თეჰომს სამოსელივით დაუფარავ მას; მთებს ზემოთ იდგნენ წყლები.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "თეჰომი"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "სამოსელივით"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "დაუფარავ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზემოთ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "მთები"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "იდგნენ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "წყლები"
+    }
+  ],
+  "timestamp": "2026-09-06T10:01:41.876512265Z",
+  "model": "glm-5.3"
+}

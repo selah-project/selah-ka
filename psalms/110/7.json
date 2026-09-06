@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 110,
+  "translation": "ნაკადულიდან გზადაკიდებზე ⟨ისმევს⟩, ამიტომ აღაწევს თავს.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "ნაკადული"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "გზაზე"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "დალევს"
+    },
+    {
+      "surface": "על",
+      "gloss": "ამიტომ რომ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ამიტომ"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "აღწევს"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "თავი"
+    }
+  ],
+  "timestamp": "2026-09-06T14:13:04.377311921Z",
+  "model": "glm-5.3"
+}

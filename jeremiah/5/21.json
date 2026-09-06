@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 5:21",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "ისმინეთ აწ ეს, ხალხო სულელო და უგულო: თვალები აქვთ მათ და არ ხედავენ, ყურები აქვთ მათ და არ ისმენენ.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ისმინეთ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "აწ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "სულელი"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "და არ ⟨არის⟩"
+    },
+    {
+      "surface": "לב",
+      "gloss": "გული"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "თვალები"
+    },
+    {
+      "surface": "להם",
+      "gloss": "აქვთ მათ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ხედავენ"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "ყურები"
+    },
+    {
+      "surface": "להם",
+      "gloss": "აქვთ მათ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ისმენენ"
+    }
+  ],
+  "timestamp": "2026-09-06T08:03:29.356535664Z",
+  "model": "glm-5.3"
+}

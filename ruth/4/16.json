@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "აიღო ნაომიმ ⟨את⟩ ბავშვი, დაიდო ის წიაღში თავის და იყო მას მზრდილად.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "აიღო"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "ნაომი"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ბავშვი"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ბავშვი"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "დაიდო"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "წიაღში"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "მზრდილად"
+    }
+  ],
+  "timestamp": "2026-09-06T10:50:26.839990607Z",
+  "model": "glm-5.3"
+}

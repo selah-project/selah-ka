@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 113,
+  "translation": "იყავნ კურთხეული სახელი იაჰვესი ამ დროიდან და უკუნისამდე.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "იყავნ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "სახელი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "კურთხეული"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ამ დროიდან"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "და უკუნისამდე"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "უკუნი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:04:59.949534101Z",
+  "model": "glm-5.3"
+}

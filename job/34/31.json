@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 34:31",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 34,
+  "translation": "რადგან უთხრა ვინმემ ელს: ავიტანე ⟨სასჯელი⟩, აღარ დავაშავებ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ელს"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ელი"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "უთხრა"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ავიტანე"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "אחבל",
+      "gloss": "დავაშავებ"
+    }
+  ],
+  "timestamp": "2026-09-06T14:42:07.385310612Z",
+  "model": "glm-5.3"
+}

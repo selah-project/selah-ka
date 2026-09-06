@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 14:9",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "მოვიდნენ ფლიშთიმები და განვრცელდნენ რეფაიმის ველზე.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "ფლიშთიმები"
+    },
+    {
+      "surface": "באו",
+      "gloss": "მოვიდნენ"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "განვრცელდნენ"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "ველზე"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "რეფაიმები"
+    }
+  ],
+  "timestamp": "2026-09-06T11:32:59.813690889Z",
+  "model": "glm-5.3"
+}

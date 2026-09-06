@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 119,
+  "translation": "იყოს ჩემი გული მთლიანი შენს საწესებში, რათა არ შევრცხვე.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "იყოს"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ჩემი გული"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "მთლიანი"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "შენს საწესებში"
+    },
+    {
+      "surface": "למען",
+      "gloss": "რათა"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "შევრცხვე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:09:36.506132417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "nehemiah 7:38",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "სენააჰის შვილები — სამი ათასი ცხრაას ოცდაათი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "სენააჰი"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "სამი"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ათასი"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ცხრა"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "და ოცდაათი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:21:50.244747734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 22:10",
+  "book": "2-samuel",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "და მოიხარა ცა და ჩამოვიდა, და ბნელი იყო მის ფეხთა ქვეშ.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "და მოიხარა"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ცა"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "და ჩამოვიდა"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "და ბნელი"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ქვეშ"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "მის ფეხთა"
+    }
+  ],
+  "timestamp": "2026-09-06T12:54:41.792548554Z",
+  "model": "glm-5.3"
+}

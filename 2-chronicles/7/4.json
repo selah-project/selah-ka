@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "და მეფე და მთელი ხალხი სწირავდნენ მსხვერპლს იაჰვეს წინაშე.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "მთელი"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "სწირავდნენ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "მსხვერპლი"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "წინაშე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T11:44:24.111534479Z",
+  "model": "glm-5.3"
+}

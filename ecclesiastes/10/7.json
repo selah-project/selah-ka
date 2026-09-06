@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "ვიხილე მონები ცხენებზე და მთავრები მოსიარულენი როგორც მონები მიწაზე.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ვიხილე"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "მონები"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ცხენები"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "და მთავრები"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "მოსიარულენი"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "როგორც მონები"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    }
+  ],
+  "timestamp": "2026-09-06T14:49:20.795263344Z",
+  "model": "glm-5.3"
+}

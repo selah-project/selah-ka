@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 12:19",
+  "book": "1-kings",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "და აჯანყდა იშრაელი დავიდის სახლს, ამ დღემდე.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "და აჯანყდა"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "სახლეს"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "დავიდის"
+    },
+    {
+      "surface": "עד",
+      "gloss": "მდე"
+    },
+    {
+      "surface": "היום",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ეს"
+    }
+  ],
+  "timestamp": "2026-09-06T07:01:29.446078903Z",
+  "model": "glm-5.3"
+}

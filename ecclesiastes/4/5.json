@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "სულელი ჩახუტებს ⟨את⟩ თავის ხელებს და შეეჭამს ⟨את⟩ თავის ხორცს.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "სულელი"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "ჩახუტდება"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "თავის ხელებს"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ხელები"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "და შეეჭამს"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "თავის ხორცს"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ხორცი"
+    }
+  ],
+  "timestamp": "2026-09-06T14:49:59.264552838Z",
+  "model": "glm-5.3"
+}

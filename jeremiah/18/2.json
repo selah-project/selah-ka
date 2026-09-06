@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 18:2",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "ადგი და ჩადი მხელოსნის სახლში, და იქ გაგაგონებ ⟨את⟩ ჩემს სიტყვებს.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "ადგი"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "და ჩადი"
+    },
+    {
+      "surface": "בית",
+      "gloss": "სახლი"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "მხელოსნის"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "და იქ"
+    },
+    {
+      "surface": "אשמיעך",
+      "gloss": "გაგაგონებ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ჩემს სიტყვებს"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ჩემი სიტყვები"
+    }
+  ],
+  "timestamp": "2026-09-06T08:12:04.030940952Z",
+  "model": "glm-5.3"
+}

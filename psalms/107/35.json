@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 107:35",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 107,
+  "translation": "აქცევს უდაბნოს წყლის ტბორად და მშრალ მიწას — წყლის აღმოჩენებად.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "აქცევს"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "უდაბნო"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "ტბორად"
+    },
+    {
+      "surface": "מים",
+      "gloss": "წყლის"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "და მიწა"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "მშრალი"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "აღმოჩენებად"
+    },
+    {
+      "surface": "מים",
+      "gloss": "წყალი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:04:31.469325312Z",
+  "model": "glm-5.3"
+}

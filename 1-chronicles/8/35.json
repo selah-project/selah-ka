@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 8:35",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და მიქას ძენი ⟨იყვნენ⟩ პითონი და მელექი და თარეა და ახაზი.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "და ძენი"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "მიქა"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "პითონი"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "და მელექი"
+    },
+    {
+      "surface": "ותארע",
+      "gloss": "და თარეა"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "და ახაზი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:30:28.128061963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 8:34",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და ძე ⟨იყო⟩ იეჰონათანისი — მერიბ ბაალი, და მერიბ ბაალმა შვა ⟨את⟩ მიქა.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "და ძე"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "იეჰონათანი"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "მერიბ-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ბაალი"
+    },
+    {
+      "surface": "ומריב",
+      "gloss": "და მერიბ-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ბაალი"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მიქა"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "მიქა"
+    }
+  ],
+  "timestamp": "2026-09-06T11:30:28.127917101Z",
+  "model": "glm-5.3"
+}

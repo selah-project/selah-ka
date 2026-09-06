@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "რადგან შენ არ ⟨ხარ⟩ ელი, რომელსაც სიავე მოეწონება; არ დაბინავდება ბოროტი შენთან.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ელი"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "მოეწონება"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "სიავე"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "დაბინავდება შენთან"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ბოროტი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:31:19.496531459Z",
+  "model": "glm-5.3"
+}

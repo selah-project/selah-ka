@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 13:13",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "აშერის ტომიდან — სეთური, მიქაელის ძე.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ტომიდან"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "აშერი"
+    },
+    {
+      "surface": "סתור",
+      "gloss": "სეთური"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "მიქაელი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:06:27.145736173Z",
+  "model": "glm-5.3"
+}

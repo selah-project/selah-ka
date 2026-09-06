@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 104,
+  "translation": "აძლევ მათ — და იკრიფავენ; ხსნი შენს ხელს — და ინაყრობენ სიკეთით.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "აძლევ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "მათ"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "იკრიფავენ"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "ხსნი"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "შენს ხელს"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "ინაყრობენ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "სიკეთე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:01:56.127300473Z",
+  "model": "glm-5.3"
+}

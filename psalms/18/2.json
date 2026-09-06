@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "და თქვა: შეგიყვარებ, იაჰვე, ჩემო ძალავ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "შეგიყვარებ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "ჩემი ძალა"
+    }
+  ],
+  "timestamp": "2026-09-06T18:35:03.454293868Z",
+  "model": "glm-5.3"
+}

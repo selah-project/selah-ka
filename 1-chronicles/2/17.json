@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და აბიგაილმა შვა ⟨את⟩ ამაშა; და ამაშას მამა ⟨იყო⟩ იეთერი იშმაელელი.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "და აბიგაილი"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ამაშა"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "ამაშა"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "და მამა"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "ამაშას"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "იეთერი"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "იშმაელელი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:26:35.776805967Z",
+  "model": "glm-5.3"
+}

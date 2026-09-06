@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "პირისპირ ილაპარაკა იაჰვემ თქვენთან მთაზე, ცეცხლის შუიდან.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "პირი"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "პირისპირ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ილაპარაკა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "თქვენთან"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "მთაზე"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "შუიდან"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ცეცხლი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:25:57.888240478Z",
+  "model": "glm-5.3"
+}

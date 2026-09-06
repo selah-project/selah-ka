@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 7:40",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ერთი თხა-ვარაზი სინდისფარად (ცოდვის მსხვერპლად).",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "თხა-ვარაზი"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "თხის"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "სინდისფარად"
+    }
+  ],
+  "timestamp": "2026-09-06T20:30:52.160826690Z",
+  "model": "glm-5.3"
+}

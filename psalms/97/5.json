@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 97,
+  "translation": "მთები, როგორც ცვილი, დადნენ იაჰვეს წინაშე, ყველა მიწის ადონის წინაშე.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "მთები"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "ცვილი"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "დადნენ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "წინაშე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "წინაშე"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "ადონი"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:00:24.649059535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "genesis 27:43",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 27,
+  "translation": "ახლა კი, შვილო ჩემო, მომისმინე და ადგი, გაიქეცი შენ ლავანთან, ძმასა ჩემსა, ხარანს.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ახლა კი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "შვილო ჩემო"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "მომისმინე"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "ხმა ჩემი"
+    },
+    {
+      "surface": "וקום",
+      "gloss": "ადგი"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "გაიქეცი"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-თან"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ლავანი"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ძმა ჩემი"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "ხარანს"
+    }
+  ],
+  "timestamp": "2026-09-06T03:54:58.279582245Z",
+  "model": "glm-5.3"
+}

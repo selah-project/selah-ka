@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 21:22",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "ქალაქს გმირთა ავარდა ბრძენი და დაამხო ძალა სასოებისა მისისა.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "ქალაქი"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "გმირების"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ავარდა"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ბრძენმა"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "და დაამხო"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ძალა"
+    },
+    {
+      "surface": "מבטחה",
+      "gloss": "სასოებისა"
+    }
+  ],
+  "timestamp": "2026-09-06T16:31:21.360499095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 34,
+  "translation": "მოდით, შვილებო, მისმინეთ ჩემი: იაჰვეს შიშს გასწავლით თქვენ.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "მოდით"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "შვილებო"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "მისმინეთ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ჩემი"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "შიში"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "გასწავლით თქვენ"
+    }
+  ],
+  "timestamp": "2026-09-06T09:40:25.240414771Z",
+  "model": "glm-5.3"
+}

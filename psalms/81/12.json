@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 81:12",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 81,
+  "translation": "და არ ისმინა ჩემმა ხალხმა ჩემს ხმას, და იშრაელმა არ ინება მე.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ისმინა"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ჩემი ხალხი"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "ჩემს ხმას"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "და იშრაელი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "ინება"
+    },
+    {
+      "surface": "לי",
+      "gloss": "მე"
+    }
+  ],
+  "timestamp": "2026-09-06T09:55:20.789188113Z",
+  "model": "glm-5.3"
+}

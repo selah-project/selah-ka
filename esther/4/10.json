@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 4:10",
+  "book": "esther",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და თქვა ესთერმა ჰათაქს და დაავალა ⟨მას⟩ მორდექაისთვის:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ესთერი"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "ჰათაქს"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "და დაავალა მას"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "მორდექაი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:00:00.360532095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 34:19",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 34,
+  "translation": "და ესენი სახელები კაცთა: იეჰუდას ტომიდან — ქალევი, იეფუნეს ძე.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "და ესენი"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "სახელები"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "კაცთა"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ტომიდან"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "იეჰუდა"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ქალევი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "იეფუნე"
+    }
+  ],
+  "timestamp": "2026-09-06T05:20:57.146584083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "და დანიშნა იაჰვემ დრო, ეტყოდა: ხვალ აღასრულებს იაჰვე ამ სიტყვას ქვეყანაში.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "და დანიშნა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "დრო"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ეტყოდა"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ხვალ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "აღასრულებს"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ამ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ქვეყანაში"
+    }
+  ],
+  "timestamp": "2026-09-06T04:15:24.578545647Z",
+  "model": "glm-5.3"
+}

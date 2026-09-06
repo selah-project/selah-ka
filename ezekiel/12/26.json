@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 12:26",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "და იყო იაჰვეს სიტყვა ჩემდამი ასე:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "და იყო"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემდამი"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ასე თქმისას"
+    }
+  ],
+  "timestamp": "2026-09-06T08:38:24.271917460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 41,
+  "translation": "ამით ვიცი, რომ გიხარია ჩემით, რომ არ იყიჟინებს ჩემი მტერი ჩემ ზედა.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "ამით"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ვიცი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "გიხარია"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ჩემით"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "იყიჟინებს"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ჩემი მტერი"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ჩემ ზედა"
+    }
+  ],
+  "timestamp": "2026-09-06T09:42:55.145166632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 21:30",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "არ ⟨არის⟩ სიბრძნე და არ ⟨არის⟩ გაგება და არ ⟨არის⟩ საბჭო იაჰვეს წინააღმდეგ.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "არ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "სიბრძნე"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "გაგება"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "საბჭო"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "წინააღმდეგ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:24:18.607512336Z",
+  "model": "glm-5.3"
+}

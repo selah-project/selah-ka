@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 1:9",
+  "book": "song-of-songs",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "ჩემო მშვენიერებავ, ფაროჰის ეტლთა შორის შეგადარებ, ჩემო რაიავ.",
+  "tokens": [
+    {
+      "surface": "לססתי",
+      "gloss": "ჩემო მშვენიერებავ"
+    },
+    {
+      "surface": "ברכבי",
+      "gloss": "ეტლთა შორის"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ფაროჰი"
+    },
+    {
+      "surface": "דמיתיך",
+      "gloss": "შეგადარებ"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "ჩემო რაიავ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:47:20.055116247Z",
+  "model": "glm-5.3"
+}

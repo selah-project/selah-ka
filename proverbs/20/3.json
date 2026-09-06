@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 20,
+  "translation": "პატივი ⟨არის⟩ კაცს შეწყვეტა კამათისა, ხოლო ყოველი სულელი ჩხუბს.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "პატივი"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "კაცს"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "შეწყვეტა"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "კამათი"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ხოლო ყოველი"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "სულელი"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "ჩხუბს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:24:30.708110227Z",
+  "model": "glm-5.3"
+}

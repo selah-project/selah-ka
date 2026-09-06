@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 26:52",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "და ელაპარაკა იაჰვე მოშეს, რომ ეტყო:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "და ელაპარაკა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "რომ ეტყო"
+    }
+  ],
+  "timestamp": "2026-09-06T05:16:14.369586959Z",
+  "model": "glm-5.3"
+}

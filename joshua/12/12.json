@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "ეგლონის მეფე, ერთი; გეზერის მეფე, ერთი;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "ეგლონი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "გეზერი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:51:12.912838041Z",
+  "model": "glm-5.3"
+}

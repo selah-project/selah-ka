@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 51:42",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 51,
+  "translation": "აღმოვარდა ზღვა ბაველზე; მისი მრავალი ტალღებით დაიფარა ⟨ის⟩.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "აღმოვარდა"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზედ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ბაველი"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ზღვა"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "მრავალი"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "მისი ტალღები"
+    },
+    {
+      "surface": "נכסתה",
+      "gloss": "დაიფარა"
+    }
+  ],
+  "timestamp": "2026-09-06T08:31:00.271821099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "და იცოცხლა არფაქშადმა ოცდათხუთმეტი წელიწადი და შვა ⟨את⟩ შელახი (სალა).",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "და არფაქშადი"
+    },
+    {
+      "surface": "חי",
+      "gloss": "იცოცხლა"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ხუთი"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ოცდა"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელიწადი"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "და შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "შელახი"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "შელახი"
+    }
+  ],
+  "timestamp": "2026-09-06T03:45:43.604733715Z",
+  "model": "glm-5.3"
+}

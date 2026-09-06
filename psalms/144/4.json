@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 144,
+  "translation": "ადამი ჰებელს ჰგავს; მისი დღეები როგორც მიმავარი ჩრდილი.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ადამი"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "ჰებელს"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "ჰგავს"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "მისი დღეები"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "როგორც ჩრდილი"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "მიმავარი"
+    }
+  ],
+  "timestamp": "2026-09-06T17:23:58.348337511Z",
+  "model": "glm-5.3"
+}

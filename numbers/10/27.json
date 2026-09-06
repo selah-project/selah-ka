@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 10:27",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "ხოლო ლაშქარზე ტომისა — ნაფთალის შვილთა — ⟨იყო⟩ ახირა, ძე ენანისი.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ხოლო ... -ზე"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ლაშქარი"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ტომი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ნაფთალი"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "ახირა"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "ენანი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:27:01.642255800Z",
+  "model": "glm-5.3"
+}

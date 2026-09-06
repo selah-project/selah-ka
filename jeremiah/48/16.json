@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 48:16",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 48,
+  "translation": "ახლოა მოაბის უბედურება მოსვლად, და მისი ბოროტება ჩქარობს ფრიად.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "ახლოა"
+    },
+    {
+      "surface": "איד",
+      "gloss": "უბედურება"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "მოაბის"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "მოსვლად"
+    },
+    {
+      "surface": "ורעתו",
+      "gloss": "და მისი ბოროტება"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "ჩქარობს"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ფრიად"
+    }
+  ],
+  "timestamp": "2026-09-06T13:26:34.694717533Z",
+  "model": "glm-5.3"
+}

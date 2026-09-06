@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 29,
+  "translation": "და არ მისცა იაჰვემ თქვენ გული ცოდნად, და თვალები ხედვად, და ყურები სმენად, აქამდე ამ დღემდე.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "მისცა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "თქვენ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "გული"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ცოდნად"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "და თვალები"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ხედვად"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "და ყურები"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "სმენად"
+    },
+    {
+      "surface": "עד",
+      "gloss": "აქამდე"
+    },
+    {
+      "surface": "היום",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ეს"
+    }
+  ],
+  "timestamp": "2026-09-06T12:35:28.910970698Z",
+  "model": "glm-5.3"
+}

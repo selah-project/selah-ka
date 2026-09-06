@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 91,
+  "translation": "არ იშინებ ღამის შიშს, დღით მფრინავ ისარს.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "იშინებ"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "შიში"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ღამე"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "ისარი"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "მფრინავი"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "დღით"
+    }
+  ],
+  "timestamp": "2026-09-06T20:34:40.451101997Z",
+  "model": "glm-5.3"
+}

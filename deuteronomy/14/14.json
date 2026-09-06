@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "და ⟨את⟩ ყოველი ქარვაშა თავის სახეობად.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ყოველი ქარვაშა"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყოველი"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ქარვაშა"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "თავის სახეობად"
+    }
+  ],
+  "timestamp": "2026-09-06T12:32:06.740849082Z",
+  "model": "glm-5.3"
+}

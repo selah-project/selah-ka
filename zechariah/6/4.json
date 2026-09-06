@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 6:4",
+  "book": "zechariah",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "და მივუგე და ვუთხარი ანგელოზს, რომელიც მესაუბრა ჩემში: რა არის ეს, ჩემო ბატონო?",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "მივუგე"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ვუთხარი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ანგელოზი"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "მოსაუბრე"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ჩემში"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ჩემო ბატონო"
+    }
+  ],
+  "timestamp": "2026-09-06T09:26:08.517037781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 22:27",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "თუ არ გაქვს რაც გადაიხადო, რატომ წაგიღებს ⟨ის⟩ შენს საწოლს შენს ქვემოთ?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "არ არის"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "გადასახდელად"
+    },
+    {
+      "surface": "למה",
+      "gloss": "რატომ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "წაიღებს"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "შენი საწოლი"
+    },
+    {
+      "surface": "מתחתיך",
+      "gloss": "შენს ქვემოთ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:24:58.570713817Z",
+  "model": "glm-5.3"
+}

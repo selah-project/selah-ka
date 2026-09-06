@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 109,
+  "translation": "იყვნენ მისი დღენი მცირენი, და სხვამ აიღოს მისი სამსახური.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "იყვნენ"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "მისი დღენი"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "მცირენი"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "მისი სამსახური"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "აიღოს"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "სხვამ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:05:07.887172759Z",
+  "model": "glm-5.3"
+}

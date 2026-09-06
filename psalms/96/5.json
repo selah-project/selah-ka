@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 96:5",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 96,
+  "translation": "რადგან ყველა ხალხთა ღმერთები ⟨არიან⟩ კერპები, ხოლო იაჰვემ შექმნა ცა.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ღმერთები"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ხალხთა"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "კერპები"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ცა"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "შექმნა"
+    }
+  ],
+  "timestamp": "2026-09-06T09:59:40.102487717Z",
+  "model": "glm-5.3"
+}

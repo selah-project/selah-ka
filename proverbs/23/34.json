@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 23:34",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "და იქნები როგორც მწოლარე ზღვის გულში და როგორც მწოლარე ანძის თავზე.",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "იქნები"
+    },
+    {
+      "surface": "כשכב",
+      "gloss": "როგორც მწოლარე"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "გულში"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ზღვა"
+    },
+    {
+      "surface": "וכשכב",
+      "gloss": "და როგორც მწოლარე"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "თავზე"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ანძა"
+    }
+  ],
+  "timestamp": "2026-09-06T19:16:13.364530758Z",
+  "model": "glm-5.3"
+}

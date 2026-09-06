@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "შენ გადადიხარ დღეს ⟨את⟩ მოაბის საზღვარს, ⟨את⟩ არს,",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "გადადიხარ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მოაბის საზღვარს"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "საზღვარი"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "მოაბი"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "არს"
+    },
+    {
+      "surface": "ער",
+      "gloss": "არი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:30:27.477150602Z",
+  "model": "glm-5.3"
+}

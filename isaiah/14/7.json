@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 14:7",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "დასვენდა, დამშვიდდა მთელი მიწა, ამოხეთეს ზახირი.",
+  "tokens": [
+    {
+      "surface": "נָחָה",
+      "gloss": "დასვენდა"
+    },
+    {
+      "surface": "שָׁקְטָה",
+      "gloss": "დამშვიდდა"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "მთელი"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "פָּצְחוּ",
+      "gloss": "ამოხეთეს"
+    },
+    {
+      "surface": "רִנָּה",
+      "gloss": "ზახირი"
+    }
+  ],
+  "timestamp": "2026-09-06T07:34:10.389108781Z",
+  "model": "glm-5.3"
+}

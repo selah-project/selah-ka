@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "numbers 7:57",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ერთი ხარი, საქონლის ძე, ერთი ვერძი, ერთი ბატკანი, წლის ძე, საამოსაწველად.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ხარი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "საქონელი"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ვერძი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ბატკანი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "წლის ძე"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "საამოსაწველად"
+    }
+  ],
+  "timestamp": "2026-09-06T17:51:44.739033381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 8:33",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "მისმინეთ მოძღვრება და დაბრძენდით და არ მოაგდოთ ⟨ის⟩.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "მისმინეთ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "მოძღვრება"
+    },
+    {
+      "surface": "וחכמו",
+      "gloss": "და დაბრძენდით"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "תפרעו",
+      "gloss": "მოაგდოთ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:18:02.121992318Z",
+  "model": "glm-5.3"
+}

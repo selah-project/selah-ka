@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 37,
+  "translation": "და თქვა: ⟨את⟩ ჩემს ძმებს ვეძებ. მითხარი ახლა მე, სად არიან ⟨ისინი⟩ მწვალებლობენ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ჩემს ძმებს"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ჩემი ძმები"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ვეძებ"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "მითხარი"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ახლა"
+    },
+    {
+      "surface": "לי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "სად"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ისინი"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "მწვალებლობენ"
+    }
+  ],
+  "timestamp": "2026-09-06T04:01:09.788652545Z",
+  "model": "glm-5.3"
+}

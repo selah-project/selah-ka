@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "1-samuel 17:56",
+  "book": "1-samuel",
+  "lang": "ka",
+  "chapter": 17,
+  "translation": "და თქვა მეფემ: შენ გამოიკითხე, ვის ძე არის ეს ყმაწვიკი.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "გამოიკითხე"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ვის"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "ყმაწვიკი"
+    }
+  ],
+  "timestamp": "2026-09-06T06:24:20.733816629Z",
+  "model": "glm-5.3"
+}

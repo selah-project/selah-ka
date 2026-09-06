@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 17:16",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 17,
+  "translation": "და ილაპარაკა იაჰვემ მოშესთან და უთხრა:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "და ილაპარაკა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-სთან"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "და უთხრა"
+    }
+  ],
+  "timestamp": "2026-09-06T05:09:20.047591555Z",
+  "model": "glm-5.3"
+}

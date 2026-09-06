@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 26:46",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "და აშერის ასულის სახელი ⟨არის⟩ სერახი.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "და სახელი"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ასული"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "აშერი"
+    },
+    {
+      "surface": "שרח",
+      "gloss": "სერახი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:16:22.680713401Z",
+  "model": "glm-5.3"
+}

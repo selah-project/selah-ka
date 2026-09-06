@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 128,
+  "translation": "და იხილოვე შენი შვილების შვილები; შალომი იშრაელზე!",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "და იხილოვე"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "შენი შვილების"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "შალომი"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე\/ზედ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:09:55.562325452Z",
+  "model": "glm-5.3"
+}

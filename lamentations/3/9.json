@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 3:9",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "ჩაკეტა ჩემი გზები ნათალი ქვით, ჩემი ბილიკები დაახრიკა.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "ჩაკეტა"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ჩემი გზები"
+    },
+    {
+      "surface": "בגזית",
+      "gloss": "ნათალი ქვით"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "ჩემი ბილიკები"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "დაახრიკა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:52:25.803234026Z",
+  "model": "glm-5.3"
+}

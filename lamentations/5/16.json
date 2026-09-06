@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "დავარდა გვირგვინი ჩვენი თავისა; ვაი აწ ჩვენზე, რადგან შევცოდეთ.",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "დავარდა"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "გვირგვინი"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "ჩვენი თავი"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ვაი"
+    },
+    {
+      "surface": "נא",
+      "gloss": "აწ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ჩვენზე"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "შევცოდეთ"
+    }
+  ],
+  "timestamp": "2026-09-06T14:47:23.561558918Z",
+  "model": "glm-5.3"
+}

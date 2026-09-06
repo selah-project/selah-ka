@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 50:13",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 50,
+  "translation": "განა ვჭამ აბირთა ხორცს და მათხებს სისხლს დავლიო?",
+  "tokens": [
+    {
+      "surface": "האוכל",
+      "gloss": "განა ვჭამ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ხორცი"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "აბირები"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "და სისხლი"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "მათხები"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "დავლიო"
+    }
+  ],
+  "timestamp": "2026-09-06T09:45:46.849885261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "და მერვე დღეს წინადაიცვეთება მისი წინადაცვეთის ხორცი.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "და დღეს"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "მერვე"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "წინადაიცვეთება"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ხორცი"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "მისი წინადაცვეთის"
+    }
+  ],
+  "timestamp": "2026-09-06T04:41:41.759706131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 14:54",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "ეს ⟨არის⟩ თორა ყოველი ცარაათის დარტყმისთვის და გაქერცლისთვის.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "თორა"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ყოველი...თვის"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "დარტყმა"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "ცარაათი"
+    },
+    {
+      "surface": "ולנתק",
+      "gloss": "და გაქერცლისთვის"
+    }
+  ],
+  "timestamp": "2026-09-06T20:31:56.568391621Z",
+  "model": "glm-5.3"
+}

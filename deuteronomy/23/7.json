@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "არ მოიძიო მათი მშვიდობა და მათი სიკეთე ყველა შენს დღე, საუკუნოდ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "მოიძიო"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "მათი მშვიდობა"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "და მათი სიკეთე"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "შენი დღე"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "საუკუნოდ"
+    }
+  ],
+  "timestamp": "2026-09-06T05:38:50.411048071Z",
+  "model": "glm-5.3"
+}

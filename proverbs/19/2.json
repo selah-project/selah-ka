@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "აგრეთვე, ცოდნის გარეშე ნეფეში ⟨არის⟩ არა-კეთილი, და ფეხებით მჩქეფარე ასცდება.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "აგრეთვე"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "გარეშე"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ცოდნა"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ნეფეში"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "კეთილი"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "და იჩქარებს"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "ფეხებით"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "ასცდება"
+    }
+  ],
+  "timestamp": "2026-09-06T17:04:45.820687697Z",
+  "model": "glm-5.3"
+}

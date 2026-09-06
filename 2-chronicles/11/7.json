@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "და ⟨את⟩ ბეთ-ცური, და ⟨את⟩ სოქოჰი, და ⟨את⟩ ადულამი (ადულამი).",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ბეთ-ცური"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ბეთ-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ცური"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "სოქოჰი"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "სოქოჰი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ადულამი"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "ადულამი"
+    }
+  ],
+  "timestamp": "2026-09-06T17:06:58.338349857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 2:20",
+  "book": "ezra",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "გიბარის ძენი — ოთხმოცი და ხუთი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "გიბარი"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ოთხმოცი"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "და ხუთი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:13:34.966428596Z",
+  "model": "glm-5.3"
+}

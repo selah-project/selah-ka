@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 4:13",
+  "book": "song-of-songs",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "შენი ყლორტები პარდესია ბროწეულისა, საუკეთესო ნაყოფთა თანა; კოფერი — ნარდთა თანა.",
+  "tokens": [
+    {
+      "surface": "שלחיך",
+      "gloss": "შენი ყლორტები"
+    },
+    {
+      "surface": "פרדס",
+      "gloss": "პარდესი"
+    },
+    {
+      "surface": "רמונים",
+      "gloss": "ბროწეული"
+    },
+    {
+      "surface": "עם",
+      "gloss": "თანა"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ნაყოფი"
+    },
+    {
+      "surface": "מגדים",
+      "gloss": "საუკეთესო"
+    },
+    {
+      "surface": "כפרים",
+      "gloss": "კოფერი"
+    },
+    {
+      "surface": "עם",
+      "gloss": "თანა"
+    },
+    {
+      "surface": "נרדים",
+      "gloss": "ნარდი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:48:23.379204182Z",
+  "model": "glm-5.3"
+}

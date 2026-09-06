@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 37:5",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 37,
+  "translation": "ასე თქვა ადონაი იაჰვემ ამ ძვლებს: აჰა, მე შეგიყვან თქვენში სულს, და იცოცხლებთ.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ადონაი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "לעצמות",
+      "gloss": "ძვლებს"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "შემოყვანა"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "თქვენში"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "სული"
+    },
+    {
+      "surface": "וחייתם",
+      "gloss": "იცოცხლებთ"
+    }
+  ],
+  "timestamp": "2026-09-06T08:56:18.478952914Z",
+  "model": "glm-5.3"
+}

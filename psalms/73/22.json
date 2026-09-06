@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 73,
+  "translation": "ხოლო მე უგუნური ვიყავი და არ ვცოდი; პირუტყვი ვიყავი შენთან.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ხოლო მე"
+    },
+    {
+      "surface": "בער",
+      "gloss": "უგუნური"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ვცოდი"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "პირუტყვი"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ვიყავი"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "შენთან"
+    }
+  ],
+  "timestamp": "2026-09-06T14:10:27.243858655Z",
+  "model": "glm-5.3"
+}

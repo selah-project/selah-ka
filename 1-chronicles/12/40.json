@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 12:40",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "და იყვნენ იქ დავიდთან სამ დღეს, მჭმელნი და მსმელნი, რადგან მოუმზადეს მათ მათმა ძმებმა.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "იყვნენ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "იქ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "თან"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "დავიდი"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "שלושה",
+      "gloss": "სამი"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "მჭმელნი"
+    },
+    {
+      "surface": "ושותים",
+      "gloss": "მსმელნი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "მოუმზადეს"
+    },
+    {
+      "surface": "להם",
+      "gloss": "მათ"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "მათი ძმები"
+    }
+  ],
+  "timestamp": "2026-09-06T11:33:25.653182393Z",
+  "model": "glm-5.3"
+}

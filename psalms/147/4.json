@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 147,
+  "translation": "თვლის რიცხვს ვარსკვლავთა, ყველას სახელებს უწოდებს.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "თვლის"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "რიცხვი"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "ვარსკვლავები"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "ყველას"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "სახელები"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "უწოდებს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:14:29.373064497Z",
+  "model": "glm-5.3"
+}

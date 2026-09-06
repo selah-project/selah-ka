@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 8:37",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და მოცამ შვა ⟨את⟩ ბინეა; რაფა ძე მისი, ელეასა ძე მისი, აცელ ძე მისი.",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "და მოცამ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ბინეა"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "ბინეა"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "რაფა"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ძე მისი"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "ელეასა"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ძე მისი"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "აცელ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ძე მისი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:30:33.669026776Z",
+  "model": "glm-5.3"
+}

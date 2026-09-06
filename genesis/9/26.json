@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 9:26",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "და თქვა: კურთხეულია იაჰვე, შემის ელოჰიმი; და იყოს ქენაანი მათთვის მონა.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "კურთხეული"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "שם",
+      "gloss": "შემი"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "და იყოს"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ქენაანი"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "მონა"
+    },
+    {
+      "surface": "למו",
+      "gloss": "მათთვის"
+    }
+  ],
+  "timestamp": "2026-09-06T03:43:33.976424934Z",
+  "model": "glm-5.3"
+}

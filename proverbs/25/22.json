@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 25:22",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "რადგან ნაკვერთებს აერთებ შენ მის თავზე, და იაჰვე მოაგებს შენს.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "ნაკვერთები"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "აერთებ"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "მისი თავი"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "და იაჰვე"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "მოაგებს"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენ"
+    }
+  ],
+  "timestamp": "2026-09-06T14:30:00.368737267Z",
+  "model": "glm-5.3"
+}

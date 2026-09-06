@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "joshua 19:44",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "და ელთეკე, და გიბთონი, და ბაალათ.",
+  "tokens": [
+    {
+      "surface": "ואלתקה",
+      "gloss": "და ელთეკე"
+    },
+    {
+      "surface": "וגבתון",
+      "gloss": "და გიბთონი"
+    },
+    {
+      "surface": "ובעלת",
+      "gloss": "და ბაალათ"
+    }
+  ],
+  "timestamp": "2026-09-06T12:40:16.531063301Z",
+  "model": "glm-5.3"
+}

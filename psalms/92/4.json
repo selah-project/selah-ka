@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 92,
+  "translation": "ათსიმიანზე და ნეველზე, ჰიგაიონზე, ქნარასთან.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "ათსიმიანი"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "და -ზე"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ნეველი"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "ჰიგაიონი"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ქნარასთან"
+    }
+  ],
+  "timestamp": "2026-09-06T09:59:48.576851798Z",
+  "model": "glm-5.3"
+}

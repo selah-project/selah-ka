@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 105:17",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 105,
+  "translation": "გაგზავნა მათ წინაშე კაცი — მონად გაიყიდა იოსეფი (იოსები).",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "გაგზავნა"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "მათ წინაშე"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "მონად"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "გაიყიდა"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "იოსეფი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:03:47.239400699Z",
+  "model": "glm-5.3"
+}

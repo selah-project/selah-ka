@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 8:15",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და ზევადიაჰი, და არადი, და ედერი,",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "და ზევადიაჰი"
+    },
+    {
+      "surface": "וערד",
+      "gloss": "და არადი"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "და ედერი"
+    }
+  ],
+  "timestamp": "2026-09-06T18:46:47.466211459Z",
+  "model": "glm-5.3"
+}

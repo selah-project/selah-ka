@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და დაუძაბვს ⟨את⟩ დასაწველს და დაჭრის ⟨את⟩ მას თავის ნაჭრებად.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "დაუძაბვს"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "დასაწველს"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "დასაწველი"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "დაჭრის"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "მას"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "თავის ნაჭრებად"
+    }
+  ],
+  "timestamp": "2026-09-06T12:18:34.786034785Z",
+  "model": "glm-5.3"
+}

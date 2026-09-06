@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 119,
+  "translation": "⟨את⟩ შენს დადგენილებებს დავიცავ; ნუ მიტოვებ ძალიან.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "შენს დადგენილებებს"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "შენი დადგენილებები"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "დავიცავ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "მიტოვებ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "მდე"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ძალიან"
+    }
+  ],
+  "timestamp": "2026-09-06T16:27:23.111488374Z",
+  "model": "glm-5.3"
+}

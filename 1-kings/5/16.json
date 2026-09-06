@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 5:16",
+  "book": "1-kings",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "და გააგზავნა შელომომ ხირამთან ⟨სიტყვით⟩:",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "გააგზავნა"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "შელომო"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ხირამთან"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ხირამი"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სიტყვით"
+    }
+  ],
+  "timestamp": "2026-09-06T12:55:03.858866025Z",
+  "model": "glm-5.3"
+}

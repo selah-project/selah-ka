@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 28:21",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 28,
+  "translation": "მეათედი მეათედი გაუკეთე ერთ კრავს, შვიდივე კრავისთვის.",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "მეათედი"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "მეათედი"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "გააკეთე"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "კრავს"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "შვიდი"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "კრავები"
+    }
+  ],
+  "timestamp": "2026-09-06T05:16:37.765690269Z",
+  "model": "glm-5.3"
+}

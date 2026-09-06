@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 38:27",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 38,
+  "translation": "და იყო მისი ბადების დროს, და აჰა — ტყუპები მის მუცელში.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "და იყო"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "დროს"
+    },
+    {
+      "surface": "לדתה",
+      "gloss": "მისი ბადება"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "და აჰა"
+    },
+    {
+      "surface": "תאומים",
+      "gloss": "ტყუპები"
+    },
+    {
+      "surface": "בבטנה",
+      "gloss": "მის მუცელში"
+    }
+  ],
+  "timestamp": "2026-09-06T04:02:40.225284342Z",
+  "model": "glm-5.3"
+}

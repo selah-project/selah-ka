@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ნუ იჩქარო შენს სულში განრისხებად, რადგან რისხვა სულელთა წიაღში ისვენებს.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "იჩქარო"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "შენს სულში"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "განრისხებად"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "რისხვა"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "წიაღში"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "სულელთა"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "ისვენებს"
+    }
+  ],
+  "timestamp": "2026-09-06T16:37:05.166254251Z",
+  "model": "glm-5.3"
+}

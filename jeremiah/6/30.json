@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 6:30",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "უარყოფილ ვერცხლად უწოდებენ მათ, რადგან უარყო იაჰვემ ⟨ისინი⟩.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "ვერცხლი"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "უარყოფილი"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "უწოდებენ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "მათ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "უარყო"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვემ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ისინი"
+    }
+  ],
+  "timestamp": "2026-09-06T13:18:10.071351439Z",
+  "model": "glm-5.3"
+}

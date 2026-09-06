@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "და ეს ⟨არის⟩ ის, რომელთაგან არ შეჭამთ: მარწყრია, და პერესი, და აზნია.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "და ეს"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელთაგან"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "შეჭამთ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "მათგან"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "მარწყრია"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "და პერესი"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "და აზნია"
+    }
+  ],
+  "timestamp": "2026-09-06T05:30:08.351166254Z",
+  "model": "glm-5.3"
+}

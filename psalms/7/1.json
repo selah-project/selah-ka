@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "შიგაიონი დავითისა, რომელიც უმღეროდა იაჰვეს — კუშ ბენ-იამინის სიტყვებზე.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "შიგაიონი"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "დავითის"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "שר",
+      "gloss": "უმღეროდა"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "სიტყვები"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "კუში"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "იამინის"
+    }
+  ],
+  "timestamp": "2026-09-06T09:32:07.774755532Z",
+  "model": "glm-5.3"
+}

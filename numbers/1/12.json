@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 1:12",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "დანს — ახიეზერი ძე ამიშადაისა.",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "დანს"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "ახიეზერი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "ამიშადაი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:58:06.030745352Z",
+  "model": "glm-5.3"
+}

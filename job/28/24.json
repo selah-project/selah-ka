@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 28:24",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 28,
+  "translation": "რადგან ის მიწის კიდეებს შეხედავს, მთელ ცას ქვეშ ხედავს.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "לקצות",
+      "gloss": "კიდეებამდე"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "შეხედავს"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ქვეშ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "მთელი"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ცა"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ხედავს"
+    }
+  ],
+  "timestamp": "2026-09-06T14:38:44.351198352Z",
+  "model": "glm-5.3"
+}

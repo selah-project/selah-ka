@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 24:25",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "და უთხრა მას: გამ საბანელი, გამ საკვები უხვი ⟨გვაქვს⟩ ჩვენთან, გამ ადგილი დასათევად.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "უთხრა"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "גם",
+      "gloss": "გამ"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "საბანელი"
+    },
+    {
+      "surface": "גם",
+      "gloss": "გამ"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "საკვები"
+    },
+    {
+      "surface": "רב",
+      "gloss": "უხვი"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ჩვენთან"
+    },
+    {
+      "surface": "גם",
+      "gloss": "გამ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ადგილი"
+    },
+    {
+      "surface": "ללון",
+      "gloss": "დასათევად"
+    }
+  ],
+  "timestamp": "2026-09-06T03:52:54.582015718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 19:1",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "შენ კი ასწიე სატირლო იშრაელის მთავრებზე.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "შენ კი"
+    },
+    {
+      "surface": "שא",
+      "gloss": "ასწიე"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "სატირლო"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მთავრებზე"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "მთავრები"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    }
+  ],
+  "timestamp": "2026-09-06T20:34:23.789177079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 6:22",
+  "book": "daniel",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "მაშინ დანიელმა მეფეს მიუგო: მეფეო, სამარადისოდ იცოცხლე.",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "მაშინ"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "დანიელმა"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-თან"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "מלל",
+      "gloss": "მიუგო"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "მეფეო"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "სამარადისოდ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "იცოცხლე"
+    }
+  ],
+  "timestamp": "2026-09-06T11:10:38.696366341Z",
+  "model": "glm-5.3"
+}

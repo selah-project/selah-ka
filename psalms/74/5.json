@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 74,
+  "translation": "ცნობილი ⟨იყო⟩ ⟨ის⟩, როგორც ზემოთ ამომტანი — ხის ხშებში ცულები.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "ცნობილი"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "როგორც ამომტანი"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ზემოთ"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "ხშებში"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ხე"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "ცულები"
+    }
+  ],
+  "timestamp": "2026-09-06T09:53:29.720509920Z",
+  "model": "glm-5.3"
+}

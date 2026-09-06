@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "არ დაშორდე ჩემგან, რადგან წვალება ⟨არის⟩ ახლოს, რადგან შემწე არ ⟨არის⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "დაშორდე"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ჩემგან"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "წვალება"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "ახლოს"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "אין",
+      "gloss": "არ ⟨არის⟩"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "შემწე"
+    }
+  ],
+  "timestamp": "2026-09-06T16:22:03.071447894Z",
+  "model": "glm-5.3"
+}

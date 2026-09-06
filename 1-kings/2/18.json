@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და თქვა ბათ-შევამ: კეთილი ⟨არის⟩; მე შენთვის ვილაპარაკებ მეფესთან.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ბათ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "შევა"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "კეთილი"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ვილაპარაკებ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "შენთვის"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-სთან"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "მეფე"
+    }
+  ],
+  "timestamp": "2026-09-06T06:53:47.588308687Z",
+  "model": "glm-5.3"
+}

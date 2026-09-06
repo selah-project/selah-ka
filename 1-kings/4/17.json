@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 4:17",
+  "book": "1-kings",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "იეჰოშაფატი, ფარუახის ძე, იყო ⟨არის⟩ იშაშქარში.",
+  "tokens": [
+    {
+      "surface": "יהושפט",
+      "gloss": "იეჰოშაფატი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "פרוח",
+      "gloss": "ფარუახის"
+    },
+    {
+      "surface": "ביששכר",
+      "gloss": "იშაშქარში"
+    }
+  ],
+  "timestamp": "2026-09-06T18:11:08.793904964Z",
+  "model": "glm-5.3"
+}

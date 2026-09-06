@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 3:12",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "დაიხრა მისი მშვილდი და დამიყენა სამიზნედ ისრისთვის.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "დაიხრა"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "მისი მშვილდი"
+    },
+    {
+      "surface": "ויציבני",
+      "gloss": "და დამიყენა"
+    },
+    {
+      "surface": "כמטרא",
+      "gloss": "სამიზნედ"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "ისრისთვის"
+    }
+  ],
+  "timestamp": "2026-09-06T10:52:25.803671199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 99,
+  "translation": "იაჰვე დიდი ⟨არის⟩ ციონში, და მაღალი ⟨არის⟩ ის ყველა ხალხებზე.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ციონში"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "დიდი"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "და მაღალი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ხალხები"
+    }
+  ],
+  "timestamp": "2026-09-06T10:01:56.465114411Z",
+  "model": "glm-5.3"
+}

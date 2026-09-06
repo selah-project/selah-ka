@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 9:21",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "უმანკო ვარ — არ ვიცნობ ჩემს ნეფეშს, უარვყოფ ჩემს სიცოცხლეს.",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "უმანკო"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ვიცნობ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ჩემი ნეფეში"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "უარვყოფ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ჩემი სიცოცხლე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:33:42.710776102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "არ შეგიძულდეს ედომელი, რადგან შენი ძმა ⟨არის⟩ ის; არ შეგიძულდეს მიცრიელი, რადგან მწირი იყავი მის მიწაზე.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "შეგიძულდეს"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "ედომელი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "შენი ძმა"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "შეგიძულდეს"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "მიცრიელი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "גר",
+      "gloss": "მწირი"
+    },
+    {
+      "surface": "היית",
+      "gloss": "იყავი"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "მის მიწაზე"
+    }
+  ],
+  "timestamp": "2026-09-06T05:38:50.411189022Z",
+  "model": "glm-5.3"
+}

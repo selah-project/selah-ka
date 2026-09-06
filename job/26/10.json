@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 26:10",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "საზღვრად აღწერს წრეს წყლების სახეზე — სინათლის ბოლომდე, ბნელთან ერთად.",
+  "tokens": [
+    {
+      "surface": "חק",
+      "gloss": "საზღვრად"
+    },
+    {
+      "surface": "חג",
+      "gloss": "აღწერს წრეს"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "פני",
+      "gloss": "სახე"
+    },
+    {
+      "surface": "מים",
+      "gloss": "წყლები"
+    },
+    {
+      "surface": "עד",
+      "gloss": "მდე"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "ბოლო"
+    },
+    {
+      "surface": "אור",
+      "gloss": "სინათლე"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ერთად"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ბნელი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:39:34.754649805Z",
+  "model": "glm-5.3"
+}

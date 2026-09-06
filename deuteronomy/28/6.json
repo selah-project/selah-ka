@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 28,
+  "translation": "კურთხეული ⟨იყოს⟩ შენ შენს შემოსვლაში და კურთხეული ⟨იყოს⟩ შენ შენს გასვლაში.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "კურთხეული"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "შენს შემოსვლაში"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "და კურთხეული"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "შენს გასვლაში"
+    }
+  ],
+  "timestamp": "2026-09-06T05:40:27.788530087Z",
+  "model": "glm-5.3"
+}

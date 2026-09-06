@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 43:18",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 43,
+  "translation": "ნუ გაიხსენებთ პირველთ, და წინანდელთ — ნუ განიხილავთ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "תזכרו",
+      "gloss": "გაიხსენებთ"
+    },
+    {
+      "surface": "ראשנות",
+      "gloss": "პირველთ"
+    },
+    {
+      "surface": "וקדמניות",
+      "gloss": "და წინანდელთ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "תתבננו",
+      "gloss": "განიხილავთ"
+    }
+  ],
+  "timestamp": "2026-09-06T16:00:12.796995091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "და დადგამ ⟨את⟩ მათ ორ რიგად, თითო რიგი — ექვსი, სუფთა მაგიდაზე, იაჰვეს წინაშე.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "დადგამ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "მათ (კვერები)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ორი"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "რიგი"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ექვსი"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "რიგი"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "მაგიდა"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "სუფთა"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "წინაშე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T04:55:08.102334447Z",
+  "model": "glm-5.3"
+}

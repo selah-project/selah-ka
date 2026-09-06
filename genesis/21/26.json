@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 21:26",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "და თქვა ავიმელექმა: არ ვიცოდი, ვინ ქმნა ⟨את⟩ ⟨ეს⟩ სიტყვა; და შენც არ მიამბო ჩემთვის, და მეც არ მსმენია გარდა დღეს.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ავიმელექი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ვიცოდი"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ქმნა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "სიტყვა"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "დაც"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "მიამბო"
+    },
+    {
+      "surface": "לי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "დაც"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "მსმენია"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "გარდა"
+    },
+    {
+      "surface": "היום",
+      "gloss": "დღე"
+    }
+  ],
+  "timestamp": "2026-09-06T03:50:04.857602100Z",
+  "model": "glm-5.3"
+}

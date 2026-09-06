@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "და დაბრუნდა მოშე ბანაკში, ის და იშრაელის მოხუცებულნი.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "და დაბრუნდა"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ში"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ბანაკი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "და მოხუცებულნი"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელის (ისრაელის)"
+    }
+  ],
+  "timestamp": "2026-09-06T05:08:07.801666356Z",
+  "model": "glm-5.3"
+}

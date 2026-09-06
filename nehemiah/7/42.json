@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "nehemiah 7:42",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ხარიმის ძენი — ათასი ჩვიდმეტი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ხარიმი"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ათასი"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "შვიდი"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ათი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:21:36.563796629Z",
+  "model": "glm-5.3"
+}

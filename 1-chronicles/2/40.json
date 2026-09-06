@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და შვა ელეასამ ⟨את⟩ სისმაი, და შვა სისმაიმ ⟨את⟩ შალუმი.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "და ელეასამ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "სისმაი"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "სისმაი"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "და სისმაიმ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "შალუმი"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "შალუმი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:26:05.114532301Z",
+  "model": "glm-5.3"
+}

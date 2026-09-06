@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 4:48",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და იყვნენ აღრიცხულნი მათგან რვა ათას ხუთას ოთხმოცი.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "და იყვნენ"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "აღრიცხულნი მათი"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "რვა"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ათასი"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "და ხუთი"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "და ოთხმოცი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:25:28.713476797Z",
+  "model": "glm-5.3"
+}

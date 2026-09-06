@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 9:22",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "და თავერაში, და მასაში, და კიბროთ-ჰათაავაში მრისხანენი იყავით ⟨את⟩ იაჰვე.",
+  "tokens": [
+    {
+      "surface": "ובתבערה",
+      "gloss": "და თავერაში"
+    },
+    {
+      "surface": "ובמסה",
+      "gloss": "და მასაში"
+    },
+    {
+      "surface": "ובקברת",
+      "gloss": "და კიბროთ-"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "ჰათაავა"
+    },
+    {
+      "surface": "מקצפים",
+      "gloss": "მრისხანენი"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "იყავით"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იაჰვე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T15:44:32.705132078Z",
+  "model": "glm-5.3"
+}

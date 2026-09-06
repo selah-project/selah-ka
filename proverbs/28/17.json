@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 28:17",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 28,
+  "translation": "ადამი, შებოჭილი ნეფეშის სისხლით, ორმომდე გაიქცევა — ნუ შეაჩერებენ მას.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ადამი"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "შებოჭილი"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "სისხლით"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ნეფეში"
+    },
+    {
+      "surface": "עד",
+      "gloss": "მდე"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ორმო"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "გაიქცევა"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "შეაჩერებენ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "მას"
+    }
+  ],
+  "timestamp": "2026-09-06T10:28:13.573302823Z",
+  "model": "glm-5.3"
+}

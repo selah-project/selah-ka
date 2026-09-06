@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 28:41",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 28,
+  "translation": "ვაჟებს და ასულებს დაბადებ, და არ იქნებიან შენი, რადგან ტყვეობაში წავლენ.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "ვაჟები"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "და ასულები"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "დაბადებ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "იქნებიან"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "წავლენ"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "ტყვეობაში"
+    }
+  ],
+  "timestamp": "2026-09-06T05:40:30.002182050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 41:1",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 41,
+  "translation": "და იყო ორი წლის, დღეთა ბოლოს, და ფარაოს (ფარაონს) ესიზმრა; და აჰა, ის ⟨იდგა⟩ იეორზე.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ბოლოს"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "ორი წელი"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "დღენი"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "და ფარაო"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "ესიზმრა"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "და აჰა"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "დგას"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "იეორი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:04:23.097054591Z",
+  "model": "glm-5.3"
+}

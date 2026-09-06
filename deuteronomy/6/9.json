@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "და დაწერ ისინი შენი სახლის კარების ბოძებზე და შენს ჭიშკრებზე.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "და დაწერ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "მეზუზები (კარის ბოძები)"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "შენი სახლი"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "და შენს ჭიშკრებში"
+    }
+  ],
+  "timestamp": "2026-09-06T05:25:57.798797273Z",
+  "model": "glm-5.3"
+}

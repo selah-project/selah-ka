@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 24:28",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "და ირბინა ქალწულმა და უამბო დედამისის სახლს ამ სიტყვებისამებრ.",
+  "tokens": [
+    {
+      "surface": "ותרץ",
+      "gloss": "ირბინა"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ქალწული"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "უამბო"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "სახლს"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "დედამისის"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "სიტყვებისამებრ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ამ"
+    }
+  ],
+  "timestamp": "2026-09-06T03:52:54.582772441Z",
+  "model": "glm-5.3"
+}

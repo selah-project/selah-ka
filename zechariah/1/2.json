@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "მრისხანებდა იაჰვე თქვენს მამებს — მრისხანებით!",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "მრისხანებდა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "თქვენი მამები"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "მრისხანება"
+    }
+  ],
+  "timestamp": "2026-09-06T13:47:40.300025437Z",
+  "model": "glm-5.3"
+}

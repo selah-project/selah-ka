@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "nehemiah 7:55",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "შვილნი ბარქოსისანი, შვილნი სისერასანი, შვილნი თემახისანი",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილნი"
+    },
+    {
+      "surface": "ברקוס",
+      "gloss": "ბარქოსი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "შვილნი"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "სისერა"
+    },
+    {
+      "surface": "בני",
+      "gloss": "შვილნი"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "თემახი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:21:58.368826269Z",
+  "model": "glm-5.3"
+}

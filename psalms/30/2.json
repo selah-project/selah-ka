@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 30:2",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "აგამაღლებ შენ, იაჰვეო, რადგან ამომიძალა და არ ახარე მტრები ჩემნი.",
+  "tokens": [
+    {
+      "surface": "ארוממך",
+      "gloss": "აგამაღლებ შენ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "דליתני",
+      "gloss": "ამომიძალა"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "ახარე"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "მტრები"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ჩემნი"
+    }
+  ],
+  "timestamp": "2026-09-06T13:58:55.074504596Z",
+  "model": "glm-5.3"
+}

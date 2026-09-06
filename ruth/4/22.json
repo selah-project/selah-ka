@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და ოვედმა შვა ⟨את⟩ იშაი, და იშაიმ შვა ⟨את⟩ დავიდი.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "ოვედი"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იშაი"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "იშაი"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "იშაი"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "დავიდი"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "დავიდი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:49:41.040497474Z",
+  "model": "glm-5.3"
+}

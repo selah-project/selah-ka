@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 11:18",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "ყველა ლევიტი წმიდა ქალაქში ⟨იყო⟩ ორას ოთხმოცდაოთხი.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ლევიტი"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ქალაქში"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "წმიდა"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ორასი"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "ოთხმოცი"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "და ოთხი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:24:42.187196270Z",
+  "model": "glm-5.3"
+}

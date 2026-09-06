@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "მიცრაიმს მივეცით ხელი (ეგვიპტე), აშურს — პურით გასაძღომად.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "მიცრაიმი"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "მივეცით"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ხელი"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "აშური"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "გასაძღომად"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "პური"
+    }
+  ],
+  "timestamp": "2026-09-06T10:55:19.458224471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 5:22",
+  "book": "daniel",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "და შენ, მისი ძეო ბელშაცარო, არ დამდაბლე შენი გული, თუმცა ყველა ეს შენ იცოდი.",
+  "tokens": [
+    {
+      "surface": "ואנתה",
+      "gloss": "და შენ"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "მისი ძე"
+    },
+    {
+      "surface": "בלשאצר",
+      "gloss": "ბელშაცარი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "השפלת",
+      "gloss": "დამდაბლე"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "შენი გული"
+    },
+    {
+      "surface": "כל",
+      "gloss": "თუმცა"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "მიუხედავად"
+    },
+    {
+      "surface": "די",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "იცოდი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:06:08.039219287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 72,
+  "translation": "და იბატონებს ზღვიდან ზღვამდე და მდინარიდან მიწის კიდეებამდე.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "და იბატონებს"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ზღვიდან"
+    },
+    {
+      "surface": "עד",
+      "gloss": "მდე"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ზღვა"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "და მდინარიდან"
+    },
+    {
+      "surface": "עד",
+      "gloss": "მდე"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "კიდეებამდე"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "მიწის"
+    }
+  ],
+  "timestamp": "2026-09-06T09:52:09.996506999Z",
+  "model": "glm-5.3"
+}

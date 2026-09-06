@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 23:13",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "და ხელი ⟨იქნება⟩ შენთვის გარეთ ბანაკისას, და გახვალ იქ, გარეთ.",
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "ხელი"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "იყოს"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენთვის"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "გარეთ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ბანაკი"
+    },
+    {
+      "surface": "ויצאת",
+      "gloss": "გახვალ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "იქ"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "გარეთ"
+    }
+  ],
+  "timestamp": "2026-09-06T05:38:16.692487439Z",
+  "model": "glm-5.3"
+}

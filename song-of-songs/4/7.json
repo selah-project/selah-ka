@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 4:7",
+  "book": "song-of-songs",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "სრულიად ლამაზი ხარ, ჩემო სატრფო, და ნაკლი არ არის შენში.",
+  "tokens": [
+    {
+      "surface": "כלך",
+      "gloss": "სრულად შენი"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "ლამაზი"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "ჩემო სატრფო"
+    },
+    {
+      "surface": "ומום",
+      "gloss": "და ნაკლი"
+    },
+    {
+      "surface": "אין",
+      "gloss": "არ არის"
+    },
+    {
+      "surface": "בך",
+      "gloss": "შენში"
+    }
+  ],
+  "timestamp": "2026-09-06T10:49:18.264721813Z",
+  "model": "glm-5.3"
+}

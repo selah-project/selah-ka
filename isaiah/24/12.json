@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 24:12",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "დარჩა ქალაქში აოხრება, და მიტოვება დაამტვრევს ბჭეს.",
+  "tokens": [
+    {
+      "surface": "נשאר",
+      "gloss": "დარჩა"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ქალაქში"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "აოხრება"
+    },
+    {
+      "surface": "ושאיה",
+      "gloss": "და მიტოვება"
+    },
+    {
+      "surface": "יכת",
+      "gloss": "დაამტვრევს"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ბჭე"
+    }
+  ],
+  "timestamp": "2026-09-06T07:39:04.321030467Z",
+  "model": "glm-5.3"
+}

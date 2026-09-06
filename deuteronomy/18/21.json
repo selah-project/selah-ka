@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "და თუ იტყვი შენს გულში: როგორ ვიცნობთ ⟨את⟩ სიტყვას, რომელი არ თქვა იაჰვემ?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "და თუ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "იტყვი"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "შენს გულში"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "როგორ"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "ვიცნობთ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "სიტყვა"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T05:33:07.604149741Z",
+  "model": "glm-5.3"
+}

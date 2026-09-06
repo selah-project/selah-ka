@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "და თქვა მეფემ: მიბრუნდი, აქ დადექი. და მიბრუნდა და დადგა.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "მეფემ"
+    },
+    {
+      "surface": "סב",
+      "gloss": "მიბრუნდი"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "დადექი"
+    },
+    {
+      "surface": "כה",
+      "gloss": "აქ"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "მიბრუნდა"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "დადგა"
+    }
+  ],
+  "timestamp": "2026-09-06T06:46:14.046123215Z",
+  "model": "glm-5.3"
+}

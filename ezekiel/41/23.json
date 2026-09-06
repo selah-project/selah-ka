@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 41:23",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 41,
+  "translation": "და ორი კარი ⟨იყო⟩ ტაძრისთვის და საწმიდრისთვის.",
+  "tokens": [
+    {
+      "surface": "ושתים",
+      "gloss": "ორი"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "კარი"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "ტაძარი"
+    },
+    {
+      "surface": "ולקדש",
+      "gloss": "საწმიდარი"
+    }
+  ],
+  "timestamp": "2026-09-06T08:58:41.022668657Z",
+  "model": "glm-5.3"
+}

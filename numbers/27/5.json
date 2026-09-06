@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 27,
+  "translation": "და მიიყვანა მოშემ ⟨את⟩ მათი სამართალი იაჰვეს წინაშე.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "მიიყვანა"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მათი სამართალი"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "მათი სამართალი"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "წინაშე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T12:27:24.605362592Z",
+  "model": "glm-5.3"
+}

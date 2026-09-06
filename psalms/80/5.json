@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 80:5",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 80,
+  "translation": "იაჰვე, ელოჰიმო ცევაოთო, როდემდე შეკვამლავ შენი ხალხის ლოცვას?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ცევაოთი"
+    },
+    {
+      "surface": "עד",
+      "gloss": "სანამ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "როდემდე"
+    },
+    {
+      "surface": "עשנת",
+      "gloss": "შეკვამლავ"
+    },
+    {
+      "surface": "בתפלת",
+      "gloss": "ლოცვას"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "შენი ხალხი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:55:52.933268999Z",
+  "model": "glm-5.3"
+}

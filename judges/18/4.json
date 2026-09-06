@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 18:4",
+  "book": "judges",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "უთხრა მათ: ასე და ასე მიყო მიხამ და დამიქირავა, და ვიქენი მის მღვდლად.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "უთხრა"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "მათ"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "וכזה",
+      "gloss": "და ასე"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "მიყო"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ჩემთვის"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "მიხამ"
+    },
+    {
+      "surface": "וישכרני",
+      "gloss": "დამიქირავა"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "და ვიქენი"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მის"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "მღვდლად"
+    }
+  ],
+  "timestamp": "2026-09-06T06:12:07.557916770Z",
+  "model": "glm-5.3"
+}

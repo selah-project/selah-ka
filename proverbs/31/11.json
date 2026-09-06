@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 31,
+  "translation": "ჰესავს მას გული მისი ქმრისა, და ნადიმს არ მოაკლდება.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "ჰესავს"
+    },
+    {
+      "surface": "בה",
+      "gloss": "მას"
+    },
+    {
+      "surface": "לב",
+      "gloss": "გული"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "მისი ქმრისა"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "და ნადიმს"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "მოაკლდება"
+    }
+  ],
+  "timestamp": "2026-09-06T14:32:07.627403528Z",
+  "model": "glm-5.3"
+}

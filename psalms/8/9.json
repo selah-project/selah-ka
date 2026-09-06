@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "ცის ფრინველი და ზღვის თევზი, ⟨რომელი⟩ გადის ზღვის ბილიკებზე.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "ფრინველი"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ცა"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "და თევზი"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ზღვა"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "გადის"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "ბილიკები"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ზღვა"
+    }
+  ],
+  "timestamp": "2026-09-06T13:56:04.725094024Z",
+  "model": "glm-5.3"
+}

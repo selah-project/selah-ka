@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "არამედ ხორცი — მის ნეფეშთან, მის სისხლთან — არ შეჭამოთ.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "არამედ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ხორცი"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "მის ნეფეშთან"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "მის სისხლთან"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "შეჭამოთ"
+    }
+  ],
+  "timestamp": "2026-09-06T03:44:56.541532856Z",
+  "model": "glm-5.3"
+}

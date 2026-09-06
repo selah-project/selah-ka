@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 29:26",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 29,
+  "translation": "და აღინათლა იაჰვეს რისხვა იმ მიწაზე, რათა მოეყვანა მასზე ⟨את⟩ ყველა წყევლა, დაწერილი ამ წიგნში.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "აღინათლა"
+    },
+    {
+      "surface": "אף",
+      "gloss": "რისხვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "მიწაზე"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "იმ"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "მოსაყვანად"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "მასზე"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ყველა წყევლა"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "წყევლა"
+    },
+    {
+      "surface": "הכתובה",
+      "gloss": "დაწერილი"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "წიგნში"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ამ"
+    }
+  ],
+  "timestamp": "2026-09-06T17:18:16.058807033Z",
+  "model": "glm-5.3"
+}

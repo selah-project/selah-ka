@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "და თქვა შაულის ბიძამ: მიამბე მე, გთხოვ, რა თქვა თქვენ შმუელმა.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ბიძა"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "შაული"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "მიამბე"
+    },
+    {
+      "surface": "נא",
+      "gloss": "გთხოვ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "თქვენ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "შმუელი"
+    }
+  ],
+  "timestamp": "2026-09-06T06:20:10.862859261Z",
+  "model": "glm-5.3"
+}

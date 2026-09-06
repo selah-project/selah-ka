@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 43:4",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 43,
+  "translation": "და იაჰვეს დიდება შემოვიდა სახლში აღმოსავლეთისკენ მიმართული კარიბჭის გზით.",
+  "tokens": [
+    {
+      "surface": "וכבוד",
+      "gloss": "და დიდება"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "בא",
+      "gloss": "შემოვიდა"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ში"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "სახლი"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "გზით"
+    },
+    {
+      "surface": "שער",
+      "gloss": "კარიბჭის"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელსაც"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "სახე"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "გზა"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "აღმოსავლეთის"
+    }
+  ],
+  "timestamp": "2026-09-06T09:00:08.118716920Z",
+  "model": "glm-5.3"
+}

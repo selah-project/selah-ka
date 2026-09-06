@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 130,
+  "translation": "რადგან შენთან ⟨არის⟩ პატიება, რათა იშიშვნებოდე შენ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "შენთან"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "პატიება"
+    },
+    {
+      "surface": "למען",
+      "gloss": "რათა"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "იშიშვნებოდე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:10:34.243683514Z",
+  "model": "glm-5.3"
+}

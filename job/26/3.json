@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 26:3",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "რად ურჩევ უსიბრძნოს, და სიბრძნეს მტკიცეს უხვად აცნობ!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "რად"
+    },
+    {
+      "surface": "יעצת",
+      "gloss": "ურჩევ"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "სიბრძნე"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "და სიბრძნე მტკიცე"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "უხვად"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "აცნობ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:40:18.884745965Z",
+  "model": "glm-5.3"
+}

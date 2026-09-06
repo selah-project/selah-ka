@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 41:41",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 41,
+  "translation": "და თქვა ფაროჰმა იოსეფს (იოსები): იხილე, დაგაყენე ⟨את⟩ შენ ყოველი მიწის მიცრაიმის თავზე.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ფაროჰი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "იოსეფი"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "იხილე"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "დაგაყენე"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "შენ"
+    },
+    {
+      "surface": "על",
+      "gloss": "თავზე"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყოველი"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "მიცრაიმი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:06:37.515122785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 22:16",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "და შეიბილწები შენშივე ხალხთა თვალებს შორის, და იცნობ, რომ მე ვარ იაჰვე.",
+  "tokens": [
+    {
+      "surface": "ונחלת",
+      "gloss": "და შეიბილწები"
+    },
+    {
+      "surface": "בך",
+      "gloss": "შენში"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "თვალებს შორის"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ხალხთა"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "და იცნობ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T08:46:45.591879362Z",
+  "model": "glm-5.3"
+}

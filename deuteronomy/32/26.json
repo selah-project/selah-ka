@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 32:26",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 32,
+  "translation": "ვთქვი: ავბერ მათ, მოვაშორებ ადამიანთაგან მათ ხსოვნას.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "ვთქვი"
+    },
+    {
+      "surface": "אפאיהם",
+      "gloss": "ავბერ მათ"
+    },
+    {
+      "surface": "אשביתה",
+      "gloss": "მოვაშორებ"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "ადამიანთაგან"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "მათ ხსოვნას"
+    }
+  ],
+  "timestamp": "2026-09-06T18:56:01.453082294Z",
+  "model": "glm-5.3"
+}

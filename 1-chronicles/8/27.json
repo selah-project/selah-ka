@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 8:27",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და იაარეშიაჰი და ელიაჰი და ზიქრი — იეროხამის ძენი.",
+  "tokens": [
+    {
+      "surface": "ויערשיה",
+      "gloss": "და იაარეშიაჰი"
+    },
+    {
+      "surface": "ואליה",
+      "gloss": "და ელიაჰი"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "და ზიქრი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "იეროხამი"
+    }
+  ],
+  "timestamp": "2026-09-06T18:47:32.604235446Z",
+  "model": "glm-5.3"
+}

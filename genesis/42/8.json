@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 42,
+  "translation": "და იცნო იოსეფმა ⟨את⟩ თავისი ძმები, ხოლო მათ ვერ იცნეს ⟨ის⟩.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "და იცნო"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "იოსეფმა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "თავისი ძმები"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ძმები"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ხოლო ისინი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "იცნეს ის"
+    }
+  ],
+  "timestamp": "2026-09-06T04:05:19.435689727Z",
+  "model": "glm-5.3"
+}

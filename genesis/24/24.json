@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 24:24",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "და უთხრა მას: ბეთუალის ასული ვარ მე — მილკას შვილისა, რომელიც მან შვა ნახორს.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "და უთხრა"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ასული"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "ბეთუალი"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "בן",
+      "gloss": "შვილი"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "მილკა"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "ნახორს"
+    }
+  ],
+  "timestamp": "2026-09-06T15:30:26.762256316Z",
+  "model": "glm-5.3"
+}

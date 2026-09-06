@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 78,
+  "translation": "არ მოიგონეს ⟨את⟩ ხელი მისი, დღე, როცა გამოისყიდა ⟨ისინი⟩ მტრისგან.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "მოიგონეს"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ხელი მისი"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ხელი"
+    },
+    {
+      "surface": "יום",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "როცა"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "გამოისყიდა"
+    },
+    {
+      "surface": "מני",
+      "gloss": "-გან"
+    },
+    {
+      "surface": "צר",
+      "gloss": "მტერი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:54:41.060066293Z",
+  "model": "glm-5.3"
+}

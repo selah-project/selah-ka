@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 7:10",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ნუ იტყვი: რა ⟨იყო⟩, რომ წინანდელი დღეები ამათზე უკეთესნი იყვნენ? რადგან არა სიბრძნით იკითხავ ამაზე.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "იტყვი"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "היה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "שהימים",
+      "gloss": "რომ დღეები"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "წინანდელი"
+    },
+    {
+      "surface": "היו",
+      "gloss": "იყვნენ"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "უკეთესნი"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ამათზე"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "სიბრძნით"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "იკითხავ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ამაზე"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ამაზე"
+    }
+  ],
+  "timestamp": "2026-09-06T16:37:05.166531683Z",
+  "model": "glm-5.3"
+}

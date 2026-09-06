@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 61,
+  "translation": "დღეებს დღეებზე დაემატე მეფისას, მისი წლები იყოს როგორც თაობა და თაობა.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "დღეებს"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "დღეებს"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფის"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "დაამატე"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "მისი წლები"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "როგორც"
+    },
+    {
+      "surface": "דר",
+      "gloss": "თაობა"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "და თაობა"
+    }
+  ],
+  "timestamp": "2026-09-06T09:50:02.545807649Z",
+  "model": "glm-5.3"
+}

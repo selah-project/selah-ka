@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 2:6",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "რადგან იაჰვე აძლევს სიბრძნეს; მის პირიდან ⟨მოდის⟩ ცოდნა და გაგება.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "აძლევს"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "სიბრძნე"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "მის პირიდან"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ცოდნა"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "და გაგება"
+    }
+  ],
+  "timestamp": "2026-09-06T10:15:44.917251889Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 8:32",
+  "book": "ezra",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და მივედით იერუშალაიმს და დავრჩით იქ სამ დღეს.",
+  "tokens": [
+    {
+      "surface": "ונבוא",
+      "gloss": "მივედით"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "იერუშალაიმი"
+    },
+    {
+      "surface": "ונשב",
+      "gloss": "დავრჩით"
+    },
+    {
+      "surface": "שם",
+      "gloss": "იქ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "სამი"
+    }
+  ],
+  "timestamp": "2026-09-06T15:01:44.205950414Z",
+  "model": "glm-5.3"
+}

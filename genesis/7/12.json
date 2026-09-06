@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "და იყო წვიმა მიწაზე ორმოცი დღე და ორმოცი ღამე.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "წვიმა"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ორმოცი"
+    },
+    {
+      "surface": "יום",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "და ორმოცი"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ღამე"
+    }
+  ],
+  "timestamp": "2026-09-06T03:43:01.304399842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "numbers 7:54",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "მერვე დღეს ⟨შესწირა⟩ მთავარმა მენაშეს ძეთა — გამლიელმა, ფედაჰცურის ძემ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "მერვე"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "მთავარი"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ძეთა"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "მენაშე"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "გამლიელი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "ფედაჰ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ცური"
+    }
+  ],
+  "timestamp": "2026-09-06T05:02:45.247178817Z",
+  "model": "glm-5.3"
+}

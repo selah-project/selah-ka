@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 42,
+  "translation": "⟨את⟩ სამხრეთის მხარე განზომა: ხუთასი ლერწამი, საზომი ლერწამით.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "სამხრეთის მხარე"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "მხარე"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "სამხრეთის"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "განზომა"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ხუთ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "ლერწამი"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "ლერწამით"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "საზომი"
+    }
+  ],
+  "timestamp": "2026-09-06T08:59:31.001240154Z",
+  "model": "glm-5.3"
+}

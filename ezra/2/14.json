@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 2:14",
+  "book": "ezra",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "ბიგვაის შვილები — ორი ათასი სამოცდათორმეტი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "ბიგვაის"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ორი ათასი"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ორმოცდაათი"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "და ექვსი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:13:21.768558896Z",
+  "model": "glm-5.3"
+}

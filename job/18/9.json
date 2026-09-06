@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 18:9",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "მოიცავს მახე ქუსლიდან; მაგრდება მასზე ბადეები.",
+  "tokens": [
+    {
+      "surface": "יאחז",
+      "gloss": "მოიცავს"
+    },
+    {
+      "surface": "בעקב",
+      "gloss": "ქუსლიდან"
+    },
+    {
+      "surface": "פח",
+      "gloss": "მახე"
+    },
+    {
+      "surface": "יחזק",
+      "gloss": "მაგრდება"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "მასზე"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "ბადეები"
+    }
+  ],
+  "timestamp": "2026-09-06T10:36:12.780037856Z",
+  "model": "glm-5.3"
+}

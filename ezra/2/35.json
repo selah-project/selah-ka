@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "სენააჰის შვილები — სამი ათას ექვსას ოცდაათი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "სენააჰი"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "სამი"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ათასი"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "და ექვსი"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "და ოცდაათი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:13:09.924332671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 38,
+  "translation": "და დაორსულდა იგი და შვა ძე, და უწოდა ⟨את⟩ მის სახელს ერ.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "დაორსულდა"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "უწოდა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მის სახელს"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "მისი სახელი"
+    },
+    {
+      "surface": "ער",
+      "gloss": "ერ"
+    }
+  ],
+  "timestamp": "2026-09-06T04:02:48.753382651Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "judges 11:28",
+  "book": "judges",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "და არ ისმინა ამონის ძეთა მეფემ იეფთახის სიტყვები, რომლებიც მას გაუგზავნა.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ისმინა"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ამონი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "სიტყვები"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "იეფთახი"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომლებიც"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "გაუგზავნა"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "მას"
+    }
+  ],
+  "timestamp": "2026-09-06T12:44:30.039220322Z",
+  "model": "glm-5.3"
+}

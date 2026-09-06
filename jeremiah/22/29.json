@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 22:29",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "მიწაო, მიწაო, მიწაო, ისმინე იაჰვეს სიტყვა!",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "მიწაო"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "მიწაო"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "მიწაო"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ისმინე"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T08:09:42.453147905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "სანამ მეფე ⟨იყო⟩ თავის სუფრასთან, ჩემმა ნარდმა მისცა თავისი სურნელი.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "სანამ"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "თავის სუფრასთან"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "ჩემმა ნარდმა"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "მისცა"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "თავისი სურნელი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:47:20.055734742Z",
+  "model": "glm-5.3"
+}

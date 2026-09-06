@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 32:15",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 32,
+  "translation": "შეცბნენ, აღარ უპასუხეს — მოსცილდა მათ სიტყვები.",
+  "tokens": [
+    {
+      "surface": "חתו",
+      "gloss": "შეცბნენ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "უპასუხეს"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "აღარ"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "მოსცილდა"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "მათგან"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "სიტყვები"
+    }
+  ],
+  "timestamp": "2026-09-06T16:33:44.880821749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 17:6",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 17,
+  "translation": "ორი მოწმის პირით ან სამი მოწმის პირით მოკვდება სიკვდილის ღირსი; არ მოკვდება ერთი მოწმის პირით.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "მიხედვით"
+    },
+    {
+      "surface": "פי",
+      "gloss": "პირი"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ორი"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "მოწმე"
+    },
+    {
+      "surface": "או",
+      "gloss": "ან"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "სამი"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "მოწმე"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "მოკვდება"
+    },
+    {
+      "surface": "המת",
+      "gloss": "სიკვდილის ღირსი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "მოკვდება"
+    },
+    {
+      "surface": "על",
+      "gloss": "მიხედვით"
+    },
+    {
+      "surface": "פי",
+      "gloss": "პირი"
+    },
+    {
+      "surface": "עד",
+      "gloss": "მოწმე"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:35:04.808325623Z",
+  "model": "glm-5.3"
+}

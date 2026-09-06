@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 106:16",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 106,
+  "translation": "და შეჰფინეს ჭირი მოშეს ბანაკში, აარონს — იაჰვეს წმიდას.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "შეჰფინეს ჭირი"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "მოშეს"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "ბანაკში"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "აარონს"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "წმიდა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:03:19.645432356Z",
+  "model": "glm-5.3"
+}

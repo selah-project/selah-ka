@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "ყველა საგნისთვის ⟨არის⟩ დრო, და ჟამი ყველა სურვილისთვის ცის ქვეშ.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "ყველასთვის"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "დრო"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "და ჟამი"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ყველასთვის"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "სურვილი"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ქვეშ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ცა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:56:09.886804956Z",
+  "model": "glm-5.3"
+}

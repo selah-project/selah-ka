@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 7:22",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "და ეტყოდა იაჰვე მოშეს მით:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "და ეტყოდა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "მით"
+    }
+  ],
+  "timestamp": "2026-09-06T04:36:05.020979067Z",
+  "model": "glm-5.3"
+}

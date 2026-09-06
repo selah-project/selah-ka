@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "nehemiah 7:39",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "მღვდლები: იედაიაჰის შვილები, იეშუას სახლიდან — ცხრაას სამოცდაცამეტი.",
+  "tokens": [
+    {
+      "surface": "הכהנים",
+      "gloss": "მღვდლები"
+    },
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "იედაიაჰი"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "სახლი"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "იეშუა"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ცხრა"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "სამოცდაათი"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "და სამი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:21:50.244913970Z",
+  "model": "glm-5.3"
+}

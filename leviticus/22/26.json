@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 22:26",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "და იტყვა იაჰვემ მოშეს (მოსეს) სიტყვიად:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "და იტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სიტყვიად"
+    }
+  ],
+  "timestamp": "2026-09-06T04:48:01.295513423Z",
+  "model": "glm-5.3"
+}

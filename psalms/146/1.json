@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 146,
+  "translation": "ადიდეთ იაჰ! ადიდე, ჩემო ნეფეშივ, ⟨את⟩ იაჰვე.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ადიდეთ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "იაჰ"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "ადიდე"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ჩემო ნეფეშივ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იაჰვე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:14:49.941953563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 6:36",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "ბუკი მისი ძე, უზი მისი ძე, ზერახია მისი ძე.",
+  "tokens": [
+    {
+      "surface": "בקי",
+      "gloss": "ბუკი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი ძე"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "უზი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი ძე"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "ზერახია"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი ძე"
+    }
+  ],
+  "timestamp": "2026-09-06T11:29:20.890581696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 11:31",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "აჰა, სამართლიანი ქვეყანაში ესაზღვრება — მით უმეტეს ბოროტი და ცოდვილი!",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "სამართლიანი"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ქვეყანაში"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ესაზღვრება"
+    },
+    {
+      "surface": "אף",
+      "gloss": "მით უმეტეს"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ბოროტი"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "და ცოდვილი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:20:38.251759808Z",
+  "model": "glm-5.3"
+}

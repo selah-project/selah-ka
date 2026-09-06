@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezra 2:28",
+  "book": "ezra",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "ბეით ელისა და ჰააის მამაკაცები — ორას ოცდასამი.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "მამაკაცები"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ბეით"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ელი"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "და ჰააი"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ორას"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ოცი"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "და სამი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:13:12.039607309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 49,
+  "translation": "ნუ იშინებ, როცა გამდიდრდება კაცი, როცა გამრავლდება მისი სახლის დიდება.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "იშინებ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "როცა"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "გამდიდრდება"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "როცა"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "გამრავლდება"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "დიდება"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "მისი სახლი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:44:47.179386851Z",
+  "model": "glm-5.3"
+}

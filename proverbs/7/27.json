@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "შეოლის გზები — მისი სახლი, ჩამავალნი სიკვდილის საშვერდულებში.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "გზები"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "შეოლი"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "მისი სახლი"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "ჩამავალნი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ში"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "საშვერდულები"
+    },
+    {
+      "surface": "מות",
+      "gloss": "სიკვდილი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:17:56.996676112Z",
+  "model": "glm-5.3"
+}

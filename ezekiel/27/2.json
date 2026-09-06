@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 27:2",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 27,
+  "translation": "და შენ, ადამის ძავო, ამაღალე ცორზე სამძიმარი.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "და შენ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ადამი"
+    },
+    {
+      "surface": "שא",
+      "gloss": "ამაღალე"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ცორ"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "სამძიმარი"
+    }
+  ],
+  "timestamp": "2026-09-06T08:50:15.513126210Z",
+  "model": "glm-5.3"
+}

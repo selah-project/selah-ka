@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 22:33",
+  "book": "2-samuel",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "ელი ჩემი სიმაგრე ⟨არის⟩, ჩემი ძალა, და დაალაგა უმანკოს გზა.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "ელი"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "ჩემი სიმაგრე"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ძალა"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "და დაალაგა"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "უმანკოს"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "გზა"
+    }
+  ],
+  "timestamp": "2026-09-06T06:48:17.284120966Z",
+  "model": "glm-5.3"
+}

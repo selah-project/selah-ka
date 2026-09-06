@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 4:13",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და კენაზის ძენი: ოთნიელი და სერაიაჰი; და ოთნიელის ძენი: ხათათი.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "და ძენი"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "კენაზი"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "ოთნიელი"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "და სერაიაჰი"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "და ძენი"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "ოთნიელი"
+    },
+    {
+      "surface": "חתת",
+      "gloss": "ხათათი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:28:20.359210931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "რადგან ბევრია სიტყვები, მრავლობენ ჰებელს მაყვედრებელნი — რა ნამატია ადამისთვის?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "יש",
+      "gloss": "არის"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "სიტყვები"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ბევრი"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "მრავლობენ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ჰებელი"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ნამატი"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ადამისთვის"
+    }
+  ],
+  "timestamp": "2026-09-06T10:58:35.396480921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 30:29",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "ძმა ვიყავი ტანიმთა, და მეგობარი — იაანას ასულთა.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "ძმა"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ვიყავი"
+    },
+    {
+      "surface": "לתנים",
+      "gloss": "ტანიმთა"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "და მეგობარი"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ასულთა"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "იაანა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:42:16.935316321Z",
+  "model": "glm-5.3"
+}

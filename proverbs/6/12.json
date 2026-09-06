@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 6:12",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "უღირსი ადამიანი, ბელიალის ძე, ბოროტების კაცი — დადის პირის სიცუდით.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ადამიანი"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ბელიალის"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "און",
+      "gloss": "ბოროტების"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "დადის"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "სიცუდე"
+    },
+    {
+      "surface": "פה",
+      "gloss": "პირის"
+    }
+  ],
+  "timestamp": "2026-09-06T14:21:04.138181906Z",
+  "model": "glm-5.3"
+}

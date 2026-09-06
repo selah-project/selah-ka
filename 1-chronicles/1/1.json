@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 1:1",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "ადამი, შეთი, ენოში,",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ადამი"
+    },
+    {
+      "surface": "שת",
+      "gloss": "შეთი"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ენოში"
+    }
+  ],
+  "timestamp": "2026-09-06T11:25:26.652489840Z",
+  "model": "glm-5.3"
+}

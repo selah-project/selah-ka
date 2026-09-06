@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 28,
+  "translation": "და გააკეთებ ⟨את⟩ ეფოდის მეილს — მთლიანად თეხელეთისას.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "და გააკეთებ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მეილს"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "მეილი"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "ეფოდის"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "მთლიანად"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "თეხელეთი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:27:08.802290558Z",
+  "model": "glm-5.3"
+}

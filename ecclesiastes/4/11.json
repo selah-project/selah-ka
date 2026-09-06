@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "აგრეთვე თუ დაწვებიან ორნი — თბებიან ისინი; და ერთს როგორ შეუთბებს?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "აგრეთვე"
+    },
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "დაწვებიან"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ორნი"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "თბებიან"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ისინი"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "და ერთს"
+    },
+    {
+      "surface": "איך",
+      "gloss": "როგორ"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "შეუთბებს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:55:25.824358209Z",
+  "model": "glm-5.3"
+}

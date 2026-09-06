@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 130,
+  "translation": "თუ უსჯულოებებს დაიმარხავ, იაჰ, ადონაი, ვინ დგები ⟨იმას⟩?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "უსჯულოებები"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "დაიმარხავ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "იაჰ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ადონაი"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "დგები"
+    }
+  ],
+  "timestamp": "2026-09-06T10:10:34.243580909Z",
+  "model": "glm-5.3"
+}

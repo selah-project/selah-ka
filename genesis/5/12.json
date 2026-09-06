@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "იცოცხლა კეინანი სამოცდაათი წელი, და შვა ⟨את⟩ მაჰალალელი.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "იცოცხლა"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "კეინანი"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "სამოცდაათი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელი"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მაჰალალელი"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "მაჰალალელი"
+    }
+  ],
+  "timestamp": "2026-09-06T03:42:35.529525394Z",
+  "model": "glm-5.3"
+}

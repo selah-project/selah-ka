@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 3:22",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "და იყო ჩემზე იქ იაჰვეს ხელი, და მითხრა მე: ადგი, გამოდი ბიყაში (ველზე), და იქ მე ⟨את⟩ შენთან ვილაპარაკებ.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ჩემზე"
+    },
+    {
+      "surface": "שם",
+      "gloss": "იქ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ხელი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "მითხრა"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ადგი"
+    },
+    {
+      "surface": "צא",
+      "gloss": "გამოდი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "הבקעה",
+      "gloss": "ბიყა"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "და იქ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ვილაპარაკებ"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ შენთან"
+    }
+  ],
+  "timestamp": "2026-09-06T08:34:46.618216253Z",
+  "model": "glm-5.3"
+}

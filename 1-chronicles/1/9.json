@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 1:9",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და ძენი ქუშისა: სევა, ხავილა, სავთა, რამა და სავთექა; და ძენი რამისა: შევა და დედანი.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "და ძენი"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ქუში"
+    },
+    {
+      "surface": "סבא",
+      "gloss": "სევა"
+    },
+    {
+      "surface": "וחוילה",
+      "gloss": "ხავილა"
+    },
+    {
+      "surface": "וסבתא",
+      "gloss": "სავთა"
+    },
+    {
+      "surface": "ורעמא",
+      "gloss": "რამა"
+    },
+    {
+      "surface": "וסבתכא",
+      "gloss": "სავთექა"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "და ძენი"
+    },
+    {
+      "surface": "רעמא",
+      "gloss": "რამა"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "შევა"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "დედანი"
+    }
+  ],
+  "timestamp": "2026-09-06T19:05:14.902764657Z",
+  "model": "glm-5.3"
+}

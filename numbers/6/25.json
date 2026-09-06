@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 6:25",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "გაანათოს იაჰვე თავის სახე შენკენ, და შემოგიწყალოს;",
+  "tokens": [
+    {
+      "surface": "יאר",
+      "gloss": "გაანათოს"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "თავის სახე"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "შენკენ"
+    },
+    {
+      "surface": "ויחנך",
+      "gloss": "და შემოგიწყალოს"
+    }
+  ],
+  "timestamp": "2026-09-06T05:01:54.861480730Z",
+  "model": "glm-5.3"
+}

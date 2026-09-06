@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 12:24",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "ხელი შეუპოვართა იბატონებს, და ზარმაცობა ⟨იქნება⟩ ხარკად.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "ხელი"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "შეუპოვრები"
+    },
+    {
+      "surface": "תמשול",
+      "gloss": "იბატონებს"
+    },
+    {
+      "surface": "ורמיה",
+      "gloss": "და ზარმაცობა"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "იქნება"
+    },
+    {
+      "surface": "למס",
+      "gloss": "ხარკი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:19:39.523193987Z",
+  "model": "glm-5.3"
+}

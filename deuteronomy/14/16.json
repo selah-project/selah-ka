@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "⟨את⟩ პატარა ბუ და ⟨את⟩ დიდი ბუ და თეთრი ბუ",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "პატარა ბუ"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "პატარა ბუ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "დიდი ბუ"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "დიდი ბუ"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "და თეთრი ბუ"
+    }
+  ],
+  "timestamp": "2026-09-06T12:32:33.733554989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "და დაბრუნდება მტვერი მიწაზე, როგორც იყო, და დაბრუნდება სული ელოჰიმთან, რომელმაც მისცა ⟨იგი⟩.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "და დაბრუნდება"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "მტვერი"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "როგორც იყო"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "და სული"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "დაბრუნდება"
+    },
+    {
+      "surface": "אל",
+      "gloss": "თან"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "მისცა"
+    }
+  ],
+  "timestamp": "2026-09-06T16:37:52.352610365Z",
+  "model": "glm-5.3"
+}

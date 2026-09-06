@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "ჩემი ⟨არის⟩ ვერცხლი და ჩემი ⟨არის⟩ ოქრო — იაჰვე ცევაოთის ნაბრძანები.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ჩემი"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ვერცხლი"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "და ჩემი"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ოქრო"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ნაბრძანები"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ცევაოთი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:21:26.614822303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "და დაადგენინა აბრაჰამმა ⟨את⟩ შვიდი კრავი ფარისა ცალკე.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "დააყენა ცალკე"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "აბრაჰამი"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "შვიდი კრავი"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "შვიდი"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "კრავი"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ფარის"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "ცალკე"
+    }
+  ],
+  "timestamp": "2026-09-06T03:50:04.858231841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 20:9",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 20,
+  "translation": "ვინ იტყვის: გავწმინდე ჩემი გული, განვიწმინდე ჩემი ცოდვისგან?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "იტყვის"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "გავწმინდე"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ჩემი გული"
+    },
+    {
+      "surface": "טהרתי",
+      "gloss": "განვიწმინდე"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "ჩემი ცოდვისგან"
+    }
+  ],
+  "timestamp": "2026-09-06T14:26:15.950493883Z",
+  "model": "glm-5.3"
+}

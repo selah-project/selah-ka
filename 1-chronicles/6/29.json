@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 6:29",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "და მერარის შვილები — მათი ძმები მარცხნივ: ეითანი, კიშის ძე, ყაბდის ძე, მალუქის ძე.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "და შვილები"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "მერარი"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "მათი ძმები"
+    },
+    {
+      "surface": "על",
+      "gloss": "მარცხნივ"
+    },
+    {
+      "surface": "השמאול",
+      "gloss": "მარცხენა მხარე"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ეითანი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "קישי",
+      "gloss": "კიში"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ყაბდი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "მალუქი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:29:01.381596800Z",
+  "model": "glm-5.3"
+}

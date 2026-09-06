@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 24:21",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "როცა აწყობ შენს ვენახს, არ დაათმანო შენს შემდეგ: უცხოს, ობოლს და ქვრივს იქნება.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "როცა"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "აწყობ"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "შენი ვენახი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "დაათმანებ"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "შენს შემდეგ"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "უცხოს"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "ობოლს"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "და ქვრივს"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "იქნება"
+    }
+  ],
+  "timestamp": "2026-09-06T12:34:34.196965001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 29:22",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 29,
+  "translation": "მრისხანე კაცი აღძრავს შუღლს, და რისხვის ბატონი მრავლად იმრგულნავს.",
+  "tokens": [
+    {
+      "surface": "אישׁ",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "אף",
+      "gloss": "მრისხანე"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "აღძრავს"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "შუღლი"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "და ბატონი"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "რისხვის"
+    },
+    {
+      "surface": "רב",
+      "gloss": "მრავლად"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ურჩება"
+    }
+  ],
+  "timestamp": "2026-09-06T10:27:54.303827731Z",
+  "model": "glm-5.3"
+}

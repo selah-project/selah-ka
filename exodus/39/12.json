@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 39,
+  "translation": "და მესამე რიგი: ლეშემი ⟨ლიგურიუმი⟩, აქატი და ამეთვისტო.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "და რიგი"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "მესამე"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ლეშემი"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "აქატი"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "და ამეთვისტო"
+    }
+  ],
+  "timestamp": "2026-09-06T12:18:13.772515933Z",
+  "model": "glm-5.3"
+}

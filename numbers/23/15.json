@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 23:15",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "და უთხრა ბალაკს: დადექი აქ, შენს სასაკლისოს თან, და მე იქ შევხვდები.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ბალაკს"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "დადექი"
+    },
+    {
+      "surface": "כה",
+      "gloss": "აქ"
+    },
+    {
+      "surface": "על",
+      "gloss": "თან"
+    },
+    {
+      "surface": "עלתך",
+      "gloss": "შენი სასაკლისო"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "და მე"
+    },
+    {
+      "surface": "אקרה",
+      "gloss": "შევხვდები"
+    },
+    {
+      "surface": "כה",
+      "gloss": "იქ"
+    }
+  ],
+  "timestamp": "2026-09-06T05:14:58.093967245Z",
+  "model": "glm-5.3"
+}

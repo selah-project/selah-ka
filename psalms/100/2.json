@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 100,
+  "translation": "მოიხელთეთ ⟨את⟩ იაჰვე სიხარულით; მიდით მის წინაშე გალობით.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "მოიხელთეთ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იაჰვე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "სიხარულით"
+    },
+    {
+      "surface": "באו",
+      "gloss": "მიდით"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "მის წინაშე"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "გალობით"
+    }
+  ],
+  "timestamp": "2026-09-06T10:01:52.425610817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 30:7",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "და კვლავ დაორჩა ბილჰამ, რახელის მხევალმა, და გაუჩინა იააკოვს მეორე ვაჟი.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "და დაორჩა"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "კვლავ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "და გაუჩინა"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "ბილჰა"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "მხევალი"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "რახელის"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ვაჟი"
+    },
+    {
+      "surface": "שני",
+      "gloss": "მეორე"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "იააკოვს"
+    }
+  ],
+  "timestamp": "2026-09-06T03:56:24.236072316Z",
+  "model": "glm-5.3"
+}

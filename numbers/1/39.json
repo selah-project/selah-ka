@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 1:39",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "მათი აღრიცხულნი — დანის შტოსათვის — ორი და სამოცი ათასი და შვიდასი.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "აღრიცხულნი"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "შტოსათვის"
+    },
+    {
+      "surface": "דן",
+      "gloss": "დან"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ორი"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "და სამოცი"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ათასი"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "და შვიდი"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:58:48.048205303Z",
+  "model": "glm-5.3"
+}

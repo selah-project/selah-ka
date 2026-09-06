@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 34,
+  "translation": "და თქვა შეხემმა ხამორს, თავის მამას, ასე: აიყვანე ჩემთვის ⟨את⟩ ეს ქალიშვილი ცოლად.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "შეხემმა"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ხამორს"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "თავის მამას"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "קח",
+      "gloss": "აიყვანე"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ჩემთვის"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ეს ქალიშვილი"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "ქალიშვილი"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ცოლად"
+    }
+  ],
+  "timestamp": "2026-09-06T04:01:11.728939307Z",
+  "model": "glm-5.3"
+}

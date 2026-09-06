@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 31:18",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 31,
+  "translation": "იგრძნო, რომ კარგია მისი სარგებელი; არ ჩაქროლდება ღამით მისი ლამპარი.",
+  "tokens": [
+    {
+      "surface": "טעמה",
+      "gloss": "იგრძნო"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "კარგი"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "სარგებელი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "ჩაქროლდება"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "ღამით"
+    },
+    {
+      "surface": "נרה",
+      "gloss": "ლამპარი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:29:05.330222647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 32,
+  "translation": "და ⟨את⟩ ატაროთ შოფანი, და ⟨את⟩ იაზერი, და იოგბეჰა.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ატაროთ შოფანი"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "ატაროთ"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "შოფანი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "იაზერი"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "იაზერი"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "და იოგბეჰა"
+    }
+  ],
+  "timestamp": "2026-09-06T05:19:29.761973366Z",
+  "model": "glm-5.3"
+}

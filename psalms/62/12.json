@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 62,
+  "translation": "ერთხელ თქვა ელოჰიმმა, ორჯერ მესმია ეს: რომ ძალა ეკუთვნის ელოჰიმს.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "ერთხელ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ელოჰიმმა"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ორჯერ"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "მესმია"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ძალა"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ელოჰიმს"
+    }
+  ],
+  "timestamp": "2026-09-06T09:49:19.241829327Z",
+  "model": "glm-5.3"
+}

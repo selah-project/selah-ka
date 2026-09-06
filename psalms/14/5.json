@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "იქ შეეშინათ შიშისა, რადგან ელოჰიმი ⟨არის⟩ მართალთა თაობაში.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "იქ"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "შეეშინათ"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "შიში"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "თაობაში"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "მართალი"
+    }
+  ],
+  "timestamp": "2026-09-06T13:55:09.667544995Z",
+  "model": "glm-5.3"
+}

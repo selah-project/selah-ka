@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 21:25",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "და ეს კი მოკვდება მწარე ნეფეშით და არ შეუჭმია სიკეთეში.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "და ეს"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "მოკვდება"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ნეფეშით"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "მწარე"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ჭამს"
+    },
+    {
+      "surface": "בטובה",
+      "gloss": "სიკეთეში"
+    }
+  ],
+  "timestamp": "2026-09-06T16:33:14.584388498Z",
+  "model": "glm-5.3"
+}

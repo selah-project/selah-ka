@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "და შესული სახლში — ყოველ დღეს, როცა ჩაკეტს ⟨את⟩ მას, — არაიწმინდებს საღამომდე.",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "და შესული"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ში"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "სახლში"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყოველ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "ჩაკეტს"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ მას",
+      "marks": "მას"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "არაიწმინდებს"
+    },
+    {
+      "surface": "עד",
+      "gloss": "მდე"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "საღამო"
+    }
+  ],
+  "timestamp": "2026-09-06T04:43:47.913779231Z",
+  "model": "glm-5.3"
+}

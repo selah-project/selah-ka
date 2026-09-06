@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 18:28",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "და ავიდნენ იშრაელის მეფე და იეჰოშაფატ (იოსაბე), იჰუდას მეფე, რამოთ გილადში.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ავიდნენ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "იეჰოშაფატი"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "იჰუდა"
+    },
+    {
+      "surface": "אל",
+      "gloss": "კიდევაც"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "რამოთ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "გილადი"
+    }
+  ],
+  "timestamp": "2026-09-06T18:49:45.388471477Z",
+  "model": "glm-5.3"
+}

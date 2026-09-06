@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 5:16",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "გაიფანტნენ შენი წყაროები გარეთ, ქუჩებში წყლის ღარაბები.",
+  "tokens": [
+    {
+      "surface": "יפוצו",
+      "gloss": "გაიფანტნენ"
+    },
+    {
+      "surface": "מעינתיך",
+      "gloss": "შენი წყაროები"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "გარეთ"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "ქუჩებში"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "ღარაბები"
+    },
+    {
+      "surface": "מים",
+      "gloss": "წყლის"
+    }
+  ],
+  "timestamp": "2026-09-06T10:16:15.420501934Z",
+  "model": "glm-5.3"
+}

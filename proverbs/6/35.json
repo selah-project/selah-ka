@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 6:35",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "არ აიტევებს სახეს არც ერთი გამოსასყიდის დროს, და არ ინებებს, თუმცა გაამრავლებ ქრთამს.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "აიტევებს"
+    },
+    {
+      "surface": "פני",
+      "gloss": "სახეს"
+    },
+    {
+      "surface": "כל",
+      "gloss": "არც ერთი"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "გამოსასყიდი"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "יאבה",
+      "gloss": "ინებებს"
+    },
+    {
+      "surface": "כי",
+      "gloss": "თუმცა"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "გაამრავლებ"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "ქრთამი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:17:29.601706010Z",
+  "model": "glm-5.3"
+}

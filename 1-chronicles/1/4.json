@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 1:4",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "ნოახი, შემი, ჰამი და იაფეთი.",
+  "tokens": [
+    {
+      "surface": "נח",
+      "gloss": "ნოახი"
+    },
+    {
+      "surface": "שם",
+      "gloss": "შემი"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ჰამი"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "და იაფეთი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:25:26.653015438Z",
+  "model": "glm-5.3"
+}

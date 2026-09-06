@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 27,
+  "translation": "და ბრძანა მოშემ ⟨את⟩ ხალხს იმ დღეს ასე თქმით.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ბრძანა"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ხალხს"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "იმ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ასე თქმით"
+    }
+  ],
+  "timestamp": "2026-09-06T05:38:31.067038820Z",
+  "model": "glm-5.3"
+}

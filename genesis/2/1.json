@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და დასრულდნენ ცა და მიწა და ყველა თავიანთი ლაშქარი.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "დასრულდნენ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ცა"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "და მიწა"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "და ყველა"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "თავიანთი ლაშქარი"
+    }
+  ],
+  "timestamp": "2026-09-06T15:32:48.297842258Z",
+  "model": "glm-5.3"
+}

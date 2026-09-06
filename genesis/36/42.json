@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 36,
+  "translation": "ალუფი კენაზი, ალუფი თემანი, ალუფი მიბცარი.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "ალუფი"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "კენაზი"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ალუფი"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "თემანი"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ალუფი"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "მიბცარი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:06:44.343830005Z",
+  "model": "glm-5.3"
+}

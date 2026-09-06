@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და ქელუბმა, ძმამ შუხაჰისა, შვა ⟨את⟩ მეხირი; ის ⟨არის⟩ ეშთონის მამა.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "და ქელუბმა"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ძმა"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "შუხაჰის"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მეხირი"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "მეხირი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "მამა"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "ეშთონის"
+    }
+  ],
+  "timestamp": "2026-09-06T11:28:36.834959555Z",
+  "model": "glm-5.3"
+}

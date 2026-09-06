@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 31,
+  "translation": "წავიდა მოშე (მოსე) და თქვა ⟨את⟩ ეს სიტყვები მთელ იშრაელს (ისრაელს).",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "წავიდა"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ეს სიტყვები"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "სიტყვები"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "მთელ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:44:49.182853406Z",
+  "model": "glm-5.3"
+}

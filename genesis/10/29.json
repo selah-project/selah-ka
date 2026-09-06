@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 10:29",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "და ⟨את⟩ ოფირი, და ⟨את⟩ ხავილა და ⟨את⟩ იოვაბი; ყველა ესენი ⟨იყვნენ⟩ იოქტანის ძენი.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ოფირი"
+    },
+    {
+      "surface": "אופר",
+      "gloss": "ოფირი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ხავილა"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "ხავილა"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "იოვაბი"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "იოვაბი"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ესენი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "იოქტანის"
+    }
+  ],
+  "timestamp": "2026-09-06T03:45:25.025177674Z",
+  "model": "glm-5.3"
+}

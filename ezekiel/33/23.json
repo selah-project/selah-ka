@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 33:23",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 33,
+  "translation": "და მოხდა იაჰვეს სიტყვა ჩემთან და თქვა:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "მოხდა"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემთან"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "თქვა"
+    }
+  ],
+  "timestamp": "2026-09-06T08:52:43.638392303Z",
+  "model": "glm-5.3"
+}

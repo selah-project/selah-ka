@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 1:28",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "აბრაჰამის შვილები: იცხაკი და იშმაელი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "აბრაჰამი"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "იცხაკი (ისააკი)"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "და იშმაელი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:25:37.160993666Z",
+  "model": "glm-5.3"
+}

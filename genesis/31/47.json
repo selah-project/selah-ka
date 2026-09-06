@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "genesis 31:47",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 31,
+  "translation": "და უწოდა ლავანმა მას იეგარ საჰადუთა, ხოლო იააკოვმა უწოდა მას გალედი.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "უწოდა"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ლავანი"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "იეგარ"
+    },
+    {
+      "surface": "שהדותא",
+      "gloss": "საჰადუთა"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "იააკოვი"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "უწოდა"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "გალედი"
+    }
+  ],
+  "timestamp": "2026-09-06T03:58:36.775066507Z",
+  "model": "glm-5.3"
+}

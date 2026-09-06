@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და შვა აზარიამ ⟨את⟩ ხელეცი, და შვა ხელეცმა ⟨את⟩ ელეასა.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "და აზარიამ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ხელეცი"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "ხელეცი"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "და ხელეცმა"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ელეასა"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "ელეასა"
+    }
+  ],
+  "timestamp": "2026-09-06T11:26:05.114388346Z",
+  "model": "glm-5.3"
+}

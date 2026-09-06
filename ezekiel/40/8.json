@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 40,
+  "translation": "და გაზომა ⟨את⟩ კარიბჭის წინკარი სახლის მხრიდან — ერთი ლელა.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "და გაზომა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "კარიბჭის წინკარი"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "წინკარი"
+    },
+    {
+      "surface": "השער",
+      "gloss": "კარიბჭის"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "სახლის მხრიდან"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ლელა"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:00:01.416713653Z",
+  "model": "glm-5.3"
+}

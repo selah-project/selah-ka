@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "მხოლოდ გოშენის მიწაზე, სადაც იქ ⟨იყვნენ⟩ იშრაელის ძენი, არ ⟨იყო⟩ სელა.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "მხოლოდ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "მიწაზე"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "გოშენი"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "სადაც"
+    },
+    {
+      "surface": "שם",
+      "gloss": "იქ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელის"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "სელა"
+    }
+  ],
+  "timestamp": "2026-09-06T12:11:26.537987120Z",
+  "model": "glm-5.3"
+}

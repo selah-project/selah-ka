@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "jeremiah 48:43",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 48,
+  "translation": "საშინელება და ორმო და მახე ⟨არის⟩ შენზე, მკვიდრო მოაბისავე, ნათქვამი იაჰვესი.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "საშინელება"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "ორმო"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "მახე"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "შენზე"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "მკვიდრო"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "მოაბი"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ნათქვამი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T13:28:24.129600425Z",
+  "model": "glm-5.3"
+}

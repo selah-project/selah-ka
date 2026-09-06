@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 15:3",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "იაჰვე ⟨არის⟩ ომის კაცი, იაჰვე ⟨არის⟩ მისი სახელი.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ომის"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "მისი სახელი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:12:41.810812725Z",
+  "model": "glm-5.3"
+}

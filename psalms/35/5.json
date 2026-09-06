@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 35,
+  "translation": "იყვნენ ⟨ისინი⟩ როგორც ურო ქარის წინაშე, და იაჰვეს მალაქი ⟨მათ⟩ დააგდებს.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "იყვნენ"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "ურო"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "წინაშე"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ქარი"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "და მალაქი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "დააგდებს"
+    }
+  ],
+  "timestamp": "2026-09-06T09:41:26.802212616Z",
+  "model": "glm-5.3"
+}

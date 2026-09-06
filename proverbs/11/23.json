@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 11:23",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "მართალთა სურვილი მხოლოდ სასიკეთო ⟨არის⟩; ბოროტთა იმედი ⟨არის⟩ რისხვა.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "სურვილი"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "მართალთა"
+    },
+    {
+      "surface": "אך",
+      "gloss": "მხოლოდ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "სიკეთე"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "იმედი"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ბოროტთა"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "რისხვა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:19:51.870730727Z",
+  "model": "glm-5.3"
+}

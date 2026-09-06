@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 7:34",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ერთი მამალი თხა თხებისგან — ცოდვის შესაწირად.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "მამალი თხა"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "თხებისგან"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ცოდვის შესაწირად"
+    }
+  ],
+  "timestamp": "2026-09-06T15:38:14.970423938Z",
+  "model": "glm-5.3"
+}

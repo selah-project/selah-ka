@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "მე ჩემი საყვარელისა ვარ, და მისი წადილი ჩემკენ ⟨არის⟩.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "ჩემი საყვარელი"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "და ჩემკენ"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "მისი წადილი"
+    }
+  ],
+  "timestamp": "2026-09-06T16:36:15.037501816Z",
+  "model": "glm-5.3"
+}

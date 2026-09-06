@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "შენი დედის დის შიშველობას არ გახსნი, რადგან ის შენი დედის ხორცი ⟨არის⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "შიშველობა"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "და"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "შენი დედა"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "გახსნი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ხორცი"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "შენი დედა"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    }
+  ],
+  "timestamp": "2026-09-06T04:44:51.358381116Z",
+  "model": "glm-5.3"
+}

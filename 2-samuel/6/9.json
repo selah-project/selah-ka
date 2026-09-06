@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "და შეეშინდა დავითს ⟨את⟩ იაჰვეს იმ დღეს, და თქვა: როგორ მოვა ჩემთან იაჰვეს კიდობანი?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "შეეშინდა"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "დავითს"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იაჰვეს"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "იმ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "איך",
+      "gloss": "როგორ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "მოვა"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემთან"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "კიდობანი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    }
+  ],
+  "timestamp": "2026-09-06T18:08:12.759705699Z",
+  "model": "glm-5.3"
+}

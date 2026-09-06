@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 37:3",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 37,
+  "translation": "და მითხრა ჩემთვის: ადამის ძევ, გაცოცხლდებიან ეს ძვლები? და ვთქვი: ადონაი იაჰვე, შენ იცი.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემთვის"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ადამი"
+    },
+    {
+      "surface": "התחיינה",
+      "gloss": "გაცოცხლდებიან"
+    },
+    {
+      "surface": "העצמות",
+      "gloss": "ძვლები"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ვთქვი"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ადონაი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "იცი"
+    }
+  ],
+  "timestamp": "2026-09-06T13:35:41.362644267Z",
+  "model": "glm-5.3"
+}

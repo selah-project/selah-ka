@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 7:26",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ბეთ-ლეხემელთა (ბეთლემელთა) და ნეტოფელთა კაცები: ას ოთხმოცდარვა.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "კაცები"
+    },
+    {
+      "surface": "בית",
+      "gloss": "სახლი"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ლეხემი"
+    },
+    {
+      "surface": "ונטפה",
+      "gloss": "და ნეტოფა"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "ოთხმოცი"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "და რვა"
+    }
+  ],
+  "timestamp": "2026-09-06T11:21:42.199413548Z",
+  "model": "glm-5.3"
+}

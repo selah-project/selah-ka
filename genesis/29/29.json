@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 29:29",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 29,
+  "translation": "და მისცა ლავანმა რახელს, თავის ასულს, ⟨את⟩ ბილჰას, თავის მხევალს, მას — მხევლად.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "და მისცა"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ლავანი"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "რახელს"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ასული"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ბილჰას"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "ბილჰა"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "მხევალი"
+    },
+    {
+      "surface": "לה",
+      "gloss": "მას"
+    },
+    {
+      "surface": "לשפחה",
+      "gloss": "მხევლად"
+    }
+  ],
+  "timestamp": "2026-09-06T03:56:31.449031299Z",
+  "model": "glm-5.3"
+}

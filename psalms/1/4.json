@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "არა ასე — ბოროტნი, არამედ როგორც ნამცეცი, რომელსაც ქარი აბნევს.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "ბოროტნი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "אם",
+      "gloss": "არამედ"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "როგორც ნამცეცი"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელსაც"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "აბნევს"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ქარი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:32:32.369950907Z",
+  "model": "glm-5.3"
+}

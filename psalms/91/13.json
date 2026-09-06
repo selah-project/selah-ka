@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 91,
+  "translation": "ლომსა და გველზე დააბიჯებ, ლომის ბოლოსა და დრაკონს დათელავ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "ლომი"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "და გველი"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "დააბიჯებ"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "დათელავ"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "ლომის ბოლო"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "და დრაკონი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:00:06.725177471Z",
+  "model": "glm-5.3"
+}

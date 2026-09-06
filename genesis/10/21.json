@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 10:21",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "და შემსაც შეეძინა — ისიც ⟨არის⟩ მამა ყველა ებერის ძეთა, ძმა იეფეთისა უფროსი.",
+  "tokens": [
+    {
+      "surface": "ולשם",
+      "gloss": "და შემსაც"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "შეეძინა"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ისიც"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "მამა"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძეთა"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ებერის"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ძმა"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "იეფეთისა"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "უფროსი"
+    }
+  ],
+  "timestamp": "2026-09-06T03:45:26.216231446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 11:47",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "ელიელი, და ყოვედი, და იაასიელი მცობელი.",
+  "tokens": [
+    {
+      "surface": "אליאל",
+      "gloss": "ელიელი"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "და ყოვედი"
+    },
+    {
+      "surface": "ויעשיאל",
+      "gloss": "და იაასიელი"
+    },
+    {
+      "surface": "המצביה",
+      "gloss": "მცობელი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:30:46.383409022Z",
+  "model": "glm-5.3"
+}

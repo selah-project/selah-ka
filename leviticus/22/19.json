@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 22:19",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "სათნოდ თქვენდამო — უნაკლო, მამალი, საქონლის, ცხვრის თუ თხის.",
+  "tokens": [
+    {
+      "surface": "לרצנכם",
+      "gloss": "სათნოდ თქვენდამო"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "უნაკლო"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "მამალი"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "საქონელი"
+    },
+    {
+      "surface": "בכשבים",
+      "gloss": "ცხვარი"
+    },
+    {
+      "surface": "ובעזים",
+      "gloss": "და თხა"
+    }
+  ],
+  "timestamp": "2026-09-06T04:47:19.510106685Z",
+  "model": "glm-5.3"
+}

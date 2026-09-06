@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 15:1",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "და აზარიაჰუს, ოდედის ძეს, მასზე იყო ელოჰიმის სული.",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "და აზარიაჰუ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "עודד",
+      "gloss": "ოდედი"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "მასზე"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "სული"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ელოჰიმის"
+    }
+  ],
+  "timestamp": "2026-09-06T11:49:10.882114402Z",
+  "model": "glm-5.3"
+}

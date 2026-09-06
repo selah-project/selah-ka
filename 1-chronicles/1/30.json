@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 1:30",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "მიშმა და დუმა, მაშა, ხადადი და თემა.",
+  "tokens": [
+    {
+      "surface": "משמע",
+      "gloss": "მიშმა"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "და დუმა"
+    },
+    {
+      "surface": "משא",
+      "gloss": "მაშა"
+    },
+    {
+      "surface": "חדד",
+      "gloss": "ხადადი"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "და თემა"
+    }
+  ],
+  "timestamp": "2026-09-06T11:25:56.317377443Z",
+  "model": "glm-5.3"
+}

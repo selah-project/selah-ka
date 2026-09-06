@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 18:17",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "დაიღუპება მისი ხსოვნა მიწიდან, და არ ექნება სახელი მას გარეთ, ქუჩის პირს.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "ხსოვნა"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "დაიღუპება"
+    },
+    {
+      "surface": "מני",
+      "gloss": "-დან"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "სახელი"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "פני",
+      "gloss": "პირი"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "გარეთ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:36:38.385849781Z",
+  "model": "glm-5.3"
+}

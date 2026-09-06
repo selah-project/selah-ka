@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "haggai 1:2",
+  "book": "haggai",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "ასე თქვა იაჰვე ცევაოთმა სიტყვიად: ამ ხალხმა თქვა: არ ⟨არის⟩ დრო — დრო იაჰვეს სახლის ასაშენებლად.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ცევაოთი"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სიტყვიად"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "დრო"
+    },
+    {
+      "surface": "בא",
+      "gloss": "მოსვლა"
+    },
+    {
+      "surface": "עת",
+      "gloss": "დრო"
+    },
+    {
+      "surface": "בית",
+      "gloss": "სახლი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "להבנות",
+      "gloss": "ასაშენებლად"
+    }
+  ],
+  "timestamp": "2026-09-06T09:23:02.660318451Z",
+  "model": "glm-5.3"
+}

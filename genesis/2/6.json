@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და ნისლი ადიოდა მიწიდან და რწყავდა ⟨את⟩ მთელ ნიადაგის სახეს.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "და ნისლი"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ადიოდა"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-დან"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "და რწყავდა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მთელ ნიადაგის სახეს"
+    },
+    {
+      "surface": "כל",
+      "gloss": "მთელ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "სახეს"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ნიადაგის"
+    }
+  ],
+  "timestamp": "2026-09-06T12:03:04.694797317Z",
+  "model": "glm-5.3"
+}

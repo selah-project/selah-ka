@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 49:16",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 49,
+  "translation": "დანი განსჯის თავის ხალხს, როგორც იშრაელის ტომთაგანი ერთი.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "დანი"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "განსჯის"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "თავის ხალხს"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "როგორც ერთი"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ტომთა"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელის"
+    }
+  ],
+  "timestamp": "2026-09-06T04:10:00.021504547Z",
+  "model": "glm-5.3"
+}

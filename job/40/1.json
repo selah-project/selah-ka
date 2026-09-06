@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 40:1",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 40,
+  "translation": "და უპასუხა იაჰვემ ⟨את⟩ იობს (იობს) და თქვა:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "და უპასუხა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იობს"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "იობი"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    }
+  ],
+  "timestamp": "2026-09-06T17:05:56.371823221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 3:21",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "შემი, ნუ გაცდებიან ისინი შენი თვალებისგან; დაიცავ თუშია და განზრახვა.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შემი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "ילזו",
+      "gloss": "გაცდებიან"
+    },
+    {
+      "surface": "מעיניך",
+      "gloss": "შენი თვალებისგან"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "დაიცავ"
+    },
+    {
+      "surface": "תשיה",
+      "gloss": "თუშია"
+    },
+    {
+      "surface": "ומזמה",
+      "gloss": "და განზრახვა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:15:42.729226004Z",
+  "model": "glm-5.3"
+}

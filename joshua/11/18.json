@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "მრავალ დღეს ომი გაუმართა იეჰოშუამ ⟨את⟩ ყველა ამ მეფეებს.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "მრავალი"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "აწარმოებდა"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "იეჰოშუა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ყველა ამ მეფეებს"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ომი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:37:50.594920037Z",
+  "model": "glm-5.3"
+}

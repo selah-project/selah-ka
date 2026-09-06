@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "არ იდანაშაულო მრავლად და არ იყავ უგუნური; რატომ უნდა მოკვდე არა შენს ⟨დროს⟩?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "იდანაშაულო"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "მრავლად"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "იყავ"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "უგუნური"
+    },
+    {
+      "surface": "למה",
+      "gloss": "რატომ"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "მოკვდე"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "შენი დრო"
+    }
+  ],
+  "timestamp": "2026-09-06T10:58:27.017609634Z",
+  "model": "glm-5.3"
+}

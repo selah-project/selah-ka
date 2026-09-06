@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "და აბრამი ძალიან მდიდარი იყო საქონლით, ვეცხლით და ოქროთი.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "და აბრამი"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "მძიმე"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ძალიან"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "საქონლით"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ვეცხლით"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "და ოქროთი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:02:28.013274644Z",
+  "model": "glm-5.3"
+}

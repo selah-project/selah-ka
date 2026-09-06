@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 35,
+  "translation": "და იყვნენ იცხაკის დღენი — ასი წელიწადი და ოთხმოცი წელიწადი.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "და იყვნენ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "დღენი"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "იცხაკის"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელიწადი"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "და ოთხმოცი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელიწადი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:00:22.304190262Z",
+  "model": "glm-5.3"
+}

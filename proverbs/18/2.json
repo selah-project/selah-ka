@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 18:2",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "არ სურს სულელს გაგება, არამედ ⟨მხოლოდ⟩ ის, რომ გამოაშკარავოს თავისი გული.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "სურს"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "სულელი"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "გაგებაში"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "არამედ"
+    },
+    {
+      "surface": "בהתגלות",
+      "gloss": "გამოშკარავებაში"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "თავისი გული"
+    }
+  ],
+  "timestamp": "2026-09-06T14:25:26.097841447Z",
+  "model": "glm-5.3"
+}

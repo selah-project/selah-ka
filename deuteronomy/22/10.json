@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "არ ჩახნა ხარით და ვირით ერთად.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ჩახნი"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "ხარით"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "და ვირით"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ერთად"
+    }
+  ],
+  "timestamp": "2026-09-06T05:33:23.761614636Z",
+  "model": "glm-5.3"
+}

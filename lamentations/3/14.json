@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "ვიყავი სიცილი მთელი ჩემი ხალხისთვის, მათი სიმღერა მთელ დღეს.",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "ვიყავი"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "სიცილი"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "მთელი...თვის"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ჩემი ხალხი"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "მათი სიმღერა"
+    },
+    {
+      "surface": "כל",
+      "gloss": "მთელ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "დღე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:52:55.239209625Z",
+  "model": "glm-5.3"
+}

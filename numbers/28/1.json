@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 28:1",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 28,
+  "translation": "და უთხრა იაჰვემ მოშეს (მოსე), ასე რომ თქვას:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "უთხრა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ასე რომ თქვას"
+    }
+  ],
+  "timestamp": "2026-09-06T05:17:34.759341800Z",
+  "model": "glm-5.3"
+}

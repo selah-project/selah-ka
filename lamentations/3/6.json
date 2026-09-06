@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 3:6",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "სიბნელეებში დამამკვიდრა, სამუდამო მკვდრების მსგავსად.",
+  "tokens": [
+    {
+      "surface": "במחשכים",
+      "gloss": "სიბნელეებში"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "დამამკვიდრა"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "მკვდრების მსგავსად"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "სამუდამო"
+    }
+  ],
+  "timestamp": "2026-09-06T10:52:30.799286493Z",
+  "model": "glm-5.3"
+}

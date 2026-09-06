@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 23:7",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "გერშონელთაგან: ლადანი და შიმი.",
+  "tokens": [
+    {
+      "surface": "לגרשני",
+      "gloss": "გერშონელი"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "ლადანი"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "შიმი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:37:26.350810431Z",
+  "model": "glm-5.3"
+}

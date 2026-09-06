@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 17:2",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 17,
+  "translation": "და თქვა ნატანმა დავიდს: ყველაფერი, რაც შენს გულში ⟨არის⟩, ქენი, რადგან ელოჰიმი ⟨არის⟩ შენთან.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ნატანი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "დავიდი"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველაფერი"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რაც"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "შენს გულში"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ქენი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "შენთან"
+    }
+  ],
+  "timestamp": "2026-09-06T16:43:22.674299077Z",
+  "model": "glm-5.3"
+}

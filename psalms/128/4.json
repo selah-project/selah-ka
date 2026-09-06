@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 128,
+  "translation": "აჰა, ასე იკურთხება კაცი, იაჰვეს მოშიში.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "იკურთხება"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "მოშიში"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:10:33.218043808Z",
+  "model": "glm-5.3"
+}

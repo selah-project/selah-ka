@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 19:11",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "არ იპაროთ, არ უარყოფდეთ და არ ატყუოთ — კაცი თავის მოყვასს.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "תגנבו",
+      "gloss": "იპაროთ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არა"
+    },
+    {
+      "surface": "תכחשו",
+      "gloss": "უარყოფდეთ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არა"
+    },
+    {
+      "surface": "תשקרו",
+      "gloss": "ატყუოთ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "თავის მოყვასში"
+    }
+  ],
+  "timestamp": "2026-09-06T04:45:38.255686230Z",
+  "model": "glm-5.3"
+}

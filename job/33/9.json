@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 33:9",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 33,
+  "translation": "წმინდა ვარ მე, ამბოხის გარეშე; უმანკო ვარ ⟨მე⟩, და უმართლობა ⟨არ არის⟩ ჩემში.",
+  "tokens": [
+    {
+      "surface": "זך",
+      "gloss": "წმინდა"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "გარეშე"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ამბოხი"
+    },
+    {
+      "surface": "חף",
+      "gloss": "უმანკო"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "უმართლობა"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ჩემში"
+    }
+  ],
+  "timestamp": "2026-09-06T14:38:45.578151341Z",
+  "model": "glm-5.3"
+}

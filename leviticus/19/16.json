@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "არ დადინო ჭორით შენს ხალხში; არ დგე შენი მოყვრე სისხლზე — მე ვარ იაჰვე.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "დადინო"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "ჭორით"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "შენს ხალხში"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "დგე"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "דם",
+      "gloss": "სისხლი"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "შენი მოყვრე"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T04:47:18.777449167Z",
+  "model": "glm-5.3"
+}

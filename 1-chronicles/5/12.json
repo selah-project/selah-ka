@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 5:12",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "იოელი თავკაცი, და შაფამი მეორე, და იანაი, და შაფატი ბაშანში.",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "იოელი"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "თავკაცი"
+    },
+    {
+      "surface": "ושפם",
+      "gloss": "და შაფამი"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "მეორე"
+    },
+    {
+      "surface": "ויעני",
+      "gloss": "და იანაი"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "და შაფატი"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "ბაშანში"
+    }
+  ],
+  "timestamp": "2026-09-06T11:27:57.331715876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 7:23",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ყველა ეს სიბრძნით გამოვცადე; ვთქვი: გავბრძნიე — და ის შორს არის ჩემგან.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "נסיתי",
+      "gloss": "გამოვცადე"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "სიბრძნით"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ვთქვი"
+    },
+    {
+      "surface": "אחכמה",
+      "gloss": "გავბრძნიე"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "და ის"
+    },
+    {
+      "surface": "רחוקה",
+      "gloss": "შორს"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ჩემგან"
+    }
+  ],
+  "timestamp": "2026-09-06T10:57:25.539155551Z",
+  "model": "glm-5.3"
+}

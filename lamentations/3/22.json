@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "იაჰვეს ხესედები — რადგან არ დასრულდა ჩვენი ⟨მოქმედება⟩, რადგან არ ამოიწურა მისი წყალობები.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "ხესედები"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "დასრულდა ჩვენი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ამოიწურა"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "წყალობები მისი"
+    }
+  ],
+  "timestamp": "2026-09-06T18:42:29.768560464Z",
+  "model": "glm-5.3"
+}

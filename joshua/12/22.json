@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "კედეშის მეფე — ერთი; ქარმელის იოკნეამის მეფე — ერთი.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "კედეში"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "იოკნეამი"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "ქარმელის"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:51:08.817112874Z",
+  "model": "glm-5.3"
+}

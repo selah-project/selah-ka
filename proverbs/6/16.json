@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 6:16",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "ეს ექვსი ⟨რამ⟩ სძულს იაჰვეს, და შვიდი სისაძღარო ⟨არის⟩ მისი ნეფეშისთვის.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "ექვსი"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "სძულს"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "და შვიდი"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "სისაძღარო"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "მისი ნეფეში"
+    }
+  ],
+  "timestamp": "2026-09-06T17:03:37.251824721Z",
+  "model": "glm-5.3"
+}

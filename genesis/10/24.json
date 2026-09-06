@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "და არფახშადმა შვა ⟨את⟩ შელახი, და შელახმა შვა ⟨את⟩ ებერი.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "და არფახშადმა"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "შელახი"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "შელახი"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "და შელახმა"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ებერი"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ებერი"
+    }
+  ],
+  "timestamp": "2026-09-06T03:45:26.217942489Z",
+  "model": "glm-5.3"
+}

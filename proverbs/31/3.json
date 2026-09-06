@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 31:3",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 31,
+  "translation": "არ მიანდო შენი ძალა ქალებს, და არ მიანდო შენი გზები მეფეთა მოსპობას.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "მიანდო"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "ქალებს"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "შენი ძალა"
+    },
+    {
+      "surface": "ודרכיך",
+      "gloss": "და შენი გზები"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "მოსპობა"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "მეფეები"
+    }
+  ],
+  "timestamp": "2026-09-06T10:29:33.387503300Z",
+  "model": "glm-5.3"
+}

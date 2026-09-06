@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "და ეწოდებოდეს მისი სახელი იშრაელში: „გახდულჩუსტიანთა სახლი“.",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "და ეწოდება"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "მისი სახელი"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "იშრაელში"
+    },
+    {
+      "surface": "בית",
+      "gloss": "სახლი"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "გახდული"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "ჩუსტი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:38:06.816667483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "ვაი ურჩსა და შებილწულსა — ქალაქს მჩაგრავს!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ვაი"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ურჩი"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "და შებილწული"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ქალაქი"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "მჩაგრავი"
+    }
+  ],
+  "timestamp": "2026-09-06T16:20:08.470873545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 6:4",
+  "book": "ezra",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "სამი რიგი დიდი ქვისა, და ერთი რიგი ახალი ხისა, და ხარჯი მეფის სახლიდან გადაეცეს.",
+  "tokens": [
+    {
+      "surface": "נדבכין",
+      "gloss": "რიგები"
+    },
+    {
+      "surface": "די",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ქვის"
+    },
+    {
+      "surface": "גלל",
+      "gloss": "დიდი"
+    },
+    {
+      "surface": "תלתא",
+      "gloss": "სამი"
+    },
+    {
+      "surface": "ונדבך",
+      "gloss": "და რიგი"
+    },
+    {
+      "surface": "די",
+      "gloss": ""
+    },
+    {
+      "surface": "אע",
+      "gloss": "ხის"
+    },
+    {
+      "surface": "חדת",
+      "gloss": "ახალი"
+    },
+    {
+      "surface": "ונפקתא",
+      "gloss": "და ხარჯი"
+    },
+    {
+      "surface": "מן",
+      "gloss": ""
+    },
+    {
+      "surface": "בית",
+      "gloss": "სახლიდან"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "მეფის"
+    },
+    {
+      "surface": "תתיהב",
+      "gloss": "გადაეცეს"
+    }
+  ],
+  "timestamp": "2026-09-06T11:16:23.272260220Z",
+  "model": "glm-5.3"
+}

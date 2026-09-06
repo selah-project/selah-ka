@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 148,
+  "translation": "ადიდეთ ⟨את⟩ იაჰვე მიწიდან: ზღვის მხეცებო და ყველა უღრმესობავ.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ადიდეთ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იაჰვე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-დან"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "ზღვის მხეცები"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "და ყველა"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "უღრმესობები"
+    }
+  ],
+  "timestamp": "2026-09-06T10:14:28.870295011Z",
+  "model": "glm-5.3"
+}

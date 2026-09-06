@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "⟨არის⟩ ბოროტება, რომელიც ვნახე მზის ქვეშ, და მძიმე ⟨არის⟩ იგი ადამიანზე.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "არს"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ბოროტება"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ვნახე"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ქვეშ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "მზე"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "და მძიმე"
+    },
+    {
+      "surface": "היא",
+      "gloss": "იგი"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ადამიანი"
+    }
+  ],
+  "timestamp": "2026-09-06T14:52:02.356080743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 116,
+  "translation": "რა ვუბრუნო იაჰვეს, ყველა მისი საზღაურისა ჩემდამი?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ვუბრუნო"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "საზღაური"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ჩემდამი"
+    }
+  ],
+  "timestamp": "2026-09-06T14:15:35.998599275Z",
+  "model": "glm-5.3"
+}

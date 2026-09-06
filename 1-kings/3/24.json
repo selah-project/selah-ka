@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 3:24",
+  "book": "1-kings",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "და თქვა მეფემ: მომიღეთ მე მახვილი. და მოიტანეს მახვილი მეფის წინაშე.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "მომიღეთ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "მახვილი"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "მოიტანეს"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "მახვილი"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "წინაშე"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "მეფე"
+    }
+  ],
+  "timestamp": "2026-09-06T06:52:50.631648323Z",
+  "model": "glm-5.3"
+}

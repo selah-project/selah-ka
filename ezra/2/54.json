@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "ezra 2:54",
+  "book": "ezra",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "ნეციახის ძენი, ხათიფას ძენი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "ნეციახი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "ხათიფა"
+    }
+  ],
+  "timestamp": "2026-09-06T11:14:09.102224459Z",
+  "model": "glm-5.3"
+}

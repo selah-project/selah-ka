@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 11:44",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "უზიაა აშთერათელი, შამა და იეიელ ხოთამ აროერელის ძენი.",
+  "tokens": [
+    {
+      "surface": "עזיא",
+      "gloss": "უზიაა"
+    },
+    {
+      "surface": "העשתרתי",
+      "gloss": "აშთერათელი"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "შამა"
+    },
+    {
+      "surface": "ויעואל",
+      "gloss": "და იეიელ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "ხოთამ"
+    },
+    {
+      "surface": "הערערי",
+      "gloss": "აროერელი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:30:24.129058981Z",
+  "model": "glm-5.3"
+}

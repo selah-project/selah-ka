@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "ელკანაჰი მისი შვილი, და ევიასაფი მისი შვილი, და ასირი მისი შვილი.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "ელკანაჰი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი შვილი"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "და ევიასაფი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი შვილი"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "და ასირი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი შვილი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:28:17.633779394Z",
+  "model": "glm-5.3"
+}

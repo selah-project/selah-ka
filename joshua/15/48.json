@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "joshua 15:48",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "და მთაში: შამირი, იათირი და სოქო.",
+  "tokens": [
+    {
+      "surface": "ובהר",
+      "gloss": "და მთაში"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "შამირი"
+    },
+    {
+      "surface": "ויתיר",
+      "gloss": "და იათირი"
+    },
+    {
+      "surface": "ושוכה",
+      "gloss": "და სოქო"
+    }
+  ],
+  "timestamp": "2026-09-06T15:45:12.034518270Z",
+  "model": "glm-5.3"
+}

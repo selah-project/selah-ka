@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 36:1",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 36,
+  "translation": "და დაამატა ელიჰუმ და თქვა:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "და დაამატა"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "ელიჰუმ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:44:08.949311977Z",
+  "model": "glm-5.3"
+}

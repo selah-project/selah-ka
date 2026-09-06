@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "არ გადახარო სამართალი შენი გლახაკისა მის საქმეში.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "გადახარო"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "სამართალი"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "შენი გლახაკისა"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "მის საქმეში"
+    }
+  ],
+  "timestamp": "2026-09-06T20:31:50.491128731Z",
+  "model": "glm-5.3"
+}

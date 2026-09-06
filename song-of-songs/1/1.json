@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "სიმღერა სიმღერათა, რომელიც ⟨არის⟩ შელომოსი (სოლომონისი).",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "სიმღერა"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "სიმღერათა"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "შელომოსი"
+    }
+  ],
+  "timestamp": "2026-09-06T16:35:16.302312714Z",
+  "model": "glm-5.3"
+}

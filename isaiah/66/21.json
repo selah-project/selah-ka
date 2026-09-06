@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 66:21",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 66,
+  "translation": "და ასევე მათგან ავიღებ ქოჰანიმად და ლევიიმად, — თქვა იაჰვემ.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "და ასევე"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "მათგან"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ავიღებ"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "ქოჰანიმად"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "ლევიიმად"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T07:58:34.341339917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 23:14",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "ხოლო მოშე — ელოჰიმის კაცი — მისი შვილები ლევის ტომზე დაირქვეს.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "ხოლო მოშე"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ელოჰიმის"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "მისი შვილები"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "დაირქვეს"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ტომი"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "ლევის"
+    }
+  ],
+  "timestamp": "2026-09-06T16:43:11.865289310Z",
+  "model": "glm-5.3"
+}

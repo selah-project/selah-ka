@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 72,
+  "translation": "ჩამოვა წვიმად მოცრეულ ბალახზე, ღრუბლებივით დაღვრის მიწას.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "ჩამოვა"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "წვიმად"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "גז",
+      "gloss": "მოცრეული ბალახი"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "ღრუბლებივით"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "დაღვრის"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "მიწა"
+    }
+  ],
+  "timestamp": "2026-09-06T09:52:09.996265957Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 8:17",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და იტყვი შენს გულში: ჩემმა ძალამ და ჩემი ხელის მტკიცეობამ შექმნა ჩემთვის ⟨את⟩ ეს სიმდიდრე.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "იტყვი"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "შენს გულში"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ჩემი ძალა"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "მტკიცეობა"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ჩემი ხელი"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "შექმნა"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ჩემთვის"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ეს სიმდიდრე"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "სიმდიდრე"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ეს"
+    }
+  ],
+  "timestamp": "2026-09-06T12:32:18.863348816Z",
+  "model": "glm-5.3"
+}

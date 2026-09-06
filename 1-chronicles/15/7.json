@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 15:7",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "გერშომის ძეთაგან ⟨იყო⟩ იოელი მთავარი და მისი ძმები — ასი ოცდაათი.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "ძეთა"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "გერშომი"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "იოელი"
+    },
+    {
+      "surface": "השר",
+      "gloss": "მთავარი"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "და მისი ძმები"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "და ოცდაათი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:33:02.291445086Z",
+  "model": "glm-5.3"
+}

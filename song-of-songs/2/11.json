@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 2:11",
+  "book": "song-of-songs",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "რადგან აჰა, ზამთარი გავლილა, წვიმა ჩაიარა, წავიდა თავისიანად.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "הסתו",
+      "gloss": "ზამთარი"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "გავლილა"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "წვიმა"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "ჩაიარა"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "წავიდა"
+    },
+    {
+      "surface": "לו",
+      "gloss": "თავისიანად"
+    }
+  ],
+  "timestamp": "2026-09-06T10:47:45.900978843Z",
+  "model": "glm-5.3"
+}

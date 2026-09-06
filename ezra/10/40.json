@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezra 10:40",
+  "book": "ezra",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "მახნადებაი, შაშაი, შარაი.",
+  "tokens": [
+    {
+      "surface": "מכנדבי",
+      "gloss": "მახნადებაი"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "შაშაი"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "შარაი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:17:06.981346203Z",
+  "model": "glm-5.3"
+}

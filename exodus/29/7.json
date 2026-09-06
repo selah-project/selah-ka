@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 29,
+  "translation": "და აიღე ⟨את⟩ ზეთი მიშჩის, და გადმოჭერ მის თავზე, და მოსნებ ⟨את⟩ ისენ.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "აიღე"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ზეთი"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ზეთი"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "მიშჩა"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "გადმოჭერ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "მის თავი"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "მოსნებ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ისენ",
+      "marks": "ისენ"
+    }
+  ],
+  "timestamp": "2026-09-06T04:28:14.566195024Z",
+  "model": "glm-5.3"
+}

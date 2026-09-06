@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 12:5",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "მათ თვალების წინაშე გაუღე შენ ⟨თავად⟩ კედელი და გაიტან მისგან.",
+  "tokens": [
+    {
+      "surface": "לעיניהם",
+      "gloss": "მათ თვალთა წინაშე"
+    },
+    {
+      "surface": "חתר",
+      "gloss": "გაუღე"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "კედელში"
+    },
+    {
+      "surface": "והוצאת",
+      "gloss": "და გაიტან"
+    },
+    {
+      "surface": "בו",
+      "gloss": "მისგან"
+    }
+  ],
+  "timestamp": "2026-09-06T08:38:32.053421794Z",
+  "model": "glm-5.3"
+}

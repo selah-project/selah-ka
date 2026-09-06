@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 15:10",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "უზიელის ძეთაგან: ამინადაბი მთავარი, და მისი ძმები — ასი და თორმეტი.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "ძეთაგან"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "უზიელი"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "ამინადაბი"
+    },
+    {
+      "surface": "השר",
+      "gloss": "მთავარი"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "და მისი ძმები"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "და ორი"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "თორმეტი"
+    }
+  ],
+  "timestamp": "2026-09-06T18:48:00.936866610Z",
+  "model": "glm-5.3"
+}

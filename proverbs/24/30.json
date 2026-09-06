@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 24:30",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "მომწყენ კაცის ველს გავუარე და გულმოკლე კაცის ვაზსაც.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "გასწრებით"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ველი"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "მომწყენი"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "გავუარე"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "და გასწრებით"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "ვაზი"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "მოკლე"
+    },
+    {
+      "surface": "לב",
+      "gloss": "გული"
+    }
+  ],
+  "timestamp": "2026-09-06T10:26:13.764433630Z",
+  "model": "glm-5.3"
+}

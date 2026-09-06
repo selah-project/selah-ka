@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 1:46",
+  "book": "1-kings",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და აგრეთვე შლომოჰი ზის ⟨სამეფოს⟩ ტახტზე.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "და აგრეთვე"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ზის"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "შლომოჰი"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ტახტი"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "სამეფო"
+    }
+  ],
+  "timestamp": "2026-09-06T06:51:59.115675359Z",
+  "model": "glm-5.3"
+}

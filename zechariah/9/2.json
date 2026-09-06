@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 9:2",
+  "book": "zechariah",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "და ხამათი მას დაესაზღვრება; ცორი და ციდონი, რადგან ძალიან ბრძენი ⟨არის⟩.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "და ც"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ხამათი"
+    },
+    {
+      "surface": "תגבל",
+      "gloss": "დაესაზღვრება"
+    },
+    {
+      "surface": "בה",
+      "gloss": "მას"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ცორი"
+    },
+    {
+      "surface": "וצידון",
+      "gloss": "და ციდონი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ბრძენი"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ძალიან"
+    }
+  ],
+  "timestamp": "2026-09-06T09:26:15.088722984Z",
+  "model": "glm-5.3"
+}

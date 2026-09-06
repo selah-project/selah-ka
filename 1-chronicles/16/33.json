@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 16:33",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 16,
+  "translation": "მაშინ იმღერებენ ტყის ხეები იაჰვეს წინაშე, რადგან მოდის იგი ⟨את⟩ მიწის სამსართავად.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "მაშინ"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "იმღერებენ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ხეები"
+    },
+    {
+      "surface": "היער",
+      "gloss": "ტყის"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "წინაშე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "בא",
+      "gloss": "მოდის"
+    },
+    {
+      "surface": "לשפוט",
+      "gloss": "სამსართავად"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მიწა"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    }
+  ],
+  "timestamp": "2026-09-06T11:35:01.279925134Z",
+  "model": "glm-5.3"
+}

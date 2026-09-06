@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 22:26",
+  "book": "2-samuel",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "მოწყალესთან მოწყალებას გამოიჩენ, სრულ გმირთან სისრულეს გამოიჩენ.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "თან"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "მოწყალე"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "მოწყალებს"
+    },
+    {
+      "surface": "עם",
+      "gloss": "თან"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "გმირი"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "სრული"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "სრულყოფს"
+    }
+  ],
+  "timestamp": "2026-09-06T06:48:46.379597569Z",
+  "model": "glm-5.3"
+}

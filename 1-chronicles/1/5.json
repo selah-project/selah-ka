@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 1:5",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "იეფეთის ძენი: გომერი, მაგოგი, მადაი, იავანი, თუბალი, მეშეხი და ტირასი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "იეფეთი"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "გომერი"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "და მაგოგი"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "და მადაი"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "და იავანი"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "და თუბალი"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "და მეშეხი"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "და ტირასი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:25:22.211952543Z",
+  "model": "glm-5.3"
+}

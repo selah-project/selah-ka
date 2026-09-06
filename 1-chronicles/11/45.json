@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 11:45",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "იედიაელი შიმრის ძე, და იოჰა, მისი ძმა, თიცელი,",
+  "tokens": [
+    {
+      "surface": "ידיעאל",
+      "gloss": "იედიაელი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "შიმრის"
+    },
+    {
+      "surface": "ויחא",
+      "gloss": "და იოჰა"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "მისი ძმა"
+    },
+    {
+      "surface": "התיצי",
+      "gloss": "თიცელი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:30:46.383097853Z",
+  "model": "glm-5.3"
+}

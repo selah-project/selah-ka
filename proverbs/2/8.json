@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 2:8",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "სამართლის გზების დასაცავად, და თავისი ერთგულების გზას დაიცავს.",
+  "tokens": [
+    {
+      "surface": "לנצר",
+      "gloss": "დასაცავად"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "გზები"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "სამართალი"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "და გზა"
+    },
+    {
+      "surface": "חסידו",
+      "gloss": "მისი ერთგულნი"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "დაიცავს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:15:44.917484619Z",
+  "model": "glm-5.3"
+}

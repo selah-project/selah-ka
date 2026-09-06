@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 37:5",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 37,
+  "translation": "გადააბარე იაჰვეს შენი გზა და მიენდე მას, და ის აღასრულებს.",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "გადააბარე"
+    },
+    {
+      "surface": "על",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "შენი გზა"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "და მიენდე"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "მასზე"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "და ის"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "აღასრულებს"
+    }
+  ],
+  "timestamp": "2026-09-06T09:41:54.523384980Z",
+  "model": "glm-5.3"
+}

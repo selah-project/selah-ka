@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 1:6",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "შიმონისათვის — შელუმიელი, ცურიშადაის ძე.",
+  "tokens": [
+    {
+      "surface": "לשמעון",
+      "gloss": "შიმონისათვის"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "შელუმიელი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "ცურიშადაი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:57:51.411719280Z",
+  "model": "glm-5.3"
+}

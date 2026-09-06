@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 19:3",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "და ხაცარ-შუალი და ბალა და აცემი.",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "და ხაცარ-შუალი"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "შუალი"
+    },
+    {
+      "surface": "ובלה",
+      "gloss": "და ბალა"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "და აცემი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:55:07.589984474Z",
+  "model": "glm-5.3"
+}

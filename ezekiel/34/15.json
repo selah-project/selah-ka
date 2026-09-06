@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 34:15",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 34,
+  "translation": "მე ვაბალავ ჩემს ფარას და მე დავაწვენ მათ — ნათქვამია ადონაი იაჰვეს მიერ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "ვაბალავ"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "ჩემი ფარა"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "და მე"
+    },
+    {
+      "surface": "ארביצם",
+      "gloss": "დავაწვენ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ნათქვამია"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ადონაი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T08:53:31.706723873Z",
+  "model": "glm-5.3"
+}

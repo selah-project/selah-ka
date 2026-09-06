@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "რამდენ ხანს, იაჰვე, ვღაღადებ და არ ისმენ? შეღაღადებ შენდამი ძალადობაზე, და არ იხსნი.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "რამდენ"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ხანს"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ვღაღადებ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ისმენ"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "შევღაღადებ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "შენდამი"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ძალადობა"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "იხსნი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:20:11.716646806Z",
+  "model": "glm-5.3"
+}

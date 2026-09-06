@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "და ⟨את⟩ გათი, და ⟨את⟩ მარეშაჰი, და ⟨את⟩ ზიფი.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "გათი"
+    },
+    {
+      "surface": "גת",
+      "gloss": "გათი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "მარეშაჰი"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "მარეშაჰი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ზიფი"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "ზიფი"
+    }
+  ],
+  "timestamp": "2026-09-06T17:06:58.338650549Z",
+  "model": "glm-5.3"
+}

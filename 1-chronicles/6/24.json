@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 6:24",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "და მისი ძმა ასაფი, მდგომი ⟨იყო⟩ მის მარჯვენასთან; ასაფი ბერეხიაჰუს ძე, შიმეას ძე.",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "და მისი ძმა"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ასაფი"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "მდგომი"
+    },
+    {
+      "surface": "על",
+      "gloss": "-თან"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "მის მარჯვენას"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ასაფი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "ברכיהו",
+      "gloss": "ბერეხიაჰუ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "შიმეა"
+    }
+  ],
+  "timestamp": "2026-09-06T16:39:08.735775065Z",
+  "model": "glm-5.3"
+}

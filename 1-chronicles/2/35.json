@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 2:35",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და მისცა შეშანმა ⟨את⟩ თავისი ასული იარხას, თავის მონას, ცოლად; და უშვა მას ⟨את⟩ ყათაი.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "და მისცა"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "შეშანმა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "თავისი ასული"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "თავისი ასული"
+    },
+    {
+      "surface": "לירחע",
+      "gloss": "იარხას"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "თავის მონას"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ცოლად"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "და უშვა"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ყათაი"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "ყათაი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:26:14.449954893Z",
+  "model": "glm-5.3"
+}

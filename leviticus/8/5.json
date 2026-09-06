@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და უთხრა მოშემ კრებულს: ეს არის ⟨ის⟩ სიტყვა, რომელიც ბრძანა იაჰვემ აღსასრულებლად.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "უთხრა"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "კრებულს"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "კრებული"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ბრძანა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "აღსასრულებლად"
+    }
+  ],
+  "timestamp": "2026-09-06T12:20:21.570568130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "lamentations 3:51",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "ჩემი თვალი ატანჯავს ჩემს ნეფეშს ჩემი ქალაქის ყველა ასულის გამო.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ჩემი თვალი"
+    },
+    {
+      "surface": "עוללה",
+      "gloss": "ატანჯავს"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ჩემს ნეფეშს"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ასული"
+    },
+    {
+      "surface": "עירי",
+      "gloss": "ჩემი ქალაქი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:52:17.866262278Z",
+  "model": "glm-5.3"
+}

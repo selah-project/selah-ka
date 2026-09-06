@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "შენი ძმის ცოლის შიშველობას არ გახსნი; შენი ძმის შიშველობა ⟨არის⟩ ის.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "შიშველობა"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ცოლი"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "შენი ძმა"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "გახსნი"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "შიშველობა"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "შენი ძმა"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    }
+  ],
+  "timestamp": "2026-09-06T04:44:51.358843226Z",
+  "model": "glm-5.3"
+}

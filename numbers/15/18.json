@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 15:18",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "ელაპარაკე იშრაელის ძეებს და უთხარი მათ: როცა მოხვალთ იმ მიწაში, სადაც მე შეგიყვანთ ⟨את⟩ თქვენ იქ.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ელაპარაკე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძეები"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელის"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "და უთხარი"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "მათ"
+    },
+    {
+      "surface": "בבאכם",
+      "gloss": "შესვლა"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ში"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "სადაც"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "შემყვანი"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "თქვენ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "იქ"
+    }
+  ],
+  "timestamp": "2026-09-06T20:31:40.722096721Z",
+  "model": "glm-5.3"
+}

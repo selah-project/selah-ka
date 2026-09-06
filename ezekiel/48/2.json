@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 48:2",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 48,
+  "translation": "და დანის საზღვართან, აღმოსავლეთის მხრიდან ზღვის მხრემდე — აშერი, ერთი.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "და მიმდებარედ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "საზღვარი"
+    },
+    {
+      "surface": "דן",
+      "gloss": "დანი"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "მხრიდან"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "აღმოსავლეთი"
+    },
+    {
+      "surface": "עד",
+      "gloss": "მდე"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "მხარე"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ზღვისაკენ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "აშერი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:04:02.065730280Z",
+  "model": "glm-5.3"
+}

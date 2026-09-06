@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "საუკეთესონი ⟨არიან⟩ ორნი ერთზე, რადგან აქვთ მათ საზღაური კარგი შრომაში ⟨საკუთარსა⟩.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "საუკეთესონი"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ორნი"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "יש",
+      "gloss": "აქვთ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "მათ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "საზღაური"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "კარგი"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "შრომაში ⟨საკუთარსა⟩"
+    }
+  ],
+  "timestamp": "2026-09-06T10:55:25.823928860Z",
+  "model": "glm-5.3"
+}

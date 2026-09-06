@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 19:14",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "არ წყევლო ყრუ, და ბრმის წინაშე არ დადო წახდენის ქვა; ეშინოდეს შენი ელოჰიმის — მე ვარ იაჰვე.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "წყევლო"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ყრუ"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "და … წინაშე"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ბრმა"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "დადო"
+    },
+    {
+      "surface": "מכשל",
+      "gloss": "წახდენის ქვა"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "და ეშინოდეს"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "შენი ელოჰიმი"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T04:47:18.776768226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და დაორსულდა ⟨ის⟩ დედაკაცი და შვა ძე; და იხილა ⟨את⟩ ის, რომ კეთილი ⟨არის⟩, და მალავდა მას სამ თვე.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "დაორსულდა"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "დედაკაცი"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "იხილა"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ის"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "კეთილი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "მალავდა"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "სამ"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "თვე"
+    }
+  ],
+  "timestamp": "2026-09-06T12:09:42.410142122Z",
+  "model": "glm-5.3"
+}

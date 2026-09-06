@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "და თქვა იაჰვემ იეჰოშუას: ადგი შენ; რატომ ხარ შენ ასე პირქვე ჩავარდნილი?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვემ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "იეჰოშუა"
+    },
+    {
+      "surface": "קם",
+      "gloss": "ადგი"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "რატომ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ჩავარდნილი ხარ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "შენს სახეზე"
+    }
+  ],
+  "timestamp": "2026-09-06T05:49:37.563304523Z",
+  "model": "glm-5.3"
+}

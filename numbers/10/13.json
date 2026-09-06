@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 10:13",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "და დაიძრნენ პირველად იაჰვეს პირით, მოშეს ხელით.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "დაიძრნენ"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "პირველად"
+    },
+    {
+      "surface": "על",
+      "gloss": "მიხედვით"
+    },
+    {
+      "surface": "פי",
+      "gloss": "პირით"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ხელით"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    }
+  ],
+  "timestamp": "2026-09-06T05:04:23.136083059Z",
+  "model": "glm-5.3"
+}

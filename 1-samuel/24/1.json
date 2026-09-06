@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "და ავიდა დავიდი იქიდან და დასახლდა ეინ გედის სიმაგრეებში.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "და ავიდა"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "დავიდი"
+    },
+    {
+      "surface": "משם",
+      "gloss": "იქიდან"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "და დასახლდა"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "სიმაგრეებში"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ეინ"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "გედი"
+    }
+  ],
+  "timestamp": "2026-09-06T20:32:42.018676970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 28:46",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 28,
+  "translation": "და იქნებიან შენში ნიშნად და სასწაულად და შენს თესლში უწყვეტლივ.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "იქნებიან"
+    },
+    {
+      "surface": "בך",
+      "gloss": "შენში"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "ნიშნად"
+    },
+    {
+      "surface": "ולמופת",
+      "gloss": "სასწაულად"
+    },
+    {
+      "surface": "ובזרעך",
+      "gloss": "შენს თესლში"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ვიდრე"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "უწყვეტლივ"
+    }
+  ],
+  "timestamp": "2026-09-06T05:40:26.559398409Z",
+  "model": "glm-5.3"
+}

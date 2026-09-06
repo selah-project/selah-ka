@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 1:13",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "ყველა ძვირფასი ქონება ⟨იპოვება⟩; ავავსებთ ჩვენს სახლებს ნადავლით.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ქონება"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ძვირფასი"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "იპოვება"
+    },
+    {
+      "surface": "נמלא",
+      "gloss": "ავავსებთ"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "ჩვენს სახლებს"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ნადავლი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:15:23.190943406Z",
+  "model": "glm-5.3"
+}

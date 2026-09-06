@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 9:20",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "და ფინხასი, ძე ელაზარისი, წინათ მთავარი იყო მათ ზედა, იაჰვე ⟨არის⟩ მასთან.",
+  "tokens": [
+    {
+      "surface": "ופינחס",
+      "gloss": "და ფინხასი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ელაზარისი"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "მთავარი"
+    },
+    {
+      "surface": "היה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "მათ ზედა"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "წინათ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "მასთან"
+    }
+  ],
+  "timestamp": "2026-09-06T19:38:06.587634802Z",
+  "model": "glm-5.3"
+}

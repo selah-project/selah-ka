@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 50,
+  "translation": "ვიცნობ მთების ყველა ფრინველს, და ველის მცოცავი ჩემთან ⟨არის⟩.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "ვიცნობ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ფრინველი"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "მთები"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "და მცოცავი"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ველი"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ჩემთან"
+    }
+  ],
+  "timestamp": "2026-09-06T09:44:40.574920449Z",
+  "model": "glm-5.3"
+}

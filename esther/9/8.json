@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "და ⟨את⟩ ფორათა, და ⟨את⟩ ადალია, და ⟨את⟩ არიდათა.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ფორათა"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "ფორათა"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ადალია"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "ადალია"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "არიდათა"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "არიდათა"
+    }
+  ],
+  "timestamp": "2026-09-06T11:02:42.580682982Z",
+  "model": "glm-5.3"
+}

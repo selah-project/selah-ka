@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 32,
+  "translation": "და ააშენეს ძეებმა გადისა ⟨את⟩ დიბონი და ⟨את⟩ ატაროთი და ⟨את⟩ აროერი.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "და ააშენეს"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძეებმა"
+    },
+    {
+      "surface": "גד",
+      "gloss": "გადისა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "დიბონი"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "დიბონი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ატაროთი"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "ატაროთი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "აროერი"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "აროერი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:19:29.761794558Z",
+  "model": "glm-5.3"
+}

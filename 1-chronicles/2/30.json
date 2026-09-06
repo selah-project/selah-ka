@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 2:30",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და ძენი ნადაბისანი ⟨არიან⟩ სელედი და აპაიმი; და მოკვდა სელედი, არა შვილნი.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "და ძენი"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "ნადაბი"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "სელედი"
+    },
+    {
+      "surface": "ואפים",
+      "gloss": "და აპაიმი"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "და მოკვდა"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "სელედი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "შვილნი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:26:26.693854309Z",
+  "model": "glm-5.3"
+}

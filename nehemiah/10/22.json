@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 10:22",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "მეშეიზაველი (მეშეზაველი), ცადოკი (ცადოკი), იადუა (იადუა),",
+  "tokens": [
+    {
+      "surface": "משיזבאל",
+      "gloss": "მეშეიზაველი"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ცადოკი"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "იადუა"
+    }
+  ],
+  "timestamp": "2026-09-06T11:23:05.377168039Z",
+  "model": "glm-5.3"
+}

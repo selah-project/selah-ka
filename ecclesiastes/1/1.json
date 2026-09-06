@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "სიტყვები კოჰელეთისა (ქადაგისა), ძისა დავითისა (დავითის), მეფისა იერუშალაიმში (იერუსალიმში).",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "სიტყვები"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "კოჰელეთი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "დავითი"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "იერუშალაიმში"
+    }
+  ],
+  "timestamp": "2026-09-06T10:56:20.094573885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 1:29",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "რადგან შეიძულეს ცოდნა და იაჰვეს შიში არ აირჩიეს,",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "იმიტომ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "შეიძულა"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ცოდნა"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "და შიში"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "აირჩია"
+    }
+  ],
+  "timestamp": "2026-09-06T10:15:32.736844340Z",
+  "model": "glm-5.3"
+}

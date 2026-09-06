@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 34,
+  "translation": "მდნობილი ღმერთები არ გაიკეთო შენთვის.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "ღმერთები"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "მდნობილი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "გაიკეთო"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენთვის"
+    }
+  ],
+  "timestamp": "2026-09-06T15:33:21.355602441Z",
+  "model": "glm-5.3"
+}

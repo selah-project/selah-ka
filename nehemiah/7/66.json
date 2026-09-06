@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "nehemiah 7:66",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "მთელი კრებული ერთად ⟨არის⟩ ოთხი ათი ათასი, ორი ათასი, სამასი და სამოცი.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "მთელი"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "კრებული"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "ერთად"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ოთხი"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "ათი ათასი"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ორი ათასი"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "სამასი"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასეული"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "და სამოცი"
+    }
+  ],
+  "timestamp": "2026-09-06T15:02:03.160161930Z",
+  "model": "glm-5.3"
+}

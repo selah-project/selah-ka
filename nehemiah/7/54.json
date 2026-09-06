@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "nehemiah 7:54",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ბაცლითის ძენი, მეხიდას ძენი, ხარშას ძენი,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "בצלית",
+      "gloss": "ბაცლითი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "מחידא",
+      "gloss": "მეხიდა"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "חרשא",
+      "gloss": "ხარშა"
+    }
+  ],
+  "timestamp": "2026-09-06T20:33:55.788302512Z",
+  "model": "glm-5.3"
+}

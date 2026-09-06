@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 31:2",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 31,
+  "translation": "უთხრა მათ: ას ოცი წლის ვარ დღეს; აღარ შემიძლია გასვლა და შესვლა; და იაჰვემ მითხრა მე: არ გადახვალ ⟨את⟩ ამ იარდენს.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "უთხრა"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "მათ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "შვილი"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ას"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ოცი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელი"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "היום",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "შემიძლია"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "აღარ"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "გასვლა"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "შესვლა"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "გადახვალ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ამ იარდენს"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "იარდენი"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ეს"
+    }
+  ],
+  "timestamp": "2026-09-06T05:44:49.183187693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 1:14",
+  "book": "song-of-songs",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "ხნის მტევანი ⟨არის⟩ ჩემი საყვარელი ჩემთვის, ეინ გედის ვენახებში.",
+  "tokens": [
+    {
+      "surface": "אשכל",
+      "gloss": "მტევანი"
+    },
+    {
+      "surface": "הכפר",
+      "gloss": "ხნის"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ჩემი საყვარელი"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ჩემთვის"
+    },
+    {
+      "surface": "בכרמי",
+      "gloss": "ვენახებში"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ეინ"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "გედი"
+    }
+  ],
+  "timestamp": "2026-09-06T14:43:49.687835847Z",
+  "model": "glm-5.3"
+}

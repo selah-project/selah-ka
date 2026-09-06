@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 36:5",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 36,
+  "translation": "აჰ, ელი ძლიერი ⟨არის⟩ და არ ზიდავს არავის: ძლიერი ⟨არის⟩ ძალად და გულად.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "აჰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ელი"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "ძლიერი"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "ზიდავს"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "ძლიერი"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ძალა"
+    },
+    {
+      "surface": "לב",
+      "gloss": "გული"
+    }
+  ],
+  "timestamp": "2026-09-06T17:05:58.468520043Z",
+  "model": "glm-5.3"
+}

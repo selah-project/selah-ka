@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 18:14",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "შენი მამის ძმის შიშველობას არ გახსნი; მის ცოლთან არ მიუდგები — შენი დეიდა ⟨არის⟩ ის.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "შიშველობა"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ძმა"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "შენი მამა"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "გახსნი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "მისი ცოლი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "მიუდგები"
+    },
+    {
+      "surface": "דדתך",
+      "gloss": "შენი დეიდა"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    }
+  ],
+  "timestamp": "2026-09-06T04:44:51.358627817Z",
+  "model": "glm-5.3"
+}

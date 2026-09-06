@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 86,
+  "translation": "მომიწყალე მე, ადონაი, რადგან შენ მოგიწოდებ მე მთელ დღეს.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "მომიწყალე მე"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ადონაი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "მოგიწოდებ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "მთელ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "დღე"
+    }
+  ],
+  "timestamp": "2026-09-06T09:58:17.462975380Z",
+  "model": "glm-5.3"
+}

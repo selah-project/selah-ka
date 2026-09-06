@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 15:42",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "ლიბნა, ეტერ და აშანი.",
+  "tokens": [
+    {
+      "surface": "לבנה",
+      "gloss": "ლიბნა"
+    },
+    {
+      "surface": "ועתר",
+      "gloss": "ეტერ"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "აშანი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:53:42.192226684Z",
+  "model": "glm-5.3"
+}

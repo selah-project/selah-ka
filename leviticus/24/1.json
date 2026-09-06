@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 24:1",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "და თქვა იაჰვემ მოშეს (მოსე) მიმართ, ასე:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ასე"
+    }
+  ],
+  "timestamp": "2026-09-06T04:56:15.859335428Z",
+  "model": "glm-5.3"
+}

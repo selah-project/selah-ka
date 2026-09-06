@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 10:14",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "ჰოდიაჰი, ბანი, ბენინუ.",
+  "tokens": [
+    {
+      "surface": "הודיה",
+      "gloss": "ჰოდიაჰი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ბანი"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "ბენინუ"
+    }
+  ],
+  "timestamp": "2026-09-06T18:45:10.271386743Z",
+  "model": "glm-5.3"
+}

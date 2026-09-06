@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 18:2",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "და სამკვიდრეო არ ექნება მას თავის ძმებს შორის: იაჰვე ⟨არის⟩ მისი სამკვიდრეო, როგორც ესაუბნა მას.",
+  "tokens": [
+    {
+      "surface": "ונחלה",
+      "gloss": "და სამკვიდრეო"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ექნება"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "შორის"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "თავის ძმებს"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "თვითონ"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "მისი სამკვიდრეო"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "როგორც"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ესაუბნა"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    }
+  ],
+  "timestamp": "2026-09-06T05:35:34.624587222Z",
+  "model": "glm-5.3"
+}

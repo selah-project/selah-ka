@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 28:19",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 28,
+  "translation": "წყეული ხარ ⟨შენ⟩ შესვლისას შენსა, და წყეული ხარ ⟨შენ⟩ გამოსვლისას შენსა.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "წყეული"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "შესვლისას შენს"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "და წყეული"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "გამოსვლისას შენს"
+    }
+  ],
+  "timestamp": "2026-09-06T17:18:52.193188738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 5:28",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "და იცხოვრა ლემეხმა ორი და ოთხმოცი წელი და ასი წელი, და შვა ძე.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "და იცხოვრა"
+    },
+    {
+      "surface": "למך",
+      "gloss": "ლემეხმა"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ორი"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "და ოთხმოცი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელი"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "და ასი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელი"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "და შვა"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    }
+  ],
+  "timestamp": "2026-09-06T03:43:06.356245687Z",
+  "model": "glm-5.3"
+}

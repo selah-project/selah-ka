@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "იეჰუდას შვილები: ფერეცი, ხეცრონი, ქარმი და ხური და შობალი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "იეჰუდას"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ფერეცი"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ხეცრონი"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "და ქარმი"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "და ხური"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "და შობალი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:28:14.511435570Z",
+  "model": "glm-5.3"
+}

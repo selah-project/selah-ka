@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 15:9",
+  "book": "2-samuel",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "და უთხრა მას მეფემ: წადი შალომით. და აღდგა და წავიდა ხებრონისკენ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "უთხრა"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "לך",
+      "gloss": "წადი"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "შალომით"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "აღდგა"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "წავიდა"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "ხებრონისკენ"
+    }
+  ],
+  "timestamp": "2026-09-06T06:42:14.432355595Z",
+  "model": "glm-5.3"
+}

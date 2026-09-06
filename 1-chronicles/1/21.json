@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 1:21",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და ⟨את⟩ ჰადორამი, და ⟨את⟩ უზალი, და ⟨את⟩ დიკლაჰი.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ჰადორამი"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "ჰადორამი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "უზალი"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "უზალი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "დიკლაჰი"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "დიკლაჰი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:25:18.802538738Z",
+  "model": "glm-5.3"
+}

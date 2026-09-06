@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "ka",
+  "chapter": 20,
+  "translation": "და თქვა დავიდმა იეჰონათანს: ვინ მაუწყებს მე, ან რას მიპასუხებს შენი მამა მკაცრად?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "დავიდი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "იეჰონათანი"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "აუწყებს"
+    },
+    {
+      "surface": "לי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "או",
+      "gloss": "ან"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "მიპასუხებს"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "შენი მამა"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "მკაცრად"
+    }
+  ],
+  "timestamp": "2026-09-06T06:24:47.116132997Z",
+  "model": "glm-5.3"
+}

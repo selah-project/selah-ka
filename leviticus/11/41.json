@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 11:41",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "და ყოველი ქვეწარმავალი, რომელიც ცოცავს მიწაზე, სიბილწოე ⟨არის⟩; არ შეიჭამოს.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "და ყოველი"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "ქვეწარმავალი"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "ცოცავს"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "სიბილწოე"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "შეიჭამოს"
+    }
+  ],
+  "timestamp": "2026-09-06T04:40:26.131627485Z",
+  "model": "glm-5.3"
+}

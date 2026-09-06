@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "joshua 15:50",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "და ანაბი, და ეშთემოჰი და ანიმი.",
+  "tokens": [
+    {
+      "surface": "וענב",
+      "gloss": "და ანაბი"
+    },
+    {
+      "surface": "ואשתמה",
+      "gloss": "და ეშთემოჰი"
+    },
+    {
+      "surface": "וענים",
+      "gloss": "და ანიმი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:53:38.070531979Z",
+  "model": "glm-5.3"
+}

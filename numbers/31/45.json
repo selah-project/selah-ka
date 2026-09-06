@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 31:45",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 31,
+  "translation": "და სახედრები — ოცდაათი ათასი და ხუთასი.",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "და სახედრები"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ოცდაათი"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ათასი"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "და ხუთი"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:18:11.041011715Z",
+  "model": "glm-5.3"
+}

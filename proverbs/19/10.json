@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "არ შეშავებს ბოროტს ფუფუნება, როგორღაო მონას მთავრებზე ბატონობა.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "შეშავებს"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "ბოროტს"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "ფუფუნება"
+    },
+    {
+      "surface": "אף",
+      "gloss": "როგორღაო"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨კიდევ⟩"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "მონას"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ბატონობა"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "მთავრებზე"
+    }
+  ],
+  "timestamp": "2026-09-06T14:26:06.328649295Z",
+  "model": "glm-5.3"
+}

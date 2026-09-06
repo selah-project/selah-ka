@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 22:13",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "ამბობს ზარმაცი: ლომი ⟨არის⟩ გარეთ, შუა მოედნებზე მომკვლელონ.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ამბობს"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ზარმაცი"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "ლომი"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "გარეთ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "შუა"
+    },
+    {
+      "surface": "רחבות",
+      "gloss": "მოედნებზე"
+    },
+    {
+      "surface": "ארצח",
+      "gloss": "მომკვლელონ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:24:24.195316840Z",
+  "model": "glm-5.3"
+}

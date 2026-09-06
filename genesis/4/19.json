@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 4:19",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და აიღო ლემეხმა თავისთვის ორი ცოლი: ერთის სახელი ⟨არის⟩ ადაჰ და მეორის სახელი ⟨არის⟩ ცილაჰ.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "აიღო"
+    },
+    {
+      "surface": "לו",
+      "gloss": "თავისთვის"
+    },
+    {
+      "surface": "למך",
+      "gloss": "ლემეხმა"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ორი"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ცოლები"
+    },
+    {
+      "surface": "שם",
+      "gloss": "სახელი"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "ადაჰ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "და სახელი"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "მეორე"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "ცილაჰ"
+    }
+  ],
+  "timestamp": "2026-09-06T03:42:23.913512879Z",
+  "model": "glm-5.3"
+}

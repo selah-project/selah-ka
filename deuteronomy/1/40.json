@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 1:40",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "ხოლო თქვენ მოიბრუნეთ თქვენთვის და გაემგზავრეთ უდაბნოსკენ, გზით სუფის ზღვისა.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "ხოლო თქვენ"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "მოიბრუნეთ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "თქვენთვის"
+    },
+    {
+      "surface": "וסעו",
+      "gloss": "და გაემგზავრეთ"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "უდაბნოსკენ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "გზით"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ზღვა"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "სუფი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:30:46.093255749Z",
+  "model": "glm-5.3"
+}

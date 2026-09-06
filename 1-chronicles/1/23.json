@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და ⟨את⟩ ოფირი, და ⟨את⟩ ხავილაჰი და ⟨את⟩ იოვავი — ყველა ესენი იყვნენ იოქთანის ვაჟები.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ოფირი"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ოფირი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ხავილაჰი"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "ხავილაჰი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "იოვავი"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "იოვავი"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ესენი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ვაჟები"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "იოქთანი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:25:18.803109387Z",
+  "model": "glm-5.3"
+}

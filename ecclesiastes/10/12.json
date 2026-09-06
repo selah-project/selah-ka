@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "ბრძენის პირის სიტყვები ⟨არის⟩ მადლი, და სულელის ბაგეები შთანთქავს ⟨მას⟩.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "სიტყვები"
+    },
+    {
+      "surface": "פי",
+      "gloss": "პირის"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ბრძენის"
+    },
+    {
+      "surface": "חן",
+      "gloss": "მადლი"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "და ბაგეები"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "სულელის"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "შთანთქავს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:57:37.009039202Z",
+  "model": "glm-5.3"
+}

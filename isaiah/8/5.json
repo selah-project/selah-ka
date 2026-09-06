@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და დაამატა იაჰვემ საუბარი ჩემკენ კიდევცა, სათქმელად:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "დაამატა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვემ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "საუბარი"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემკენ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "კიდევცა"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T13:06:55.987196814Z",
+  "model": "glm-5.3"
+}

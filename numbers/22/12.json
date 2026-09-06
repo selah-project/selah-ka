@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "და თქვა ელოჰიმმა ბილამს: არ წახვიდე მათთან, არ დასწყევლო ⟨את⟩ ხალხი, რადგან კურთხეული ⟨არის⟩ ის",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ბილამს"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "წახვიდე"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "მათთან"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "დასწყევლო"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ხალხი"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "კურთხეული"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    }
+  ],
+  "timestamp": "2026-09-06T05:13:03.931810881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 22:39",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "და წავიდა ბილაამი ბალაკთან, და მოვიდნენ ყირიათ-ხუცოთს.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "წავიდა"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ბილაამი"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ბალაკთან"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ბალაკი"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "მოვიდნენ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ყირიათ"
+    },
+    {
+      "surface": "חצות",
+      "gloss": "ხუცოთ"
+    }
+  ],
+  "timestamp": "2026-09-06T05:14:08.480107072Z",
+  "model": "glm-5.3"
+}

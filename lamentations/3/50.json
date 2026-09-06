@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "სანამ არ გადმოიხამარებს და იხილავს იაჰვე ციდან.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "სანამ"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "გადმოიხამარებს"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "და იხილავს"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ციდან"
+    }
+  ],
+  "timestamp": "2026-09-06T10:52:17.866123423Z",
+  "model": "glm-5.3"
+}

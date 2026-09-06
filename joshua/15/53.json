@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "joshua 15:53",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "და იანუმი, და ბეთ-თაფუახი და აფეკაჰი.",
+  "tokens": [
+    {
+      "surface": "וינים",
+      "gloss": "და იანუმი"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "და ბეთ-"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "თაფუახი"
+    },
+    {
+      "surface": "ואפקה",
+      "gloss": "და აფეკაჰი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:53:53.679880006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 10:34",
+  "book": "ezra",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "ბანის ძეთაგან: მაადაი, ამრამი და უელი.",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "ძეთაგან"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ბანი"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "მაადაი"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "ამრამი"
+    },
+    {
+      "surface": "ואואל",
+      "gloss": "და უელი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:16:45.525836941Z",
+  "model": "glm-5.3"
+}

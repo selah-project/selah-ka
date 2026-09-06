@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 119,
+  "translation": "მდგმური ვარ მე მიწაზე; ნუ დამიმალავ შენს მცნებებს.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "მდგმური"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "მიწაზე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "დამიმალავ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ჩემგან"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "შენი მცნებები"
+    }
+  ],
+  "timestamp": "2026-09-06T10:07:37.192497755Z",
+  "model": "glm-5.3"
+}

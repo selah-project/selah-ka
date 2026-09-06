@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 10:28",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "მალუხი, ხარიმი, ბაანა.",
+  "tokens": [
+    {
+      "surface": "מלוך",
+      "gloss": "მალუხი"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ხარიმი"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "ბაანა"
+    }
+  ],
+  "timestamp": "2026-09-06T11:23:14.477454415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "ჩემო ელოჰიმო, შენ გენდე; ნუ შევრცხვები, ნუ იხარებენ ჩემი მტრები ჩემზე.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "בך",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ვენდე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "შევრცხვები"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "იხარებენ"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ჩემი მტრები"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ჩემზე"
+    }
+  ],
+  "timestamp": "2026-09-06T14:00:16.583243544Z",
+  "model": "glm-5.3"
+}

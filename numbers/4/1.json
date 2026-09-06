@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 4:1",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და თქვა იაჰვემ მოშეს და აჰარონს ასე:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშეს"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და მიმართ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "აჰარონს"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ასე"
+    }
+  ],
+  "timestamp": "2026-09-06T05:00:18.678099026Z",
+  "model": "glm-5.3"
+}

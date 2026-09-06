@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 5:16",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "მისი კონტი ღია საფლავივით ⟨არის⟩ — ყველა მათგანი გმირი ⟨არის⟩.",
+  "tokens": [
+    {
+      "surface": "אשפתו",
+      "gloss": "მისი კონტი"
+    },
+    {
+      "surface": "כקבר",
+      "gloss": "საფლავივით"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "ღია"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ყველა მათგანი"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "გმირები"
+    }
+  ],
+  "timestamp": "2026-09-06T08:02:43.432118303Z",
+  "model": "glm-5.3"
+}

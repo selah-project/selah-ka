@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და დაგიბარეთ იმ დროს ⟨את⟩ თქვენ ⟨את⟩ ყველა სიტყვა, რომელთაც უნდა აღგესრულებინათ.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "და დაგიბარეთ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "თქვენ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "დროს"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "იმ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ყველა სიტყვა"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელი"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "აღგესრულებინათ"
+    }
+  ],
+  "timestamp": "2026-09-06T05:23:40.292036997Z",
+  "model": "glm-5.3"
+}

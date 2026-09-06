@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 5:14",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "და ილაპარაკა იაჰვემ მოშეს (მოსე), დასამეტყველებლად:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "და ილაპარაკა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "დასამეტყველებლად"
+    }
+  ],
+  "timestamp": "2026-09-06T04:38:30.016578333Z",
+  "model": "glm-5.3"
+}

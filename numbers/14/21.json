@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "მაგრამ, როგორც ვცოცხლობ, აივსება იაჰვეს დიდება ⟨את⟩ მთელ ქვეყანას.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "მაგრამ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ცოცხალი"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "აივსება"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "დიდება"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მთელ ქვეყანას"
+    },
+    {
+      "surface": "כל",
+      "gloss": "მთელი"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ქვეყანა"
+    }
+  ],
+  "timestamp": "2026-09-06T05:08:35.695943473Z",
+  "model": "glm-5.3"
+}

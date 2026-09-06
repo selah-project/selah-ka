@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 22:17",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "და ბრძანა დავიდმა იშრაელის ყველა სარს, რომ დაეხმარათ შემოს, მის შვილს:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "და ბრძანა"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "დავიდ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "სარები"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელის"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "დასახმარებლად"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "შემოს"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი შვილი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:38:07.326700227Z",
+  "model": "glm-5.3"
+}

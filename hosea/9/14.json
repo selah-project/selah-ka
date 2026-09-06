@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 9:14",
+  "book": "hosea",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "მიეცი მათ, იაჰვე! რა მისცე მათ? მიეცი მათ მოშლადი საშო და გამომშრალი მკერდები.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "მიეცი"
+    },
+    {
+      "surface": "להם",
+      "gloss": "მათ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "მისცე"
+    },
+    {
+      "surface": "תן",
+      "gloss": "მიეცი"
+    },
+    {
+      "surface": "להם",
+      "gloss": "მათ"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "საშო"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "მოშლადი"
+    },
+    {
+      "surface": "ושדים",
+      "gloss": "და მკერდები"
+    },
+    {
+      "surface": "צמקים",
+      "gloss": "გამომშრალი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:07:37.605363306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "რადგან საძირკვლები ინგრევა — მართალმა რა იმოქმედა?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "საძირკვლები"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "ინგრევა"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "მართალმა"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "იმოქმედა"
+    }
+  ],
+  "timestamp": "2026-09-06T09:35:00.737339662Z",
+  "model": "glm-5.3"
+}

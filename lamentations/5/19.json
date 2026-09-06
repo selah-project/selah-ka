@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 5:19",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "შენ, იაჰვე, მარადის სუფევ, შენი ტახტი შთიდან შთამდე.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "მარადის"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "სუფევ"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "ტახტი"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "შთიდან"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "შთამდე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:55:01.341614872Z",
+  "model": "glm-5.3"
+}

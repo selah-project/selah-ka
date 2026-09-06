@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 65,
+  "translation": "ხელმძღვანელს. ფსალმუნი დავითისა, სიმღერა.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ხელმძღვანელს"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ფსალმუნი"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "დავითს"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "სიმღერა"
+    }
+  ],
+  "timestamp": "2026-09-06T09:49:57.943822735Z",
+  "model": "glm-5.3"
+}

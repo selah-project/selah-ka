@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 148,
+  "translation": "მიწის მეფეები და ყველა ხალხი, მთავრები და მიწის ყველა მსაჯული,",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "მეფეები"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "მიწის"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "და ყველა"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "მთავრები"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "და ყველა"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "მსაჯული"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "მიწის"
+    }
+  ],
+  "timestamp": "2026-09-06T18:37:56.535101611Z",
+  "model": "glm-5.3"
+}

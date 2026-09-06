@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "დაჰყავ ⟨את⟩ ის ნაჭრებად და დაასხი მასზე ზეთი — მინხა ის ⟨არის⟩.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "დაჰყავ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ის ნაჭრებად"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "ნაჭრები"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "და დაასხი"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "მასზე"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ზეთი"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "მინხა"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    }
+  ],
+  "timestamp": "2026-09-06T04:35:19.483966446Z",
+  "model": "glm-5.3"
+}

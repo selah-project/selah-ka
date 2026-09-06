@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 11:28",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "და ციკლაგში (ზიკლაგი), და მეხონაში და მის სოფლებში.",
+  "tokens": [
+    {
+      "surface": "ובצקלג",
+      "gloss": "და ციკლაგში"
+    },
+    {
+      "surface": "ובמכנה",
+      "gloss": "და მეხონაში"
+    },
+    {
+      "surface": "ובבנתיה",
+      "gloss": "და მის სოფლებში"
+    }
+  ],
+  "timestamp": "2026-09-06T15:03:30.740031267Z",
+  "model": "glm-5.3"
+}

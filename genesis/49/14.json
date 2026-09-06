@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 49:14",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 49,
+  "translation": "ისასქარი — ძვლიანი ვირი, მწოლიარე სამწყსო ფარდულებს შორის.",
+  "tokens": [
+    {
+      "surface": "יששכר",
+      "gloss": "ისასქარი"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "ვირი"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "ძვლიანი"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "მწოლიარე"
+    },
+    {
+      "surface": "בין",
+      "gloss": "შორის"
+    },
+    {
+      "surface": "המשפתים",
+      "gloss": "ფარდულები"
+    }
+  ],
+  "timestamp": "2026-09-06T04:10:00.021092592Z",
+  "model": "glm-5.3"
+}

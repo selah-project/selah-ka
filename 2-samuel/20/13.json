@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 20:13",
+  "book": "2-samuel",
+  "lang": "ka",
+  "chapter": 20,
+  "translation": "როცა მოიშორა ⟨ის⟩ გზიდან, გაიარა ყველა კაცმა იოავის უკან, დასადევნად შევას — ბიქრის ძის.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "როცა"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "მოიშორა"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-დან"
+    },
+    {
+      "surface": "המסלה",
+      "gloss": "გზა"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "გაიარა"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "უკან"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "იოავი"
+    },
+    {
+      "surface": "לרדף",
+      "gloss": "დასადევნად"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "უკან"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "შევა"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "ბიქრი"
+    }
+  ],
+  "timestamp": "2026-09-06T06:46:18.200104969Z",
+  "model": "glm-5.3"
+}

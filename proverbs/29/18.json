@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 29:18",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 29,
+  "translation": "ხედვის არქონას იშიშვლებს ხალხი, და თორას დამცავს — ნეტარ ⟨არის⟩ ის.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "არქონას"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "ხედვა"
+    },
+    {
+      "surface": "יפרע",
+      "gloss": "იშიშვლებს"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "და დამცავი"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "თორა"
+    },
+    {
+      "surface": "אשרהו",
+      "gloss": "ნეტარ არის ის"
+    }
+  ],
+  "timestamp": "2026-09-06T10:27:23.455080327Z",
+  "model": "glm-5.3"
+}

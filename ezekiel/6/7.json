@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 6:7",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "და დავარდება მოკლული თქვენს შორის, და იცანთ, რომ მე ვარ იაჰვე.",
+  "tokens": [
+    {
+      "surface": "ונפל",
+      "gloss": "დავარდება"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "მოკლული"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "თქვენს შორის"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "და იცანთ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T08:35:28.541807433Z",
+  "model": "glm-5.3"
+}

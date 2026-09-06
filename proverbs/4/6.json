@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 4:6",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "ნუ მიატოვებ მას და დაგიცავს ის; გიყვარდეს ის და დაგიფარავს ის.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "תעזבה",
+      "gloss": "მიატოვებ მას"
+    },
+    {
+      "surface": "ותשמרך",
+      "gloss": "და დაგიცავს"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "გიყვარდეს"
+    },
+    {
+      "surface": "ותצרך",
+      "gloss": "და დაგიფარავს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:16:11.159281584Z",
+  "model": "glm-5.3"
+}

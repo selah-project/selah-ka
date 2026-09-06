@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 73,
+  "translation": "ვინ ⟨არის⟩ ჩემთვის ცაში? შენთან ერთად არავის არ ვინდომე მიწაზე.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ჩემთვის"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ცაში"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "შენთან ერთად"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ვინდომე"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "მიწაზე"
+    }
+  ],
+  "timestamp": "2026-09-06T09:52:51.191689453Z",
+  "model": "glm-5.3"
+}

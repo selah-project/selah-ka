@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 3:13",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "შემოიტანა ჩემს თირკმლებში სარტყლის ძეები.",
+  "tokens": [
+    {
+      "surface": "הביא",
+      "gloss": "შემოიტანა"
+    },
+    {
+      "surface": "בכליותי",
+      "gloss": "ჩემს თირკმლებში"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძეები"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "მისი სარტყელი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:52:55.238967256Z",
+  "model": "glm-5.3"
+}

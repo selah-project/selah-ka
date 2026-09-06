@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 36:11",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 36,
+  "translation": "და იყვნენ ძენი ელიფაზისა: თეიმანი, ომარი, ცეფო და გათამი და კენაზი.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "იყვნენ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ელიფაზისა"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "თეიმანი"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "ომარი"
+    },
+    {
+      "surface": "צפו",
+      "gloss": "ცეფო"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "გათამი"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "კენაზი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:06:20.990843892Z",
+  "model": "glm-5.3"
+}

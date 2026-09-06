@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 14:19",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "და ყოველი მფრინავი ქვეწარმავალი უწმინდური ⟨არის⟩ თქვენთვის; არ უნდა შეიჭამოს.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "და ყოველი"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "ქვეწარმავალი"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "მფრინავი"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "უწმინდური"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "თქვენთვის"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "შეიჭამოს"
+    }
+  ],
+  "timestamp": "2026-09-06T05:30:25.150072587Z",
+  "model": "glm-5.3"
+}

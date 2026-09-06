@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 17:15",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 17,
+  "translation": "აჰა, ისინი მეტყვიან ჩემთან: სად ⟨არის⟩ იაჰვეს სიტყვა? მოვიდეს აწ!",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ისინი"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "მეტყვიან"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემთან"
+    },
+    {
+      "surface": "איה",
+      "gloss": "სად"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "მოვიდეს"
+    },
+    {
+      "surface": "נא",
+      "gloss": "აწ"
+    }
+  ],
+  "timestamp": "2026-09-06T08:09:51.365055962Z",
+  "model": "glm-5.3"
+}

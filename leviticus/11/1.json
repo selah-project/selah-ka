@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "და მიმართა იაჰვემ მოშეს (მოსე) და აჰარონს, და სთქვა მათ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "მიმართა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და მიმართ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "აჰარონი"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სთქვა"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "მათ"
+    }
+  ],
+  "timestamp": "2026-09-06T04:40:51.786743186Z",
+  "model": "glm-5.3"
+}

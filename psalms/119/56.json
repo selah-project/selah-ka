@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 119:56",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 119,
+  "translation": "ეს იყო ჩემთვის, რადგან შენს მცნებებს ვიცავდი.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ჩემთვის"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "შენი მცნებები"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "ვიცავდი"
+    }
+  ],
+  "timestamp": "2026-09-06T14:15:23.491904678Z",
+  "model": "glm-5.3"
+}

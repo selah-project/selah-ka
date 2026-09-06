@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 44:21",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 44,
+  "translation": "და ღვინო არ სვას არც ერთი ქოჰენი, როცა შედიან შინაგან ეზოში.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "და ღვინო"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "სვას"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყოველი"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ქოჰენი"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "მათ შემოსვლისას"
+    },
+    {
+      "surface": "אל",
+      "gloss": "შე"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ეზო"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "შინაგანი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:02:37.458463054Z",
+  "model": "glm-5.3"
+}

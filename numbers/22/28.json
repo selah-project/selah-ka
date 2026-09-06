@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 22:28",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "და გაუხსნა იაჰვემ ⟨את⟩ ათონის პირი, და თქვა ბილამს: რა გიყავი შენ, რომ მცემე ამ სამჯერ?",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "გაუხსნა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ათონის პირი"
+    },
+    {
+      "surface": "פי",
+      "gloss": "პირი"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "ათონი"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "ბილამს"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "გიყავი"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "הכיתני",
+      "gloss": "მცემე"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ამ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "სამჯერ"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "რეგალიმი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:13:52.543903687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "სიშიშველე დის შენი მამისა — არ გააშიშვრო, რადგან ხორცი შენი მამის ⟨არის⟩ ის.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "სიშიშველე"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "და"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "შენი მამა"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "გააშიშვრო"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ხორცი"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "შენი მამა"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    }
+  ],
+  "timestamp": "2026-09-06T15:40:01.848123311Z",
+  "model": "glm-5.3"
+}

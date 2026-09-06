@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 22:27",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "რადგან ველად იპოვა იგი, იყვირა გოგონამ დანიშნულმა და არ იყო მისი მხსნელი.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ველად"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "იპოვა მას"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "იყვირა"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "გოგონა"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "დანიშნული"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "და არ იყო"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "მხსნელი"
+    },
+    {
+      "surface": "לה",
+      "gloss": "მისი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:38:25.011316988Z",
+  "model": "glm-5.3"
+}

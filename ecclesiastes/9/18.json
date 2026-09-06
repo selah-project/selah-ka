@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 9:18",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "უმჯობესი ⟨არის⟩ სიბრძნე საომარ იარაღზე, და ერთი ცოდვილი წარწყმედს სიკეთეს მრავალს.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "უმჯობესი"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "სიბრძნე"
+    },
+    {
+      "surface": "מכלי",
+      "gloss": "იარაღი"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "ბრძოლის"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "და ცოდვილი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "წარწყმედს"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "სიკეთეს"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "მრავალს"
+    }
+  ],
+  "timestamp": "2026-09-06T16:34:38.197087421Z",
+  "model": "glm-5.3"
+}

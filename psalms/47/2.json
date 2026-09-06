@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 47,
+  "translation": "ყველა ხალხო, აიკაკეთ ხელი, შემოსძახეთ ელოჰიმს ლხინის ხმით.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ხალხო"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "აიკაკეთ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ხელი"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "შემოსძახეთ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ელოჰიმს"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ხმით"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "ლხინის"
+    }
+  ],
+  "timestamp": "2026-09-06T14:03:24.922453353Z",
+  "model": "glm-5.3"
+}

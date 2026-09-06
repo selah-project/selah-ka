@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 16:15",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 16,
+  "translation": "გაიხსენეთ უკუნისამდე მისი ბრითი — სიტყვა, რომლის მიცემა ბრძანა ათას თაობას —",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "გაიხსენეთ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "უკუნისამდე"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "მისი ბრითი"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ბრძანა"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "ათას"
+    },
+    {
+      "surface": "דור",
+      "gloss": "თაობა"
+    }
+  ],
+  "timestamp": "2026-09-06T16:42:09.898674424Z",
+  "model": "glm-5.3"
+}

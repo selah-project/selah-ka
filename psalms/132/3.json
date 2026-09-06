@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 132,
+  "translation": "თუ შევალ ჩემი სახლის კარავში, თუ ავალ ჩემს საწოლზე ჩემს დასაწვენად,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "შევალ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "კარავში"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ჩემი სახლის"
+    },
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ავალ"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "საწოლი"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "ჩემი დასაწვენი"
+    }
+  ],
+  "timestamp": "2026-09-06T20:46:13.755251395Z",
+  "model": "glm-5.3"
+}

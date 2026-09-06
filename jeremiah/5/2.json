@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "და თუ იტყვიან: „ცოცხალი ⟨არის⟩ იაჰვე“ — მართლაც, სიცრუეს იფიცებენ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "და თუ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ცოცხალი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "იტყვიან"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "მართლაც"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "სიცრუეს"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "იფიცებენ"
+    }
+  ],
+  "timestamp": "2026-09-06T08:03:31.137962892Z",
+  "model": "glm-5.3"
+}

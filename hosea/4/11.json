@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 4:11",
+  "book": "hosea",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "მეძობა და ღვინო და ახალი ღვინო იტაცებს გულს.",
+  "tokens": [
+    {
+      "surface": "זנות",
+      "gloss": "მეძობა"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "და ღვინო"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "და ახალი ღვინო"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "იტაცებს"
+    },
+    {
+      "surface": "לב",
+      "gloss": "გული"
+    }
+  ],
+  "timestamp": "2026-09-06T09:04:24.932277289Z",
+  "model": "glm-5.3"
+}

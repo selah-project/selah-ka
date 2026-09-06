@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "არ შეჭამო ⟨את⟩ პური ბოროტი თვალისა და არ ისურვო მისი გემრიელი საჭმლები.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "შეჭამო"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "პური"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "პური"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ბოროტი"
+    },
+    {
+      "surface": "עין",
+      "gloss": "თვალი"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "ისურვო"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "მისი გემრიელი საჭმლები"
+    }
+  ],
+  "timestamp": "2026-09-06T14:26:27.208995875Z",
+  "model": "glm-5.3"
+}

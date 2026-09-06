@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "ნუ იქნები ღვინის მლეველთა შორის, ხორცის მჭამელთა შორის.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "იქნები"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "მლეველთა შორის"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ღვინის"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "მჭამელთა შორის"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ხორცის"
+    },
+    {
+      "surface": "למו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-06T14:27:36.651614983Z",
+  "model": "glm-5.3"
+}

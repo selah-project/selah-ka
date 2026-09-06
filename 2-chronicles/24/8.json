@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 24:8",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "და თქვა მეფემ, და გააკეთეს ერთი სკივერი, და დადეს ის იაჰვეს სახლის კარზე, გარეთ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "მეფემ"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "გააკეთეს"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "სკივერი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "დადეს ის"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "კარზე"
+    },
+    {
+      "surface": "בית",
+      "gloss": "სახლი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "გარეთ"
+    }
+  ],
+  "timestamp": "2026-09-06T11:52:21.338419572Z",
+  "model": "glm-5.3"
+}

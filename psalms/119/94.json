@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 119,
+  "translation": "შენი ვარ ⟨მე⟩: მიხსენი, რადგან შენი მცნებები ვძიებ.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "შენი"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "მიხსენი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "შენი მცნებები"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "ვძიებ"
+    }
+  ],
+  "timestamp": "2026-09-06T14:15:49.359783770Z",
+  "model": "glm-5.3"
+}

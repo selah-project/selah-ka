@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 28:17",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 28,
+  "translation": "და მოკვდა ხანანიაჰი ნავი იმ წელს, მეშვიდე თვეში.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "მოკვდა"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "ხანანიაჰი"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ნავი"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "წელს"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "იმ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "თვეში"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "მეშვიდე"
+    }
+  ],
+  "timestamp": "2026-09-06T08:15:37.284170209Z",
+  "model": "glm-5.3"
+}

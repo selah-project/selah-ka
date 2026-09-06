@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 46,
+  "translation": "მოდით, იხილეთ იაჰვეს საქმენი, რომელი დადგენს აოხრებას მიწაზე.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "მოდით"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "იხილეთ"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "საქმენი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელი"
+    },
+    {
+      "surface": "שם",
+      "gloss": "დადგენს"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "აოხრება"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "მიწაზე"
+    }
+  ],
+  "timestamp": "2026-09-06T09:44:42.205208369Z",
+  "model": "glm-5.3"
+}

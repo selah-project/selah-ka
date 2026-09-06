@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 107:43",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 107,
+  "translation": "ვინ ⟨არის⟩ ბრძენი? და დაიცავს ამათ, და გაიგებენ იაჰვეს ხესედს.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ბრძენი"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "და დაიცავს"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "ויתבוננו",
+      "gloss": "და გაიგებენ"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "ხესედები"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:04:21.717872719Z",
+  "model": "glm-5.3"
+}

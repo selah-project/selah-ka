@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 17:17",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 17,
+  "translation": "ყოველ დროს სიყვარულს ავლენს მეგობარი, და ძმა ჭირისთვის იბადება.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ყოველ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "დრო"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "სიყვარულს ავლენს"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "მეგობარი"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "და ძმა"
+    },
+    {
+      "surface": "לצרה",
+      "gloss": "ჭირისთვის"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "იბადება"
+    }
+  ],
+  "timestamp": "2026-09-06T18:38:27.257812249Z",
+  "model": "glm-5.3"
+}

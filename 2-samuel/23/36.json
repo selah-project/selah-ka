@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-samuel 23:36",
+  "book": "2-samuel",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "იგალი, ნატანის ვაჟი, ცობადანი; ბანი გადელი.",
+  "tokens": [
+    {
+      "surface": "יגאל",
+      "gloss": "იგალი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ვაჟი"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ნატანის"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "ცობადან"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ბანი"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "გადელი"
+    }
+  ],
+  "timestamp": "2026-09-06T06:48:34.497137162Z",
+  "model": "glm-5.3"
+}

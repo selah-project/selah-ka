@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 25:9",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "და იყვნენ მომკვდრები მაგეფაში (წყლულობაში) ოთხი და ოცი ათასი.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "და იყვნენ"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "მომკვდრები"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "მაგეფაში"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ოთხი"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "და ოცი"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ათასი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:14:14.123976553Z",
+  "model": "glm-5.3"
+}

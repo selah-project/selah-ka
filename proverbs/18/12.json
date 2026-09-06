@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 18:12",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "მტეხნელად მაღალდება კაცის გული, და დიდებამდე ⟨არის⟩ მდაბალება.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "წინ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "მტეხნელი"
+    },
+    {
+      "surface": "יגבה",
+      "gloss": "მაღალდება"
+    },
+    {
+      "surface": "לב",
+      "gloss": "გული"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცის"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "და წინ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "დიდება"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "მდაბალება"
+    }
+  ],
+  "timestamp": "2026-09-06T10:22:32.655060230Z",
+  "model": "glm-5.3"
+}

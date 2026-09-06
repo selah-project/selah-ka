@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და თქვა იაჰვემ კაინს: რატომ ჰრისხავ და რატომ დაეცა შენი სახე?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვემ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "קין",
+      "gloss": "კაინი"
+    },
+    {
+      "surface": "למה",
+      "gloss": "რატომ"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ჰრისხავ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "და რატომ"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "დაეცა"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "შენი სახე"
+    }
+  ],
+  "timestamp": "2026-09-06T03:42:23.417140423Z",
+  "model": "glm-5.3"
+}

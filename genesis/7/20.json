@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 7:20",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "თხუთმეტი წყრით ზემოთ გაბატონდნენ წყლები, და დაიფარნენ მთები.",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "ხუთ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "მეტოთ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "წყრი"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ზემოთ"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "გაბატონდნენ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "წყლები"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "და დაიფარნენ"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "მთები"
+    }
+  ],
+  "timestamp": "2026-09-06T03:44:31.444110162Z",
+  "model": "glm-5.3"
+}

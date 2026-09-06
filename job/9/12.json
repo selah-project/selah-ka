@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 9:12",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "აჰა, წარტაცებს — ვინ დააბრუნებს? ვინ იტყვის მას: რას აკეთებ?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "יחתף",
+      "gloss": "წარტაცებს"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "დააბრუნებს"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "იტყვის"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "აკეთებ"
+    }
+  ],
+  "timestamp": "2026-09-06T14:33:35.643382864Z",
+  "model": "glm-5.3"
+}

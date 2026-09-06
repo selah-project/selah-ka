@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 47:31",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 47,
+  "translation": "და თქვა: შემიფიცე მე; და შეჰფიცა მას; და მოიდრიკა იშრაელი საწოლის თავზე.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "შემიფიცე"
+    },
+    {
+      "surface": "לי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "და შეჰფიცა"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "და მოიდრიკა"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზედ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "თავ"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "საწოლის"
+    }
+  ],
+  "timestamp": "2026-09-06T04:08:06.794119808Z",
+  "model": "glm-5.3"
+}

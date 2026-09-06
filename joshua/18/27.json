@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 18:27",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "და რეკემი, და ირფეელი, და თარალაჰი",
+  "tokens": [
+    {
+      "surface": "ורקם",
+      "gloss": "და რეკემი"
+    },
+    {
+      "surface": "וירפאל",
+      "gloss": "და ირფეელი"
+    },
+    {
+      "surface": "ותראלה",
+      "gloss": "და თარალაჰი"
+    }
+  ],
+  "timestamp": "2026-09-06T18:00:14.208968124Z",
+  "model": "glm-5.3"
+}

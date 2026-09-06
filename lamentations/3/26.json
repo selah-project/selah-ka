@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "lamentations 3:26",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "კარგი ⟨არის⟩ ლოდება და მდუმარება იაჰვეს შველისთვის.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "კარგი"
+    },
+    {
+      "surface": "ויחיל",
+      "gloss": "და ლოდება"
+    },
+    {
+      "surface": "ודומם",
+      "gloss": "და მდუმარება"
+    },
+    {
+      "surface": "לתשועת",
+      "gloss": "შველისთვის"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:53:19.711218954Z",
+  "model": "glm-5.3"
+}

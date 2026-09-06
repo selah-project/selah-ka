@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "მაშ მოაჭრევინ ⟨את⟩ მისი მტევანი; არ იბრალოს შენმა თვალმა.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "და მოაჭრის"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მტევანი"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "მტევანი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "იბრალოს"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "შენი თვალი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:38:06.817221089Z",
+  "model": "glm-5.3"
+}

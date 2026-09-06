@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 5:15",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "ახი, აბდიელის ძე, გუნის ძე — თავი ⟨იყო⟩ მათ მამათა სახლთა.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "ახი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "עבדיאל",
+      "gloss": "აბდიელი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "גוני",
+      "gloss": "გუნი"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "თავი"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "სახლს"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "მამათა მათი"
+    }
+  ],
+  "timestamp": "2026-09-06T16:39:41.725529298Z",
+  "model": "glm-5.3"
+}

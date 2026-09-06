@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 19:11",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "შემხები მკვდარს — ყოველი ადამიანის ნეფეშს — შეიბილწება შვიდ დღეს.",
+  "tokens": [
+    {
+      "surface": "הנגע",
+      "gloss": "შემხები"
+    },
+    {
+      "surface": "במת",
+      "gloss": "მკვდარს"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ყოველი"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ნეფეში"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ადამიანი"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "და შეიბილწება"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "შვიდი"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "დღე"
+    }
+  ],
+  "timestamp": "2026-09-06T15:41:24.844987840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 24:4",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "და ცოდნით აივსება ოთახები ყოველი ძვირფასი და სასიამოვნო ქონებით.",
+  "tokens": [
+    {
+      "surface": "ובדעת",
+      "gloss": "და ცოდნით"
+    },
+    {
+      "surface": "חדרים",
+      "gloss": "ოთახები"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "აივსება"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყოველი"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ქონება"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ძვირფასი"
+    },
+    {
+      "surface": "ונעים",
+      "gloss": "და სასიამოვნო"
+    }
+  ],
+  "timestamp": "2026-09-06T10:26:10.467997146Z",
+  "model": "glm-5.3"
+}

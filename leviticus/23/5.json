@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "პირველ თვეში, თვის მეთოთხმეტე ⟨დღეს⟩, ორ საღამოს შორის — ფესახი ⟨არის⟩ იაჰვეს.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "თვეში"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "პირველი"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ოთხ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "მეთოთხმეტე"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "თვის"
+    },
+    {
+      "surface": "בין",
+      "gloss": "შორის"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "საღამოები"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ფესახი"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "იაჰვეს"
+    }
+  ],
+  "timestamp": "2026-09-06T04:49:20.970265362Z",
+  "model": "glm-5.3"
+}

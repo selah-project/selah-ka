@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 11:39",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "ცელეკ ამონელი, ნახარაი ბეროთელი, იოაბ ცრუიას ძის იარაღის მომტანი,",
+  "tokens": [
+    {
+      "surface": "צלק",
+      "gloss": "ცელეკ"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "ამონელი"
+    },
+    {
+      "surface": "נחרי",
+      "gloss": "ნახარაი"
+    },
+    {
+      "surface": "הברתי",
+      "gloss": "ბეროთელი"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "მომტანი"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "იარაღი"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "იოაბ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "ცრუია"
+    }
+  ],
+  "timestamp": "2026-09-06T11:30:21.526900913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 6:8",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "და შეაბამ მათ ნიშნად შენს ხელზე, და იქნებიან ისინი ტოტაფოთად შენს თვალთა შორის.",
+  "tokens": [
+    {
+      "surface": "וקשרתם",
+      "gloss": "და შეაბამ"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "ნიშნად"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ხელი შენი"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "და იქნებიან"
+    },
+    {
+      "surface": "לטטפת",
+      "gloss": "ტოტაფოთად"
+    },
+    {
+      "surface": "בין",
+      "gloss": "შორის"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "თვალები შენი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:25:01.410985672Z",
+  "model": "glm-5.3"
+}

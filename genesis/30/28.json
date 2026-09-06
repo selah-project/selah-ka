@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 30:28",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "და თქვა: განსაზღვრე შენი საფასური ჩემთვის და მოგცემ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "განსაზღვრე"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "შენი საფასური"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ჩემთვის"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "მოგცემ"
+    }
+  ],
+  "timestamp": "2026-09-06T03:56:56.538661885Z",
+  "model": "glm-5.3"
+}

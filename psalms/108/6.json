@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 108,
+  "translation": "ამაღლდი ცაზე მაღლა, ელოჰიმო, და ყოველ მიწაზე შენი დიდება!",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "ამაღლდი"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზემოთ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ცა"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "და ზემოთ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყოველ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "შენი დიდება"
+    }
+  ],
+  "timestamp": "2026-09-06T10:05:16.580678091Z",
+  "model": "glm-5.3"
+}

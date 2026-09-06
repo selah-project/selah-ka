@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 114,
+  "translation": "⟨ის⟩ აქცევს კლდეს წყლის აუზად, კაჟს — წყაროდ წყლისა.",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "აქცევს"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "კლდე"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "აუზი"
+    },
+    {
+      "surface": "מים",
+      "gloss": "წყალი"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "კაჟი"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "წყაროდ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "წყალი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:05:49.202443816Z",
+  "model": "glm-5.3"
+}

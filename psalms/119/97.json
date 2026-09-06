@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 119,
+  "translation": "როგორ მიყვარს შენი თორა! მთელი დღე ის ⟨არის⟩ ჩემი ჩაფიქრება.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "როგორ"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "მიყვარს"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "შენი თორა"
+    },
+    {
+      "surface": "כל",
+      "gloss": "მთელი"
+    },
+    {
+      "surface": "היום",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "ჩემი ჩაფიქრება"
+    }
+  ],
+  "timestamp": "2026-09-06T10:09:16.234574438Z",
+  "model": "glm-5.3"
+}

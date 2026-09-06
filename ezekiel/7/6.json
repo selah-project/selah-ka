@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 7:6",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "დასასრული მოვიდა, მოვიდა დასასრული; გაიღვიძა შენზე; აჰა, მოდის.",
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "დასასრული"
+    },
+    {
+      "surface": "בא",
+      "gloss": "მოვიდა"
+    },
+    {
+      "surface": "בא",
+      "gloss": "მოვიდა"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "დასასრული"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "გაიღვიძა"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "შენზე"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "באה",
+      "gloss": "მოდის"
+    }
+  ],
+  "timestamp": "2026-09-06T17:22:38.223860480Z",
+  "model": "glm-5.3"
+}

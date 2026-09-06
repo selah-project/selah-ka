@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 5:23",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "და იყო ხანოხის ყველა დღეთა სამას სამოცდახუთი წელი.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "დღეთა"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ხანოხის"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ხუთი"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "და სამოცი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელი"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "და სამი"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელი"
+    }
+  ],
+  "timestamp": "2026-09-06T03:43:30.258488096Z",
+  "model": "glm-5.3"
+}

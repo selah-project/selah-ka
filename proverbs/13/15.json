@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 13:15",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "საზრისიანობა კეთილი მადლს აძლევს, ხოლო უღალატოთა გზა — ჯირჯილიანი.",
+  "tokens": [
+    {
+      "surface": "שכל",
+      "gloss": "საზრისიანობა"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "კეთილი"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "აძლევს"
+    },
+    {
+      "surface": "חן",
+      "gloss": "მადლს"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "გზა"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "უღალატოთა"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ჯირჯილიანი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:20:32.232867921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "სიცოცხლე ითხოვა შენგან; მიეცი მას — დღეთა სიგრძე, უკუნისამდე და საუკუნოდ.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "სიცოცხლე"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ითხოვა"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "შენგან"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "მიეცი"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "სიგრძე"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "დღენი"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "უკუნი"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "და საუკუნო"
+    }
+  ],
+  "timestamp": "2026-09-06T09:37:03.654422138Z",
+  "model": "glm-5.3"
+}

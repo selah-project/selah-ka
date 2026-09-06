@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 43,
+  "translation": "და შიმშილი ⟨იყო⟩ მძიმე ქვეყანაში.",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "და შიმშილი"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "მძიმე"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ქვეყანაში"
+    }
+  ],
+  "timestamp": "2026-09-06T04:05:03.007976167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 46:11",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 46,
+  "translation": "და ლევის ძენი: გერშონი, ქეჰათი და მერარი.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "და ძენი"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ლევი"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "გერშონი"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ქეჰათი"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "და მერარი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:06:53.750403208Z",
+  "model": "glm-5.3"
+}

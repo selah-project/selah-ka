@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 2:11",
+  "book": "zechariah",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "ჰოი, ციონო! გამოექეცი, მცხოვრებო ბაბელის ასულთან!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ჰოი"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ციონი"
+    },
+    {
+      "surface": "המלטי",
+      "gloss": "გამოექეცი"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "მცხოვრებო"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ასული"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ბაბელი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:24:03.426742304Z",
+  "model": "glm-5.3"
+}

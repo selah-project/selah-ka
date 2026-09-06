@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 36,
+  "translation": "და ეს არის წარმაშობლობა ესავისი, მამისა ედომისი, მთაზე სეირისას.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "და ეს"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "წარმაშობლობა"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ესავისი"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "მამისა"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ედომისი"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "მთაზე"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "სეირისას"
+    }
+  ],
+  "timestamp": "2026-09-06T12:05:49.930755021Z",
+  "model": "glm-5.3"
+}

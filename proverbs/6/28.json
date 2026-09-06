@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 6:28",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "ან თუ ივლის კაცი ნაკვერთებზე და მისი ფეხები არ მოეწვება?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ან თუ"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ივლის"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "הגחלים",
+      "gloss": "ნაკვერთები"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "და ფეხები მისი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תכוינה",
+      "gloss": "მოეწვება"
+    }
+  ],
+  "timestamp": "2026-09-06T10:18:37.035498419Z",
+  "model": "glm-5.3"
+}

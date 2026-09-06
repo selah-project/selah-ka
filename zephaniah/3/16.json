@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 3:16",
+  "book": "zephaniah",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "იმ დღეს ითქმება იერუშალაიმს: ნუ გეშინოდება; ციონო, ნუ დაისუსუნებ შენს ხელებს.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "იმ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ითქმება"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "იერუშალაიმს"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "გეშინოდება"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ციონო"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "დაისუსუნებ"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "შენი ხელები"
+    }
+  ],
+  "timestamp": "2026-09-06T09:21:50.835735768Z",
+  "model": "glm-5.3"
+}

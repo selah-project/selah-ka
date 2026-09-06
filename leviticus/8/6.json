@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და მიიყვანა მოშემ ⟨את⟩ აჰარონი და ⟨את⟩ მისი ძენი, და დაბანა ⟨את⟩ ისინი წყლით.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "მიიყვანა"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "აჰარონი"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "აჰარონი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "მისი ძენი"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "მისი ძენი"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "დაბანა"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ისინი"
+    },
+    {
+      "surface": "במים",
+      "gloss": "წყალი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:20:21.570925118Z",
+  "model": "glm-5.3"
+}

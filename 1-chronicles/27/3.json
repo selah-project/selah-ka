@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 27:3",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 27,
+  "translation": "ფერეცის ძეთაგან ⟨იყო⟩ ყველა ლაშქრის მთავართა თავი პირველი თვისთვის.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "-გან"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძეთა"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ფერეცი"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "თავი"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "მთავართა"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "ლაშქრების"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "თვისთვის"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "პირველი"
+    }
+  ],
+  "timestamp": "2026-09-06T15:12:14.984181505Z",
+  "model": "glm-5.3"
+}

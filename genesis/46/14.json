@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 46:14",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 46,
+  "translation": "ძეები კი ზევულუნისა — სერედი, ელონი და იახლელი.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ძეები"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ზევულუნი"
+    },
+    {
+      "surface": "סרד",
+      "gloss": "სერედი"
+    },
+    {
+      "surface": "ואלון",
+      "gloss": "ელონი"
+    },
+    {
+      "surface": "ויחלאל",
+      "gloss": "იახლელი"
+    }
+  ],
+  "timestamp": "2026-09-06T17:45:07.404762900Z",
+  "model": "glm-5.3"
+}

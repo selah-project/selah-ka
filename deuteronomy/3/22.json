@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 3:22",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "არ შეგეშინდეთ მათი, რადგან იაჰვე, თქვენი ელოჰიმი, ⟨ის⟩ ⟨არის⟩ მობრძოლი თქვენთვის.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תיראום",
+      "gloss": "შეგეშინდება მათი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "თქვენი ელოჰიმი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "მობრძოლი"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "თქვენთვის"
+    }
+  ],
+  "timestamp": "2026-09-06T05:22:52.385980642Z",
+  "model": "glm-5.3"
+}

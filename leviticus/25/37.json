@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "„⟨את⟩ შენს ვერცხლს არ მისცე მას ნეშექად ⟨საპროცენტოდ⟩, და მოგებით არ მისცე შენი საჭმელი.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "შენს ვერცხლს"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "შენი ვერცხლი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "მისცე"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "ნეშექი"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "და მოგებით"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "მისცე"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "შენი საჭმელი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:55:45.561438542Z",
+  "model": "glm-5.3"
+}

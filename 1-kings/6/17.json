@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "და ორმოცი წარმართი იყო სახლი — ის ⟨არის⟩ ტაძარი მის წინაშე.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "და ორმოცი"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "წარმართი"
+    },
+    {
+      "surface": "היה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "სახლი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "ტაძარი"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "წინაშე"
+    }
+  ],
+  "timestamp": "2026-09-06T06:55:39.286986985Z",
+  "model": "glm-5.3"
+}

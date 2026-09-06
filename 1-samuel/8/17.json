@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 8:17",
+  "book": "1-samuel",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "თქვენს ფარას აინაწილებს, და თქვენ იქნებით მას მონებად.",
+  "tokens": [
+    {
+      "surface": "צאנכם",
+      "gloss": "თქვენი ფარა"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "აინაწილებს"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "და თქვენ"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "იქნებით"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "მონებად"
+    }
+  ],
+  "timestamp": "2026-09-06T06:15:58.309327883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "სუფთა მენორაზე დაალაგებს ⟨את⟩ ლამპრებს იაჰვეს წინაშე მუდმივად.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "მენორა"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "სუფთა"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "დაალაგებს"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ლამპრებს"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "ლამპრები"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "წინაშე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "მუდმივად"
+    }
+  ],
+  "timestamp": "2026-09-06T04:56:15.864004292Z",
+  "model": "glm-5.3"
+}

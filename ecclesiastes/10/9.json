@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "ქვებს გადაადგილებს — მათგან დაზაინდება; ხეებს შლის — მათგან დაზარალდება.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "გადაადგილებს"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ქვები"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "დაზაინდება"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "მათგან"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "შლის"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "ხეები"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "დაზარალდება"
+    },
+    {
+      "surface": "בם",
+      "gloss": "მათგან"
+    }
+  ],
+  "timestamp": "2026-09-06T10:57:37.008519819Z",
+  "model": "glm-5.3"
+}

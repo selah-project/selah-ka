@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 19:22",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "კაცის სასურველი — მისი ხესედი; და უკეთესია ღარიბი მტყუარა კაცზე.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "სასურველი"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "კაცის"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "მისი ხესედი"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "და უკეთესია"
+    },
+    {
+      "surface": "רש",
+      "gloss": "ღარიბი"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "კაცზე"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "მტყუარა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:23:09.597174271Z",
+  "model": "glm-5.3"
+}

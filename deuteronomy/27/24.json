@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 27:24",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 27,
+  "translation": "დაწყევლილია დამრტყმელი თავის ახლობელს ფარულად, და იტყვის მთელი ხალხი: ამინ.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "დაწყევლილია"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "დამრტყმელი"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "თავის ახლობელი"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ფარულად"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "და იტყვის"
+    },
+    {
+      "surface": "כל",
+      "gloss": "მთელი"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ამინ"
+    }
+  ],
+  "timestamp": "2026-09-06T05:40:11.996267102Z",
+  "model": "glm-5.3"
+}

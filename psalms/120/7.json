@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 120,
+  "translation": "მე მშვიდობა ვარ, და როცა ვლაპარაკობ, ისინი ⟨არიან⟩ ომისთვის.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "მშვიდობა"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "და როცა"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ვლაპარაკობ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ისინი"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ომისთვის"
+    }
+  ],
+  "timestamp": "2026-09-06T10:09:32.983919139Z",
+  "model": "glm-5.3"
+}

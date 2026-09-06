@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 135,
+  "translation": "ყურები აქვთ მათ, მაგრამ არ ისმენენ; არც სუნთქვა ⟨არის⟩ მათ პირში.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "ყურები"
+    },
+    {
+      "surface": "להם",
+      "gloss": "მათ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "მაგრამ არ"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "ისმენენ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "არც"
+    },
+    {
+      "surface": "אין",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יש",
+      "gloss": ""
+    },
+    {
+      "surface": "רוח",
+      "gloss": "სუნთქვა"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "მათ პირში"
+    }
+  ],
+  "timestamp": "2026-09-06T10:11:01.331025363Z",
+  "model": "glm-5.3"
+}

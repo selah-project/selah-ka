@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 20:13",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 20,
+  "translation": "არ შეიყვარო ძილი, რათა არ დაღარიბდე; გახსენი შენი თვალები — დანაყრდი პურს.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תאהב",
+      "gloss": "შეიყვაროს"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ძილი"
+    },
+    {
+      "surface": "פן",
+      "gloss": "რათა არ"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "დაღარიბდეს"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "გახსნას"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "შენი თვალები"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "დანაყრდეს"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "პური"
+    }
+  ],
+  "timestamp": "2026-09-06T10:24:15.062969015Z",
+  "model": "glm-5.3"
+}

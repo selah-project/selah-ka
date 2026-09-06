@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 46:3",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 46,
+  "translation": "დაალაგეთ სატუქი და ფარი და მიახლოვდით ბრძოლას.",
+  "tokens": [
+    {
+      "surface": "ערכו",
+      "gloss": "დაალაგეთ"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "სატუქი"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "და ფარი"
+    },
+    {
+      "surface": "וגשו",
+      "gloss": "და მიახლოვდით"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ბრძოლას"
+    }
+  ],
+  "timestamp": "2026-09-06T08:26:09.834035286Z",
+  "model": "glm-5.3"
+}

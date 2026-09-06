@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ზერახიას ძე, უზის ძე, ბუკის ძე.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "ზერახია"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "უზი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "ბუკი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:16:09.471070427Z",
+  "model": "glm-5.3"
+}

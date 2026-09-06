@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "დღე დღეს ⟨აღვიერებს⟩ სიტყვას, და ღამე ღამეს აცხადებს ცოდნას.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "აღვიერებს"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "და ღამე"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "ღამეს"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "აცხადებს"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ცოდნა"
+    }
+  ],
+  "timestamp": "2026-09-06T09:37:02.499505384Z",
+  "model": "glm-5.3"
+}

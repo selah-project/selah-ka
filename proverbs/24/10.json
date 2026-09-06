@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 24:10",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "თუ დასუსტდი ჭირის დღეს, ვიწრო ⟨არის⟩ შენი ძალა.",
+  "tokens": [
+    {
+      "surface": "התרפית",
+      "gloss": "დასუსტდი"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ჭირის"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ვიწრო"
+    },
+    {
+      "surface": "כחכה",
+      "gloss": "შენი ძალა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:25:38.660921511Z",
+  "model": "glm-5.3"
+}

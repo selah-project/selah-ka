@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "შეაბი ისინი შენს თითებზე; დაწერე ისინი შენი გულის დაფაზე.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "შეაბი"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "შენი თითები"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "დაწერე"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "დაფა"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "შენი გული"
+    }
+  ],
+  "timestamp": "2026-09-06T14:23:15.604912309Z",
+  "model": "glm-5.3"
+}

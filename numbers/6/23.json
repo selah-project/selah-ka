@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 6:23",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "ელაპარაკე აჰარონს და მის ძეებს: ასე დალოცავთ ⟨את⟩ იშრაელის ძეებს — უთხარით მათ:",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ელაპარაკე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "აჰარონი"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და -ს"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "მისი ძეები"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ესრედ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "תברכו",
+      "gloss": "დალოცავთ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იშრაელის ძეებს"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძეები"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    },
+    {
+      "surface": "אמור",
+      "gloss": "უთხარით"
+    },
+    {
+      "surface": "להם",
+      "gloss": "მათ"
+    }
+  ],
+  "timestamp": "2026-09-06T05:02:07.392484582Z",
+  "model": "glm-5.3"
+}

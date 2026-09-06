@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 41,
+  "translation": "დაედევნა მათ, გაიარა მშვიდად; გზას თავისი ფეხებით არ შედის.",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "დაედევნა მათ"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "გაიარა"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "მშვიდად"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "გზა"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "თავისი ფეხებით"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "შედის"
+    }
+  ],
+  "timestamp": "2026-09-06T16:01:24.906079187Z",
+  "model": "glm-5.3"
+}

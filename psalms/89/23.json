@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 89,
+  "translation": "არ დაადებს ვალს მტერი ⟨მას⟩, და უმართლობის ძე ვერ შეავიწროებს ⟨მას⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "დაადებს ვალს"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "მტერი"
+    },
+    {
+      "surface": "בו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "და ძე"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "უმართლობის"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ვერ"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "შეავიწროებს მას"
+    }
+  ],
+  "timestamp": "2026-09-06T17:01:48.235407967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 120,
+  "translation": "ვაი მე, რომ ვმდგარვარ მეშექში, რომ დავსახლდი კედარის კარავთა გვერდით!",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "ვაი"
+    },
+    {
+      "surface": "לי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "ვმდგარვარ"
+    },
+    {
+      "surface": "משך",
+      "gloss": "მეშექი"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "დავსახლდი"
+    },
+    {
+      "surface": "עם",
+      "gloss": "გვერდით"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "კარვები"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "კედარი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:09:32.983559358Z",
+  "model": "glm-5.3"
+}

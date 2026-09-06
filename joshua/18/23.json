@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 18:23",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "და ჰაავიმი, და ჰაფარაჰი და ოფრაჰი.",
+  "tokens": [
+    {
+      "surface": "והעוים",
+      "gloss": "და ჰაავიმი"
+    },
+    {
+      "surface": "והפרה",
+      "gloss": "და ჰაფარაჰი"
+    },
+    {
+      "surface": "ועפרה",
+      "gloss": "და ოფრაჰი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:54:07.847257600Z",
+  "model": "glm-5.3"
+}

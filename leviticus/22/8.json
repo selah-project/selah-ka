@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "ლეშს და დაგლეჯილს არ შეჭამს მისით დასაბინძურებლად; მე ⟨ვარ⟩ იაჰვე.",
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "ლეში"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "და დაგლეჯილი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "შეჭამს"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "დასაბინძურებლად"
+    },
+    {
+      "surface": "בה",
+      "gloss": "მისით"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T12:22:53.851457976Z",
+  "model": "glm-5.3"
+}

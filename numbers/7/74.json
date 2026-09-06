@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 74,
+  "ref": "numbers 7:74",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ერთი ოქროს კოვზი, ათი შეკელი, სავსე საკმეველით.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "კოვზი"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ათი"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ოქრო"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "სავსე"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "საკმეველი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:04:18.761003929Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 5:19",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "და გაუმართეს ომი ჰაგარიელებს — იეტურს, ნაფიშს და ნოდაბს.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "გაუმართეს"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ომი"
+    },
+    {
+      "surface": "עם",
+      "gloss": ""
+    },
+    {
+      "surface": "ההגריאים",
+      "gloss": "ჰაგარიელები"
+    },
+    {
+      "surface": "ויטור",
+      "gloss": "იეტური"
+    },
+    {
+      "surface": "ונפיש",
+      "gloss": "ნაფიში"
+    },
+    {
+      "surface": "ונודב",
+      "gloss": "ნოდაბი"
+    }
+  ],
+  "timestamp": "2026-09-06T17:05:51.861189921Z",
+  "model": "glm-5.3"
+}

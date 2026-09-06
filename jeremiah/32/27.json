@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 32:27",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 32,
+  "translation": "აჰა, მე ვარ იაჰვე, ყოველი ხორცის ელოჰიმი — განმიკვირვებია თუ არა რომელიმე სიტყვა?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყოველი"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ხორცი"
+    },
+    {
+      "surface": "הממני",
+      "gloss": "ჩემგან"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "განიკვირვება"
+    },
+    {
+      "surface": "כל",
+      "gloss": "რომელიმე"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    }
+  ],
+  "timestamp": "2026-09-06T08:20:24.559026101Z",
+  "model": "glm-5.3"
+}

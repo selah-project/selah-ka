@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "და ამის გამო ვაწამებ ⟨את⟩ დავიდის თესლს — მაგრამ არა ყველა დღეს.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "ვაწამებ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "დავიდის თესლი"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "თესლი"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "დავიდის"
+    },
+    {
+      "surface": "למען",
+      "gloss": "გამო"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ამის"
+    },
+    {
+      "surface": "אך",
+      "gloss": "მაგრამ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "დღე"
+    }
+  ],
+  "timestamp": "2026-09-06T07:02:19.476679474Z",
+  "model": "glm-5.3"
+}

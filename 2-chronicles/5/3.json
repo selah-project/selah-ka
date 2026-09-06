@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "და შეიკრიბნენ მეფესთან იშრაელის ყველა კაცი დღესასწაულზე — იგი ⟨არის⟩ მეშვიდე თვე.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "და შეიკრიბნენ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-თან"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "დღესასწაულზე"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "იგი"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "თვე"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "მეშვიდე"
+    }
+  ],
+  "timestamp": "2026-09-06T11:44:16.504668464Z",
+  "model": "glm-5.3"
+}

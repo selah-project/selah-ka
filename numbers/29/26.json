@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 29:26",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 29,
+  "translation": "ხუთწილად დღეს: ცხრა ხარი, ორი ვერძი, თოთხმეტი ერთწლიანი ბატკანი უმანკო.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "და დღეს"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "მეხუთე"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ხარები"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "ცხრა"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ვერძები"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ორი"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ბატკნები"
+    },
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წლის"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ოთხი"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "მეტია"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "უმანკო"
+    }
+  ],
+  "timestamp": "2026-09-06T05:16:40.874263767Z",
+  "model": "glm-5.3"
+}

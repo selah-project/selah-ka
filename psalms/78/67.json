@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 78,
+  "translation": "და უარყო იაჰვემ იოსეფის კარავი და ეფრაიმის ტომი არ აირჩია.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "და უარყო"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "კარავი"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "იოსეფი"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "და ტომი"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ეფრაიმი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "აირჩია"
+    }
+  ],
+  "timestamp": "2026-09-06T14:08:48.155666248Z",
+  "model": "glm-5.3"
+}

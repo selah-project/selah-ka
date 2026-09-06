@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 49,
+  "translation": "გუნდის მმართველისთვის; კორახის ძეთა მიზმორი.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "გუნდის მმართველისთვის"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ძეთა"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "კორახის"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "მიზმორი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:45:30.055148211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 12:36",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "და დანელთაგან — ბრძოლის დამწყობნი ოცდარვა ათასი და ექვსასი.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "და...-გან"
+    },
+    {
+      "surface": "הדני",
+      "gloss": "დანელნი"
+    },
+    {
+      "surface": "ערכי",
+      "gloss": "დამწყობნი"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ბრძოლის"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ოცდა"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "რვა"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ათასი"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "და ექვს"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:32:48.630668901Z",
+  "model": "glm-5.3"
+}

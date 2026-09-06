@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 34:18",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 34,
+  "translation": "და ერთი მთავარი, ერთი მთავარი ტომიდან აიღეთ სამკვიდროდ ⟨את⟩ მიწა.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "და მთავარი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "მთავარი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "ტომიდან"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "აიღეთ"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "სამკვიდროდ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მიწა"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    }
+  ],
+  "timestamp": "2026-09-06T05:20:57.146424553Z",
+  "model": "glm-5.3"
+}

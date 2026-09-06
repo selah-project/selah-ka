@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "იერიხოს მეფე, ერთი; ჰააის მეფე, რომელიც ბეთ-ელის გვერდით ⟨არის⟩, ერთი;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "იერიხო"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ჰააი"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "გვერდით"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ბეთ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ელი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:51:12.911984232Z",
+  "model": "glm-5.3"
+}

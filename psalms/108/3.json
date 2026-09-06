@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 108,
+  "translation": "გაიღვიძე, ნეველო და ქინორო; მე განვღვიძებ შახარს.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "გაიღვიძე"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "ნეველო"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "და ქინორო"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "განვღვიძებ"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "შახარს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:05:05.279378242Z",
+  "model": "glm-5.3"
+}

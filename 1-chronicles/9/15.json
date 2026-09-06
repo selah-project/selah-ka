@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "და ბაკბაკარი, ხერეში და გალალი, და მატანიაჰი, ძე მიქასი, ძე ზიქრისი, ძე ასაფისი",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "ბაკბაკარი"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ხერეში"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "გალალი"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "მატანიაჰი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "მიქა"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "ზიქრი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ასაფი"
+    }
+  ],
+  "timestamp": "2026-09-06T19:05:44.291841249Z",
+  "model": "glm-5.3"
+}

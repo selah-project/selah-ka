@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 8:12",
+  "book": "esther",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "ერთ დღეს, ახაშვეროშ მეფის ყველა მხარეში — თვის ცამეტ დღეს, თორმეტი თვის, იგი ადარის თვე.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "მხარეებში"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "მეფის"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "ახაშვეროში"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "სამ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ათი"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "თვე"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "თორმეტი"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ათი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "იგი"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "თვე"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "ადარი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:04:53.936869103Z",
+  "model": "glm-5.3"
+}

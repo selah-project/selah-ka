@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 4:3",
+  "book": "2-samuel",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და გაიქცნენ ბეეროთელნი გითაიმში და იყვნენ იქ მდგმურებად ამ დღემდე.",
+  "tokens": [
+    {
+      "surface": "ויברחו",
+      "gloss": "გაიქცნენ"
+    },
+    {
+      "surface": "הבארתים",
+      "gloss": "ბეეროთელნი"
+    },
+    {
+      "surface": "גתימה",
+      "gloss": "გითაიმი"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "იყვნენ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "იქ"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "მდგმურები"
+    },
+    {
+      "surface": "עד",
+      "gloss": "აქამდე"
+    },
+    {
+      "surface": "היום",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ეს"
+    }
+  ],
+  "timestamp": "2026-09-06T06:35:03.911747309Z",
+  "model": "glm-5.3"
+}

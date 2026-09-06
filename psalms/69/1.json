@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 69,
+  "translation": "გუშაგს, შოშანიმზე (შროშანებზე), დავითისა.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "გუშაგს"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "შოშანიმი (შროშანები)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "დავითისა"
+    }
+  ],
+  "timestamp": "2026-09-06T09:51:43.950735345Z",
+  "model": "glm-5.3"
+}

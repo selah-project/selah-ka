@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "აგრეთვე, როცა საკული გზაზე დადის, გული აკლია მას, და ყველას ⟨იტყვის⟩: საკული ⟨არის⟩ ის.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "აგრეთვე"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "გზაზე"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "როცა საკული"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "დადის"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "მისი გული"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "აკლია"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "და იტყვის"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ყველას"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "საკული"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    }
+  ],
+  "timestamp": "2026-09-06T16:36:09.695596030Z",
+  "model": "glm-5.3"
+}

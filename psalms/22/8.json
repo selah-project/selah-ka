@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "ყველა ჩემი მხედველი დასცინის მე; ტუჩს აშორებენ, თავს აქნევენ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "მხედველი"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "დასცინიან"
+    },
+    {
+      "surface": "לי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "აშორებენ"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "ტუჩს"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "აქნევენ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "თავს"
+    }
+  ],
+  "timestamp": "2026-09-06T13:59:08.933926245Z",
+  "model": "glm-5.3"
+}

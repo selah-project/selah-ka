@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 46:23",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 46,
+  "translation": "ხუშიმი.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "და შვილები"
+    },
+    {
+      "surface": "דן",
+      "gloss": "დანი"
+    },
+    {
+      "surface": "חשים",
+      "gloss": "ხუშიმი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:07:02.929189282Z",
+  "model": "glm-5.3"
+}

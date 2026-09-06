@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 15:26",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "ამამი, და შემა, და მოლადა,",
+  "tokens": [
+    {
+      "surface": "אמם",
+      "gloss": "ამამი"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "და შემა"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "და მოლადა"
+    }
+  ],
+  "timestamp": "2026-09-06T05:53:52.588070150Z",
+  "model": "glm-5.3"
+}

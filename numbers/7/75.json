@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "numbers 7:75",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ერთი ბუღა, საქონლის ნაშიერი, ერთი ვერძი, ერთი ბატკანი, წლის ნაშიერი, სასაწვრელად.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ბუღა"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ნაშიერი"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "საქონელი"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ვერძი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ბატკანი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ნაშიერი"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "წლის"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "სასაწვრელად"
+    }
+  ],
+  "timestamp": "2026-09-06T05:04:18.761149979Z",
+  "model": "glm-5.3"
+}

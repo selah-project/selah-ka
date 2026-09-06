@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 34:10",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 34,
+  "translation": "და აღარ აღდგა იშრაელში წინასწარმეტყველი მოშესავით, რომელიც იცნა იაჰვემ, სახე სახეს.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "და არა"
+    },
+    {
+      "surface": "קם",
+      "gloss": "აღდგა"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "წინასწარმეტყველი"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "კიდევ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "იშრაელში"
+    },
+    {
+      "surface": "כמשה",
+      "gloss": "მოშესავით"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "იცნა იგი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "სახე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "სახე"
+    }
+  ],
+  "timestamp": "2026-09-06T05:46:07.397837621Z",
+  "model": "glm-5.3"
+}

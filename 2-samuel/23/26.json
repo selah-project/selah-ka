@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 23:26",
+  "book": "2-samuel",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "ხელეც ფალტელი, ირა იკეშის ვაჟი თეკოელი,",
+  "tokens": [
+    {
+      "surface": "חלץ",
+      "gloss": "ხელეც"
+    },
+    {
+      "surface": "הפלטי",
+      "gloss": "ფალტელი"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "ირა"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ვაჟი"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "იკეში"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "თეკოელი"
+    }
+  ],
+  "timestamp": "2026-09-06T06:48:22.648459839Z",
+  "model": "glm-5.3"
+}

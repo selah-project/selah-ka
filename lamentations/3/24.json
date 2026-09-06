@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "lamentations 3:24",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "ჩემი წილი ⟨არის⟩ იაჰვე, — თქვა ჩემმა ნეფეშმა; ამიტომ მას ველოდები.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "ჩემი წილი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ჩემი ნეფეში"
+    },
+    {
+      "surface": "על",
+      "gloss": "ამიტომ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ამიტომ"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "ველოდები"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    }
+  ],
+  "timestamp": "2026-09-06T10:52:43.940149384Z",
+  "model": "glm-5.3"
+}

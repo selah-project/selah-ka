@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "nehemiah 7:52",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ბესაის შვილები, მეუნიმის შვილები, ნეფუშესიმის შვილები,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "בסי",
+      "gloss": "ბესაი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "מעונים",
+      "gloss": "მეუნიმი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "נפושסים",
+      "gloss": "ნეფუშესიმი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:21:34.503582255Z",
+  "model": "glm-5.3"
+}

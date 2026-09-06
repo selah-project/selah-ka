@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "სძულავს თავის მოყვრეს გულმოკლე, გონიერი კაცი კი დუმს.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "სძულავს\/აშივს"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "მოყვრეს"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "მოკლებული"
+    },
+    {
+      "surface": "לב",
+      "gloss": "გული"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "და კაცი"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "გონიერი"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "დუმს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:19:44.882535181Z",
+  "model": "glm-5.3"
+}

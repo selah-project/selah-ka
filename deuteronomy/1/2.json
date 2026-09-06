@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "თერთმეტი დღე ⟨სავალია⟩ ხორევიდან სეირის მთის გზით კადეშ ბარნეამდე.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ათი"
+    },
+    {
+      "surface": "יום",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ხორევიდან"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "გზა"
+    },
+    {
+      "surface": "הר",
+      "gloss": "მთა"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "სეირი"
+    },
+    {
+      "surface": "עד",
+      "gloss": "მდე"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "კადეშ"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "ბარნეა"
+    }
+  ],
+  "timestamp": "2026-09-06T05:24:05.296096765Z",
+  "model": "glm-5.3"
+}

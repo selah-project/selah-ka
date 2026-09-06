@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "და არ შეუღლო მათთან: შენი ასული არ მისცე მის ძეს და მის ასული არ შეირთო შენი ძისთვის.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "შეუღლო"
+    },
+    {
+      "surface": "בם",
+      "gloss": "მათთან"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "შენი ასული"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "მისცე"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "მის ძეს"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "და მის ასული"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "შეირთო"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "შენი ძისთვის"
+    }
+  ],
+  "timestamp": "2026-09-06T16:50:04.733009301Z",
+  "model": "glm-5.3"
+}

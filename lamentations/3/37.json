@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "ვინ ⟨არის⟩ ეს, რომელმაც თქვა და მოხდა, როცა ადონაიმ არ ბრძანა ის?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "და მოხდა"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ადონაი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ბრძანა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:53:06.110277205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 16:28",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 16,
+  "translation": "მიაგეთ იაჰვეს, ხალხთა გვარებო, მიაგეთ იაჰვეს დიდება და ძალა.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "მიაგეთ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "გვარები"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ხალხები"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "მიაგეთ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "დიდება"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "და ძალა"
+    }
+  ],
+  "timestamp": "2026-09-06T15:09:34.981253812Z",
+  "model": "glm-5.3"
+}

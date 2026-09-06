@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 30:31",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "რადგან იაჰვეს ხმისაგან შეიკრწყალებს აშური; შოტით დასცემს.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "ხმისაგან"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "შეიკრწყალებს"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "აშური"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "შოტით"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "დასცემს"
+    }
+  ],
+  "timestamp": "2026-09-06T07:42:28.158454807Z",
+  "model": "glm-5.3"
+}

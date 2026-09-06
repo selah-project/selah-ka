@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 17:1",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 17,
+  "translation": "და უთხრა იაჰვემ მოშეს (მოსე), სათქველად:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "უთხრა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მოშესთან"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქველად"
+    }
+  ],
+  "timestamp": "2026-09-06T04:46:25.883859095Z",
+  "model": "glm-5.3"
+}

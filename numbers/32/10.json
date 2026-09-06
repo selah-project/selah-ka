@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 32,
+  "translation": "და აღინთო რისხვა იაჰვესი იმ დღეს და დაიფიცა სათქმელად:",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "აღინთო"
+    },
+    {
+      "surface": "אף",
+      "gloss": "რისხვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "იმ"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "დაიფიცა"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T05:18:35.376451008Z",
+  "model": "glm-5.3"
+}

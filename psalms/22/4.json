@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "ხოლო შენ წმინდა ⟨ხარ⟩, მჯდომარე იშრაელის ქებებზე.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ხოლო შენ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "წმინდა"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "მჯდომარე"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "ქებები"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    }
+  ],
+  "timestamp": "2026-09-06T19:16:17.177235207Z",
+  "model": "glm-5.3"
+}

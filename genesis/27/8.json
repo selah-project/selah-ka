@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 27,
+  "translation": "ხლა ახლა, შვილო ჩემო, ისმინე ჩემი ხმა: იმაში, რასაც მე გიბრძანებ ⟨את⟩ შენ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "და ახლა"
+    },
+    {
+      "surface": "בני",
+      "gloss": "შვილო ჩემო"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ისმინე"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "ჩემი ხმა"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "იმაში, რასაც"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "გიბრძანებ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "შენ"
+    }
+  ],
+  "timestamp": "2026-09-06T03:54:28.162162668Z",
+  "model": "glm-5.3"
+}

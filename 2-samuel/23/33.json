@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 23:33",
+  "book": "2-samuel",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "შამა ჰაჰარარი, ახიამი შარარის (ძე), ჰაარარი.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "შამა"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "ჰაჰარარი"
+    },
+    {
+      "surface": "אחיאם",
+      "gloss": "ახიამი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "שרר",
+      "gloss": "შარარის"
+    },
+    {
+      "surface": "האררי",
+      "gloss": "ჰაარარი"
+    }
+  ],
+  "timestamp": "2026-09-06T18:09:19.695045855Z",
+  "model": "glm-5.3"
+}

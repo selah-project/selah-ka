@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 7:25",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ნუ გადაუხვევს შენი გული მის გზებს, ნუ დაეხედები მის ბილიკებს.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "ישט",
+      "gloss": "გადაუხვევს"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-სკენ"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "მისი გზები"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "შენი გული"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "תתע",
+      "gloss": "დაეხედები"
+    },
+    {
+      "surface": "בנתיבותיה",
+      "gloss": "მის ბილიკებს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:17:56.996270581Z",
+  "model": "glm-5.3"
+}

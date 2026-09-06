@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 15:24",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "ზიფი, და თელემი, და ბეალოთი,",
+  "tokens": [
+    {
+      "surface": "זיף",
+      "gloss": "ზიფი"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "და თელემი"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "და ბეალოთი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:53:33.043994514Z",
+  "model": "glm-5.3"
+}

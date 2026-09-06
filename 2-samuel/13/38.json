@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 13:38",
+  "book": "2-samuel",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "და გაიქცა ავშალომი და წავიდა გეშურს, და იყო ⟨ის⟩ იქ სამი წელი.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "და ავშალომი"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "გაიქცა"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "და წავიდა"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "გეშური"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "და იყო"
+    },
+    {
+      "surface": "שם",
+      "gloss": "იქ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "სამი"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "წელი"
+    }
+  ],
+  "timestamp": "2026-09-06T15:53:47.950415496Z",
+  "model": "glm-5.3"
+}

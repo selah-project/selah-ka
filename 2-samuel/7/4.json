@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 7:4",
+  "book": "2-samuel",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "და მოხდა იმ ღამეს, და იყო იაჰვეს სიტყვა ნათანთან, მისათქმელად:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "მოხდა"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ღამეს"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "იმ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ნათანი"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "მისათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T06:37:03.732437323Z",
+  "model": "glm-5.3"
+}

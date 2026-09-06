@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 97,
+  "translation": "გამეფდა იაჰვე — ილხენდეს მიწა, იხარონ მრავალმა კუნძულებმა.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "გამეფდა"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "ილხენდეს"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "იხარონ"
+    },
+    {
+      "surface": "איים",
+      "gloss": "კუნძულებმა"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "მრავალმა"
+    }
+  ],
+  "timestamp": "2026-09-06T09:59:39.561811756Z",
+  "model": "glm-5.3"
+}

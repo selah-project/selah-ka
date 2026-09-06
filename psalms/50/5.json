@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 50,
+  "translation": "შემიკრიბენი ჩემი ხასიდები, ჩემი ბრითის დამდებნი ზოგებზე.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "შემიკრიბენი"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ჩემთვის"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "ხასიდები"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "დამდებნი"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ბრითი"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ზოგები"
+    }
+  ],
+  "timestamp": "2026-09-06T09:45:03.449671202Z",
+  "model": "glm-5.3"
+}

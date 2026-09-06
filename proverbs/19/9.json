@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "მატყუარა მოწმე არ გასწმენდება, და სიცრუის ჩურჩულება დაიღუპება.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "მოწმე"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "მატყუარა"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "გასწმენდება"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "და ჩურჩულება"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "სიცრუის"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "დაიღუპება"
+    }
+  ],
+  "timestamp": "2026-09-06T14:26:06.328393795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 34:27",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 34,
+  "translation": "და აშერის ძეთა ტომისთვის მთავარი ახიჰუდი შელომის ძე.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "და ტომისთვის"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძეთა"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "აშერის"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "მთავარი"
+    },
+    {
+      "surface": "אחיהוד",
+      "gloss": "ახიჰუდი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "შელომის"
+    }
+  ],
+  "timestamp": "2026-09-06T05:20:25.291780521Z",
+  "model": "glm-5.3"
+}

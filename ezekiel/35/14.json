@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 35:14",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 35,
+  "translation": "ასე თქვა ადონაი იაჰვემ: როგორც მთელი მიწა იხარებს, პარტახს გავხდებ შენ.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ადონაი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "כשמח",
+      "gloss": "როგორც იხარებს"
+    },
+    {
+      "surface": "כל",
+      "gloss": "მთელი"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "პარტახი"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "გავხდებ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენ"
+    }
+  ],
+  "timestamp": "2026-09-06T08:55:24.467506387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 27:4",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 27,
+  "translation": "სასტიკოა მრისხანება და ღვარცმა რისხვა, მაგრამ ვინ დადგება შურის წინაშე?",
+  "tokens": [
+    {
+      "surface": "אכזריות",
+      "gloss": "სასტიკობა"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "მრისხანება"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "და ღვარცმა"
+    },
+    {
+      "surface": "אף",
+      "gloss": "რისხვა"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "და ვინ"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "დადგება"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "წინაშე"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "შური"
+    }
+  ],
+  "timestamp": "2026-09-06T10:27:34.239711037Z",
+  "model": "glm-5.3"
+}

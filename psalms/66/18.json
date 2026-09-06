@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 66,
+  "translation": "უკეთუობას თუ ვხედავდი ჩემს გულში, არ მოისმენდა ადონაი.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "უკეთუობა"
+    },
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ვხედავდი"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "ჩემს გულში"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "მოისმენდა"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ადონაი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:48:53.608649942Z",
+  "model": "glm-5.3"
+}

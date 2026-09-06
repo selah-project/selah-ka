@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "⟨את⟩ ერთი ზღვა და ⟨את⟩ თორმეტი ხარი მის ქვეშ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ზღვა"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ზღვა"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ხარები"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ხარები"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ორი"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ათი"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "მის ქვეშ"
+    }
+  ],
+  "timestamp": "2026-09-06T11:42:40.592233858Z",
+  "model": "glm-5.3"
+}

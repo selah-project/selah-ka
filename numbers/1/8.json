@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "ისაშხარისათვის — ნეთანელი, ცუარის ძე.",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "ისაშხარისათვის"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "ნეთანელი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "ცუარი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:57:51.414029684Z",
+  "model": "glm-5.3"
+}

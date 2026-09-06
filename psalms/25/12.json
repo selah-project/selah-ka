@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "ვინ ⟨არის⟩ ის კაცი, მოშიში იაჰვესი? მას დაარიგებს გზაში, რომელსაც აირჩევს.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ის"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "მოშიში"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვესი"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "დაარიგებს"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "გზაში"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "აირჩევს"
+    }
+  ],
+  "timestamp": "2026-09-06T09:37:54.015098439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 5:4",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "ძენი იოელისა: შემაიაჰი მისი ძე, გოგი მისი ძე, შიმი მისი ძე.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "იოელი"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "შემაიაჰი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი ძე"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "გოგი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი ძე"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "შიმი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი ძე"
+    }
+  ],
+  "timestamp": "2026-09-06T15:06:44.936466570Z",
+  "model": "glm-5.3"
+}

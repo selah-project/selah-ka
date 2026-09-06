@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 9:19",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "სამნი ესენი ნოხის ძენი ⟨არიან⟩, და ამათგან გაიბნენა მთელი მიწა.",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "სამნი"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ესენი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ნოხის"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "და ამათგან"
+    },
+    {
+      "surface": "נפצה",
+      "gloss": "გაიბნენა"
+    },
+    {
+      "surface": "כל",
+      "gloss": "მთელი"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    }
+  ],
+  "timestamp": "2026-09-06T03:43:36.677366909Z",
+  "model": "glm-5.3"
+}

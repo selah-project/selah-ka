@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და თქვა იაჰვემ: ავა იეჰუდა (იუდა); აჰა, მივსცი ⟨את⟩ მიწა მის ხელში.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "იეჰუდა"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ავა"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "მივსცი"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მიწა"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "მის ხელში"
+    }
+  ],
+  "timestamp": "2026-09-06T05:59:36.877057511Z",
+  "model": "glm-5.3"
+}

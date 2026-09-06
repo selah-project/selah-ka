@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 2:19",
+  "book": "ezra",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "ხაშუმის ძენი — ორასი ოცი და სამი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "ხაშუმი"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ორასი"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ოცი"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "და სამი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:13:34.966328925Z",
+  "model": "glm-5.3"
+}

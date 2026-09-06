@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "რადგან არ იცის ⟨ის⟩, რა იქნება; რადგან როცა მოხდება, ვინ აუწყებს მას?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "არ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "იცის"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "იქნება"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "როცა"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "მოხდება"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "აუწყებს"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    }
+  ],
+  "timestamp": "2026-09-06T10:58:56.294269821Z",
+  "model": "glm-5.3"
+}

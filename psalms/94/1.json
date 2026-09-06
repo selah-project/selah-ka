@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 94,
+  "translation": "ელ ნეკამოთი (შურის ღმერთი) იაჰვე, ელ ნეკამოთი, გამობრწყინდი!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ელი"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "ნეკამოთი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ელი"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "ნეკამოთი"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "გამობრწყინდი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:00:05.349238782Z",
+  "model": "glm-5.3"
+}

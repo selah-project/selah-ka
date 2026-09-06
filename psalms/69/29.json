@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 69,
+  "translation": "იშალნენ ცოცხალთა წიგნიდან, და მართალთან ერთად არ ჩაიწერონ.",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "იშალნენ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "წიგნი"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ცოცხალთა"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "და...ერთად"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "მართალნი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "ჩაიწერონ"
+    }
+  ],
+  "timestamp": "2026-09-06T14:06:58.654051517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "და თქვა ლეაჰმა: „ბედნიერება!“ — და უწოდა ⟨את⟩ მის სახელს გად.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ლეაჰი"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "ბედნიერება"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "უწოდა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მის სახელს"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "მისი სახელი"
+    },
+    {
+      "surface": "גד",
+      "gloss": "გად"
+    }
+  ],
+  "timestamp": "2026-09-06T03:55:02.649593745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 96,
+  "translation": "იმღერეთ იაჰვეს ახალი სიმღერა, იმღერეთ იაჰვეს, მთელ მიწავ!",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "იმღერეთ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "სიმღერა"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ახალი"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "იმღერეთ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "כל",
+      "gloss": "მთელი"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    }
+  ],
+  "timestamp": "2026-09-06T09:59:20.251413015Z",
+  "model": "glm-5.3"
+}

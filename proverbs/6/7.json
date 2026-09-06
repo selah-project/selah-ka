@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "რომელსა არ ჰყავს მთავარი, ზედამდგელი და მბრძანებელი",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "რომელსა"
+    },
+    {
+      "surface": "אין",
+      "gloss": "არ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "მას"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "მთავარი"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "ზედამდგელი"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "და მბრძანებელი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:17:20.847505558Z",
+  "model": "glm-5.3"
+}

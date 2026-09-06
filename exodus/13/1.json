@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 13:1",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "და ილაპარაკა იაჰვემ მოშესთან (მოსე), სათქმელად:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ილაპარაკა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "თან"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T15:33:39.890817287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 5:19",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "და არ იპარო.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "იპარო"
+    }
+  ],
+  "timestamp": "2026-09-06T05:24:37.252388835Z",
+  "model": "glm-5.3"
+}

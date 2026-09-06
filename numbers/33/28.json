@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 33:28",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 33,
+  "translation": "დაიძრნენ თარახიდან და დაბანაკდნენ მითკაჰში.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "დაიძრნენ"
+    },
+    {
+      "surface": "מתרח",
+      "gloss": "თარახი"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "დაბანაკდნენ"
+    },
+    {
+      "surface": "במתקה",
+      "gloss": "მითკაჰში"
+    }
+  ],
+  "timestamp": "2026-09-06T05:20:15.272537284Z",
+  "model": "glm-5.3"
+}

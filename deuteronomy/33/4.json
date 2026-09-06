@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 33,
+  "translation": "თორა დაგვიბარა მოშემ (მოსე), სამკვიდრო ⟨არის⟩ იააკოვის (იაკობის) კრებულის.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "თორა"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "დაგვიბარა"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ჩვენ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "სამკვიდრო"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "კრებული"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "იააკოვი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:37:10.193648823Z",
+  "model": "glm-5.3"
+}

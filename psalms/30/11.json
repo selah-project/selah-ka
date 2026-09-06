@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "ისმინე, იაჰვე, და შემიწყალე; იაჰვე, იყავ ჩემი შემწე.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ისმინე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "და შემიწყალე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "היה",
+      "gloss": "იყავ"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "შემწე"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ჩემი …-სთვის"
+    }
+  ],
+  "timestamp": "2026-09-06T09:38:30.048436062Z",
+  "model": "glm-5.3"
+}

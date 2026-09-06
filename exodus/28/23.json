@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 28:23",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 28,
+  "translation": "და გააკეთებ ხოშენზე ორ ოქროს ბეჭედს და მიამაგრებ ⟨את⟩ ორ ბეჭედს ხოშენის ორ კიდეზე.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "გააკეთებ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ხოშენი"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ორი"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "ბეჭედი"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ოქრო"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "მიამაგრებ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ორი ბეჭედი"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ორი"
+    },
+    {
+      "surface": "הטבעות",
+      "gloss": "ბეჭდები"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ორი"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "კიდეები"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ხოშენი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:28:16.497538350Z",
+  "model": "glm-5.3"
+}

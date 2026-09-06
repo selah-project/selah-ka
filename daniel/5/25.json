@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "და ეს ⟨არის⟩ წარწერა, რომელიც დაიწერა: მენე, მენე, თეკელ უფარსინ.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "და ეს"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "წარწერა"
+    },
+    {
+      "surface": "די",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "დაიწერა"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "მენე"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "მენე"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "თეკელ"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "და უფარსინ"
+    }
+  ],
+  "timestamp": "2026-09-06T11:05:39.059714279Z",
+  "model": "glm-5.3"
+}

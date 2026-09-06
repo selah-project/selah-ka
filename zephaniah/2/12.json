@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 2:12",
+  "book": "zephaniah",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "თქვენც, ქუშელნო, — განგმირულნი ჩემი მახვილით, ისინი არიან.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "თქვენც"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "თქვენ"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "ქუშელნო"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "განგმირულნი"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "ჩემი მახვილით"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ისინი არიან"
+    }
+  ],
+  "timestamp": "2026-09-06T09:21:49.645158886Z",
+  "model": "glm-5.3"
+}

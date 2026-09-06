@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "ფსალმუნი დავიდს. იაჰვე ⟨არის⟩ მწყემსი ჩემი, არ დამაკლდება.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "ფსალმუნი"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "დავიდს"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "მწყემსი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "დამაკლდება"
+    }
+  ],
+  "timestamp": "2026-09-06T09:37:24.488408469Z",
+  "model": "glm-5.3"
+}

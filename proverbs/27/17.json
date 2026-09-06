@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 27:17",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 27,
+  "translation": "რკინა რკინით გაილესება, და კაცი გაალესავს თავისი მეგობრის სახეს.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "რკინა"
+    },
+    {
+      "surface": "בברזל",
+      "gloss": "რკინით"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "გაილესება"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "და კაცი"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "გაალესავს"
+    },
+    {
+      "surface": "פני",
+      "gloss": "სახეს"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "თავისი მეგობრის"
+    }
+  ],
+  "timestamp": "2026-09-06T10:27:08.094875928Z",
+  "model": "glm-5.3"
+}

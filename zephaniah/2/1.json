@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 2:1",
+  "book": "zephaniah",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "შემოიკრიბეთ და შემოიკრიბეთ, ერო არასანატრელო",
+  "tokens": [
+    {
+      "surface": "התקוששו",
+      "gloss": "შემოიკრიბეთ"
+    },
+    {
+      "surface": "וקושו",
+      "gloss": "და შემოიკრიბეთ"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ერი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "სანატრელი"
+    }
+  ],
+  "timestamp": "2026-09-06T20:32:20.314501834Z",
+  "model": "glm-5.3"
+}

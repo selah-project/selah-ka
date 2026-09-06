@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 20,
+  "translation": "ექვს დღეს იშრომე და აკეთე ყველა შენი საქმე.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "ექვსი"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "იშრომე"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "და აკეთე"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "შენი საქმე"
+    }
+  ],
+  "timestamp": "2026-09-06T04:20:44.418933690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 27:44",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 27,
+  "translation": "და იცხოვრე მასთან რამდენიმე დღე, ვიდრე მოიშლება რისხვა ძმისა შენისა.",
+  "tokens": [
+    {
+      "surface": "וישבת",
+      "gloss": "და იცხოვრე"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "მასთან"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "რამდენიმე"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ვიდრე"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "მოიშლება"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "რისხვა"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ძმისა შენისა"
+    }
+  ],
+  "timestamp": "2026-09-06T03:54:58.279761188Z",
+  "model": "glm-5.3"
+}

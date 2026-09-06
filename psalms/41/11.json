@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 41,
+  "translation": "შენ კი, იაჰვე, შემიწყალე და აღმადგინე, და მე გავუზღავ მათ.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "შენ კი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "შემიწყალე"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "აღმადგინე"
+    },
+    {
+      "surface": "ואשלמה",
+      "gloss": "გავუზღავ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "მათ"
+    }
+  ],
+  "timestamp": "2026-09-06T09:42:55.145035250Z",
+  "model": "glm-5.3"
+}

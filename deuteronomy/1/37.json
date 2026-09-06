@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 1:37",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "ასევე ჩემზე განრისხდა იაჰვე თქვენი გამო, სათქვად: ასევე შენ არ შეხვალ იქ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ასევე"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ჩემზე"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "განრისხდა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "თქვენი გამო"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქვად"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ასევე"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "შეხვალ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "იქ"
+    }
+  ],
+  "timestamp": "2026-09-06T12:30:41.805754732Z",
+  "model": "glm-5.3"
+}

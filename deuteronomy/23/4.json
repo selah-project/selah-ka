@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 23:4",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "არ შევიდეს ყამონელი და მოაბელი იაჰვეს კრებაში; მეათე თაობაც კი არ შევიდეს მათთვის იაჰვეს კრებაში, უკუნისამდე.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "შევიდეს"
+    },
+    {
+      "surface": "עמוני",
+      "gloss": "ყამონელი"
+    },
+    {
+      "surface": "ומואבי",
+      "gloss": "და მოაბელი"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "კრებაში"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ასევე"
+    },
+    {
+      "surface": "דור",
+      "gloss": "თაობა"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "მეათე"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "შევიდეს"
+    },
+    {
+      "surface": "להם",
+      "gloss": "მათთვის"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "კრებაში"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "עד",
+      "gloss": "მდე"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "უკუნი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:38:50.312327476Z",
+  "model": "glm-5.3"
+}

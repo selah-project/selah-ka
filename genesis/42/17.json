@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 42,
+  "translation": "და დააპატიმრა ⟨את⟩ ისინი სატუსაღოში სამი დღით.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "დააპატიმრა"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ისინი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ში"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "სატუსაღო"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "სამი"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "დღე"
+    }
+  ],
+  "timestamp": "2026-09-06T04:05:02.884936539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 38:24",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 38,
+  "translation": "და უთხრა ციდკიიაჰუმ ირმიიაჰუს: არავენმა არ იცოდეს ეს სიტყვები და არ მოკვდები.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "უთხრა"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ციდკიიაჰუ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ირმიიაჰუ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "არ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "იცოდეს"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "სიტყვებში"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "მოკვდები"
+    }
+  ],
+  "timestamp": "2026-09-06T08:24:09.093587839Z",
+  "model": "glm-5.3"
+}

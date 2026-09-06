@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "და სცხებ მით ⟨את⟩ საკრებულოს კარავს და ⟨את⟩ მოწმობის კიდობანს.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "და სცხებ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "მით"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "კარავი"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "კარავი"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "საკრებულო"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "კიდობანი"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "კიდობანი"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "მოწმობის"
+    }
+  ],
+  "timestamp": "2026-09-06T04:27:08.935926700Z",
+  "model": "glm-5.3"
+}

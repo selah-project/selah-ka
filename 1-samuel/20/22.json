@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 20:22",
+  "book": "1-samuel",
+  "lang": "ka",
+  "chapter": 20,
+  "translation": "და თუ ასე იტყვის ბიჭს: აჰა, ისრები შენგან არიან შორს — წადი, რადგან გაგიშვა იაჰვე.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "და თუ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "იტყვის"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ბიჭს"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "ისრები"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "შენგან"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "და შორს"
+    },
+    {
+      "surface": "לך",
+      "gloss": "წადი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "გაგიშვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T18:05:15.715190153Z",
+  "model": "glm-5.3"
+}

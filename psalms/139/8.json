@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 139,
+  "translation": "თუ ავუყვები ცას — იქ შენ ხარ; და თუ გავშლი ⟨საწოლს⟩ შეოლში — აჰა, შენ იქ.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "ავუყვები"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ცა"
+    },
+    {
+      "surface": "שם",
+      "gloss": "იქ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "გავშლი"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "შეოლი"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "აჰა, შენ"
+    }
+  ],
+  "timestamp": "2026-09-06T17:01:46.589568049Z",
+  "model": "glm-5.3"
+}

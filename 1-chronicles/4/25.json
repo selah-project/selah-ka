@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 4:25",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "შალუმი მისი ძე, მივსამი მისი ძე, მიშმაყი მისი ძე.",
+  "tokens": [
+    {
+      "surface": "שלם",
+      "gloss": "შალუმი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი ძე"
+    },
+    {
+      "surface": "מבשם",
+      "gloss": "მივსამი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი ძე"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "მიშმაყი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი ძე"
+    }
+  ],
+  "timestamp": "2026-09-06T16:37:32.921498093Z",
+  "model": "glm-5.3"
+}

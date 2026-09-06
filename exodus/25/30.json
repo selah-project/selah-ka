@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "და დაადებ მაგიდაზე სახის პურს — ჩემს წინაშე მუდმივად.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "და დაადებ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზედა"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "მაგიდა"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "პური"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "სახე"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "წინაშე"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "მუდმივად"
+    }
+  ],
+  "timestamp": "2026-09-06T15:36:08.021468165Z",
+  "model": "glm-5.3"
+}

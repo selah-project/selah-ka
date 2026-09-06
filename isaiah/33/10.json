@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 33,
+  "translation": "ახლა ავდგები, — ამბობს იაჰვე, — ახლა ამაღლდები, ახლა ავიმაღლებ.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ახლა"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "ავდგები"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ამბობს"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ახლა"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "ამაღლდები"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ახლა"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "ავიმაღლებ"
+    }
+  ],
+  "timestamp": "2026-09-06T18:19:46.989913626Z",
+  "model": "glm-5.3"
+}

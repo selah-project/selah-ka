@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 3:5",
+  "book": "habakkuk",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "მის წინაშე ივლის მაშბული, და გამოვა რეშეფი (ალი) მის ფედებთან.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "მის წინაშე"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ივლის"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "მაშბული"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "და გამოვა"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "რეშეფი"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "მის ფედებთან"
+    }
+  ],
+  "timestamp": "2026-09-06T13:45:48.842399098Z",
+  "model": "glm-5.3"
+}

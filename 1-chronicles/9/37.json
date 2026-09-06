@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 9:37",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "და გედორი, და ახიო, და ზექარიაჰ, და მიკლოთი.",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "და გედორი"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "და ახიო"
+    },
+    {
+      "surface": "וזכריה",
+      "gloss": "და ზექარიაჰ"
+    },
+    {
+      "surface": "ומקלות",
+      "gloss": "და მიკლოთი"
+    }
+  ],
+  "timestamp": "2026-09-06T16:39:36.406422314Z",
+  "model": "glm-5.3"
+}

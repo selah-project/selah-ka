@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 50,
+  "translation": "და აღასრულეს მისმა ვაჟებმა მისთვის ასე, როგორც დააბარა მათ.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "აღასრულეს"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "მისი ვაჟები"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მისთვის"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "როგორც"
+    },
+    {
+      "surface": "צום",
+      "gloss": "დააბარა"
+    }
+  ],
+  "timestamp": "2026-09-06T04:10:46.658613062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 2:18",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და კერპები სრულად გაქრება.",
+  "tokens": [
+    {
+      "surface": "והאלילים",
+      "gloss": "და კერპები"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "სრულად"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "გაქრება"
+    }
+  ],
+  "timestamp": "2026-09-06T15:56:09.617316648Z",
+  "model": "glm-5.3"
+}

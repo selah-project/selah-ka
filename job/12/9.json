@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "ვინ არ იცნობს ამათ ყველას შორის, რომ იაჰვეს ხელმა არის მოქმედებული ეს?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "იცნობს"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ყველას შორის"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ამათ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ხელი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "არის მოქმედებული"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ეს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:33:40.702124356Z",
+  "model": "glm-5.3"
+}

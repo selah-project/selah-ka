@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 26:35",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "და იყვნენ სულის სიმწარედ იცხაკისთვის და რივკასთვის.",
+  "tokens": [
+    {
+      "surface": "ותהיין",
+      "gloss": "იყვნენ"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "სიმწარე"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "სული"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "იცხაკისთვის"
+    },
+    {
+      "surface": "ולרבקה",
+      "gloss": "და რივკასთვის"
+    }
+  ],
+  "timestamp": "2026-09-06T03:53:43.153093629Z",
+  "model": "glm-5.3"
+}

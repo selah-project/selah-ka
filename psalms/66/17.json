@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 66,
+  "translation": "მას მოვუწოდე ჩემი პირით, და ამაღლება ⟨იყო⟩ ჩემი ენის ქვეშ.",
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ჩემი პირი"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "მოვუწოდე"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "და ამაღლება"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ქვეშ"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ჩემი ენა"
+    }
+  ],
+  "timestamp": "2026-09-06T09:48:53.608423359Z",
+  "model": "glm-5.3"
+}

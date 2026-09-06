@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და დაკლა, და აპკურა მოშემ ⟨את⟩ სისხლი სამსხვერპლოს ზედა ირგვლივ.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "დაკლა"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "აპკურა"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "სისხლი"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "სისხლი"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზედა"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "სამსხვერპლო"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ირგვლივ"
+    }
+  ],
+  "timestamp": "2026-09-06T04:40:34.533867421Z",
+  "model": "glm-5.3"
+}

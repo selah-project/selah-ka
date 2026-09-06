@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 17:9",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 17,
+  "translation": "და თქვა იაჰვემ მოშეს, სათქმელად:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მოშეს"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე (მოსე)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T05:10:44.690072942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "და ახიმააცმა შვა ⟨את⟩ აზარიაჰი, და აზარიაჰმა შვა ⟨את⟩ იოხანანი.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "ახიმააცი"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "აზარიაჰი"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "აზარიაჰი"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "აზარიაჰი"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იოხანანი"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "იოხანანი"
+    }
+  ],
+  "timestamp": "2026-09-06T15:06:02.583653898Z",
+  "model": "glm-5.3"
+}

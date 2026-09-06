@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "lamentations 3:53",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "მომსხვეს ჩემი სიცოცხლე ორმოში და ჩამომყარეს ქვა ჩემზე.",
+  "tokens": [
+    {
+      "surface": "צמתו",
+      "gloss": "მომსხვეს"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "ორმოში"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ჩემი სიცოცხლე"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "და ჩამომყარეს"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ქვა"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ჩემზე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:53:11.743425621Z",
+  "model": "glm-5.3"
+}

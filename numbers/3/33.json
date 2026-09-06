@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 3:33",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "მერარის გვარი ⟨არის⟩ მახლის გვარი და მუშის გვარი; ეს არიან მერარის გვარები.",
+  "tokens": [
+    {
+      "surface": "למררי",
+      "gloss": "მერარის"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "გვარი"
+    },
+    {
+      "surface": "המחלי",
+      "gloss": "მახლი"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "და გვარი"
+    },
+    {
+      "surface": "המושי",
+      "gloss": "მუში"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ისინი"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "გვარები"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "მერარი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:00:23.365213513Z",
+  "model": "glm-5.3"
+}

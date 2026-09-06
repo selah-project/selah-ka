@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 13:14",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "ნაფთალის ტომიდან — ნახბი, ვოფსის ძე.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ტომიდან"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ნაფთალი"
+    },
+    {
+      "surface": "נחבי",
+      "gloss": "ნახბი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "ופסי",
+      "gloss": "ვოფსი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:06:27.146046641Z",
+  "model": "glm-5.3"
+}

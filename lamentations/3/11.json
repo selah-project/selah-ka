@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 3:11",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "გადაუხვია ჩემი გზები და დამაქუცმაცა, დამაყენა დაცარიელებულად.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "ჩემი გზები"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "გადაუხვია"
+    },
+    {
+      "surface": "ויפשחני",
+      "gloss": "და დამაქუცმაცა"
+    },
+    {
+      "surface": "שמני",
+      "gloss": "დამაყენა"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "დაცარიელებულად"
+    }
+  ],
+  "timestamp": "2026-09-06T10:52:25.803565031Z",
+  "model": "glm-5.3"
+}

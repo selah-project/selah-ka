@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 9:13",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "და იყო საზომი ოქროსი, რომელიც მოდიოდა შელომოს (სოლომონ) ერთ წელს, ექვსას სამოც და ექვსი ტალანტი ოქროსი.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "და იყო"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "საზომი"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ოქროსი"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "בא",
+      "gloss": "მოდიოდა"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "შელომოს"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "წელს"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ერთ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ექვსას"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "სამოც"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ექვსი"
+    },
+    {
+      "surface": "ככרי",
+      "gloss": "ტალანტი"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ოქროსი"
+    }
+  ],
+  "timestamp": "2026-09-06T15:15:06.873990535Z",
+  "model": "glm-5.3"
+}

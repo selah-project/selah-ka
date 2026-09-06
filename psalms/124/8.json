@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 124,
+  "translation": "ჩვენი შემწე ⟨არის⟩ იაჰვეს სახელში, ამქნელი ცისა და მიწისა.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "ჩვენი შემწე"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "სახელში"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "შემქმნელი"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ცა"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "და მიწა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:10:58.214916098Z",
+  "model": "glm-5.3"
+}

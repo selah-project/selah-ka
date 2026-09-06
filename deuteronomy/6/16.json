@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "არ გამოაცდით ⟨את⟩ იაჰვეს, თქვენს ელოჰიმს, როგორც გამოცადეთ მასაში.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "გამოაცდით"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იაჰვეს"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "თქვენი ელოჰიმი"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "როგორც"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "გამოცადეთ"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "მასაში"
+    }
+  ],
+  "timestamp": "2026-09-06T05:25:40.897657482Z",
+  "model": "glm-5.3"
+}

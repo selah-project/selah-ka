@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "მკურნალი გული ⟨არის⟩ ხორცის სიცოცხლე, ხოლო შური — ძვლების ლპობა.",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "სიცოცხლე"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "ხორცი"
+    },
+    {
+      "surface": "לב",
+      "gloss": "გული"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "მკურნალი"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "და ლპობა"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ძვლები"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "შური"
+    }
+  ],
+  "timestamp": "2026-09-06T10:21:12.480775392Z",
+  "model": "glm-5.3"
+}

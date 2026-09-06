@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "მხოლოდ თუ დღე ან ორი დღე გაძლებს ⟨ის⟩, არ ისაჯება, რადგან ის მისი ვერცხლი ⟨არის⟩.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "მხოლოდ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "או",
+      "gloss": "ან"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "ორი დღე"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "გაძლებს"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "ისაჯება"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "მისი ვერცხლი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    }
+  ],
+  "timestamp": "2026-09-06T04:21:57.495373333Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 34:9",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 34,
+  "translation": "რადგან თქვა: არ სარგებლობს კაცი, როცა ეწაფება ელოჰიმთან.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "სარგებლობს"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "ברצתו",
+      "gloss": "ეწაფება"
+    },
+    {
+      "surface": "עם",
+      "gloss": "თან"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ელოჰიმი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:43:31.615607288Z",
+  "model": "glm-5.3"
+}

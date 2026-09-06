@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 92,
+  "translation": "და შენ ⟨ხარ⟩ მაღლად უკუნისამდე, იაჰვე.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "და შენ"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "სიმაღლე"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "უკუნისამდე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T09:59:14.269536762Z",
+  "model": "glm-5.3"
+}

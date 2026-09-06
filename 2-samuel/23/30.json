@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 23:30",
+  "book": "2-samuel",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "ბენაიაჰუ ფირათონელი, ჰიდაი გააშის ხევებიდან.",
+  "tokens": [
+    {
+      "surface": "בניהו",
+      "gloss": "ბენაიაჰუ"
+    },
+    {
+      "surface": "פרעתני",
+      "gloss": "ფირათონელი"
+    },
+    {
+      "surface": "הדי",
+      "gloss": "ჰიდაი"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "ხევებიდან"
+    },
+    {
+      "surface": "געש",
+      "gloss": "გააში"
+    }
+  ],
+  "timestamp": "2026-09-06T18:09:27.419980659Z",
+  "model": "glm-5.3"
+}

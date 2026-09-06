@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "უთხრა მას იაჰვემ: რა გაქვს ხელში? თქვა მან: კვერთხი.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "უთხრა"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ხელში"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "კვერთხი"
+    }
+  ],
+  "timestamp": "2026-09-06T15:33:58.848157567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 6:5",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "გერშომისთვის: ლიბნი მისი შვილი, იახათი მისი შვილი, ზიმა მისი შვილი.",
+  "tokens": [
+    {
+      "surface": "לגרשום",
+      "gloss": "გერშომისთვის"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ლიბნი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი შვილი"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "იახათი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი შვილი"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ზიმა"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი შვილი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:28:17.633301292Z",
+  "model": "glm-5.3"
+}

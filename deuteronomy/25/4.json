@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "არ შეუკრავ პირს ხარს მის მოწევისას.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "შეუკრავ პირს"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ხარი"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "მის მოწევისას"
+    }
+  ],
+  "timestamp": "2026-09-06T05:38:39.465624271Z",
+  "model": "glm-5.3"
+}

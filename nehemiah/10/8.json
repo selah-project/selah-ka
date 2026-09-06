@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 10:8",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "მეშულამი, ავიაჰი, მიამინი.",
+  "tokens": [
+    {
+      "surface": "משלם",
+      "gloss": "მეშულამი"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ავიაჰი"
+    },
+    {
+      "surface": "מימן",
+      "gloss": "მიამინი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:21:59.841339622Z",
+  "model": "glm-5.3"
+}

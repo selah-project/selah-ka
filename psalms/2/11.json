@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "მსახურებდით ⟨את⟩ იაჰვეს შიშით და მხიარულდით თრთოლვით.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "მსახურებდით"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იაჰვეს"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "შიშით"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "და მხიარულდით"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "თრთოლვით"
+    }
+  ],
+  "timestamp": "2026-09-06T09:31:11.138372772Z",
+  "model": "glm-5.3"
+}

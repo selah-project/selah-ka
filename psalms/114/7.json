@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 114,
+  "translation": "ირხე, მიწავ, ადონის წინაშე, იააკოვის ელოაჰის წინაშე!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "წინაშე"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "ადონი"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "ირხე"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "წინაშე"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ელოაჰი"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "იააკოვი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:05:49.202304681Z",
+  "model": "glm-5.3"
+}

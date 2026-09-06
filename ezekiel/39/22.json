@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 39:22",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 39,
+  "translation": "და იცნობს იშრაელის სახლე, რომ მე ვარ იაჰვე, მათი ელოჰიმი, იმ დღიდან და შემდგომ.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "და იცნობს"
+    },
+    {
+      "surface": "בית",
+      "gloss": "სახლე"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "მათი ელოჰიმი"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-დან"
+    },
+    {
+      "surface": "היום",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "და შემდგომ"
+    }
+  ],
+  "timestamp": "2026-09-06T08:58:16.593119350Z",
+  "model": "glm-5.3"
+}

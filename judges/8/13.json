@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 8:13",
+  "book": "judges",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და დაბრუნდა გიდონი (გედეონი), იოაშის ძე, ომიდან, ხერესის აღმართიდან.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "დაბრუნდა"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "გიდონი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "იოაში"
+    },
+    {
+      "surface": "מן",
+      "gloss": "–დან"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ომი"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "აღმართი"
+    },
+    {
+      "surface": "החרס",
+      "gloss": "ხერესი"
+    }
+  ],
+  "timestamp": "2026-09-06T06:05:56.950675776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 18:24",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "თქვა მიქაიაჰუმ: აჰა, შენ იხილავ იმ დღეს, როცა შეხვალ ოთახში ოთახის სამალავად.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "მიქაიაჰუმ"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "აჰა, შენ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "იხილავ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "იმ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "როცა"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "შეხვალ"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "ოთახში"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "ოთახში"
+    },
+    {
+      "surface": "להחבא",
+      "gloss": "დასამალავად"
+    }
+  ],
+  "timestamp": "2026-09-06T11:49:05.906370028Z",
+  "model": "glm-5.3"
+}

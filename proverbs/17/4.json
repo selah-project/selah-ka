@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 17:4",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 17,
+  "translation": "ბოროტი აყურადებს ბოროტების ბაგეებს, მტყუარი ისმენს დამღუპველ ენას.",
+  "tokens": [
+    {
+      "surface": "מרע",
+      "gloss": "ბოროტი"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "აყურადებს"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ბაგეებს"
+    },
+    {
+      "surface": "און",
+      "gloss": "ბოროტების"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "მტყუარი"
+    },
+    {
+      "surface": "מזין",
+      "gloss": "ისმენს"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ენას"
+    },
+    {
+      "surface": "הות",
+      "gloss": "დამღუპველი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:22:43.110038161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 8:17",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "მაშინ წავიდა შელომოჰი (სოლომონი) ეციონ-გევერსა და ელოთს, ზღვის ნაპირას, ედომის ქვეყანაში.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "მაშინ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "წავიდა"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "შელომოჰი"
+    },
+    {
+      "surface": "לעציון",
+      "gloss": "ეციონ-"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "გევერს"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და …-ს"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "ელოთს"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ნაპირი"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ზღვა"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ქვეყანაში"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ედომი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:44:42.113804555Z",
+  "model": "glm-5.3"
+}

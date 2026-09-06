@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "job 33:33",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 33,
+  "translation": "თუ არა — შენ ისმინე ჩემი: დადუმდი, და გასწავლი შენ სიბრძნეს.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "არა"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ისმინე"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ჩემი"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "დადუმდი"
+    },
+    {
+      "surface": "ואאלפך",
+      "gloss": "და გასწავლი შენ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "სიბრძნე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:42:48.148080669Z",
+  "model": "glm-5.3"
+}

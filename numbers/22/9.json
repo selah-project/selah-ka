@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 22:9",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "მოვიდა ელოჰიმი ბილამთან (ბალაამთან) და თქვა: ვინ ⟨არიან⟩ ეს კაცები შენთან?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "მოვიდა"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-თან"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ბილამი"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "კაცები"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "შენთან"
+    }
+  ],
+  "timestamp": "2026-09-06T05:13:03.930603369Z",
+  "model": "glm-5.3"
+}

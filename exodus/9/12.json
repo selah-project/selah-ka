@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "და გაამაგრა იაჰვემ ⟨את⟩ ლუბლო ფარაონის, და არ ისმინა მათი ხმა, როგორც თქვა იაჰვემ მოშეს.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "და გაამაგრა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "გული"
+    },
+    {
+      "surface": "לב",
+      "gloss": "გული"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ფარაონი"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ისმინა"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "მათკენ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "როგორც"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    }
+  ],
+  "timestamp": "2026-09-06T04:15:00.736198145Z",
+  "model": "glm-5.3"
+}

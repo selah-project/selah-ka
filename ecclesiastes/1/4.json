@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "თაობა მიდის და თაობა მოდის, ხოლო მიწა საუკუნოდ დგას.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "თაობა"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "მიდის"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "და თაობა"
+    },
+    {
+      "surface": "בא",
+      "gloss": "მოდის"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ხოლო მიწა"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "საუკუნოდ"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "დგას"
+    }
+  ],
+  "timestamp": "2026-09-06T10:56:20.095235197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "numbers 7:78",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "მეთორმეტე დღეს — ნაში ძეთა ნაფთალისა, ახირა ძე ეინანი.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ორი"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ათი"
+    },
+    {
+      "surface": "יום",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ნაში"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ძეთა"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ნაფთალი"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "ახირა"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "ეინანი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:04:08.193542179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 3:16",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "და მოხდა შვიდი დღის ბოლოს, და მოხდა იაჰვეს სიტყვა ჩემთან სათქმელად.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "და მოხდა"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ბოლოს"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "შვიდი"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "დღის"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "და მოხდა"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემთან"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T08:35:21.783428664Z",
+  "model": "glm-5.3"
+}

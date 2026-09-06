@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 15:45",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "ეკრონი და მისი ასულები და მისი სოფლები;",
+  "tokens": [
+    {
+      "surface": "עקרון",
+      "gloss": "ეკრონი"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "და მისი ასულები"
+    },
+    {
+      "surface": "וחצריה",
+      "gloss": "და მისი სოფლები"
+    }
+  ],
+  "timestamp": "2026-09-06T12:39:27.999005219Z",
+  "model": "glm-5.3"
+}

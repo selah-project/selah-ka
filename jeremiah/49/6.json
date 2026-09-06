@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 49,
+  "translation": "და ამის შემდეგ დავაბრუნებ ⟨את⟩ ტყვეობას ამონის შვილებისა, იაჰვეს ორაკული.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "და შემდეგ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ამის"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "დააბრუნებს"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ტყვეობას"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ტყვეობა"
+    },
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ამონი"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ორაკული"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T08:28:58.492322224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "რადგან იოველი ის ⟨არის⟩ — წმიდა იქნება თქვენთვის; ყანიდან შეჭამთ ⟨את⟩ მის ნაყოფს.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "იოველი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "წმიდა"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "იქნება"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "თქვენთვის"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-დან"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ყანა"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "შეჭამთ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ნაყოფი"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ნაყოფი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:56:26.636471676Z",
+  "model": "glm-5.3"
+}

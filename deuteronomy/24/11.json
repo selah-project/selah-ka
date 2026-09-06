@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 24:11",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "გარეთ დადგები, და კაცი, რომელსაც სესხს აძლევ, გამოიტანს შენთან ⟨את⟩ გირაოს გარეთ.",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "გარეთ"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "დადგები"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "და კაცი"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელსაც"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "נשה",
+      "gloss": "სესხს აძლევ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "გამოიტანს"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "შენთან"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "გირაო"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "გირაო"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "გარეთ"
+    }
+  ],
+  "timestamp": "2026-09-06T05:38:06.945657339Z",
+  "model": "glm-5.3"
+}

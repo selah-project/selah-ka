@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 9:12",
+  "book": "judges",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "და უთხრეს ხეებმა ვაზს: მოდი, შენ იმეფე ჩვენზე.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "უთხრეს"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ხეებმა"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "ვაზს"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "მოდი"
+    },
+    {
+      "surface": "את",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "מלוכי",
+      "gloss": "იმეფე"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ჩვენზე"
+    }
+  ],
+  "timestamp": "2026-09-06T06:03:51.503136355Z",
+  "model": "glm-5.3"
+}

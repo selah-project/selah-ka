@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 12:26",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "მართალი მიმართავს თავის მეგობარს, და ბოროტთა გზა აცდენს მათ.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "მიმართავს"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "თავის მეგობარს"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "მართალი"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "და გზა"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ბოროტთა"
+    },
+    {
+      "surface": "תתעם",
+      "gloss": "აცდენს მათ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:20:06.531524156Z",
+  "model": "glm-5.3"
+}

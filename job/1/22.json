@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 1:22",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "ყოველ ამაში არ შესცოდა იობმა და არ მისცა სისულელე ელოჰიმს.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ყოველ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ამაში"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "შესცოდა"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "იობი"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "მისცა"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "სისულელე"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ელოჰიმს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:29:35.162224189Z",
+  "model": "glm-5.3"
+}

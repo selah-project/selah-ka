@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "და მივცემ ჩემს მიშქანს თქვენს შორის, და არ გიძაგებთ ჩემი ნეფეში ⟨את⟩ თქვენ.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "მივცემ"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "მიშქანი"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "თქვენს შორის"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "გიძაგებთ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ჩემი ნეფეში"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "თქვენ"
+    }
+  ],
+  "timestamp": "2026-09-06T04:56:30.660229379Z",
+  "model": "glm-5.3"
+}

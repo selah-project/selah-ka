@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "და ბრძანებს კოჰენი, და დაკლავს ⟨את⟩ ერთ ცივს თიხის ჭურჭელში სასიცოცხლო წყალზე.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "და ბრძანებს"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "კოჰენი"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "და დაკლავს"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ერთ ცივს"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "ცივი"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ში"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ჭურჭელი"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "თიხის"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "מים",
+      "gloss": "წყალი"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "სასიცოცხლო"
+    }
+  ],
+  "timestamp": "2026-09-06T04:43:28.359258213Z",
+  "model": "glm-5.3"
+}

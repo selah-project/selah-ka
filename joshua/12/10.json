@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "იერუშალაიმის (იერუსალიმი) მეფე, ერთი; ხევრონის (ხებრონი) მეფე, ერთი;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "იერუშალაიმი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ხევრონი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:51:12.912357773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და მოხდა, როცა ამოიწურნენ ყველა ომის კაცნი სიკვდილით ხალხის შუაგულიდან.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "და მოხდა"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "როცა"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "ამოიწურნენ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "კაცნი"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ომის"
+    },
+    {
+      "surface": "למות",
+      "gloss": "სიკვდილით"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "შუაგულიდან"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ხალხის"
+    }
+  ],
+  "timestamp": "2026-09-06T05:22:36.178647826Z",
+  "model": "glm-5.3"
+}

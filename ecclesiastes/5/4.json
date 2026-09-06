@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "უმჯობესია ⟨ის⟩, რომ არ აღუთქვა, ვიდრე აღუთქვა და არ აღასრულო.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "უმჯობესია"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "აღუთქვა"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "ვიდრე აღუთქვა"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "აღასრულო"
+    }
+  ],
+  "timestamp": "2026-09-06T10:57:04.474815917Z",
+  "model": "glm-5.3"
+}

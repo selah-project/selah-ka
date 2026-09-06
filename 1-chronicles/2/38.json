@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და შვა ოვედმა ⟨את⟩ იეჰუ, და შვა იეჰუმა ⟨את⟩ აზარია.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "და ოვედმა"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იეჰუ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "იეჰუ"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "და იეჰუმა"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "აზარია"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "აზარია"
+    }
+  ],
+  "timestamp": "2026-09-06T11:26:05.114237337Z",
+  "model": "glm-5.3"
+}

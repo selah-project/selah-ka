@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 28:20",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 28,
+  "translation": "და იყო იაჰვეს სიტყვა ჩემდამი, მეტყველი:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "და იყო"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემდამი"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "მეტყველად"
+    }
+  ],
+  "timestamp": "2026-09-06T08:51:32.235227148Z",
+  "model": "glm-5.3"
+}

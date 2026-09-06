@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-kings 22:48",
+  "book": "1-kings",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "და მეფე ⟨არ იყო⟩ ედომში; ნაცვალი დგა მეფედ.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "და მეფე"
+    },
+    {
+      "surface": "אין",
+      "gloss": "არ"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "ედომში"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "დგას"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    }
+  ],
+  "timestamp": "2026-09-06T13:00:25.266578003Z",
+  "model": "glm-5.3"
+}

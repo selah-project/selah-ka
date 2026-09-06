@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 121,
+  "translation": "აჰა, არ მიეძინება და არ ჩაეძინება იშრაელის მცველი.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "მიეძინება"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არა"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "ჩაეძინება"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "მცველი"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:09:54.046875178Z",
+  "model": "glm-5.3"
+}

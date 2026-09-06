@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "ისმინეთ და ყური მოაქციეთ; არ განმაღლდეთ, რადგან იაჰვემ თქვა.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ისმინეთ"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "და ყური მოაქციეთ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תגבהו",
+      "gloss": "განმაღლდეთ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "თქვა"
+    }
+  ],
+  "timestamp": "2026-09-06T13:19:40.950323244Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 24:18",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "ოცდასამი დელაიაჰუს, ოცდაოთხი მააზიაჰუს.",
+  "tokens": [
+    {
+      "surface": "לדליהו",
+      "gloss": "დელაიაჰუ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "სამი"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "და ოცი"
+    },
+    {
+      "surface": "למעזיהו",
+      "gloss": "მააზიაჰუ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ოთხი"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "და ოცი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:37:41.444289962Z",
+  "model": "glm-5.3"
+}

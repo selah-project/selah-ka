@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "რა მოგება აქვს მოქმედს იმაში, რაშიც იგი შრომობს?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "მოგება"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "მოქმედს"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "რაშიც"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "იგი"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "შრომობს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:55:54.705266760Z",
+  "model": "glm-5.3"
+}

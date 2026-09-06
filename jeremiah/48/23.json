@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 48:23",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 48,
+  "translation": "და კირიათაიმს, და ბეთ გამულს, და ბეთ მეონს.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "და ზე"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "კირიათაიმი"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "და ზე"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ბეთ"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "გამული"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "და ზე"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ბეთ"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "მეონი"
+    }
+  ],
+  "timestamp": "2026-09-06T08:28:06.971615089Z",
+  "model": "glm-5.3"
+}

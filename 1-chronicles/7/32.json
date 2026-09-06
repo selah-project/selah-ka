@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "და ხებერმა შვა ⟨את⟩ იაფლეტი, და ⟨את⟩ შომერი, და ⟨את⟩ ხოთამი, და ⟨את⟩ შუა, მათი და.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "და ხებერი"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იაფლეტი"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "იაფლეტი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "შომერი"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "შომერი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ხოთამი"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "ხოთამი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "შუა"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "შუა"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "მათი და"
+    }
+  ],
+  "timestamp": "2026-09-06T11:30:20.435939811Z",
+  "model": "glm-5.3"
+}

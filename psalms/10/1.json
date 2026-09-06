@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "რატომ, იაჰვე, დგახარ შორს? რატომ იმალები ჭირის ჟამებში?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "რატომ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "დგახარ"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "შორს"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "იმალები"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "ჟამებში"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "ჭირის"
+    }
+  ],
+  "timestamp": "2026-09-06T09:34:23.207088824Z",
+  "model": "glm-5.3"
+}

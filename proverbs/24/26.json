@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 24:26",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "ბაგეებს აკოცებს ⟨ის⟩, ვინც პასუხობს სწორ სიტყვებს.",
+  "tokens": [
+    {
+      "surface": "שפתים",
+      "gloss": "ბაგეები"
+    },
+    {
+      "surface": "ישק",
+      "gloss": "აკოცებს"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "პასუხის მომგები"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "სიტყვები"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "სწორი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:25:44.282670470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "არ შეჰკრა მათთან და მათს ღმერთებთან ბრითი.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "შეჰკრა (ამოიჭრა)"
+    },
+    {
+      "surface": "להם",
+      "gloss": "მათთან"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "და მათს ღმერთებთან"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ბრითი"
+    }
+  ],
+  "timestamp": "2026-09-06T15:34:32.004238723Z",
+  "model": "glm-5.3"
+}

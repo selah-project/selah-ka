@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 11:26",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "და იეშუაში, და მოლადაში, და ბეით ფალეთში.",
+  "tokens": [
+    {
+      "surface": "ובישוע",
+      "gloss": "და იეშუაში"
+    },
+    {
+      "surface": "ובמולדה",
+      "gloss": "და მოლადაში"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "და ბეით-"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "ფალეთ"
+    }
+  ],
+  "timestamp": "2026-09-06T16:37:50.511615501Z",
+  "model": "glm-5.3"
+}

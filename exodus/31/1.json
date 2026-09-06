@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 31:1",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 31,
+  "translation": "და იტყვინა იაჰვემ მოშეს (მოსე) თქმად:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "იტყვინა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "თქმად"
+    }
+  ],
+  "timestamp": "2026-09-06T04:28:29.416779142Z",
+  "model": "glm-5.3"
+}

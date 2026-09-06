@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 11:43",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "ხანან მაახას ძე და იოშაფატ მითნელი,",
+  "tokens": [
+    {
+      "surface": "חנן",
+      "gloss": "ხანან"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "მაახა"
+    },
+    {
+      "surface": "ויושפט",
+      "gloss": "და იოშაფატ"
+    },
+    {
+      "surface": "המתני",
+      "gloss": "მითნელი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:30:24.128906016Z",
+  "model": "glm-5.3"
+}

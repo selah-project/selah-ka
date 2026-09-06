@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "და იეჰონათანის ძე იყო მერივ-ბაალი; და მერივ-ბაალმა შვა ⟨את⟩ მიქა.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "და ძე"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "იეჰონათანის"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "მერივ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ბაალი"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "და მერივ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ბაალმა"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მიქა"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "მიქა"
+    }
+  ],
+  "timestamp": "2026-09-06T16:39:36.407276613Z",
+  "model": "glm-5.3"
+}

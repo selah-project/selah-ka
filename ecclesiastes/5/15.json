@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "და ესეც ⟨არის⟩ სნეული უკეთურება: სრულიად, როგორც თან მოვიდა, ისე წავლის; და რა მოგება აქვს მას, რომ ქარისთვის იშრომოს?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "და აგრეთვე"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "უკეთურება"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "სნეული"
+    },
+    {
+      "surface": "כל",
+      "gloss": "სრულიად"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "თანა"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "მოვიდა"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ისე"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "წავლის"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "და რა"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "მოგება"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "რომ იშრომოს"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "ქარისთვის"
+    }
+  ],
+  "timestamp": "2026-09-06T18:42:06.900736227Z",
+  "model": "glm-5.3"
+}

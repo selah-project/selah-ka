@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 13:8",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "განა მის სახეს ასწევთ, თუ ელისთვის დავაობთ?",
+  "tokens": [
+    {
+      "surface": "הפניו",
+      "gloss": "განა მის სახეს"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "ასწევთ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ელისთვის"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "დავაობთ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:34:18.199772787Z",
+  "model": "glm-5.3"
+}

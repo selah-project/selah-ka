@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "ვერ შევძლებ მე მარტო ⟨את⟩ ამ მთელი ხალხის ტევას, რადგან მძიმე ⟨არის⟩ ის ჩემზე.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "შევძლებ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "მარტო"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ტევა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ამ მთელი ხალხი"
+    },
+    {
+      "surface": "כל",
+      "gloss": "მთელი"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "მძიმე"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ჩემზე"
+    }
+  ],
+  "timestamp": "2026-09-06T05:07:55.455928956Z",
+  "model": "glm-5.3"
+}

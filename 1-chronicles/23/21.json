@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 23:21",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "მერარის შვილნი: მახლი და მუში; მახლის შვილნი: ელაზარი და კიში.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილნი"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "მერარის"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "მახლი"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "და მუში"
+    },
+    {
+      "surface": "בני",
+      "gloss": "შვილნი"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "მახლის"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ელაზარი"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "და კიში"
+    }
+  ],
+  "timestamp": "2026-09-06T11:38:05.858864329Z",
+  "model": "glm-5.3"
+}

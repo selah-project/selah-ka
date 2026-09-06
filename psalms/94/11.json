@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 94,
+  "translation": "იაჰვე იცის კაცის ზრახვები, რომ ისინი ⟨არიან⟩ ამაოება.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "იცის"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "ზრახვები"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ისინი"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ამაოება"
+    }
+  ],
+  "timestamp": "2026-09-06T14:11:48.216614118Z",
+  "model": "glm-5.3"
+}

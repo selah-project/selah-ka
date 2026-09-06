@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 35,
+  "translation": "შეიპყარ ფარი და შუალედი, და აღდეგ ჩემს შესაწევნად.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "შეიპყარ"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ფარი"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "და შუალედი"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "და აღდეგ"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "ჩემს შესაწევნად"
+    }
+  ],
+  "timestamp": "2026-09-06T09:41:32.627543713Z",
+  "model": "glm-5.3"
+}

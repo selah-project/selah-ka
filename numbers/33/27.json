@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 33:27",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 33,
+  "translation": "დაიძრნენ თახათიდან და დაბანაკდნენ თარახში.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "დაიძრნენ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "თახათი"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "დაბანაკდნენ"
+    },
+    {
+      "surface": "בתרח",
+      "gloss": "თარახში"
+    }
+  ],
+  "timestamp": "2026-09-06T05:20:15.272420499Z",
+  "model": "glm-5.3"
+}

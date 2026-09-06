@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 44,
+  "translation": "და დაეწია მათ და ელაპარაკა მათ ⟨את⟩ ⟨ამ⟩ სიტყვები.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "და დაეწია მათ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "და ელაპარაკა"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "მათ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "სიტყვები"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "სიტყვები"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ეს"
+    }
+  ],
+  "timestamp": "2026-09-06T04:06:38.016875656Z",
+  "model": "glm-5.3"
+}

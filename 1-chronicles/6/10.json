@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "და შვილნი ელკანაჰისა (ელკანა): ამასაი და ახიმოთი.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "და შვილნი"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ელკანაჰი (ელკანა)"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "ამასაი"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "და ახიმოთი"
+    }
+  ],
+  "timestamp": "2026-09-06T18:47:19.722493399Z",
+  "model": "glm-5.3"
+}

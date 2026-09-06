@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 5:22",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "ვინაიდგან სრულიად უარგვყარი, ძალიან გაგვნერჩივრდი.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ვინაიდგან"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ნამდვილად"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "სრულიად"
+    },
+    {
+      "surface": "מאסתנו",
+      "gloss": "უარგვყარი"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "გაგვნერჩივრდი"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ჩვენზე"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ვიდრე"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "უკიდურესად"
+    }
+  ],
+  "timestamp": "2026-09-06T10:55:01.819316052Z",
+  "model": "glm-5.3"
+}

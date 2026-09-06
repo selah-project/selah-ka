@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "როგორც ეკალი ადის მთვრალის ხელში, ისე ⟨არის⟩ იგავი უგუნურთა პირში.",
+  "tokens": [
+    {
+      "surface": "חוח",
+      "gloss": "ეკალი"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ადის"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ხელი"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "მთვრალი"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "და იგავი"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "პირი"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "უგუნურნი"
+    }
+  ],
+  "timestamp": "2026-09-06T14:28:32.609122635Z",
+  "model": "glm-5.3"
+}

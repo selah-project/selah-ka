@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 1:52",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "მთავარი ოჰოლიბამა, მთავარი ელა, მთავარი ფინონი.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "მთავარი"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "ოჰოლიბამა"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "მთავარი"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ელა"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "მთავარი"
+    },
+    {
+      "surface": "פינן",
+      "gloss": "ფინონი"
+    }
+  ],
+  "timestamp": "2026-09-06T15:04:49.289587228Z",
+  "model": "glm-5.3"
+}

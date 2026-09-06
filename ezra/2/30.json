@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezra 2:30",
+  "book": "ezra",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "შვილნი მაგბიშისი — ასი ორმოცდაათი და ექვსი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილნი"
+    },
+    {
+      "surface": "מגביש",
+      "gloss": "მაგბიში"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ორმოცდაათი"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "და ექვსი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:13:17.657737940Z",
+  "model": "glm-5.3"
+}

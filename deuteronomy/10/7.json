@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 10:7",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "იქიდან იმოგზაურეს გუდგოდაში; და გუდგოდიდან — იოთბათაში, ღელეების წყლის მიწა.",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "იქიდან"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "იმოგზაურეს"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "გუდგოდა"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "და –დან"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "გუდგოდა"
+    },
+    {
+      "surface": "יטבתה",
+      "gloss": "იოთბათა"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "ღელეების"
+    },
+    {
+      "surface": "מים",
+      "gloss": "წყლის"
+    }
+  ],
+  "timestamp": "2026-09-06T05:28:19.286532401Z",
+  "model": "glm-5.3"
+}

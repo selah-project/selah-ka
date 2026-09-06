@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 1:42",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "ძენი ეცერისა: ბილჰანი და ზაავანი და იააკანი — ძენი დიშონისა: უცი და არანი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "ეცერის"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "ბილჰანი"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "და ზაავანი"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "იააკანი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "დიშონის"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "უცი"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "და არანი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:25:28.018179590Z",
+  "model": "glm-5.3"
+}

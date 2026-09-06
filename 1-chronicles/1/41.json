@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 1:41",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "ძენი ანაჰისა: დიშონი; და ძენი დიშონისა: ხამრანი და ეშბანი და ითრანი და ქერანი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ანაჰი"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "დიშონი"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "და ძენი"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "დიშონის"
+    },
+    {
+      "surface": "חמרן",
+      "gloss": "ხამრანი"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "და ეშბანი"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "და ითრანი"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "და ქერანი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:25:28.017935684Z",
+  "model": "glm-5.3"
+}

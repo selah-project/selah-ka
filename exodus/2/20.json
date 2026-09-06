@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და თქვა თავის ასულებს: და სად ⟨არის⟩ ის? რატომ დატოვეთ ⟨את⟩ კაცი? მოიხმენით ის, და ჭამდეს პურს.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "ასულები"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "სად"
+    },
+    {
+      "surface": "למה",
+      "gloss": "რატომ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "დატოვეთ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "კაცი"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "მოიხმენით"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ჭამდეს"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "პური"
+    }
+  ],
+  "timestamp": "2026-09-06T04:11:11.198476365Z",
+  "model": "glm-5.3"
+}

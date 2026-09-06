@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და ახლა — თქვენთვის ⟨არის⟩ ეს მცნება, მღვდლებო.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "და ახლა"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "თქვენთვის"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "მცნება"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "მღვდლებო"
+    }
+  ],
+  "timestamp": "2026-09-06T16:18:38.345920921Z",
+  "model": "glm-5.3"
+}

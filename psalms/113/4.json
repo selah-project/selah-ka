@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 113,
+  "translation": "მაღალი ⟨არის⟩ იაჰვე ყველა ხალხზე, მისი დიდება — ცათა ზემოთ.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "მაღალი"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზემოთ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ხალხზე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზემოთ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ცათა"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "მისი დიდება"
+    }
+  ],
+  "timestamp": "2026-09-06T10:04:59.949747484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "რჩეული ვერცხლი ⟨არის⟩ მართლის ენა, ბოროტთა გული კი — უღირსი.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "ვერცხლი"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "რჩეული"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ენა"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "მართალი"
+    },
+    {
+      "surface": "לב",
+      "gloss": "გული"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ბოროტთა"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "უღირსი"
+    }
+  ],
+  "timestamp": "2026-09-06T17:04:21.621851898Z",
+  "model": "glm-5.3"
+}

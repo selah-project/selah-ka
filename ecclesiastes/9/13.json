@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "ასევე ეს ვიხილე: სიბრძნე მზის ქვეშ, და დიდი ⟨არის⟩ ის ჩემთვის.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ასევე"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ვიხილე"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "სიბრძნე"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ქვეშ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "მზე"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "და დიდი"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემთვის"
+    }
+  ],
+  "timestamp": "2026-09-06T10:58:12.749172359Z",
+  "model": "glm-5.3"
+}

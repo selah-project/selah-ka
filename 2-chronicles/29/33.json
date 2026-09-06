@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-chronicles 29:33",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 29,
+  "translation": "ხოლო კურთხეული მსხვერპლნი ⟨არის⟩: ხარები ექვსასი და ცხვრები სამი ათასი.",
+  "tokens": [
+    {
+      "surface": "והקדשים",
+      "gloss": "კურთხეული მსხვერპლნი"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ხარები"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ექვსი"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "და ცხვრები"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "სამი"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ათასი"
+    }
+  ],
+  "timestamp": "2026-09-06T15:21:26.932803238Z",
+  "model": "glm-5.3"
+}

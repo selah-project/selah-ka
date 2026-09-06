@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "უარყო იშრაელმა სიკეთე; მტერი დაედევნება მას.",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "უარყო"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "სიკეთე"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "მტერი"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "დაედევნება"
+    }
+  ],
+  "timestamp": "2026-09-06T09:08:09.421408507Z",
+  "model": "glm-5.3"
+}

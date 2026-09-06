@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 139,
+  "translation": "რადგან სიტყვა არ ⟨არის⟩ ჩემს ენაზე — აჰა, იაჰვე, შენ იცი მთელი ⟨მას⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "אין",
+      "gloss": "არ"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "ჩემს ენაზე"
+    },
+    {
+      "surface": "הן",
+      "gloss": "აჰა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "იცი"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "მთელი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:12:56.926030122Z",
+  "model": "glm-5.3"
+}

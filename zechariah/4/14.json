@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 4:14",
+  "book": "zechariah",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და თქვა: ესენი ⟨არიან⟩ ორნი იცჰარის ძენი, რომლებიც დგანან მთელი მიწის ადონის მიმართ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ესენი"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ორნი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "იცჰარი"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "მდგომნი"
+    },
+    {
+      "surface": "על",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "ადონი"
+    },
+    {
+      "surface": "כל",
+      "gloss": "მთელი"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    }
+  ],
+  "timestamp": "2026-09-06T09:23:21.845607991Z",
+  "model": "glm-5.3"
+}

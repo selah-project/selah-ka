@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 10:22",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "იაჰვეს კურთხევა ⟨ის⟩ ამდიდრებს, და არ დაუმატებს მასთან ტანჯვას.",
+  "tokens": [
+    {
+      "surface": "ברכת",
+      "gloss": "კურთხევა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "ამდიდრებს"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "დაუმატებს"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "ტანჯვა"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "მასთან"
+    }
+  ],
+  "timestamp": "2026-09-06T14:22:09.765419330Z",
+  "model": "glm-5.3"
+}

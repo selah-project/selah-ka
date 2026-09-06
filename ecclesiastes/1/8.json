@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "ყველა სიტყვა დაღლილი ⟨არის⟩; ვერ შეძლებს კაცი საუბრად; ვერ გაძღება თვალი ხედვით და ვერ აივსება ყური მოსმენით.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "დაღლილი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "შეძლებს"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "საუბრად"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ვერ"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "გაძღება"
+    },
+    {
+      "surface": "עין",
+      "gloss": "თვალი"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ხედვით"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და ვერ"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "აივსება"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ყური"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "მოსმენით"
+    }
+  ],
+  "timestamp": "2026-09-06T10:56:47.449793854Z",
+  "model": "glm-5.3"
+}

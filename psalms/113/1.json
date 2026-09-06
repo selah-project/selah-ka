@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 113,
+  "translation": "ადიდეთ იაჰ! ადიდეთ, იაჰვეს მსახურნო, ადიდეთ ⟨את⟩ სახელი იაჰვესი!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ადიდეთ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "იაჰ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ადიდეთ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "მსახურნო"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ადიდეთ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "სახელი"
+    },
+    {
+      "surface": "שם",
+      "gloss": "სახელი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:04:59.949332662Z",
+  "model": "glm-5.3"
+}

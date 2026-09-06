@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 40,
+  "translation": "და დადგამ ⟨את⟩ ეზოს ირგვლივ, და დაჰკიდებ ⟨את⟩ ფარდაგს ეზოს კარისას.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "და დადგამ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ეზოს"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ეზო"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ირგვლივ"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "და დაჰკიდებ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ფარდაგს"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ფარდაგი"
+    },
+    {
+      "surface": "שער",
+      "gloss": "კარი"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ეზო"
+    }
+  ],
+  "timestamp": "2026-09-06T12:18:01.117320867Z",
+  "model": "glm-5.3"
+}

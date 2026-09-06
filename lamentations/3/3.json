@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "ჭეშმარიტად ჩემს წინააღმდეგ აბრუნებს, ატრიალებს მის ხელს მთელ დღეს.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ჭეშმარიტად"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ჩემს წინააღმდეგ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "აბრუნებს"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "ატრიალებს"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "მის ხელს"
+    },
+    {
+      "surface": "כל",
+      "gloss": "მთელ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "დღეს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:52:56.539929622Z",
+  "model": "glm-5.3"
+}

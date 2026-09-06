@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 77,
+  "translation": "გადავათვალე დღეები უწინდელნი, წლები საუკუნეთა.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "გადავათვალე"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "დღეები"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "უწინდელნი"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "წლები"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "საუკუნეთა"
+    }
+  ],
+  "timestamp": "2026-09-06T09:53:22.616392645Z",
+  "model": "glm-5.3"
+}

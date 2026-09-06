@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 7:32",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ბეით-ელისა და ჰაყის კაცები — ას ოცდასამი.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "კაცები"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ბეით-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ელი"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "და ჰაყი"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ოცი"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "და სამი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:21:46.117577848Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 22:13",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "თუ იღებს კაცი ცოლს და შევა მასთან და შეიძულებს მას.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "იღებს"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ცოლი"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "და შევა"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "მასთან"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "და შეიძულებს მას"
+    }
+  ],
+  "timestamp": "2026-09-06T05:37:44.239761594Z",
+  "model": "glm-5.3"
+}

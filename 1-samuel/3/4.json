@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "და იხმო იაჰვემ შმუელს, და მან თქვა: აი, მე.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "იხმო"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვემ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "შმუელს"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "აი, მე"
+    }
+  ],
+  "timestamp": "2026-09-06T06:15:33.312658921Z",
+  "model": "glm-5.3"
+}

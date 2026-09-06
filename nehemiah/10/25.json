@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 10:25",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "ჰალოხეში, ფილხა, შოვეკი,",
+  "tokens": [
+    {
+      "surface": "הלוחש",
+      "gloss": "ჰალოხეში"
+    },
+    {
+      "surface": "פלחא",
+      "gloss": "ფილხა"
+    },
+    {
+      "surface": "שובק",
+      "gloss": "შოვეკი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:23:14.476984834Z",
+  "model": "glm-5.3"
+}

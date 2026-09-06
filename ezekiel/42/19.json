@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 42,
+  "translation": "შემოიხვია ზღვის მხარისკენ, განზომა: ხუთასი ლერწამი, საზომი ლერწამით.",
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "შემოიხვია"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მხარისკენ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "მხარე"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ზღვის"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "განზომა"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ხუთ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "ლერწამი"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "ლერწამით"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "საზომი"
+    }
+  ],
+  "timestamp": "2026-09-06T08:59:31.001364970Z",
+  "model": "glm-5.3"
+}

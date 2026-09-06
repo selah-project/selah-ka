@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 26:19",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "ასე ⟨არის⟩ კაცი, რომელიც ატყუებს ⟨את⟩ თავის ახლობელს და ამბობს: განა არა ვთამაშობ მე?",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "ატყუებს"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ახლობელს"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ახლობელს"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "და ამბობს"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "განა არა"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "ვთამაშობ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    }
+  ],
+  "timestamp": "2026-09-06T17:25:44.958727753Z",
+  "model": "glm-5.3"
+}

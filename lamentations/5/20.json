@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "რატომ სამარადისოდ დაგვივიწყებ, მიგვატოვებ დღეთა სიგრძედ?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "რატომ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "სამარადისოდ"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "დაგვივიწყებ"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "მიგვატოვებ"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "სიგრძედ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "დღეთა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:55:01.341750515Z",
+  "model": "glm-5.3"
+}

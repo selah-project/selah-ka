@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "lamentations 3:61",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "მოისმინე იაჰვე ⟨ო⟩ მათი შეურაცხყოფა: ყველა მათი ზრახვა ჩემს წინააღმდეგ.",
+  "tokens": [
+    {
+      "surface": "שמעת",
+      "gloss": "მოისმინე"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "მათი შეურაცხყოფა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "მათი ზრახვა"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ჩემს წინააღმდეგ"
+    }
+  ],
+  "timestamp": "2026-09-06T14:47:56.493323225Z",
+  "model": "glm-5.3"
+}

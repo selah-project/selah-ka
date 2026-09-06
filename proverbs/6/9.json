@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "როდემდე, ზარმაცო, დაწვები წონასწარმატებული? როდემდე ადგები შენს ძილისგან?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "როდემდე"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "როდემდე"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ზარმაცო"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "დაწვები"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "როდემდე"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ადგები"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "შენი ძილი"
+    }
+  ],
+  "timestamp": "2026-09-06T17:23:32.970560377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 16,
+  "translation": "არ შეგიძლია დაკლა ⟨את⟩ პესახი არცერთ ბჭეში შენსა, რომელსაც იაჰვე, შენი ელოჰიმი, მოგცემს შენ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "შეგიძლია"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "დაკლა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "პესახი"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "პესახი"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ერთში"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "შენს ბჭეში"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელსაც"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "შენი ელოჰიმი"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "მოგცემს"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენ"
+    }
+  ],
+  "timestamp": "2026-09-06T05:32:16.939322307Z",
+  "model": "glm-5.3"
+}

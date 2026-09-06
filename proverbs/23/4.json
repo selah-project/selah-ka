@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 23:4",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "ნუ ამოიფიტებ გასამდიდრებლად; შენი გონებიდან მოერიდე.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "תיגע",
+      "gloss": "ამოიფიტებ"
+    },
+    {
+      "surface": "להעשיר",
+      "gloss": "გასამდიდრებლად"
+    },
+    {
+      "surface": "מבינתך",
+      "gloss": "შენი გონებიდან"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "მოერიდე"
+    }
+  ],
+  "timestamp": "2026-09-06T14:27:27.033528534Z",
+  "model": "glm-5.3"
+}

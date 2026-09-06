@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 27,
+  "translation": "კარგი ⟨არის⟩ გახსნილი მხილება ვიდრე დამალული სიყვარული.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "კარგი"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "მხილება"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "გახსნილი"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "სიყვარული"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "დამალული"
+    }
+  ],
+  "timestamp": "2026-09-06T10:27:36.387300288Z",
+  "model": "glm-5.3"
+}

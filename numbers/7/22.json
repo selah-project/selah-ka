@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 7:22",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ერთი თხის ტახი ცოდვის შესაწირავად.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ტახი"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "თხის"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ცოდვის შესაწირავად"
+    }
+  ],
+  "timestamp": "2026-09-06T17:18:13.433167075Z",
+  "model": "glm-5.3"
+}

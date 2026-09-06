@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 7:4",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "და ავიდნენ ხალხიდან იქ სამი ათასივით კაცი, და გაიქცნენ აის კაცების წინაშე.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "ავიდნენ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "–დან"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "იქ"
+    },
+    {
+      "surface": "כשלשת",
+      "gloss": "სამივით"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ათასი"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "გაიქცნენ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "წინაშე"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "კაცები"
+    },
+    {
+      "surface": "העי",
+      "gloss": "აის"
+    }
+  ],
+  "timestamp": "2026-09-06T05:50:46.607769384Z",
+  "model": "glm-5.3"
+}

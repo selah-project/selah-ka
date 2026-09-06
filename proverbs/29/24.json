@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 29:24",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 29,
+  "translation": "მპარავთან გამყოფი სძულს ⟨თავის⟩ სულს; წყევლას მოისმენს და არ გამოაცხადებს.",
+  "tokens": [
+    {
+      "surface": "חולק",
+      "gloss": "მგამყოფი"
+    },
+    {
+      "surface": "עם",
+      "gloss": "თან"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "მპარავი"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "სძულს"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "მისი სული"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "წყევლა"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "მოისმენს"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "გამოაცხადებს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:27:54.304120739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 1:32",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და ამ სიტყვაში არ ხართ მორწმუნენი იაჰვეში, თქვენს ელოჰიმში.",
+  "tokens": [
+    {
+      "surface": "ובדבר",
+      "gloss": "და ამ სიტყვაში"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "არ ხართ"
+    },
+    {
+      "surface": "מאמינם",
+      "gloss": "მორწმუნენი"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "იაჰვეში"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "თქვენი ელოჰიმი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:30:43.071360308Z",
+  "model": "glm-5.3"
+}

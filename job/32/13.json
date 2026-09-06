@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 32:13",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 32,
+  "translation": "რომ არ თქვათ: ვიპოვეთ სიბრძნე; ელი განდევნის მას — არა კაცი.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "რომ არ"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "თქვათ"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "ვიპოვეთ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "სიბრძნე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ელი"
+    },
+    {
+      "surface": "ידפנו",
+      "gloss": "განდევნის მას"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    }
+  ],
+  "timestamp": "2026-09-06T14:38:16.856917425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 9:43",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "და მოცამ შვა ⟨את⟩ ბინეა — რეფაია მისი ძე, ელასა მისი ძე, აცელ მისი ძე.",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "და მოცა"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ბინეა"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "ბინეა"
+    },
+    {
+      "surface": "ורפיה",
+      "gloss": "და რეფაია"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი ძე"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "ელასა"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი ძე"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "აცელ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი ძე"
+    }
+  ],
+  "timestamp": "2026-09-06T11:31:21.849430170Z",
+  "model": "glm-5.3"
+}

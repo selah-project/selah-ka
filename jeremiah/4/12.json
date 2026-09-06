@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "სავსე ქარი ამათგან მოვა ჩემთან; ახლა კი მეც ვიტყვი სამართალს ⟨את⟩ მათზე.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ქარი"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "სავსე"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ამათგან"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "მოვა"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ჩემთან"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ახლა"
+    },
+    {
+      "surface": "גם",
+      "gloss": "კი"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მეც"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ვიტყვი"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "სამართალს"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "მათზე"
+    }
+  ],
+  "timestamp": "2026-09-06T08:01:05.624667184Z",
+  "model": "glm-5.3"
+}

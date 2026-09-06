@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 17:9",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 17,
+  "translation": "მზაკვარი ⟨არის⟩ გული ყოვლის ზემოთ და განუკურნებელი ის; ვინ შეიცნობს მას?",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "მზაკვარი"
+    },
+    {
+      "surface": "הלב",
+      "gloss": "გული"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ყოვლის ზემოთ"
+    },
+    {
+      "surface": "ואנש",
+      "gloss": "და განუკურნებელი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "შეიცნობს მას"
+    }
+  ],
+  "timestamp": "2026-09-06T16:07:04.460217468Z",
+  "model": "glm-5.3"
+}

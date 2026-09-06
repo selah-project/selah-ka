@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 13:4",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "და ესენი მათი სახელები: რეუბენის თემიდან — შამუა, ზაქურის ძე.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "და ესენი"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "სახელები მათი"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "თემისთვის"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "რეუბენი"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "შამუა"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "ზაქური"
+    }
+  ],
+  "timestamp": "2026-09-06T05:07:38.632084616Z",
+  "model": "glm-5.3"
+}

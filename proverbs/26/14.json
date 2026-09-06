@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "კარი ბრუნავს თავის იხსარზე, და ზარმაცი — თავის საწოლზე.",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "კარი"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "ბრუნავს"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "თავისი იხსარი"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "და ზარმაცი"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "თავისი საწოლი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:26:40.886792705Z",
+  "model": "glm-5.3"
+}

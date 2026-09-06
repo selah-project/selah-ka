@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 1:36",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "ელიფაზის ძენი: თემანი, ომარი, ცეფი, გათამი, კენაზი, თიმნა და ამალეკი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ელიფაზი"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "თემანი"
+    },
+    {
+      "surface": "ואומר",
+      "gloss": "და ომარი"
+    },
+    {
+      "surface": "צפי",
+      "gloss": "ცეფი"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "და გათამი"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "კენაზი"
+    },
+    {
+      "surface": "ותמנע",
+      "gloss": "და თიმნა"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "და ამალეკი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:26:12.652968592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "არ შეჭამ მას; მიწაზე დაღვრი მას, როგორც წყალი.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "შეჭამ მას"
+    },
+    {
+      "surface": "על",
+      "gloss": "მიწაზე"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "დაღვრი მას"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "როგორც წყალი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:30:35.304133568Z",
+  "model": "glm-5.3"
+}

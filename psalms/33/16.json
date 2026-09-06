@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 33,
+  "translation": "არ გადარჩება მეფე დიდი ლაშქრით; გმირი არ იხსნება დიდი ძალით.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "არ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "გადარჩება"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "სიმრავლით"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ლაშქარი"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "გმირი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "იხსნება"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "სიმრავლით"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ძალა"
+    }
+  ],
+  "timestamp": "2026-09-06T18:36:35.612020478Z",
+  "model": "glm-5.3"
+}

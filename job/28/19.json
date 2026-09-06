@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 28:19",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 28,
+  "translation": "ვერ გაუტოლდება ქუშის ტოპაზი, სუფთა ოქროთი ვერ შეფასდება.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יערכנה",
+      "gloss": "გაუტოლდება"
+    },
+    {
+      "surface": "פטדת",
+      "gloss": "ტოპაზი"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ქუში"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "ოქროთი"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "სუფსუთი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תסלה",
+      "gloss": "შეფასდება"
+    }
+  ],
+  "timestamp": "2026-09-06T10:40:21.598438365Z",
+  "model": "glm-5.3"
+}

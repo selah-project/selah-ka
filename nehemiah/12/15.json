@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 12:15",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "ხარიმისა ⟨არის⟩ ადნა, მერაიოთისისა — ხელქაი.",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "ხარიმისა"
+    },
+    {
+      "surface": "עדנא",
+      "gloss": "ადნა"
+    },
+    {
+      "surface": "למריות",
+      "gloss": "მერაიოთისისა"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "ხელქაი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:24:00.454654807Z",
+  "model": "glm-5.3"
+}

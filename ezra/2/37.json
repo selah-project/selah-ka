@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 2:37",
+  "book": "ezra",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "იმერის ძენი — ათასი ორმოცდათორმეტი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "იმერის"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ათასი"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ორმოცდაათი"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ორი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:13:30.639272313Z",
+  "model": "glm-5.3"
+}

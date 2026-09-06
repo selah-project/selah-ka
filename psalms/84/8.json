@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 84,
+  "translation": "ივლიან ძალიდან ძალამდე; გამოჩნდება ⟨ისინი⟩ ელოჰიმის წინაშე ციონში.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "ივლიან"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "ძალიდან"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მდე"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ძალა"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "გამოჩნდება"
+    },
+    {
+      "surface": "אל",
+      "gloss": "წინაშე"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ციონში"
+    }
+  ],
+  "timestamp": "2026-09-06T09:58:08.711571915Z",
+  "model": "glm-5.3"
+}

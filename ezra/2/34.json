@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 2:34",
+  "book": "ezra",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "იერიხოს შვილები — სამას ორმოცდახუთი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "იერიხო"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "სამი"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ორმოცი"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "და ხუთი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:13:09.924178659Z",
+  "model": "glm-5.3"
+}

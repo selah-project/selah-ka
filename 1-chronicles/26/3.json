@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 26:3",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "ეილამი მეხუთე, იეჰოხანანი მეექვსე, ელიჰოენაი მეშვიდე.",
+  "tokens": [
+    {
+      "surface": "עילם",
+      "gloss": "ეილამი"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "მეხუთე"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "იეჰოხანანი"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "მეექვსე"
+    },
+    {
+      "surface": "אליהועיני",
+      "gloss": "ელიჰოენაი"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "მეშვიდე"
+    }
+  ],
+  "timestamp": "2026-09-06T15:12:22.359070299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 10:39",
+  "book": "ezra",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "და შელემიაჰი, და ნატანი, და ადაიაჰი",
+  "tokens": [
+    {
+      "surface": "ושלמיה",
+      "gloss": "და შელემიაჰი"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "და ნატანი"
+    },
+    {
+      "surface": "ועדיה",
+      "gloss": "და ადაიაჰი"
+    }
+  ],
+  "timestamp": "2026-09-06T18:43:33.209657033Z",
+  "model": "glm-5.3"
+}

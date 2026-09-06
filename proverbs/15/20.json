@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 15:20",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "ბრძენი შვილი მამას ახარებს, და სულელი ადამიანი დედამისს უგულებელჰყოფს.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "შვილი"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ბრძენი"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ახარებს"
+    },
+    {
+      "surface": "אב",
+      "gloss": "მამა"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "და სულელი"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ადამიანი"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "უგულებელჰყოფს"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "დედამისს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:22:13.917767797Z",
+  "model": "glm-5.3"
+}

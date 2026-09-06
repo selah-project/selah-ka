@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "joshua 15:56",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "და იზრეელი და იოკდეამი და ზანოახი.",
+  "tokens": [
+    {
+      "surface": "ויזרעאל",
+      "gloss": "და იზრეელი"
+    },
+    {
+      "surface": "ויקדעם",
+      "gloss": "და იოკდეამი"
+    },
+    {
+      "surface": "וזנוח",
+      "gloss": "და ზანოახი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:53:53.684703773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 12:14",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "და აკეთა ბოროტი, რადგან არ მოუმზადებია გული თვისი მოსაძებნად ⟨את⟩ იაჰვე.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "აკეთა"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ბოროტი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "მოუმზადებია"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "გული თვისი"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "მოსაძებნად"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იაჰვე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T11:48:10.334375970Z",
+  "model": "glm-5.3"
+}

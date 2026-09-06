@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 16:2",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 16,
+  "translation": "არ მოიყვანო შენთვის ცოლი, და არ გეყოლებიან შენ ძენი და ასულნი ამ ადგილას.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "მოიყვანო"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენთვის"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ცოლი"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "გეყოლებიან"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "და ასულნი"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ამ ადგილას"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ეს"
+    }
+  ],
+  "timestamp": "2026-09-06T08:08:39.524335223Z",
+  "model": "glm-5.3"
+}

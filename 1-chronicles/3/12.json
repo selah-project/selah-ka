@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 3:12",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "ამაციაჰუ მისი ვაჟი, აზარია მისი ვაჟი, იოთამი მისი ვაჟი.",
+  "tokens": [
+    {
+      "surface": "אמציהו",
+      "gloss": "ამაციაჰუ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი ვაჟი"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "აზარია"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი ვაჟი"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "იოთამი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი ვაჟი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:27:23.255616346Z",
+  "model": "glm-5.3"
+}

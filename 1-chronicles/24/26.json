@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 24:26",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "მერარის შვილები ⟨იყვნენ⟩ მახლი და მუში; იაზიაჰუს შვილები — მისი შვილი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "მერარი"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "მახლი"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "და მუში"
+    },
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "יעזיהו",
+      "gloss": "იაზიაჰუ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი შვილი"
+    }
+  ],
+  "timestamp": "2026-09-06T18:48:05.362659153Z",
+  "model": "glm-5.3"
+}

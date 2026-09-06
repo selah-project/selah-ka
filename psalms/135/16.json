@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 135,
+  "translation": "პირი ⟨აქვთ⟩ და არ ლაპარაკობენ; თვალები ⟨აქვთ⟩ და არ ხედავენ.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "პირი"
+    },
+    {
+      "surface": "להם",
+      "gloss": "მათ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ლაპარაკობენ"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "თვალები"
+    },
+    {
+      "surface": "להם",
+      "gloss": "მათ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ხედავენ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:10:59.398678238Z",
+  "model": "glm-5.3"
+}

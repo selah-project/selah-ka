@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 26:13",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "თქვა ზარმაცმა: მბრდღენე ლომი ⟨არის⟩ გზაზე; ლომი — მოედნებს შორის.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ზარმაცი"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "მბრდღენე ლომი"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "გზაზე"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "ლომი"
+    },
+    {
+      "surface": "בין",
+      "gloss": "შორის"
+    },
+    {
+      "surface": "הרחבות",
+      "gloss": "მოედნები"
+    }
+  ],
+  "timestamp": "2026-09-06T10:26:40.886563188Z",
+  "model": "glm-5.3"
+}

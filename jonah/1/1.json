@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და იყო იაჰვეს სიტყვა იონას (იონა), ამიტაის ძის მიმართ, ასე რომ ეთქვა:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "და იყო"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "იონა"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "ამიტაი"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ასე რომ ეთქვა"
+    }
+  ],
+  "timestamp": "2026-09-06T09:16:56.266455596Z",
+  "model": "glm-5.3"
+}

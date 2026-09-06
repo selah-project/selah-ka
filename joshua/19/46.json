@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "joshua 19:46",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "და მე ჰაიარკონი და ჰარაკონი, საზღვრითურთ იაფოს პირისპირ.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "და მე"
+    },
+    {
+      "surface": "הירקון",
+      "gloss": "ჰაიარკონი"
+    },
+    {
+      "surface": "והרקון",
+      "gloss": "და ჰარაკონი"
+    },
+    {
+      "surface": "עם",
+      "gloss": "თანა"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "საზღვარი"
+    },
+    {
+      "surface": "מול",
+      "gloss": "პირისპირ"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "იაფო"
+    }
+  ],
+  "timestamp": "2026-09-06T05:56:00.253652263Z",
+  "model": "glm-5.3"
+}

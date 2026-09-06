@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და ⟨את⟩ იეუცი და ⟨את⟩ სქია და ⟨את⟩ მირმა — ესენი არიან მისი შვილები, მამათა თავები.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "იეუცი"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "იეუცი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "სქია"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "სქია"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "მირმა"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "მირმა"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ესენი"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "მისი შვილები"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "თავები"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "მამები"
+    }
+  ],
+  "timestamp": "2026-09-06T19:06:12.752488147Z",
+  "model": "glm-5.3"
+}

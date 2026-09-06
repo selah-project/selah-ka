@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 22:11",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "ეყვარება სიწმინდე გულისა — მადლიანი ბაგენი; მეგობარი მისი ⟨არის⟩ მეფე.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "უყვარს"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "სიწმინდე"
+    },
+    {
+      "surface": "לב",
+      "gloss": "გულისა"
+    },
+    {
+      "surface": "חן",
+      "gloss": "მადლი"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "მისი ბაგენი"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "მისი მეგობარი"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:24:01.491179771Z",
+  "model": "glm-5.3"
+}

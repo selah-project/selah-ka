@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 13:25",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "და დაბრუნდნენ ⟨ისინი⟩ მიწის დაზვერვიდან ორმოცი დღის ბოლოს.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "და დაბრუნდნენ"
+    },
+    {
+      "surface": "מתור",
+      "gloss": "დაზვერვა"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ბოლო"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ორმოცი"
+    },
+    {
+      "surface": "יום",
+      "gloss": "დღე"
+    }
+  ],
+  "timestamp": "2026-09-06T12:26:12.159325173Z",
+  "model": "glm-5.3"
+}

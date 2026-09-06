@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 4:21",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და თქვა იაჰვემ მოშეს (მოსე), რომ ეთქვა:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მოშეს"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "რომ ეთქვა"
+    }
+  ],
+  "timestamp": "2026-09-06T12:25:05.479183983Z",
+  "model": "glm-5.3"
+}

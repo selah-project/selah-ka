@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 25:16",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "მეცხრე — მათანიაჰუ, მისი ძენი და მისი ძმანი — თორმეტი.",
+  "tokens": [
+    {
+      "surface": "התשיעי",
+      "gloss": "მეცხრე"
+    },
+    {
+      "surface": "מתניהו",
+      "gloss": "მათანიაჰუ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "მისი ძენი"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "და მისი ძმანი"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ორი"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ათი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:37:37.731355496Z",
+  "model": "glm-5.3"
+}

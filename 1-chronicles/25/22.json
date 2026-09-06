@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 25:22",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "მეთხუთმეტე იერემოთისი, მისი ძენი და მისი ძმები — თორმეტი.",
+  "tokens": [
+    {
+      "surface": "לחמשה",
+      "gloss": "მეთხუთმეტე"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "მეთხუთმეტე"
+    },
+    {
+      "surface": "לירמות",
+      "gloss": "იერემოთი"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "მისი ძენი"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "და მისი ძმები"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "თორმეტი"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "თორმეტი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:37:20.686201977Z",
+  "model": "glm-5.3"
+}

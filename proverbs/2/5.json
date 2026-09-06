@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "მაშინ გაიგებ იაჰვეს შიშს, და ელოჰიმის ცოდნას იპოვნე.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "მაშინ"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "გაიგებ"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "შიში"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "და ცოდნა"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "იპოვნე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:15:44.917002815Z",
+  "model": "glm-5.3"
+}

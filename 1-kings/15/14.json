@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 15:14",
+  "book": "1-kings",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "და ბამოთი არ მოშორებია; მხოლოდ ასას გული იყო მთლიანი იაჰვესთან ყოველ დღეთა მისთა.",
+  "tokens": [
+    {
+      "surface": "והבמות",
+      "gloss": "და ბამოთი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "მოშორებია"
+    },
+    {
+      "surface": "רק",
+      "gloss": "მხოლოდ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "გული"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ასა"
+    },
+    {
+      "surface": "היה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "მთლიანი"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-თან"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყოველ"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "დღე მისი"
+    }
+  ],
+  "timestamp": "2026-09-06T07:05:16.652395352Z",
+  "model": "glm-5.3"
+}

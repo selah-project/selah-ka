@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 3:14",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "ამონი მისი შვილი, იოშიაჰუ მისი შვილი.",
+  "tokens": [
+    {
+      "surface": "אמון",
+      "gloss": "ამონი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი შვილი"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "იოშიაჰუ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი შვილი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:27:15.705841524Z",
+  "model": "glm-5.3"
+}

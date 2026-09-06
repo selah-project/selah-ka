@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 17:26",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 17,
+  "translation": "და აღასრულა მოშემ: როგორც ბრძანა იაჰვემ ⟨את⟩ მოშე, ისე აღასრულა.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "და აღასრულა"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "როგორც"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ბრძანა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "მოშე"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ისე"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "აღასრულა"
+    }
+  ],
+  "timestamp": "2026-09-06T12:28:07.036586577Z",
+  "model": "glm-5.3"
+}

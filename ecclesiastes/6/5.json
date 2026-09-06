@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "არც მზე უნახავს, არც იცის ⟨იგი⟩; მეტი სისვენე აქვს ამას, ვიდრე იმას.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "არც"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "მზე"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "უნახავს"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არც"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "იცის"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "სისვენე"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "ამას"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "იმას"
+    }
+  ],
+  "timestamp": "2026-09-06T10:58:31.584879911Z",
+  "model": "glm-5.3"
+}

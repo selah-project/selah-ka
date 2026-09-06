@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "შეწყდა სიხარული ჩვენი გულისა; შეიქცა გლოვად ჩვენი ცეკვა.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "შეწყდა"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "სიხარული"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ჩვენი გული"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "შეიქცა"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "გლოვად"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "ჩვენი ცეკვა"
+    }
+  ],
+  "timestamp": "2026-09-06T14:47:23.561197460Z",
+  "model": "glm-5.3"
+}

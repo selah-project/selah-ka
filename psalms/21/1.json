@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "ლოტბრისთვის; მზმორი დავიდისა (დავითის).",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ლოტბრისთვის"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "მზმორი"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "დავიდისა"
+    }
+  ],
+  "timestamp": "2026-09-06T09:37:10.792373935Z",
+  "model": "glm-5.3"
+}

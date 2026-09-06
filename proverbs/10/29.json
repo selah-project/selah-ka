@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 10:29",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "სიმაგრე წრფელისა — გზა იაჰვესი, და დაღუპვა ავის მოქმედთათვის.",
+  "tokens": [
+    {
+      "surface": "מעוז",
+      "gloss": "სიმაგრე"
+    },
+    {
+      "surface": "לתם",
+      "gloss": "წრფელისთვის"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "გზა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "ומחתה",
+      "gloss": "და დაღუპვა"
+    },
+    {
+      "surface": "לפעלי",
+      "gloss": "მოქმედთათვის"
+    },
+    {
+      "surface": "און",
+      "gloss": "ავის"
+    }
+  ],
+  "timestamp": "2026-09-06T10:19:18.632109568Z",
+  "model": "glm-5.3"
+}

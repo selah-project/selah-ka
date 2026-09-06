@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 22:2",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "ნუთუ ელს მოგებს კაცი, რადგან მოგებს მას ბრძენი?",
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "ნუთუ ელს"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "მოგებს"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "მოგებს"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ბრძენი"
+    }
+  ],
+  "timestamp": "2026-09-06T14:37:34.453597061Z",
+  "model": "glm-5.3"
+}

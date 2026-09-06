@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 29:5",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 29,
+  "translation": "მამაკაცი, რომელიც ქებით უმაგრულებს მეგობარს, ბადეს უგებს მის ნაბიჯებზე.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "მამაკაცი"
+    },
+    {
+      "surface": "מחליק",
+      "gloss": "უმაგრულებს"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "მეგობარი"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "ბადე"
+    },
+    {
+      "surface": "פורש",
+      "gloss": "უგებს"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "მისი ნაბიჯები"
+    }
+  ],
+  "timestamp": "2026-09-06T10:28:15.216813865Z",
+  "model": "glm-5.3"
+}

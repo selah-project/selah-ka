@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 24:2",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "და ჰყო იოაშმა სწორი იაჰვეს თვალებში ყველა დღე იეჰოიადა მღვდლისა.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "და ჰყო"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "იოაში"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "სწორი"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "თვალებში"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "იეჰოიადა"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "მღვდელი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:52:15.109018661Z",
+  "model": "glm-5.3"
+}

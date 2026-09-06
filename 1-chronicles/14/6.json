@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 14:6",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "და ნოგაჰი, და ნეფეგი, და იაფია.",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "ნოგაჰი"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "ნეფეგი"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "იაფია"
+    }
+  ],
+  "timestamp": "2026-09-06T11:32:44.475228770Z",
+  "model": "glm-5.3"
+}

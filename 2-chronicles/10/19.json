@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 10:19",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "და აუჯანყდა იშრაელი (ისრაელი) დავიდის სახლს ამ დღემდე.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "აუჯანყდა"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "სახლს"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "დავიდის"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ამ…მდე"
+    },
+    {
+      "surface": "היום",
+      "gloss": "დღემდე"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ამ"
+    }
+  ],
+  "timestamp": "2026-09-06T15:13:54.115806360Z",
+  "model": "glm-5.3"
+}

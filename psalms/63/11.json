@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 63,
+  "translation": "მახვილს ჩაიღვრებიან, ტურების წილად იქნებიან.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "ჩაიღვრებიან"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ხელით"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "მახვილი"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "წილი"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "ტურების"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "იქნებიან"
+    }
+  ],
+  "timestamp": "2026-09-06T09:49:04.100977194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 4:16",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და იეჰალელელის ძენი: ზიფი და ზიფაჰი, ტირია და ასარელი.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "და ძენი"
+    },
+    {
+      "surface": "יהללאל",
+      "gloss": "იეჰალელელი"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "ზიფი"
+    },
+    {
+      "surface": "וזיפה",
+      "gloss": "და ზიფაჰი"
+    },
+    {
+      "surface": "תיריא",
+      "gloss": "ტირია"
+    },
+    {
+      "surface": "ואשראל",
+      "gloss": "და ასარელი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:28:20.359812523Z",
+  "model": "glm-5.3"
+}

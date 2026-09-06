@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 11:14",
+  "book": "judges",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "და დაურთო კიდევ იფთახმა და გაუგზავნა მოციქულები ამონის ძეთა მეფეს.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "და დაურთო"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "კიდევ"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "იფთახმა"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "და გაუგზავნა"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "მოციქულები"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფეს"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძეთა"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ამონის"
+    }
+  ],
+  "timestamp": "2026-09-06T06:08:03.923123806Z",
+  "model": "glm-5.3"
+}

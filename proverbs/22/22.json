@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "ნუ გაძარცვავ გლახაკს, რადგან გლახაკი ⟨არის⟩ ⟨ის⟩, და ნუ დათრგუნავ ჭირვეულს კარზე.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "გაძარცვავ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "გლახაკს"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "דל",
+      "gloss": "გლახაკი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ის⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და ნუ"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "დათრგუნავ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ჭირვეულს"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "კარზე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:25:04.689268737Z",
+  "model": "glm-5.3"
+}

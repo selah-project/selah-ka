@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "წამოდგა აბრაჰამი და თაყვანი სცა ქვეყნის ხალხს, ხეთის ძეებს.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "წამოდგა"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "აბრაჰამი"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "თაყვანი სცა"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ხალხს"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ქვეყნის"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ძეებს"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ხეთის"
+    }
+  ],
+  "timestamp": "2026-09-06T03:51:43.267154988Z",
+  "model": "glm-5.3"
+}

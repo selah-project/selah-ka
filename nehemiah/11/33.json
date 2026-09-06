@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 11:33",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "ხაცორი, რამაჰი, გითაიმი",
+  "tokens": [
+    {
+      "surface": "חצור",
+      "gloss": "ხაცორი"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "რამაჰი"
+    },
+    {
+      "surface": "גתים",
+      "gloss": "გითაიმი"
+    }
+  ],
+  "timestamp": "2026-09-06T19:46:41.645914323Z",
+  "model": "glm-5.3"
+}

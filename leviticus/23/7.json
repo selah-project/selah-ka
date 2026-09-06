@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "პირველ დღეს — წმინდა კრება იქნება თქვენთვის; ყოველი სამსახურის საქმე არ გააკეთოთ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "პირველი"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "კრება"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "წმინდა"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "იქნება"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "თქვენთვის"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყოველი"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "საქმე"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "სამსახური"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "გააკეთოთ"
+    }
+  ],
+  "timestamp": "2026-09-06T04:49:20.970683538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და გამოვიდა მოშე ფაროჰეს წინაშე და ევედრა იაჰვეს.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "და გამოვიდა"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "წინაშე"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ფაროჰეს"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "და ევედრა"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T04:15:33.305430194Z",
+  "model": "glm-5.3"
+}

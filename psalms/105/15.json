@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 105,
+  "translation": "არ შეეხოთ ჩემს მაშიახებს და ჩემს ნავებს არ ავი უყოთ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "შეეხოთ"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "ჩემს მაშიახებს"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "და ჩემს ნავებს"
+    },
+    {
+      "surface": "אל",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "ავი უყოთ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:03:20.733908425Z",
+  "model": "glm-5.3"
+}

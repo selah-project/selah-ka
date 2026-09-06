@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 30:6",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "არ დაუმატო მის სიტყვებს, რათა არ გაკიცხოს იგი შენი და შენ ცრუ აღმოჩნდე.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "დაუმატო"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "მის სიტყვებს"
+    },
+    {
+      "surface": "פן",
+      "gloss": "რათა არ"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "გაკიცხოს"
+    },
+    {
+      "surface": "בך",
+      "gloss": "შენი"
+    },
+    {
+      "surface": "ונכזבת",
+      "gloss": "და ცრუ აღმოჩნდე"
+    }
+  ],
+  "timestamp": "2026-09-06T14:28:58.982733053Z",
+  "model": "glm-5.3"
+}

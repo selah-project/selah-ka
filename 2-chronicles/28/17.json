@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 28:17",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 28,
+  "translation": "და კიდევ ედომელები მოვიდნენ, და სცა იუდას, და აიყვანეს ტყვეობა.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "და კიდევ"
+    },
+    {
+      "surface": "אדומים",
+      "gloss": "ედომელები"
+    },
+    {
+      "surface": "באו",
+      "gloss": "მოვიდნენ"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "სცა"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "იუდას"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "აიყვანეს"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "ტყვეობა"
+    }
+  ],
+  "timestamp": "2026-09-06T11:53:57.258552024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "სიბრძნით აშენდება სახლი, და გაგებით ⟨დგას⟩ მყარად.",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "სიბრძნით"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "აშენდება"
+    },
+    {
+      "surface": "בית",
+      "gloss": "სახლი"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "და გაგებით"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "მყარად დგება"
+    }
+  ],
+  "timestamp": "2026-09-06T10:26:10.467859268Z",
+  "model": "glm-5.3"
+}

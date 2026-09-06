@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 15:12",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "არ უყვარს დაცინვილს მისი შეგონება; ბრძენთან არ მიდის.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "უყვარს"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "დაცინვილს"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "შეგონება"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მისი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "თან"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ბრძენთ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "მიდის"
+    }
+  ],
+  "timestamp": "2026-09-06T17:04:16.368726901Z",
+  "model": "glm-5.3"
+}

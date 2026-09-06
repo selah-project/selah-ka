@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 8:23",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და აბდონი, და ზიქრი, და ხანანი,",
+  "tokens": [
+    {
+      "surface": "ועבדון",
+      "gloss": "და აბდონი"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "და ზიქრი"
+    },
+    {
+      "surface": "וחנן",
+      "gloss": "და ხანანი"
+    }
+  ],
+  "timestamp": "2026-09-06T18:46:39.908015134Z",
+  "model": "glm-5.3"
+}

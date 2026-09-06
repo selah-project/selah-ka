@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 6:23",
+  "book": "2-samuel",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "და მიქალს, შაულის ასულს, არ ჰყოლია შვილი ვიდრე მისი სიკვდილის დღემდე.",
+  "tokens": [
+    {
+      "surface": "ולמיכל",
+      "gloss": "და მიქალს"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ასული"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "შაული"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "היה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "לה",
+      "gloss": "მას"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "შვილი"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ვიდრე"
+    },
+    {
+      "surface": "יום",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "מותה",
+      "gloss": "სიკვდილი"
+    }
+  ],
+  "timestamp": "2026-09-06T06:36:22.030295587Z",
+  "model": "glm-5.3"
+}

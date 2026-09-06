@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "⟨את⟩ ედომს (ედომი), და ⟨את⟩ მოაბს, და ⟨את⟩ ამონის ძენს;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ედომი"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ედომი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "მოაბი"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "მოაბი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ამონის ძენი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ამონი"
+    }
+  ],
+  "timestamp": "2026-09-06T08:13:06.118907167Z",
+  "model": "glm-5.3"
+}

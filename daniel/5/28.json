@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "daniel 5:28",
+  "book": "daniel",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "პერეს — გაიყო შენი სამეფო და მიეცა მადაის და პარასს.",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "პერეს"
+    },
+    {
+      "surface": "פריסת",
+      "gloss": "გაიყო"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "შენი სამეფო"
+    },
+    {
+      "surface": "ויהיבת",
+      "gloss": "და მიეცა"
+    },
+    {
+      "surface": "למדי",
+      "gloss": "მადაის"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "და პარასს"
+    }
+  ],
+  "timestamp": "2026-09-06T11:05:39.060313915Z",
+  "model": "glm-5.3"
+}

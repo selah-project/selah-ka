@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 22:9",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "კეთილ-თვალა — ის იკურთხება, რადგან თავისი პურიდან იძლევა ღარიბს.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "კეთილი"
+    },
+    {
+      "surface": "עין",
+      "gloss": "თვალი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "იკურთხება"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "იძლევა"
+    },
+    {
+      "surface": "מלחמו",
+      "gloss": "თავისი პურიდან"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "ღარიბს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:24:01.490736383Z",
+  "model": "glm-5.3"
+}

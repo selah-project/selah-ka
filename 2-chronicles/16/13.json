@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 16:13",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 16,
+  "translation": "და დაწვა ასამ (ასა) თავის მამებთან ერთად და მოკვდა ორმოცდაერთის წელს თავისი მეფობისა.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "დაწვა"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ასა"
+    },
+    {
+      "surface": "עם",
+      "gloss": "თან"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "მამები"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "მოკვდა"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "წელს"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ორმოცი"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "და ერთი"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "თავისი მეფობა"
+    }
+  ],
+  "timestamp": "2026-09-06T17:07:56.750576042Z",
+  "model": "glm-5.3"
+}

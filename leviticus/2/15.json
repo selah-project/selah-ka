@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 2:15",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და დაასხამ მასზე ზეთს და დაადებ მასზე ლადანს; მინხა ⟨არის⟩ ის.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "და დაასხამ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "მასზე"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ზეთი"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "და დაადებ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "მასზე"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ლადანი"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "მინხა"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    }
+  ],
+  "timestamp": "2026-09-06T04:35:29.459409365Z",
+  "model": "glm-5.3"
+}

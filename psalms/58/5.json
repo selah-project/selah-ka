@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 58,
+  "translation": "მათი მწვავე შხამი — გველის შხამივით ⟨არის⟩; როგორც ყრუ ასპიტი, რომელი ყურს იხურავს.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "შხამი"
+    },
+    {
+      "surface": "למו",
+      "gloss": "მათი"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "ივით"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "შხამი"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "გველი"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "როგორც"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "ასპიტი"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ყრუ"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "იხურავს"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ყურს"
+    }
+  ],
+  "timestamp": "2026-09-06T16:26:41.709794642Z",
+  "model": "glm-5.3"
+}

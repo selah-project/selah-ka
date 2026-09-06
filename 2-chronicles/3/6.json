@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "და მოჭედა ⟨את⟩ სახლი ძვირფასი ქვით — დიდებისთვის; და ოქრო — ფარვაიმის ოქრო.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "მოჭედა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "სახლი"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "სახლი"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ქვა"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "ძვირფასი"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "დიდებისთვის"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "და ოქრო"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ოქრო"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "ფარვაიმი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:42:50.309274502Z",
+  "model": "glm-5.3"
+}

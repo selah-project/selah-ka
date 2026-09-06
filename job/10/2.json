@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 10:2",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "ვიტყვი ელოაჰს: არ დამადანაშაულო; მაცოდნევ, რაზე მედავებ.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ვიტყვი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ელოაჰი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "დამადანაშაულო"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "მაცოდნევ"
+    },
+    {
+      "surface": "על",
+      "gloss": "რაზე"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "תריבני",
+      "gloss": "მედავებ"
+    }
+  ],
+  "timestamp": "2026-09-06T14:34:31.785495705Z",
+  "model": "glm-5.3"
+}

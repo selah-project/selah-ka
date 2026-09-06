@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "მიშქნის მეორე გვერდისთვის, ჩრდილოეთ მხარეს, ოცი დაფა.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "გვერდისთვის"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "მიშქანი"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "მეორე"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "მხარეს"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ჩრდილოეთ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ოცი"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "დაფა"
+    }
+  ],
+  "timestamp": "2026-09-06T04:25:36.083035419Z",
+  "model": "glm-5.3"
+}

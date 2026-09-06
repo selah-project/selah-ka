@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 5:2",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "რადგან წყრომა კლავს უგუნურს, და ცდუნებულს კლავს შური.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "უგუნურს"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "კლავს"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "წყრომა"
+    },
+    {
+      "surface": "ופתה",
+      "gloss": "ცდუნებულს"
+    },
+    {
+      "surface": "תמית",
+      "gloss": "კლავს"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "შური"
+    }
+  ],
+  "timestamp": "2026-09-06T10:32:55.148799319Z",
+  "model": "glm-5.3"
+}

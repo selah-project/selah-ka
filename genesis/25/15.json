@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 25:15",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "ჰადადი, და თემა, იეთური, ნაფიში და კედემა.",
+  "tokens": [
+    {
+      "surface": "חדד",
+      "gloss": "ჰადადი"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "და თემა"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "იეთური"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "ნაფიში"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "და კედემა"
+    }
+  ],
+  "timestamp": "2026-09-06T03:53:02.667802017Z",
+  "model": "glm-5.3"
+}

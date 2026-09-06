@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 48:22",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 48,
+  "translation": "და დიბონს, და ნევოს, და ბეთ დიბლათაიმს.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "და ზე"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "დიბონი"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "და ზე"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "ნევო"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "და ზე"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ბეთ"
+    },
+    {
+      "surface": "דבלתים",
+      "gloss": "დიბლათაიმი"
+    }
+  ],
+  "timestamp": "2026-09-06T08:28:06.971509690Z",
+  "model": "glm-5.3"
+}

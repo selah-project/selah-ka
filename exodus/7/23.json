@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "და შეტრიალდა ფაროჰე და შევიდა თავის სახლში, და არ მიუქცია გული ამასაც.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "და შეტრიალდა"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ფაროჰე"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "და შევიდა"
+    },
+    {
+      "surface": "אל",
+      "gloss": "კენ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "თავის სახლი"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "שת",
+      "gloss": "მიაქცია"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "გული"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ამაც"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "ამას"
+    }
+  ],
+  "timestamp": "2026-09-06T12:10:16.510803633Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 116,
+  "translation": "იაჰვეს წინაშე დავდივარ ცოცხალთა მიწებში.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "დავდივარ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "წინაშე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "მიწებში"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ცოცხალთა"
+    }
+  ],
+  "timestamp": "2026-09-06T16:27:18.173615478Z",
+  "model": "glm-5.3"
+}

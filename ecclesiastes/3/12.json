@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "ვიცი, რომ არ ⟨არის⟩ სიკეთე მათში, გარდა ხარობისა და სიკეთის ქმნისა თავის სიცოცხლეში.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "ვიცი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "არარის"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "სიკეთე"
+    },
+    {
+      "surface": "בם",
+      "gloss": "მათში"
+    },
+    {
+      "surface": "כי",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "არა"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "ხარობა"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "და ქმნა"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "სიკეთე"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "თავის სიცოცხლეში"
+    }
+  ],
+  "timestamp": "2026-09-06T10:55:54.705842578Z",
+  "model": "glm-5.3"
+}

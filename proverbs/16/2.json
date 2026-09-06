@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 16:2",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 16,
+  "translation": "ადამიანის ყველა გზა წმინდაა მის თვალთ, ხოლო სულებს აწონავს იაჰვე.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "გზა"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ადამიანი"
+    },
+    {
+      "surface": "זך",
+      "gloss": "წმინდა"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "მის თვალთ"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "და აწონავს"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "სულებს"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:22:08.687645416Z",
+  "model": "glm-5.3"
+}

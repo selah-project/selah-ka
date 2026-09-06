@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 7:21",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "და მოხდება იმ დღეს: გაზრდის კაცი ლეხურ ძროხას და ორ ცხვარს.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "მოხდება"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "იმ დღეს"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "იმ"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "გაზრდის"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "ლეხური"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ძროხა"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "და ორ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ცხვარი"
+    }
+  ],
+  "timestamp": "2026-09-06T07:30:24.907101259Z",
+  "model": "glm-5.3"
+}

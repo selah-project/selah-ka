@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "lamentations 3:59",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "დაინახე, იაჰვეო, ჩემი ჩაგვრა; განსაჯე ჩემი საქმე.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "დაინახე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "עותתי",
+      "gloss": "ჩემი ჩაგვრა"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "განსაჯე"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ჩემი საქმე"
+    }
+  ],
+  "timestamp": "2026-09-06T14:47:26.837161302Z",
+  "model": "glm-5.3"
+}

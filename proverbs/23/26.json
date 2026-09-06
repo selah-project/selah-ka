@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 23:26",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "მომეცი, ძეო, შენი გული, და შენმა თვალებმა ჩემი გზები დაიმარხონ.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "მომეცი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძეო"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "შენი გული"
+    },
+    {
+      "surface": "לי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "და შენი თვალები"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ჩემი გზები"
+    },
+    {
+      "surface": "תרצנה",
+      "gloss": "დაიმარხონ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:25:08.550496841Z",
+  "model": "glm-5.3"
+}

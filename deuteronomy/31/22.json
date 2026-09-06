@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 31,
+  "translation": "და დაწერა მოშემ (მოსე) ⟨את⟩ სიმღერა ეს იმ დღეს, და ასწავლა მას ⟨את⟩ იშრაელის შვილებს.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "და დაწერა"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "სიმღერა"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "სიმღერა"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "იმ"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "და ასწავლა მას"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "შვილები"
+    },
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:35:58.717579063Z",
+  "model": "glm-5.3"
+}

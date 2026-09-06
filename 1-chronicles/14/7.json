@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 14:7",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "და ელიშამა, და ბეელიადა, და ელიფალეტი.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "ელიშამა"
+    },
+    {
+      "surface": "ובעלידע",
+      "gloss": "ბეელიადა"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "ელიფალეტი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:32:44.475326137Z",
+  "model": "glm-5.3"
+}

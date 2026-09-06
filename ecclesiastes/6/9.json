@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "კარგია თვალთა ხილვა ნეფეშის სიარულზე; ესეც ჰებელია და ქარის დევნა.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "კარგი"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ხილვა"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "თვალები"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "სიარული"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ნეფეში"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ესეც"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ჰებელი"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "და ბოროტება"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ქარი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:58:35.396092712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 36:22",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 36,
+  "translation": "და იყვნენ ლოტანის შვილები ხორი და ჰეიმამი; და ლოტანის და ⟨არის⟩ თიმნა.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "და იყვნენ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "ლოტანი"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "ხორი"
+    },
+    {
+      "surface": "והימם",
+      "gloss": "და ჰეიმამი"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "და და"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "ლოტანი"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "თიმნა"
+    }
+  ],
+  "timestamp": "2026-09-06T03:59:49.489146189Z",
+  "model": "glm-5.3"
+}

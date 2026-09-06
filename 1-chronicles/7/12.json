@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "და შუპიმი და ხუპიმი — ირის შვილნი; ხუშიმი — სხვის (ახერის) შვილნი.",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "და შუპიმი"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "და ხუპიმი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "შვილნი"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ირი"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "ხუშიმი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "შვილნი"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "სხვა (ახერი)"
+    }
+  ],
+  "timestamp": "2026-09-06T11:29:27.052301834Z",
+  "model": "glm-5.3"
+}

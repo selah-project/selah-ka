@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 52,
+  "translation": "გიყვარს ყველა შთამნთქმელი სიტყვა, მზაკვარო ენავ.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "გიყვარს"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "შთანთქმა"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ენა"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "მზაკვრობა"
+    }
+  ],
+  "timestamp": "2026-09-06T09:47:51.811420923Z",
+  "model": "glm-5.3"
+}

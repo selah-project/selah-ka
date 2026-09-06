@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "და დაარქვა ⟨את⟩ სახელს მისსა — იოსეფი — სათქმელად: დაამატოს იაჰვე მე ძე სხვა.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "და დაარქვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "სახელს მისსა"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "სახელი მისი"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "იოსეფი"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "დაამატოს"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "לי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "სხვა"
+    }
+  ],
+  "timestamp": "2026-09-06T03:55:24.837866473Z",
+  "model": "glm-5.3"
+}

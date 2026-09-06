@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 5:19",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "გამიხსენე მე, ჩემო ელოჰიმო, სიკეთისთვის — ყველაფერი, რაც ქენიე ამ ხალხისთვის.",
+  "tokens": [
+    {
+      "surface": "זכרה",
+      "gloss": "გამიხსენე"
+    },
+    {
+      "surface": "לי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ჩემო ელოჰიმო"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "სიკეთისთვის"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რაც"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ქენიე"
+    },
+    {
+      "surface": "על",
+      "gloss": "-თვის"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ეს"
+    }
+  ],
+  "timestamp": "2026-09-06T11:19:38.248801993Z",
+  "model": "glm-5.3"
+}

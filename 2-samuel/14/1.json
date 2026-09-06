@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "და შეიტყო იოაბმა, ცრუიასმა ძემ, რომ მეფის გული ⟨არის⟩ აბშალომზე.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "შეიტყო"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "იოაბი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "ცრუია"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "გული"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "აბშალომი"
+    }
+  ],
+  "timestamp": "2026-09-06T06:41:29.357665833Z",
+  "model": "glm-5.3"
+}

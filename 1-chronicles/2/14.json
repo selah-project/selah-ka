@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 2:14",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "ნეთანელი მეოთხე, რადაი მეხუთე.",
+  "tokens": [
+    {
+      "surface": "נתנאל",
+      "gloss": "ნეთანელი"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "მეოთხე"
+    },
+    {
+      "surface": "רדי",
+      "gloss": "რადაი"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "მეხუთე"
+    }
+  ],
+  "timestamp": "2026-09-06T11:26:31.586765382Z",
+  "model": "glm-5.3"
+}

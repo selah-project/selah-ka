@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 2:32",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და ძენი იადასინი, შამაის ძმისა, ⟨არიან⟩ იეთერი და იონათანი; და მოკვდა იეთერი, არა შვილნი.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "და ძენი"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "იადასი"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ძმა"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "შამაი"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "იეთერი"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "და იონათანი"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "და მოკვდა"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "იეთერი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "შვილნი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:26:26.694124547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 20,
+  "translation": "და აიღო მოშემ ⟨את⟩ კვერთხი იაჰვეს წინაშიდან, როგორც ბრძანა მას ⟨იაჰვემ⟩.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "აიღო"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "კვერთხი"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "კვერთხი"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "წინაშიდან"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "როგორც"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ბრძანა მას"
+    }
+  ],
+  "timestamp": "2026-09-06T05:12:14.604710379Z",
+  "model": "glm-5.3"
+}

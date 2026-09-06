@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და ხელაჰს შვილები: ცერეთ, იცხარი და ეთნანი.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "ხელაჰს"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "ცერეთ"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "იცხარი"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "ეთნანი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:27:18.641757517Z",
+  "model": "glm-5.3"
+}

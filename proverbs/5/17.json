@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "იყვნენ შენთვის მხოლოდ შენი, და არა უცხოთა ⟨את⟩ შენთან.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "იყვნენ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენთვის"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "მხოლოდ შენი"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "და არა"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "უცხოთა"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "შენთან"
+    }
+  ],
+  "timestamp": "2026-09-06T10:16:30.965587964Z",
+  "model": "glm-5.3"
+}

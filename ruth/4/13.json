@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ruth 4:13",
+  "book": "ruth",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "აიღო ბოაზმა ⟨את⟩ რუთი და იყო მას ცოლად; შევიდა მასთან, და მისცა იაჰვემ მას ჩასახვა, და შვა ძე.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "აიღო"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "ბოაზი"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "რუთი"
+    },
+    {
+      "surface": "רות",
+      "gloss": "რუთი"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ცოლად"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "შევიდა"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "მასთან"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "მისცა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "לה",
+      "gloss": "მას"
+    },
+    {
+      "surface": "הריון",
+      "gloss": "ჩასახვა"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:50:26.839432948Z",
+  "model": "glm-5.3"
+}

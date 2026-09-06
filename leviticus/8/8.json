@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და დაადგა მან მას ⟨את⟩ ხოშენი (მკერდის ნიშანი), და ჩადო ხოშენში ⟨את⟩ ურიმი და ⟨את⟩ თუმიმი.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "და დაადგა"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ხოშენი"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ხოშენი"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "და ჩადო"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ში"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ხოშენი"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ურიმი"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "ურიმი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "თუმიმი"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "თუმიმი"
+    }
+  ],
+  "timestamp": "2026-09-06T19:28:40.070931650Z",
+  "model": "glm-5.3"
+}

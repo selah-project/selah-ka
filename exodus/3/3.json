@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "და თქვა მოშემ: გავუხვევ ახლა და ვნახავ ⟨את⟩ ამ დიად სანახავს — რატომ არ იწვის ბუჩქი.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "გავუხვევ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ახლა"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ვნახავ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "სანახავს"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "სანახავი"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "დიადი"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "რატომ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "იწვის"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "ბუჩქი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:12:03.443688077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "თუ ცხვარია ის, რომ მიაახლოს ⟨את⟩ თავისი კორბანი, და მიაახლოს ⟨את⟩ იგი იაჰვეს წინაშე.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "ცხვარი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "მიაახლებს"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "თავისი კორბანი"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "თავისი კორბანი"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "და მიაახლოს"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "იგი"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "წინაშე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T19:32:59.570433292Z",
+  "model": "glm-5.3"
+}

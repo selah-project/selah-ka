@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 6:23",
+  "book": "judges",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "და უთხრა მას იაჰვემ: მშვიდობა შენთვის! ნუ იშინი, არ მოკვდები.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და უთხრა"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "მშვიდობა"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენთვის"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "იშინი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "მოკვდები"
+    }
+  ],
+  "timestamp": "2026-09-06T06:02:13.581315965Z",
+  "model": "glm-5.3"
+}

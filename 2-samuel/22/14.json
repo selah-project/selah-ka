@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 22:14",
+  "book": "2-samuel",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "დააქუხა ⟨ისინი⟩ ცისგან იაჰვემ, და ელიონმა მისცა თავისი ხმა.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "დააქუხა"
+    },
+    {
+      "surface": "מן",
+      "gloss": "­­გან"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ცა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "ელიონი"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "მისცა"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "თავისი ხმა"
+    }
+  ],
+  "timestamp": "2026-09-06T06:48:18.892426597Z",
+  "model": "glm-5.3"
+}

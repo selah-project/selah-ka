@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 98,
+  "translation": "საყვირებით და შოფარის ხმით შეჰხმაურეთ წინაშე მეფისა, იაჰვეს.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "საყვირი"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ხმა"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "შოფარი"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "შეჰხმაურეთ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "წინაშე"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T10:01:22.993856673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 1:17",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "რადგან ამაოდ გადმოიფანტება ბადე ყველა ფრთის მფლობელის თვალებში.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ამაოდ"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "გადმოიფანტება"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "ბადე"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "თვალებში"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "მფლობელი"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ფრთა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:15:10.987464883Z",
+  "model": "glm-5.3"
+}

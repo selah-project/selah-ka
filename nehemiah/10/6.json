@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 10:6",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "ხარიმი, მერემოთი, ოვადიაჰი,",
+  "tokens": [
+    {
+      "surface": "חרם",
+      "gloss": "ხარიმი"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "მერემოთი"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "ოვადიაჰი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:21:59.841149708Z",
+  "model": "glm-5.3"
+}

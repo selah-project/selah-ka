@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 8:18",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და იშმერაი, და იზლიაჰი და იოვავი — ელფალის ვაჟნი.",
+  "tokens": [
+    {
+      "surface": "וישמרי",
+      "gloss": "იშმერაი"
+    },
+    {
+      "surface": "ויזליאה",
+      "gloss": "იზლიაჰი"
+    },
+    {
+      "surface": "ויובב",
+      "gloss": "იოვავი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ვაჟნი"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "ელფალის"
+    }
+  ],
+  "timestamp": "2026-09-06T11:29:33.595787386Z",
+  "model": "glm-5.3"
+}

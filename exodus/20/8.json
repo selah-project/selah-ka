@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 20,
+  "translation": "გაიხსენე ⟨את⟩ შაბათის დღე, მის განსაწმედად.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "გაიხსენე"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "შაბათის დღე"
+    },
+    {
+      "surface": "יום",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "შაბათი"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "მის განსაწმედად"
+    }
+  ],
+  "timestamp": "2026-09-06T12:13:16.118304365Z",
+  "model": "glm-5.3"
+}

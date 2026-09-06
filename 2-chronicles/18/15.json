@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 18:15",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "და თქვა მას მეფემ: რამდენჯერ გაფიცავ შენ, რომ არ მელაპარაკო მხოლოდ ჭეშმარიტებას იაჰვეს სახელით?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ვიდრე"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "რამდენჯერ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ჯერ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "משביעך",
+      "gloss": "გაფიცავ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ილაპარაკო"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ჩემთან"
+    },
+    {
+      "surface": "רק",
+      "gloss": "მხოლოდ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ჭეშმარიტება"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "სახელით"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T11:49:40.541987002Z",
+  "model": "glm-5.3"
+}

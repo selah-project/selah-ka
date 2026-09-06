@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "მაშინ თქვა შლომომ (სოლომონმა): იაჰვემ თქვა დასამყოფად მუქ სიბნელეში.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "მაშინ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "შლომო"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "სამყოფელი"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "სიბნელე"
+    }
+  ],
+  "timestamp": "2026-09-06T11:43:35.608280893Z",
+  "model": "glm-5.3"
+}

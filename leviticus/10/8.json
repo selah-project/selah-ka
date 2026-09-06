@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 10:8",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "და იტყო იაჰვემ აჰარონს სიტყვად:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "იტყო"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "აჰარონი"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სიტყვად"
+    }
+  ],
+  "timestamp": "2026-09-06T04:41:16.683026557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "რადგან შენ ხალხს გლახაკს იხსნი, და თვალებს ამაღლებულს ამდაბლებ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "עני",
+      "gloss": "გლახაკი"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "იხსნი"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "და თვალები"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "ამაღლებული"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "ამდაბლებ"
+    }
+  ],
+  "timestamp": "2026-09-06T09:36:31.961507480Z",
+  "model": "glm-5.3"
+}

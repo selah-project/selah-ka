@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "judges 6:40",
+  "book": "judges",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "და ასე მოიქცა ელოჰიმმა იმ ღამეს; და იყო სიმშრალე გიზაზე მხოლოდ მისი, და მთელ მიწაზე იყო ივსი.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "და მოიქცა"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ღამეს"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "იმ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "და იყო"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "სიმშრალე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "הגזה",
+      "gloss": "გიზა"
+    },
+    {
+      "surface": "לבדה",
+      "gloss": "მხოლოდ მისი"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "და...-ზე"
+    },
+    {
+      "surface": "כל",
+      "gloss": "მთელ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "היה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "טל",
+      "gloss": "ივსი"
+    }
+  ],
+  "timestamp": "2026-09-06T15:50:10.494345075Z",
+  "model": "glm-5.3"
+}

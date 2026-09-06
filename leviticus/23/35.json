@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "პირველ დღეს წმიდა შეკრება ⟨იყოს⟩; ყველა სამსახურის საქმე არ გააკეთოთ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "დღეს"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "პირველი"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "შეკრება"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "წმიდა"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "საქმე"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "სამსახურის"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "გააკეთოთ"
+    }
+  ],
+  "timestamp": "2026-09-06T04:55:43.854382746Z",
+  "model": "glm-5.3"
+}

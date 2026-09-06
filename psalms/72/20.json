@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 72,
+  "translation": "დასრულდა ლოცვები დავითისა, ძისა იშაისი.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "დასრულდა"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "ლოცვები"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "დავითისა"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძისა"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "იშაისი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:51:49.749289667Z",
+  "model": "glm-5.3"
+}

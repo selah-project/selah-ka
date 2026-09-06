@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "judges 9:47",
+  "book": "judges",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "და მოუთხრეს აბიმელექს, რომ შეიკრიბა ყველა ბატონი შეხემის კოშკის.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "და მოუთხრეს"
+    },
+    {
+      "surface": "לאבימלך",
+      "gloss": "აბიმელექს"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "התקבצו",
+      "gloss": "შეიკრიბა"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "ბატონი"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "კოშკი"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "შეხემი"
+    }
+  ],
+  "timestamp": "2026-09-06T06:05:07.145793318Z",
+  "model": "glm-5.3"
+}

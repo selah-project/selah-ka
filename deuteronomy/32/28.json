@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 32,
+  "translation": "რადგან ხალხი დაკარგულ ისინი რჩევისაგან, და არ ⟨არის⟩ მათში გაგება.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "დაკარგულ"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "რჩევისაგან"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ისინი"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "მათში"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "გაგება"
+    }
+  ],
+  "timestamp": "2026-09-06T05:44:08.869972436Z",
+  "model": "glm-5.3"
+}

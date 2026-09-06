@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 12:6",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "შემაიაჰი და იოიარიბი, იედაიაჰი.",
+  "tokens": [
+    {
+      "surface": "שמעיה",
+      "gloss": "შემაიაჰი"
+    },
+    {
+      "surface": "ויויריב",
+      "gloss": "და იოიარიბი"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "იედაიაჰი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:24:17.879829290Z",
+  "model": "glm-5.3"
+}

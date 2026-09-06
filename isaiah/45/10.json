@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 45,
+  "translation": "ჰოი ⟨იმას⟩, ვინც ეტყვის მამას: რას შვები? და დედაკაცს: რას ბადებ?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ჰოი"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ეტყვის"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "მამას"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რას"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "შვები"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "და დედაკაცს"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რას"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "ბადებ"
+    }
+  ],
+  "timestamp": "2026-09-06T07:50:06.682118575Z",
+  "model": "glm-5.3"
+}

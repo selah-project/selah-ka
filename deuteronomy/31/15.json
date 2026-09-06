@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 31:15",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 31,
+  "translation": "და გამოჩნდა იაჰვე კარავში, ღრუბლის სვეტად; და დადგა ღრუბლის სვეტი კარვის შესასვლელზე.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "და გამოჩნდა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "კარავი"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "სვეტი"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ღრუბელი"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "და დადგა"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "სვეტი"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ღრუბელი"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "შესასვლელი"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "კარავი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:36:42.742464979Z",
+  "model": "glm-5.3"
+}

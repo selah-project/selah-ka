@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 21:23",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "რომელი იცავს პირს თვისსა და ენას თვისსა, იცავს ნეფეშს თვისსა ჭირთაგან.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "იცავს"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "პირი"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "და ენა"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "იცავს"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "ჭირები"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ნეფეში"
+    }
+  ],
+  "timestamp": "2026-09-06T16:31:21.360683770Z",
+  "model": "glm-5.3"
+}

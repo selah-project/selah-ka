@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 26:8",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "როგორც ქვის შებოჭვა სასროლში, ისე ⟨არის⟩ სულელს პატივის მიცემა.",
+  "tokens": [
+    {
+      "surface": "כצרור",
+      "gloss": "როგორც შებოჭვა"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ქვის"
+    },
+    {
+      "surface": "במרגמה",
+      "gloss": "სასროლში"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ისე"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "მიცემა"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "სულელს"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "პატივის"
+    }
+  ],
+  "timestamp": "2026-09-06T10:26:47.778646863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 3:17",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "და იეკონიას შვილები ⟨იყვნენ⟩ ასირი ⟨და⟩ შეალტიელი, მისი შვილი.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "და შვილები"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "იეკონია"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "ასირი"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "შეალტიელი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი შვილი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:27:30.580232494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "შემის ძენი: ეილამი და აშური და არფახშადი და ლუდი და არამი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "שם",
+      "gloss": "შემის"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ეილამი"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "და აშური"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "და არფახშადი"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "და ლუდი"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "და არამი"
+    }
+  ],
+  "timestamp": "2026-09-06T03:45:26.217004094Z",
+  "model": "glm-5.3"
+}

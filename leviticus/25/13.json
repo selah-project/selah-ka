@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "იობელის ამ წელს დაბრუნდებით თითოეული კაცი თავის სამკვიდროსთან.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "წელს"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "იობელი"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "დაბრუნდებით"
+    },
+    {
+      "surface": "איש",
+      "gloss": "თითოეული კაცი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "თან"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "სამკვიდრო"
+    }
+  ],
+  "timestamp": "2026-09-06T19:32:27.453734796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 28:14",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 28,
+  "translation": "უღრმესმა თქვა: „არ ⟨არის⟩ ის ჩემში“, და ზღვამ თქვა: „არ ⟨არის⟩ ის ჩემთან“.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "უღრმესი"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ჩემში"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "וים",
+      "gloss": "და ზღვა"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "אין",
+      "gloss": "არ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ჩემთან"
+    }
+  ],
+  "timestamp": "2026-09-06T10:40:22.073978604Z",
+  "model": "glm-5.3"
+}

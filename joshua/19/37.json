@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 19:37",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "და კედეში, და ედრეი და ეინ-ხაცორი.",
+  "tokens": [
+    {
+      "surface": "וקדש",
+      "gloss": "კედეში"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "ედრეი"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "ეინ"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "ხაცორი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:55:25.422848867Z",
+  "model": "glm-5.3"
+}

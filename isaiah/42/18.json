@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 42:18",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 42,
+  "translation": "ყრუებო, ისმინეთ, და ბრმებო, შეხედეთ, რომ იხილოთ.",
+  "tokens": [
+    {
+      "surface": "החרשים",
+      "gloss": "ყრუებო"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ისმინეთ"
+    },
+    {
+      "surface": "והעורים",
+      "gloss": "და ბრმებო"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "შეხედეთ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "რომ იხილოთ"
+    }
+  ],
+  "timestamp": "2026-09-06T07:48:22.910563687Z",
+  "model": "glm-5.3"
+}

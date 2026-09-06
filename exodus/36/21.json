@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 36,
+  "translation": "ათი წყრთა ⟨არის⟩ სიგრძე დაფის, და წყრთა და ნახევარი წყრთა — სიგანე ერთი დაფის.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "ათი"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "წყრთა"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "სიგრძე"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "დაფა"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "და წყრთა"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "და ნახევარი"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "წყრთა"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "სიგანე"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "დაფა"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ერთი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:32:31.232092392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 119,
+  "translation": "ბაგეებით ჩამოვთვალე ყველა განაჩენი შენი პირისა.",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "ბაგეებით"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "ჩამოვთვალე"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "განაჩენი"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "შენი პირი"
+    }
+  ],
+  "timestamp": "2026-09-06T14:15:59.509534847Z",
+  "model": "glm-5.3"
+}

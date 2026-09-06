@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 33:25",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 33,
+  "translation": "დაიძრნენ ხარადადან და დაბანაკდნენ მაკჰელოთში.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "დაიძრნენ"
+    },
+    {
+      "surface": "מחרדה",
+      "gloss": "ხარადა"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "დაბანაკდნენ"
+    },
+    {
+      "surface": "במקהלת",
+      "gloss": "მაკჰელოთში"
+    }
+  ],
+  "timestamp": "2026-09-06T05:20:15.272050660Z",
+  "model": "glm-5.3"
+}

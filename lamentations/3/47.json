@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "lamentations 3:47",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "შიში და მახე შეგვემთხვა ⟨ჩვენ⟩ — აოხრება და ნგრევა.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "შიში"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "და მახე"
+    },
+    {
+      "surface": "היה",
+      "gloss": "იყო"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ჩვენთვის"
+    },
+    {
+      "surface": "השאת",
+      "gloss": "აოხრება"
+    },
+    {
+      "surface": "והשבר",
+      "gloss": "და ნგრევა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:52:31.668692838Z",
+  "model": "glm-5.3"
+}

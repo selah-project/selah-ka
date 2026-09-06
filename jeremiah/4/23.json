@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "ვიხილე ⟨את⟩ მიწა, და აჰა — თოჰუ და ბოჰუ; და ცისკენ — და არ არის მათი ნათელი.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ვიხილე"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მიწა"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "და აჰა"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "თოჰუ"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "და ბოჰუ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და მიმართ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ცა"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "და არ არის"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "მათი ნათელი"
+    }
+  ],
+  "timestamp": "2026-09-06T08:01:15.951766044Z",
+  "model": "glm-5.3"
+}

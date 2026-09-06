@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 50,
+  "translation": "მოუწოდებს ცას ზემოდან და მიწას — მის ხალხის განსასჯელად.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "მოუწოდებს"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ცას"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ზემოდან"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და მიმართ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწას"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "განსასჯელად"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "მის ხალხს"
+    }
+  ],
+  "timestamp": "2026-09-06T09:46:02.136455222Z",
+  "model": "glm-5.3"
+}

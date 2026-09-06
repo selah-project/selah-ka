@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 25:10",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 25,
+  "translation": "მესამე — ზაკურს, მისი შვილები და მისი ძმები — ორ ათი ⟨თორმეტი⟩.",
+  "tokens": [
+    {
+      "surface": "השלשי",
+      "gloss": "მესამე"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "ზაკურ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "მისი შვილები"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "და მისი ძმები"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ორ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ათი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:37:26.412763221Z",
+  "model": "glm-5.3"
+}

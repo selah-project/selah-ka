@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "და იყო ეს სიტყვა ცოდვად, და დადიოდა ხალხი ერთის წინაშე დანამდე.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "და იყო"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ცოდვად"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "და დადიოდნენ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "წინაშე"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "עד",
+      "gloss": "დანამდე"
+    },
+    {
+      "surface": "דן",
+      "gloss": "დანი"
+    }
+  ],
+  "timestamp": "2026-09-06T15:56:07.748550572Z",
+  "model": "glm-5.3"
+}

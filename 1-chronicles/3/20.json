@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "და ხაშუბა, და ოჰელი, და ბერექია, და ხასადია, იუშაბ-ხესედი — ხუთი.",
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "და ხაშუბა"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "და ოჰელი"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "და ბერექია"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "და ხასადია"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "იუშაბ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ხესედი"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ხუთი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:27:30.580720864Z",
+  "model": "glm-5.3"
+}

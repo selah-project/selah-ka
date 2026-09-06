@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 2:26",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და ჰყვას იერახმელს სხვა ცოლი, და მისი სახელი ⟨არის⟩ ათარაჰი; ის ⟨არის⟩ დედა ონამისა.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ჰყვას"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ცოლი"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "სხვა"
+    },
+    {
+      "surface": "לירחמאל",
+      "gloss": "იერახმელს"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "და მისი სახელი"
+    },
+    {
+      "surface": "עטרה",
+      "gloss": "ათარაჰი"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "אם",
+      "gloss": "დედა"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ონამი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:26:20.447090242Z",
+  "model": "glm-5.3"
+}

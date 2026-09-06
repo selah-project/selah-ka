@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და ⟨את⟩ ხიველი, და ⟨את⟩ არკელი, და ⟨את⟩ სინელი.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ხიველი"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ხიველი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "არკელი"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "არკელი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "სინელი"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "სინელი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:25:54.542168098Z",
+  "model": "glm-5.3"
+}

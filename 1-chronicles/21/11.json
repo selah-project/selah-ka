@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 21:11",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "და მივიდა გადი დავიდთან და უთხრა მას: ასე თქვა იაჰვემ: მიიღე შენთვის —",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "მივიდა"
+    },
+    {
+      "surface": "גד",
+      "gloss": "გადი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "თან"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "დავიდი"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "უთხრა"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "მიიღე"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენთვის"
+    }
+  ],
+  "timestamp": "2026-09-06T11:36:46.126685734Z",
+  "model": "glm-5.3"
+}

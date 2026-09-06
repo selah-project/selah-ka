@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და მიმიგეთ ⟨את⟩ მე და თქვით: კარგი ⟨არის⟩ სიტყვა, რომელიც თქვი ასასრულებლად.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "და მიმიგეთ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "მე"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "და თქვით"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "კარგი"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "თქვი"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ასასრულებლად"
+    }
+  ],
+  "timestamp": "2026-09-06T05:23:31.263558260Z",
+  "model": "glm-5.3"
+}

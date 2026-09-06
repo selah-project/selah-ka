@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "ძარცვა ბოროტთა თავად მათ მოგვრის, რადგან უარჰყვეს სამართლის ქმნა.",
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "ძარცვა"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ბოროტთა"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "მათ მოგვრის"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "უარჰყვეს"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ქმნა"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "სამართალი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:23:50.816650526Z",
+  "model": "glm-5.3"
+}

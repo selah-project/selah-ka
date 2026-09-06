@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "ვთქვი მე ჩემს გულში: წადი მაშ, გამოვცადებ შენ სიხარულით და ვიხილავ სიკეთეს — და აჰა, ისიც ⟨არის⟩ ამაოება.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "ვთქვი"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "ჩემს გულში"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "წადი"
+    },
+    {
+      "surface": "נא",
+      "gloss": "მაშ"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "გამოვცადებ"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "სიხარულით"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "და ვიხილავ"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "სიკეთეს"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "და აჰა"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ისიც"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ამაოება"
+    }
+  ],
+  "timestamp": "2026-09-06T10:56:49.249171038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 30:10",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "და ვაჟი შვა ზილფაჰმა, ლეაჰის მხევალმა, იაკოვს.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "ზილფაჰი"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "მხევალი"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ლეაჰი"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "იაკოვს"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ვაჟი"
+    }
+  ],
+  "timestamp": "2026-09-06T03:55:02.649433939Z",
+  "model": "glm-5.3"
+}

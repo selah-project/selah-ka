@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 1:6",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და ოთხი პირი — ერთ ⟨ჰქონდა⟩ თითოეულს, და ოთხი ფრთა — ერთ ⟨ჰქონდა⟩ თითოეულს მათ.",
+  "tokens": [
+    {
+      "surface": "וארבעה",
+      "gloss": "და ოთხი"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "პირი"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ერთს"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "და ოთხი"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "ფრთა"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ერთს"
+    },
+    {
+      "surface": "להם",
+      "gloss": "მათ"
+    }
+  ],
+  "timestamp": "2026-09-06T08:32:18.265670195Z",
+  "model": "glm-5.3"
+}

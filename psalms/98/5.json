@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 98,
+  "translation": "დაუკარეთ იაჰვეს ქნარით, ქნარით და სიმღერის ხმით.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "დაუკარეთ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "იაჰვეს"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ქნარით"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ქნარით"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ხმა"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "სიმღერა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:01:22.993641195Z",
+  "model": "glm-5.3"
+}

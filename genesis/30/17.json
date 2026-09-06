@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 30:17",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "და მოისმინა ელოჰიმმა ლეაჰს, და დაორსულდა იგი და შვა იააკოვს ძეს მეხუთეს.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "მოისმინა"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ელოჰიმი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-სვემდო"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ლეაჰი"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "დაორსულდა"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "იააკოვს"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "მეხუთე"
+    }
+  ],
+  "timestamp": "2026-09-06T17:44:04.141287322Z",
+  "model": "glm-5.3"
+}

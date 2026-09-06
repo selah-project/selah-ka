@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 38,
+  "translation": "გავმრუდდი, მოვიხარე ძალიან უკიდურესად, მთელ დღეს მწუხარედ ვდივარ.",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "გავმრუდდი"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "მოვიხარე"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ვიდრე"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "უკიდურესად"
+    },
+    {
+      "surface": "כל",
+      "gloss": "მთელ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "მწუხარედ"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ვდივარ"
+    }
+  ],
+  "timestamp": "2026-09-06T09:42:35.366364632Z",
+  "model": "glm-5.3"
+}

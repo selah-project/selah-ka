@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "და შეაბა ⟨את⟩ თავისი ეტლი და ⟨את⟩ თავისი ხალხი აიყოლა თან.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "და შეაბა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "თავისი ეტლი"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "თავისი ეტლი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "თავისი ხალხი"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "თავისი ხალხი"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "აიყოლა"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "თან"
+    }
+  ],
+  "timestamp": "2026-09-06T04:17:32.430789634Z",
+  "model": "glm-5.3"
+}

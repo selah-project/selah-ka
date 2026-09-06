@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "და სძლიეს წყლებმა მიწას ზემოთ ორმოცდაათი და ასი დღე.",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "სძლიეს"
+    },
+    {
+      "surface": "המים",
+      "gloss": "წყლებმა"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე\/მიმართ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ორმოცდაათი"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "და ასი"
+    },
+    {
+      "surface": "יום",
+      "gloss": "დღე"
+    }
+  ],
+  "timestamp": "2026-09-06T03:43:57.580587943Z",
+  "model": "glm-5.3"
+}

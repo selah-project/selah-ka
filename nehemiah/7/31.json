@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 7:31",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "მიქმასის კაცები — ას ოცდაორი.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "კაცები"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "მიქმასი"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "და ოცი"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "და ორი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:21:46.117461972Z",
+  "model": "glm-5.3"
+}

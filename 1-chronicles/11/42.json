@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 11:42",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "ადინა შიზაას ძე რაუბენელი, თავი რაუბენელთა, და მას თან ⟨იყვნენ⟩ ოცდაათი.",
+  "tokens": [
+    {
+      "surface": "עדינא",
+      "gloss": "ადინა"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "שיזא",
+      "gloss": "შიზაა"
+    },
+    {
+      "surface": "הראובני",
+      "gloss": "რაუბენელი"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "თავი"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "რაუბენელთა"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "მას თან"
+    },
+    {
+      "surface": "שלושים",
+      "gloss": "ოცდაათი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:30:24.128751026Z",
+  "model": "glm-5.3"
+}

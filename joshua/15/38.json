@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "joshua 15:38",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "დილყანი, და ჰა-მიცფე, და იოკთეელი,",
+  "tokens": [
+    {
+      "surface": "ודלען",
+      "gloss": "დილყანი"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "ჰა-მიცფე"
+    },
+    {
+      "surface": "ויקתאל",
+      "gloss": "იოკთეელი"
+    }
+  ],
+  "timestamp": "2026-09-06T17:59:31.591227140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "და ⟨את⟩ ოვალი, და ⟨את⟩ ავიმაელი, და ⟨את⟩ შევა.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ოვალი"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "ოვალი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ავიმაელი"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "ავიმაელი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "შევა"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "შევა"
+    }
+  ],
+  "timestamp": "2026-09-06T03:45:36.603114155Z",
+  "model": "glm-5.3"
+}

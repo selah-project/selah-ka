@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 44,
+  "translation": "გუნდის მმართველს — ქორახის ძეთათვის — მასქილი.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "გუნდის მმართველს"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ძეთათვის"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ქორახის"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "მასქილი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:44:02.694568361Z",
+  "model": "glm-5.3"
+}

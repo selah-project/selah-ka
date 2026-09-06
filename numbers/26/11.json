@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 26:11",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "და კორახის შვილები არ მოკვდნენ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "და შვილები"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "კორახის"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "მოკვდნენ"
+    }
+  ],
+  "timestamp": "2026-09-06T05:15:33.552960228Z",
+  "model": "glm-5.3"
+}

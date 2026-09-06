@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 98,
+  "translation": "მდინარეებმა დაატკაცინონ ხელი, ერთად მთებმა იმღერონ.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "მდინარეებმა"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "დაატკაცინონ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ხელი"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ერთად"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "მთებმა"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "იმღერონ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:01:22.994105258Z",
+  "model": "glm-5.3"
+}

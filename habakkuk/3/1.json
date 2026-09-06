@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 3:1",
+  "book": "habakkuk",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "ლოცვა ხაბაკუკ ნავისი (ხაბაბუკ წინასწარმეტყველისი), შიგიონოთზე.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "ლოცვა"
+    },
+    {
+      "surface": "לחבקוק",
+      "gloss": "ხაბაკუკის"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ნავისი"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "שגינות",
+      "gloss": "შიგიონოთი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:21:00.935582037Z",
+  "model": "glm-5.3"
+}

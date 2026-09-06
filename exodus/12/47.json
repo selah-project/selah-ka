@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "მთელმა იშრაელის კრებულმა ⟨את⟩ ის უნდა აღასრულოს.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "მთელი"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "კრებული"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "აღასრულოს"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ის"
+    }
+  ],
+  "timestamp": "2026-09-06T04:16:39.544215293Z",
+  "model": "glm-5.3"
+}

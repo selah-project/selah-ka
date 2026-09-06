@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 11:1",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "მრულის საწონები — სისაძაგეა იაჰვესთვის, და ქვა სრული — მისი სათნოება.",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "საწონები"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "მრულის"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "სისაძაგე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "და ქვა"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "სრული"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "მისი სათნოება"
+    }
+  ],
+  "timestamp": "2026-09-06T10:20:30.514227279Z",
+  "model": "glm-5.3"
+}

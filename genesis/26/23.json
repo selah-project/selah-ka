@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "და ავიდა იქიდან ბეერ-შებაში.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "და ავიდა"
+    },
+    {
+      "surface": "משם",
+      "gloss": "იქიდან"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ბეერ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "შება"
+    }
+  ],
+  "timestamp": "2026-09-06T03:54:11.220661705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "რადგან ადამიანი არ არის მართალ ქვეყანაზე, რომელიც კეთილს იქმს და არ შესცოდებს.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ადამიანი"
+    },
+    {
+      "surface": "אין",
+      "gloss": "არ არის"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "მართალი"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ქვეყანაზე"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "იქმს"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "კეთილს"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "შესცოდებს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:58:27.018122032Z",
+  "model": "glm-5.3"
+}

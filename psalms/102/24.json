@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 102,
+  "translation": "დამამცირა გზაში ჩემი ⟨არს⟩ ძალა; დაამოკლა ჩემი დღენი.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "დაამცირა"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "გზაში"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "ძალა"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "დაამოკლა"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "დღენი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:00:49.242765412Z",
+  "model": "glm-5.3"
+}

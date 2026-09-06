@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 7:14",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "ძენი ზაკაისი — შვიდას სამოცი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "ზაკაი"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "შვიდი"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "და სამოცი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:21:31.267173638Z",
+  "model": "glm-5.3"
+}

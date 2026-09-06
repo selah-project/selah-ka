@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 21:10",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "და დაიძრნენ იშრაელის შვილებმა და დაბანაკდნენ ობოთში.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "და დაიძრნენ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "და დაბანაკდნენ"
+    },
+    {
+      "surface": "באבת",
+      "gloss": "ობოთში"
+    }
+  ],
+  "timestamp": "2026-09-06T05:11:13.964235615Z",
+  "model": "glm-5.3"
+}

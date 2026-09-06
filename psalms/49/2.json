@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 49,
+  "translation": "ისმინეთ ეს, ყველა ხალხო; ყური მიაპყრეთ, ყველა სოფლის მცხოვრებნო.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ისმინეთ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ხალხებო"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "ყური მიაპყრეთ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "მცხოვრებნო"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "სოფელი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:45:30.055378217Z",
+  "model": "glm-5.3"
+}

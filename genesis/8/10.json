@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 8,
+  "translation": "და დაელოდა კიდევ შვიდ სხვა დღეს, და დაამატა გაგზავნა ⟨את⟩ მტრედი თევიდან.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "და დაელოდა"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "კიდევ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "შვიდ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "სხვა"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "და დაამატა"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "გაგზავნა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მტრედი"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "მტრედი"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-დან"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "თევა"
+    }
+  ],
+  "timestamp": "2026-09-06T03:44:16.511522731Z",
+  "model": "glm-5.3"
+}

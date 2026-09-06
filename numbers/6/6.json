@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 6:6",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "ყველა დღე მისი განშორებისა იაჰვესთვის — მკვდარ ნეფეშთან არ მივა.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "הזירו",
+      "gloss": "მისი განშორება"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "იაჰვესთვის"
+    },
+    {
+      "surface": "על",
+      "gloss": "თან"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ნეფეში"
+    },
+    {
+      "surface": "מת",
+      "gloss": "მკვდარი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "მივა"
+    }
+  ],
+  "timestamp": "2026-09-06T12:25:50.178260165Z",
+  "model": "glm-5.3"
+}

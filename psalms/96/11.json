@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 96,
+  "translation": "ილხენს ცა და იხარობს მიწა; იქუხლავს ზღვა და მისი სისავსე.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "ილხენს"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ცა"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "და იხარობს"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "იქუხლავს"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ზღვა"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "და მისი სისავსე"
+    }
+  ],
+  "timestamp": "2026-09-06T09:59:09.123613243Z",
+  "model": "glm-5.3"
+}

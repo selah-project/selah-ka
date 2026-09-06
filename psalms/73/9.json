@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 73,
+  "translation": "ცაში დადეს პირი მათი და ენა მათი დადის მიწაზე.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "დადეს"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ცაში"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "პირი მათი"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "და ენა მათი"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "დადის"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "მიწაზე"
+    }
+  ],
+  "timestamp": "2026-09-06T09:52:56.709130415Z",
+  "model": "glm-5.3"
+}

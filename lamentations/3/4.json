@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "დაჰღაფა ჩემი ხორცი და ჩემი კანი, დაამტვრა ჩემი ძვლები.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "დაჰღაფა"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ჩემი ხორცი"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "და ჩემი კანი"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "დაამტვრა"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "ჩემი ძვლები"
+    }
+  ],
+  "timestamp": "2026-09-06T10:52:56.540056814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 23:38",
+  "book": "2-samuel",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "ირა იათრიელი, გარებ იათრიელი.",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "ირა"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "იათრიელი"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "გარებ"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "იათრიელი"
+    }
+  ],
+  "timestamp": "2026-09-06T15:52:58.919324707Z",
+  "model": "glm-5.3"
+}

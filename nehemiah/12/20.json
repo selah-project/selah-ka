@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 12:20",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "სალაის — კალაი; ამოკს — ევერი.",
+  "tokens": [
+    {
+      "surface": "לסלי",
+      "gloss": "სალაის"
+    },
+    {
+      "surface": "קלי",
+      "gloss": "კალაი"
+    },
+    {
+      "surface": "לעמוק",
+      "gloss": "ამოკს"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ევერი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:24:16.102027013Z",
+  "model": "glm-5.3"
+}

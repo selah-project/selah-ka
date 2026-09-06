@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "და გაუკეთა მათ იცხაკმა ნადიმი, და ჭამეს და სვეს.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "და გაუკეთა"
+    },
+    {
+      "surface": "להם",
+      "gloss": "მათ"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ნადიმი"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "და ჭამეს"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "და სვეს"
+    }
+  ],
+  "timestamp": "2026-09-06T03:54:39.507519369Z",
+  "model": "glm-5.3"
+}

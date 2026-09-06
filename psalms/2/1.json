@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "რატომ აღიძრნენ ხალხები, და ტომები ჰზრახავენ ფუჭს?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "რატომ"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "აღიძრნენ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ხალხები"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "და ტომები"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "ჰზრახავენ"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ფუჭს"
+    }
+  ],
+  "timestamp": "2026-09-06T09:32:20.155796785Z",
+  "model": "glm-5.3"
+}

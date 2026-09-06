@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 50,
+  "translation": "თუ დამშიადება, არ გეტყვი შენ, რადგან ჩემი ⟨არის⟩ ქვეყანა და მისი სისავსე.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "დამშიადება"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "გეტყვი"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ჩემი"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ქვეყანა"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "და მისი სისავსე"
+    }
+  ],
+  "timestamp": "2026-09-06T09:44:40.575063705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 39:17",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 39,
+  "translation": "და დააგეს ორი ჯაჭვი ოქროსი ორ რგოლზე, ხოშენის ორივე ბოლოზე.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "და დააგეს"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ორი"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "ჯაჭვი"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ოქროსი"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ორი"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "რგოლი"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ბოლოები"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ხოშენი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:34:22.156620883Z",
+  "model": "glm-5.3"
+}

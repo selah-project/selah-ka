@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 21:19",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "და ავიდა დავიდი სიტყვით გადისას, რომელიც ის თქვა იაჰვეს სახელით.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "და ავიდა"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "დავიდი"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "სიტყვით"
+    },
+    {
+      "surface": "גד",
+      "gloss": "გადისას"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "სახელით"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვეს"
+    }
+  ],
+  "timestamp": "2026-09-06T11:36:14.958009779Z",
+  "model": "glm-5.3"
+}

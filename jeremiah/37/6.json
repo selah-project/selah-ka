@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 37:6",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 37,
+  "translation": "და იყო იაჰვეს სიტყვა ირმიაჰუ ნავის (წინასწარმეტყველის) მიმართ მეთქუენად:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "და იყო"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "სიტყვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს მიმართ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ირმიაჰუ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ნავი"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "მეთქუენად"
+    }
+  ],
+  "timestamp": "2026-09-06T08:22:45.616387579Z",
+  "model": "glm-5.3"
+}

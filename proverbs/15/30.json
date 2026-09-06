@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 15:30",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "თვალთა ნათელი გულს ახარებს, კეთილი ამბავი ძვალს აპკუტდებს.",
+  "tokens": [
+    {
+      "surface": "מאור",
+      "gloss": "ნათელი"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "თვალთა"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ახარებს"
+    },
+    {
+      "surface": "לב",
+      "gloss": "გულს"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "ამბავი"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "კეთილი"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "აპკუტდებს"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "ძვალს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:22:19.589122022Z",
+  "model": "glm-5.3"
+}

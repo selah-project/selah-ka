@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 9:29",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "მე ⟨ვიქნები⟩ დამნაშავე; რატომ ⟨ეს⟩? ამაოდ ვიღლები.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "მე"
+    },
+    {
+      "surface": "ארשע",
+      "gloss": "დავმნაშავდები"
+    },
+    {
+      "surface": "למה",
+      "gloss": "რატომ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ამაოდ"
+    },
+    {
+      "surface": "איגע",
+      "gloss": "ვიღლები"
+    }
+  ],
+  "timestamp": "2026-09-06T14:33:43.732707523Z",
+  "model": "glm-5.3"
+}

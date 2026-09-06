@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 16:18",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 16,
+  "translation": "დამხობას წინ უძღვის გაოროება, და წახდომას წინ უძღვის ამაყი სული.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "წინ უძღვის"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "დამხობა"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "გაოროება"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "და წინ უძღვის"
+    },
+    {
+      "surface": "כשלון",
+      "gloss": "წახდომა"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ამაყი"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "სული"
+    }
+  ],
+  "timestamp": "2026-09-06T10:22:06.516340834Z",
+  "model": "glm-5.3"
+}

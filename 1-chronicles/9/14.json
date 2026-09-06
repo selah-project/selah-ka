@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 9:14",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "და ლევიანთაგან: შემაყრია, ძე ხაშუბისა, ძე ყაზრიყამისა, ძე ხაშავიასი, მერარელთა ძეთაგან.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "და -გან"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ლევიანები"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "შემაყრია"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "ხაშუბი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "ყაზრიყამი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ხაშავია"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-გან"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "მერარი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:30:50.549308669Z",
+  "model": "glm-5.3"
+}

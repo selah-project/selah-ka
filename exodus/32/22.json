@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 32,
+  "translation": "და თქვა აჰარონმა: ნუ აღინთებს ჩემო ბატონო რისხვა; შენ იცი ⟨את⟩ ხალხი — რომ ბოროტებაში ⟨არის⟩ ის.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "აჰარონი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "აღინთებს"
+    },
+    {
+      "surface": "אף",
+      "gloss": "რისხვა"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ბატონო"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "იცი"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ხალხი"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ბოროტებაში"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    }
+  ],
+  "timestamp": "2026-09-06T04:29:36.288763752Z",
+  "model": "glm-5.3"
+}

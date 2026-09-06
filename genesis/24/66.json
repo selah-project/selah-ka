@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "და მოყვა მსახურმა იცხაკს ⟨את⟩ ყველა საქმე, რომელიც ქმნა.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "მოყვა"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "მსახურმა"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "იცხაკს"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ყველა საქმე"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "საქმე"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელიც"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ქმნა"
+    }
+  ],
+  "timestamp": "2026-09-06T03:52:35.764948406Z",
+  "model": "glm-5.3"
+}

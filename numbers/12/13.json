@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 12:13",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "და შეჰღაღადა მოშემ იაჰვეს, სათქმელად: ელი, გევედრები, განკურნე, გევედრები, იგი.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "შეჰღაღადა"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ს"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ელი"
+    },
+    {
+      "surface": "נא",
+      "gloss": "გევედრები"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "განკურნე"
+    },
+    {
+      "surface": "נא",
+      "gloss": "გევედრები"
+    },
+    {
+      "surface": "לה",
+      "gloss": "იგი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:06:37.080634900Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "რადგან იტყვის: განა ჩემი მთავრები ერთად მეფეები არ არიან?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "იტყვის"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "განა არა"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ჩემი მთავრები"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ერთად"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "მეფეები"
+    }
+  ],
+  "timestamp": "2026-09-06T07:32:49.649447278Z",
+  "model": "glm-5.3"
+}

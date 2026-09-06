@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და თუ მახაბატზე ⟨არის⟩ მინხა — შენი კორბანი — სოლეთი, ზეთში აღრეული, მაცა იყოს.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "და თუ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "მინხა"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "მახაბატი"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "შენი კორბანი"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "სოლეთი"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "აღრეული"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ზეთში"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "მაცა"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "იყოს"
+    }
+  ],
+  "timestamp": "2026-09-06T04:35:19.483284798Z",
+  "model": "glm-5.3"
+}

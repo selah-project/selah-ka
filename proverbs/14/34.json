@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 14:34",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "სიმართლე ამაღლებს ერს, ხოლო ხალხთა ხესედი ცოდვა ⟨არის⟩.",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "სიმართლე"
+    },
+    {
+      "surface": "תרומם",
+      "gloss": "ამაღლებს"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ერი"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "ხოლო ხესედი"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ხალხთა"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ცოდვა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:21:01.958364949Z",
+  "model": "glm-5.3"
+}

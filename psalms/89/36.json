@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 89,
+  "translation": "ერთხელ დავიფიცე ჩემი სიწმიდით: არ მივტყუებ დავითს.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "ერთხელ"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "დავიფიცე"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "ჩემი სიწმიდით"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨მართლაც⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "დავითს"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "მივტყუებ"
+    }
+  ],
+  "timestamp": "2026-09-06T09:57:52.416947185Z",
+  "model": "glm-5.3"
+}

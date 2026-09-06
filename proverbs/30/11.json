@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 30,
+  "translation": "თაობა ⟨არის⟩ — მამას დასწყევლის, და ⟨את⟩ დედას არ აკურთხებს.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "თაობა"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "მამას"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "დასწყევლის"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "დედას"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "დედას"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "აკურთხებს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:27:36.370943464Z",
+  "model": "glm-5.3"
+}

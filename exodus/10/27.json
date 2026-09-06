@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "და განუმტკიცა იაჰვემ ⟨את⟩ გული ფაროჰესი, და არ ისურვა მათი გაშვება.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "განუმტკიცა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "გული"
+    },
+    {
+      "surface": "לב",
+      "gloss": "გული"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ფაროჰე"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "ისურვა"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "მათი გაშვება"
+    }
+  ],
+  "timestamp": "2026-09-06T12:11:41.799958385Z",
+  "model": "glm-5.3"
+}

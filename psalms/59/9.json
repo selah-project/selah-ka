@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 59,
+  "translation": "და შენ, იაჰვე, იცინი მათზე; დასცინი ყველა ხალხს.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "და შენ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "იცინის"
+    },
+    {
+      "surface": "למו",
+      "gloss": "მათზე"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "დასცინის"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ყველას"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ხალხები"
+    }
+  ],
+  "timestamp": "2026-09-06T09:48:37.502761562Z",
+  "model": "glm-5.3"
+}

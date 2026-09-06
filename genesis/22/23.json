@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 22:23",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "და ბეთუელმა შვა ⟨את⟩ რივკა; ეს რვა შვა მილკამ ნახორს, აბრაჰამის ძმას.",
+  "tokens": [
+    {
+      "surface": "ובתואל",
+      "gloss": "და ბეთუელი"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "რივკა"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "რივკა"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "რვა"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "მილკა"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "ნახორს"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ძმა"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "აბრაჰამი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:03:37.440496884Z",
+  "model": "glm-5.3"
+}

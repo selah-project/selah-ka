@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "მათ ხორცს არ შეჭამთ და მათ ლეშს არ შეეხებით — უწმინდურნი ⟨არიან⟩ ისინი თქვენთვის.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "მათ ხორცს"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "შეჭამთ"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "და მათ ლეშს"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "შეეხებით"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "უწმინდურნი"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ისინი"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "თქვენთვის"
+    }
+  ],
+  "timestamp": "2026-09-06T04:40:09.946106264Z",
+  "model": "glm-5.3"
+}

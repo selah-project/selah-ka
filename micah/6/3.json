@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 6:3",
+  "book": "micah",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "ხალხო ჩემო, რა გიყავი შენ და რით დაგღალე? მიპასუხე მე.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "ხალხო ჩემო"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "გიყავი"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "და რით"
+    },
+    {
+      "surface": "הלאתיך",
+      "gloss": "დაგღალე"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "მიპასუხე"
+    },
+    {
+      "surface": "בי",
+      "gloss": "მე"
+    }
+  ],
+  "timestamp": "2026-09-06T09:19:34.171995395Z",
+  "model": "glm-5.3"
+}

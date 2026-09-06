@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 11:15",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "და ლევიტებიდან: შემაიაჰი ხაშუვის ძე, აზრიკამის ძე, ხაშავიაჰის ძე, ბუნის ძე;",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "და …-იდან"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ლევიტები"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "შემაიაჰი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "ხაშუვი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "აზრიკამი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ხაშავიაჰი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "בוני",
+      "gloss": "ბუნი"
+    }
+  ],
+  "timestamp": "2026-09-06T18:45:15.286770683Z",
+  "model": "glm-5.3"
+}

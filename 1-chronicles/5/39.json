@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "და შალუმმა გაუჩინა ⟨את⟩ ხილქია, და ხილქიამ გაუჩინა ⟨את⟩ აზარია.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "და შალუმი"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "გაუჩინა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ხილქია"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "ხილქია"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "და ხილქია"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "გაუჩინა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "აზარია"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "აზარია"
+    }
+  ],
+  "timestamp": "2026-09-06T11:27:16.135649497Z",
+  "model": "glm-5.3"
+}

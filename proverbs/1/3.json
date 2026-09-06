@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 1:3",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "მისაღებად მუსარისა ჰასქელისა — ცედექისა და მიშფატისა და მეშარიმისა,",
+  "tokens": [
+    {
+      "surface": "לקחת",
+      "gloss": "აღება"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "მუსარი"
+    },
+    {
+      "surface": "השכל",
+      "gloss": "ჰასქელი"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ცედექი"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "და მიშფატი"
+    },
+    {
+      "surface": "ומישרים",
+      "gloss": "და მეშარიმი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:15:12.870008791Z",
+  "model": "glm-5.3"
+}

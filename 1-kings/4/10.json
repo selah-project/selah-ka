@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "ბენ-ხესედი — არუბოთში; მას ⟨ეკუთვნოდა⟩ სოქო და ხეფერის მთელი მიწა.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ბენ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ხესედი"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "არუბოთში"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "სოქო"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "და მთელი"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "ხეფერი"
+    }
+  ],
+  "timestamp": "2026-09-06T06:52:03.012149005Z",
+  "model": "glm-5.3"
+}

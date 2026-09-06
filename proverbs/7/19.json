@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "რადგან კაცი არ ⟨არის⟩ თავის სახლში, წავიდა შორეულ გზაზე.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "אין",
+      "gloss": "არ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "თავის სახლში"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "წავიდა"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "გზაზე"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "შორეულ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:18:27.069733812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "ezra 2:33",
+  "book": "ezra",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "ლოდის, ხადიდის და ონოს შვილები — შვიდას ოცდახუთი.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "შვილები"
+    },
+    {
+      "surface": "לד",
+      "gloss": "ლოდი"
+    },
+    {
+      "surface": "חדיד",
+      "gloss": "ხადიდი"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "და ონო"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "შვიდი"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ოცი"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "და ხუთი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:13:09.923831031Z",
+  "model": "glm-5.3"
+}

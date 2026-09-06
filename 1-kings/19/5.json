@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 19:5",
+  "book": "1-kings",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "დაწვა და დაიძინა ერთი როთემის ქვეშ, და აჰა, ეს მალაქი შეეხო მას და უთხრა მას: ადგი, ჭამე.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "დაწვა"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "დაიძინა"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ქვეშ"
+    },
+    {
+      "surface": "רתם",
+      "gloss": "როთემი"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ერთი"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "და აჰა"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "მალაქი"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "შეეხო"
+    },
+    {
+      "surface": "בו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "უთხრა"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ადგი"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "ჭამე"
+    }
+  ],
+  "timestamp": "2026-09-06T07:07:01.362522057Z",
+  "model": "glm-5.3"
+}

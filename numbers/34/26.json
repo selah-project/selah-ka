@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 34:26",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 34,
+  "translation": "და ისაქარის ძეთა ტომისთვის მთავარი ფალთიელი აზანის ძე.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "და ტომისთვის"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძეთა"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ისაქარის"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "მთავარი"
+    },
+    {
+      "surface": "פלטיאל",
+      "gloss": "ფალთიელი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "עזן",
+      "gloss": "აზანის"
+    }
+  ],
+  "timestamp": "2026-09-06T05:20:25.291637893Z",
+  "model": "glm-5.3"
+}

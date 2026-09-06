@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 39:5",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 39,
+  "translation": "ველის პირზე დავარდები, რადგან მე ვთქვი — ორაკული ადონაი იაჰვესი.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ზედაპირზე"
+    },
+    {
+      "surface": "פני",
+      "gloss": "პირი"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ველი"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "დავარდები"
+    },
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ვთქვი"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ორაკული"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ადონაი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T08:57:20.234323792Z",
+  "model": "glm-5.3"
+}

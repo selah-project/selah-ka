@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 13:1",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "რვა-მეათე წელს იაროვამ მეფისა, გამეფდა აბიიაჰ იეჰუდაზე.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "წელს"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "რვა"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ათი"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "იაროვამი"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "გამეფდა"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "აბიიაჰ"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ზე"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "იეჰუდა"
+    }
+  ],
+  "timestamp": "2026-09-06T11:49:05.776458098Z",
+  "model": "glm-5.3"
+}

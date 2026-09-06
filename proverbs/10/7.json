@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 10:7",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "მართლის ხსოვნა კურთხევად ⟨არის⟩, ბოროტთა სახელი კი დალპება.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ხსოვნა"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "მართალი"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "კურთხევად"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "და სახელი"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ბოროტნი"
+    },
+    {
+      "surface": "ירקב",
+      "gloss": "დალპება"
+    }
+  ],
+  "timestamp": "2026-09-06T17:03:43.998498377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 33,
+  "translation": "იცოცხლოს რეუვენი და არ მოკვდეს, და იყვნენ მისი მამაკაცები რიცხვად.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "იცოცხლოს"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "რეუვენი"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "მოკვდეს"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "და იყვნენ"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "მისი მამაკაცები"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "რიცხვად"
+    }
+  ],
+  "timestamp": "2026-09-06T12:36:28.703515916Z",
+  "model": "glm-5.3"
+}

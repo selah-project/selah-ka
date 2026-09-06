@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 39:7",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 39,
+  "translation": "იცინის ქალაქის აღრევაზე, მეჯირის ყვირილს არ ისმენს.",
+  "tokens": [
+    {
+      "surface": "ישחק",
+      "gloss": "იცინის"
+    },
+    {
+      "surface": "להמון",
+      "gloss": "აღრევა"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "ქალაქი"
+    },
+    {
+      "surface": "תשאות",
+      "gloss": "ყვირილი"
+    },
+    {
+      "surface": "נוגש",
+      "gloss": "მეჯირე"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ისმენს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:45:18.819125901Z",
+  "model": "glm-5.3"
+}

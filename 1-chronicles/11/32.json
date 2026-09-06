@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 11:32",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "ხურაი ნახალე-გააშის ხეობებიდან, აბიელ არბათელი.",
+  "tokens": [
+    {
+      "surface": "חורי",
+      "gloss": "ხურაი"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "ხეობებიდან"
+    },
+    {
+      "surface": "געש",
+      "gloss": "გააშის"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "აბიელი"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "არბათელი"
+    }
+  ],
+  "timestamp": "2026-09-06T15:09:48.809455425Z",
+  "model": "glm-5.3"
+}

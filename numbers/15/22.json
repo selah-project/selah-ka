@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 15:22",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "და თუ შეცდებით და არ აღასრულებთ ⟨את⟩ ყველა ამ მცნებას, რომელსაც უთხრა იაჰვემ მოშეს (მოსე),",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "და თუ"
+    },
+    {
+      "surface": "תשגו",
+      "gloss": "შეცდებით"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არა"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "აღასრულებთ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ყველა"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "მცნება"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელი"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "იტყვის"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    }
+  ],
+  "timestamp": "2026-09-06T05:10:42.439672836Z",
+  "model": "glm-5.3"
+}

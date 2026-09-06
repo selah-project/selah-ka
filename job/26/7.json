@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 26:7",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "შლის ჩრდილოეთს ქაოსს ზემოთ, კიდებს მიწას არაფერზე.",
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "შლის"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ჩრდილოეთი"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "ქაოსი"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "კიდებს"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "არა"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:40:35.885810650Z",
+  "model": "glm-5.3"
+}

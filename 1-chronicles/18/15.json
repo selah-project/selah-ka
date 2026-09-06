@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 18:15",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 18,
+  "translation": "და იოავი წერუიას ძე ⟨იყო⟩ ლაშქარზე, და იეჰოშაფატი ახილუდის ძე — მასწამატებელი.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "და იოავი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "წერუია"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ლაშქარი"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "და იეჰოშაფატი"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "ახილუდი"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "მასწამატებელი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:34:48.415337502Z",
+  "model": "glm-5.3"
+}

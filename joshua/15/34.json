@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 15:34",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "ზანოახი, ენ-განიმი, თაფუახი და ჰა-ენამი.",
+  "tokens": [
+    {
+      "surface": "וזנוח",
+      "gloss": "და ზანოახი"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "და ენ"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "განიმი"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "თაფუახი"
+    },
+    {
+      "surface": "והעינם",
+      "gloss": "და ჰა-ენამი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:53:56.734819203Z",
+  "model": "glm-5.3"
+}

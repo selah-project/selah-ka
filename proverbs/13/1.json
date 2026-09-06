@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 13,
+  "translation": "ბრძენი შვილი ⟨ისმენს⟩ მამის მოძღვრებას, ხოლო დამცინავმა არ ისმინა მკალათება.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "შვილი"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ბრძენი"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "მოძღვრება"
+    },
+    {
+      "surface": "אב",
+      "gloss": "მამა"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "და დამცინავი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ისმინა"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "მკალათება"
+    }
+  ],
+  "timestamp": "2026-09-06T10:20:56.982771739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 26:4",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "⟨את⟩ ვის უთხრა სიტყვები, და ვისი სული გამოვიდა შენგან?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ვის"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "უთხრა"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "სიტყვები"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "და სული"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ვისი"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "გამოვიდა"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "შენგან"
+    }
+  ],
+  "timestamp": "2026-09-06T10:40:18.884913388Z",
+  "model": "glm-5.3"
+}

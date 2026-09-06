@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "ხოლო ⟨את⟩ ხორცი და ⟨את⟩ ტყავი დაწვა ცეცხლით ბანაკს გარეთ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ხორცი"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ხორცი"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ტყავი"
+    },
+    {
+      "surface": "העור",
+      "gloss": "ტყავი"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "დაწვა"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ცეცხლით"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "გარეთ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ბანაკი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:39:33.927213161Z",
+  "model": "glm-5.3"
+}

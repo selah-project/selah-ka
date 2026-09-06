@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 27:25",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 27,
+  "translation": "და ყოველი შენი შეფასება იყოს სიწმინდის შეკელით: ოცი გერა ⟨არის⟩ შეკელი.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "და ყოველი"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "შენი შეფასება"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "იყოს"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "შეკელით"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "სიწმინდე"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ოცი"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "გერა"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "იყოს"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "შეკელი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:23:54.592262396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 73,
+  "translation": "შენი ზრახვით მიმიძღვრი, და შემდეგ დიდებით მიმიღებ.",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "შენი ზრახვით"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "მიმიძღვრი"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "და შემდეგ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "დიდება"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "მიმიღებ"
+    }
+  ],
+  "timestamp": "2026-09-06T14:08:20.661222610Z",
+  "model": "glm-5.3"
+}

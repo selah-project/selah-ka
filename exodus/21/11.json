@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 21:11",
+  "book": "exodus",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "და თუ ეს სამი არ უყოს მას, გააქვს უსასყიდლოდ — არ ⟨არის⟩ ვერცხლი.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "და თუ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "სამი"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "უყოს"
+    },
+    {
+      "surface": "לה",
+      "gloss": "მას"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "გააქვს"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "უსასყიდლოდ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "არ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ვერცხლი"
+    }
+  ],
+  "timestamp": "2026-09-06T04:21:51.702812915Z",
+  "model": "glm-5.3"
+}

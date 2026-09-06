@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 28:28",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 28,
+  "translation": "შეგცემს იაჰვე სიგიჟით, და სიბრმავით, და გულის შეძრწუნებით.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "შეგცემს"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "בשגעון",
+      "gloss": "სიგიჟით"
+    },
+    {
+      "surface": "ובעורון",
+      "gloss": "და სიბრმავით"
+    },
+    {
+      "surface": "ובתמהון",
+      "gloss": "და შეძრწუნებით"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "გული"
+    }
+  ],
+  "timestamp": "2026-09-06T05:40:50.367793457Z",
+  "model": "glm-5.3"
+}

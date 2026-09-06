@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 5:11",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "მოტკიბილი ⟨არის⟩ მონის ძილი — თუ ცოტას ჭამს და თუ ბევრს; ხოლო განძღომა მდიდრისა არ აცალებს მას დაიძინოს.",
+  "tokens": [
+    {
+      "surface": "מתוקה",
+      "gloss": "მოტკიბილი"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ძილი"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "მონა"
+    },
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ცოტა"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "და თუ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ბევრი"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ჭამს"
+    },
+    {
+      "surface": "והשבע",
+      "gloss": "და განძღომა"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "მდიდარს"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "არა ის"
+    },
+    {
+      "surface": "מניח",
+      "gloss": "აცალებს"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "לישון",
+      "gloss": "დაიძინოს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:58:04.866544844Z",
+  "model": "glm-5.3"
+}

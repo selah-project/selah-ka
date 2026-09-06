@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 6:24",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "დაგლოცოს შენ იაჰვემ და დაგიცავდეს.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "დაგლოცოს შენ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "וישמרך",
+      "gloss": "და დაგიცავდეს"
+    }
+  ],
+  "timestamp": "2026-09-06T05:02:07.392676450Z",
+  "model": "glm-5.3"
+}

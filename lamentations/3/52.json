@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "lamentations 3:52",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "მტრებმა მომადევნეს ჩიტივით უმიზეზოდ.",
+  "tokens": [
+    {
+      "surface": "צוד",
+      "gloss": "დევნა"
+    },
+    {
+      "surface": "צדוני",
+      "gloss": "მომადევნეს"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "ჩიტივით"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "მტრებმა"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "უმიზეზოდ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:52:17.866389190Z",
+  "model": "glm-5.3"
+}

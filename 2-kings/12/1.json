@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 12:1",
+  "book": "2-kings",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "შვიდი წლის ⟨იყო⟩ იეჰოაში (იოაში) თავის მეფობაში.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "წლის ძე"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "შვიდი"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "წელი"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "იეჰოაში (იოაში)"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "მეფობაში"
+    }
+  ],
+  "timestamp": "2026-09-06T16:54:54.677786245Z",
+  "model": "glm-5.3"
+}

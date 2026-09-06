@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 19:1",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "და მოხდა ამის შემდეგ: მოკვდა ნახაში (ნახაში), მეფე ამონის ძეთა, და მეფობდა მისი ძე მის ნაცვლად.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "მოხდა"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "შემდეგ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ამის"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "მოკვდა"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ნახაში"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძეთა"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ამონის"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "მეფობდა"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი ძე"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "მის ნაცვლად"
+    }
+  ],
+  "timestamp": "2026-09-06T11:35:42.063770937Z",
+  "model": "glm-5.3"
+}

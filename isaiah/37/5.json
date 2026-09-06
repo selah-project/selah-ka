@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 37,
+  "translation": "და მივიდნენ მეფე ხიზქიაჰუს მსახურნი იეშაიაჰუსთან.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "მივიდნენ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "მსახურნი"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ხიზქიაჰუ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "თან"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "იეშაიაჰუ"
+    }
+  ],
+  "timestamp": "2026-09-06T07:45:04.716176146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "ka",
+  "chapter": 50,
+  "translation": "ადონაი იაჰვემ გახსნა ჩემი ყური, და მე არ ავუჯანყდი, უკან არ დავიხე.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ადონაი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "გახსნა"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ჩემი"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ყური"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "და მე"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "ავუჯანყდი"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "უკან"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "დავიხე"
+    }
+  ],
+  "timestamp": "2026-09-06T07:53:16.558592508Z",
+  "model": "glm-5.3"
+}

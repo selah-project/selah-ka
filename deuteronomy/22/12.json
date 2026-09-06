@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 22:12",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "კინძულები გაიკეთე შენთვის შენი საფარველის ოთხ კუთხეზე, რომლითაც დაიფარავ მას.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "კინძულები"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "გაიკეთე"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენთვის"
+    },
+    {
+      "surface": "על",
+      "gloss": "ზე"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ოთხ"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "კუთხეები (ფრთები)"
+    },
+    {
+      "surface": "כסותך",
+      "gloss": "შენი საფარველი"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელსაც"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "დაიფარავ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "მისი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:33:23.761855469Z",
+  "model": "glm-5.3"
+}

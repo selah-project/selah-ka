@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "მითხრა ჩემთვის: ვინ ხარ შენ? და ვუთხარი მას: ამალეკელი ვარ მე.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "მითხრა"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ჩემთვის"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ვინ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ხარ შენ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ვუთხარი"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "ამალეკელი"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "მე"
+    }
+  ],
+  "timestamp": "2026-09-06T06:33:19.965450812Z",
+  "model": "glm-5.3"
+}

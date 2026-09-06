@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "haggai 2:11",
+  "book": "haggai",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "ასე თქვა იაჰვე ცევაოთმა: იკითხე ნა ⟨את⟩ მღვდლებთან თორა, სათქმელად:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ცევაოთი"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "იკითხე"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ნა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მღვდლებთან"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "მღვდლები"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "თორა"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T13:50:04.727696077Z",
+  "model": "glm-5.3"
+}

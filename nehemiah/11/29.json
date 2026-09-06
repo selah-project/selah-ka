@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 11:29",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 11,
+  "translation": "და ენ-რიმონში (ცორაჰი) და ცორაჰში, და იარმუთში,",
+  "tokens": [
+    {
+      "surface": "ובעין",
+      "gloss": "და ენ-რიმონში"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "რიმონი"
+    },
+    {
+      "surface": "ובצרעה",
+      "gloss": "და ცორაჰში"
+    },
+    {
+      "surface": "ובירמות",
+      "gloss": "და იარმუთში"
+    }
+  ],
+  "timestamp": "2026-09-06T18:46:03.222219492Z",
+  "model": "glm-5.3"
+}

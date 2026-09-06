@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 135,
+  "translation": "მათი მოქმედნი მათნივით იქნებიან, ყველა, ვისაც მათ ჰსწამს.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "მათნივით"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "იქნებიან"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "მათი მოქმედნი"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "რომელი"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ჰსწამს"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "მათ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:11:01.331258232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 19:24",
+  "book": "2-samuel",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "და თქვა მეფემ შიმის: არ მოკვდები; და შეჰფიცა მას მეფემ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "მეფე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "თან"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "შიმი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "მოკვდე"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "და შეჰფიცა"
+    },
+    {
+      "surface": "לו",
+      "gloss": "მას"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "მეფე"
+    }
+  ],
+  "timestamp": "2026-09-06T06:45:53.553702312Z",
+  "model": "glm-5.3"
+}

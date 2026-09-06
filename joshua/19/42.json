@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 19:42",
+  "book": "joshua",
+  "lang": "ka",
+  "chapter": 19,
+  "translation": "და შაალაბინი, და აიალონი (აიალონი), და ითლაჰი.",
+  "tokens": [
+    {
+      "surface": "ושעלבין",
+      "gloss": "და შაალაბინი"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "და აიალონი"
+    },
+    {
+      "surface": "ויתלה",
+      "gloss": "და ითლაჰი"
+    }
+  ],
+  "timestamp": "2026-09-06T12:40:21.108631414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 31:25",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 31,
+  "translation": "და თქვა იაჰვემ მოშეს (მოსე): ⟨სათქმელად⟩",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "წინადადება „-სკენ“"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "სათქმელად"
+    }
+  ],
+  "timestamp": "2026-09-06T16:49:39.507565214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 15:24",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "სიცოცხლის გზა ⟨არის⟩ ზემოთ გონიერისთვის, რათა მიერიდოს ქვემოთა შეოლს.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "გზა"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "სიცოცხლე"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ზემოთ"
+    },
+    {
+      "surface": "למשכיל",
+      "gloss": "გონიერისთვის"
+    },
+    {
+      "surface": "למען",
+      "gloss": "რათა"
+    },
+    {
+      "surface": "סור",
+      "gloss": "გაერიდოს"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "შეოლს"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ქვემოთ"
+    }
+  ],
+  "timestamp": "2026-09-06T10:21:43.299721467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 34:23",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 34,
+  "translation": "რადგან არ დასვამს კაცს მეტად, რომ მივიდეს ელისკენ სამსახურში.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "על",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "დასვამს"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "მეტად"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "სასვლელად"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ელისკენ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ელი"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "სამსახურში"
+    }
+  ],
+  "timestamp": "2026-09-06T10:43:26.220256975Z",
+  "model": "glm-5.3"
+}

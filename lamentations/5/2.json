@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 5:2",
+  "book": "lamentations",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "ჩვენი სამკვიდრებელი უცხოებს გადაეცა, ჩვენი სახლები — უცხოტომებს.",
+  "tokens": [
+    {
+      "surface": "נחלתנו",
+      "gloss": "ჩვენი სამკვიდრებელი"
+    },
+    {
+      "surface": "נהפכה",
+      "gloss": "გადაეცა"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "უცხოებს"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "ჩვენი სახლები"
+    },
+    {
+      "surface": "לנכרים",
+      "gloss": "უცხოტომებს"
+    }
+  ],
+  "timestamp": "2026-09-06T10:55:38.450687454Z",
+  "model": "glm-5.3"
+}

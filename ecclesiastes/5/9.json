@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "უყვარს ვერცხლი — ვერ განძღება ვერცხლით; და ვისაც უყვარს სიმრავლე — არ ⟨არის⟩ მოსავალი; აგრეთვე ეს ⟨არის⟩ ჰებელი.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "მოყვარე"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ვერცხლი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "განძღება"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ვერცხლი"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "და ვინ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "მოყვარე"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "სიმრავლე"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "მოსავალი"
+    },
+    {
+      "surface": "גם",
+      "gloss": "აგრეთვე"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ჰებელი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:58:04.866131979Z",
+  "model": "glm-5.3"
+}

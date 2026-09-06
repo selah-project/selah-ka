@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 14,
+  "translation": "ყველა ესენი შეუერთდნენ სიდიმის ველს — ის ⟨არის⟩ მარილის ზღვა.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ესენი"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "შეუერთდნენ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ველი"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "სიდიმის"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ზღვა"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "მარილის"
+    }
+  ],
+  "timestamp": "2026-09-06T03:47:05.160880926Z",
+  "model": "glm-5.3"
+}

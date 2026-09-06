@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 2:27",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 2,
+  "translation": "და იყვნენ შვილნი რამის, პირმშო იერახმელისა: მააცი, და იამინი და ეკერი.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "იყვნენ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "შვილნი"
+    },
+    {
+      "surface": "רם",
+      "gloss": "რამი"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "პირმშო"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "იერახმელის"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "მააცი"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "და იამინი"
+    },
+    {
+      "surface": "ועקר",
+      "gloss": "და ეკერი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:26:20.447230774Z",
+  "model": "glm-5.3"
+}

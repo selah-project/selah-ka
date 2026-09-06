@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 21:13",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 21,
+  "translation": "ხურავს ყურს ღარიბის ყოყღანისგან — თვითონაც იღაღადებს და არ ექნება პასუხი.",
+  "tokens": [
+    {
+      "surface": "אטם",
+      "gloss": "ხურავს"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ყურს"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "ყოყღანისგან"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ღარიბის"
+    },
+    {
+      "surface": "גם",
+      "gloss": "თვითონაც"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "იღაღადებს"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "და არ"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ექნება პასუხი"
+    }
+  ],
+  "timestamp": "2026-09-06T10:23:22.391095018Z",
+  "model": "glm-5.3"
+}

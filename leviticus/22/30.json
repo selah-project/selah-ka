@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "იმ დღეს უნდა შეიჭმეს; არ დატოვოთ მისგან ⟨არაფერი⟩ დილამდე: მე ვარ იაჰვე.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "იმ დღეს"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "იმ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "შეიჭმეს"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "დატოვოთ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "მისგან"
+    },
+    {
+      "surface": "עד",
+      "gloss": "მდე"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "დილა"
+    },
+    {
+      "surface": "אני",
+      "gloss": "მე"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T04:48:04.250807290Z",
+  "model": "glm-5.3"
+}

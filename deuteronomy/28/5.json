@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 28,
+  "translation": "კურთხეული ⟨იყოს⟩ შენი კალათა და შენი ცომის აუზი.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "კურთხეული"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "შენი კალათა"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "და შენი ცომის აუზი"
+    }
+  ],
+  "timestamp": "2026-09-06T05:40:27.788251189Z",
+  "model": "glm-5.3"
+}

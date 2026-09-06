@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 3:5",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "რადგან არ ხარ გაგზავნილი ღრმა ბაგისა და მძიმე ენის ხალხთან, არამედ იშრაელის სახლთან.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ხალხი"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "ღრმა"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ბაგი"
+    },
+    {
+      "surface": "וכבדי",
+      "gloss": "და მძიმე"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ენა"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "გაგზავნილი"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "სახლი"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "იშრაელი"
+    }
+  ],
+  "timestamp": "2026-09-06T08:36:20.672137900Z",
+  "model": "glm-5.3"
+}

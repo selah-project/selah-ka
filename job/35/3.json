@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 35:3",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 35,
+  "translation": "რომ ამბობ: რას გარგებს შენ, რას ვიღებ ჩემი ცოდვისგან?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რომ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ამბობ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "არგებს"
+    },
+    {
+      "surface": "לך",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "რა"
+    },
+    {
+      "surface": "אעיל",
+      "gloss": "ვიღებ"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "ჩემი ცოდვისგან"
+    }
+  ],
+  "timestamp": "2026-09-06T10:43:45.089273491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "ვიხარებ და ვილხენ შენში; გალობ სახელსა შენსა, ელიონო.",
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "ვიხარებ"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "და ვილხენ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "შენში"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "გალობ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "სახელსა შენსა"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ელიონო"
+    }
+  ],
+  "timestamp": "2026-09-06T09:34:41.630109614Z",
+  "model": "glm-5.3"
+}

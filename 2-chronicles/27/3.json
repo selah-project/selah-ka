@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 27,
+  "translation": "ის ააშენა ⟨את⟩ ზემო კარიბჭე იაჰვეს სახლის, და ოფელის კედელზე ააშენა უხვად.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ააშენა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ზემო კარიბჭე"
+    },
+    {
+      "surface": "שער",
+      "gloss": "კარიბჭე"
+    },
+    {
+      "surface": "בית",
+      "gloss": "სახლი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "ზემო"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "და ოფელის კედელზე"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "ოფელი"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ააშენა"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "უხვად"
+    }
+  ],
+  "timestamp": "2026-09-06T15:20:40.183632731Z",
+  "model": "glm-5.3"
+}

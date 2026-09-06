@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "ნუ იქნები ბრძენი შენს თვალებში; ეშინია ⟨את⟩ იაჰვესი და განერიდე ბოროტებას.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ნუ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "იქნები"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ბრძენი"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "შენს თვალებში"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ეშინია"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "იაჰვესი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "და განერიდე"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ბოროტებას"
+    }
+  ],
+  "timestamp": "2026-09-06T10:15:55.669328245Z",
+  "model": "glm-5.3"
+}

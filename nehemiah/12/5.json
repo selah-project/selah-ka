@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 12:5",
+  "book": "nehemiah",
+  "lang": "ka",
+  "chapter": 12,
+  "translation": "მიამინი, მაადიაჰი, ბილგაჰი,",
+  "tokens": [
+    {
+      "surface": "מימין",
+      "gloss": "მიამინი"
+    },
+    {
+      "surface": "מעדיה",
+      "gloss": "მაადიაჰი"
+    },
+    {
+      "surface": "בלגה",
+      "gloss": "ბილგაჰი"
+    }
+  ],
+  "timestamp": "2026-09-06T18:45:12.147404555Z",
+  "model": "glm-5.3"
+}

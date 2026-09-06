@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "ka",
+  "chapter": 89,
+  "translation": "მაშქილი — ეითანისი, ეზრახელისი.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "მაშქილი"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "ეითანის"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "ეზრახელი"
+    }
+  ],
+  "timestamp": "2026-09-06T09:58:10.375541477Z",
+  "model": "glm-5.3"
+}

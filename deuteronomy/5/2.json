@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "იაჰვე, ჩვენი ელოჰიმი, დაჰკრა ჩვენთან ბრითი (აღთქმა) ხორებში.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ჩვენი ელოჰიმი"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "დაჰკრა"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ჩვენთან"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ბრითი"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ხორებში"
+    }
+  ],
+  "timestamp": "2026-09-06T05:25:57.887910661Z",
+  "model": "glm-5.3"
+}

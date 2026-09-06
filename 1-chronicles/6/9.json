@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 6:9",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "თახათი — მისი ძე, ურიელი — მისი ძე, უზიაჰი — მისი ძე და შაული — მისი ძე.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "თახათი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი ძე"
+    },
+    {
+      "surface": "אוריאל",
+      "gloss": "ურიელი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი ძე"
+    },
+    {
+      "surface": "עזיה",
+      "gloss": "უზიაჰი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი ძე"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "და შაული"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი ძე"
+    }
+  ],
+  "timestamp": "2026-09-06T17:05:39.805538706Z",
+  "model": "glm-5.3"
+}

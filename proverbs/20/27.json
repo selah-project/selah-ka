@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 20:27",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 20,
+  "translation": "სანთელი იაჰვესი ⟨არის⟩ ადამიანის სული, ეძებს ⟨ის⟩ მუცლის ყველა სათავსს.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "სანთელი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "სული"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ადამიანი"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "ეძებს"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ყველა"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "სათავსი"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "მუცელი"
+    }
+  ],
+  "timestamp": "2026-09-06T14:27:10.045405783Z",
+  "model": "glm-5.3"
+}

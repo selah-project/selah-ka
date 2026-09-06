@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 9:28",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 9,
+  "translation": "და იცოცხლა ნოახმა მაბულის შემდეგ სამას ორმოცდაათ წელი.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "და იცოცხლა"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ნოახი"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "შემდეგ"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "მაბული"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "სამი"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელი"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "და ორმოცდაათი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელი"
+    }
+  ],
+  "timestamp": "2026-09-06T03:43:33.979325961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 35:2",
+  "book": "ezekiel",
+  "lang": "ka",
+  "chapter": 35,
+  "translation": "ადამის ძეო, მიაქციე შენი პირი სეირის მთისკენ და წინასწარმეტყველებ მასზე.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ძე"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ადამი"
+    },
+    {
+      "surface": "שים",
+      "gloss": "მიაქციე"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "შენი პირი"
+    },
+    {
+      "surface": "על",
+      "gloss": "მთისკენ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "მთა"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "სეირი"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "და წინასწარმეტყველებ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "მასზე"
+    }
+  ],
+  "timestamp": "2026-09-06T08:55:48.667124563Z",
+  "model": "glm-5.3"
+}

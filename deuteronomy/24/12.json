@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "ka",
+  "chapter": 24,
+  "translation": "და თუ ის ღარიბი კაცია, არ დაიძინო მის გირაოზე.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "და თუ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "კაცი"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ღარიბი"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "დაიძინო"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "მის გირაოზე"
+    }
+  ],
+  "timestamp": "2026-09-06T05:38:06.945934072Z",
+  "model": "glm-5.3"
+}

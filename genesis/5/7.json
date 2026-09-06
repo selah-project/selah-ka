@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 5:7",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "და იცხოვრა შეთმა მას შემდეგ, რაც შვა ⟨את⟩ ენოში, შვიდი წელი და რვაასი წელი, და შვა ძენი და ასულნი.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "და იცხოვრა"
+    },
+    {
+      "surface": "שת",
+      "gloss": "შეთმა"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "შემდეგ"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ენოში"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ენოში"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "შვიდი"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "წელი"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "და რვა"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "წელი"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "და შვა"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "და ასულნი"
+    }
+  ],
+  "timestamp": "2026-09-06T03:42:51.629563115Z",
+  "model": "glm-5.3"
+}

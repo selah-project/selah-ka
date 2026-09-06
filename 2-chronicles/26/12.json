@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 26:12",
+  "book": "2-chronicles",
+  "lang": "ka",
+  "chapter": 26,
+  "translation": "მამათა თავკაცთა მთელი რიცხვი, ძალის გმირთა — ორი ათასი და ექვსასი.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "მთელი"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "რიცხვი"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "თავკაცნი"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "მამათა"
+    },
+    {
+      "surface": "לגבורי",
+      "gloss": "გმირთა"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ძალის"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ორი ათასი"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "და ექვსი"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ასი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:54:45.009580884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 3,
+  "translation": "არ იშინო შიშისგან უცაბედსა, და ბოროტთა აოხრებისგან, როცა მოვა.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "იშინო"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "შიშისგან"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "უცაბედი"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "და აოხრება"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ბოროტთა"
+    },
+    {
+      "surface": "כי",
+      "gloss": "როცა"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "მოვა"
+    }
+  ],
+  "timestamp": "2026-09-06T10:16:39.188393638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 5:9",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 5,
+  "translation": "განა ამათ გამო არ გადავხედავ — იაჰვეს ნათქვამი — და განა ასეთ ხალხში არ იშურებს ჩემი ნეფეში?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "განა"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ამათ"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "გადავხედავ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ნათქვამი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "და განა"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "ხალხში"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "როგორიც"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "ასეთი"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არ"
+    },
+    {
+      "surface": "תתנקם",
+      "gloss": "იშურებს"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ჩემი ნეფეში"
+    }
+  ],
+  "timestamp": "2026-09-06T08:01:52.180082758Z",
+  "model": "glm-5.3"
+}

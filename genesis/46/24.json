@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 46:24",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 46,
+  "translation": "და ნაფთალის ძენი: იახცეელი და გუნი და იეცერი და შილემი.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "და ძენი"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ნაფთალი"
+    },
+    {
+      "surface": "יחצאל",
+      "gloss": "იახცეელი"
+    },
+    {
+      "surface": "וגוני",
+      "gloss": "და გუნი"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "და იეცერი"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "და შილემი"
+    }
+  ],
+  "timestamp": "2026-09-06T17:45:06.280078084Z",
+  "model": "glm-5.3"
+}

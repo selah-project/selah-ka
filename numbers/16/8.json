@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 16:8",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 16,
+  "translation": "და თქვა მოშემ (მოსე) კორახს: ისმინეთ ახლა, ლევის ძენო.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "და თქვა"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "კორახს მიმართ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "კორახი"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ისმინეთ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ახლა"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენო"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ლევი"
+    }
+  ],
+  "timestamp": "2026-09-06T15:40:34.191205992Z",
+  "model": "glm-5.3"
+}

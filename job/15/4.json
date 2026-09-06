@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 15:4",
+  "book": "job",
+  "lang": "ka",
+  "chapter": 15,
+  "translation": "დიახ, შენ აუქმებ შიშს და ამცირებ დაფიქრებას ელის წინაშე.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "დიახ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ"
+    },
+    {
+      "surface": "תפר",
+      "gloss": "აუქმებ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "შიში"
+    },
+    {
+      "surface": "ותגרע",
+      "gloss": "და ამცირებ"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "დაფიქრება"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "წინაშე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ელი"
+    }
+  ],
+  "timestamp": "2026-09-06T14:35:59.687948114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "ka",
+  "chapter": 36,
+  "translation": "როგორც ბრძანა იაჰვემ ⟨את⟩ მოშეს, ასე მოახდინეს ცლოფეხადის ასულებმა.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "როგორც"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ბრძანა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვემ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "მოშეს"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშეს"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ასე"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "მოახდინეს"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ასულებმა"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "ცლოფეხადის"
+    }
+  ],
+  "timestamp": "2026-09-06T05:22:22.975674144Z",
+  "model": "glm-5.3"
+}

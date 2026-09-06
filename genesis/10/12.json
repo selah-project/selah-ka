@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "და ⟨את⟩ რესენი, ნინვესა და ქელახს შორის; ის ⟨არის⟩ დიდი ქალაქი.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "რესენი"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "რესენი"
+    },
+    {
+      "surface": "בין",
+      "gloss": "შორის"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "ნინვე"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "და... შორის"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "ქელახს"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ის"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ქალაქი"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "დიდი"
+    }
+  ],
+  "timestamp": "2026-09-06T03:45:35.637202201Z",
+  "model": "glm-5.3"
+}

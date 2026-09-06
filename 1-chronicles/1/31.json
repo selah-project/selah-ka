@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 1:31",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "იეთური, ნაფიში და კედემა: ესენი ისინი არიან ძენი იშმაელისნი.",
+  "tokens": [
+    {
+      "surface": "יטור",
+      "gloss": "იეთური"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "ნაფიში"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "და კედემა"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ესენი"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ისინი"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ძენი"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "იშმაელი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:25:56.317526077Z",
+  "model": "glm-5.3"
+}

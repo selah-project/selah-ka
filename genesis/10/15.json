@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "და ქენაყანმა შვა ⟨את⟩ ციდონს, თავის პირმშოს, და ⟨את⟩ ხეთს.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "და ქენაყანი"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ციდონი"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "ციდონი"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "თავის პირმშო"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ხეთი"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ხეთი"
+    }
+  ],
+  "timestamp": "2026-09-06T03:45:26.982460976Z",
+  "model": "glm-5.3"
+}

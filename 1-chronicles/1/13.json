@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "ქენაანმა შვა ⟨את⟩ ციდონი თავის პირმშოს და ⟨את⟩ ხეთს.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "ქენაანი"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "შვა"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ციდონს"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "ციდონი"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "პირმშო"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ხეთს"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ხეთი"
+    }
+  ],
+  "timestamp": "2026-09-06T11:25:54.541785267Z",
+  "model": "glm-5.3"
+}

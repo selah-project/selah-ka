@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "ხოლო გომერის ძენი: აშქენაზი, დიფათი და თოგარმა.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "და ძენი"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "გომერი"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "აშქენაზი"
+    },
+    {
+      "surface": "ודיפת",
+      "gloss": "და დიფათი"
+    },
+    {
+      "surface": "ותוגרמה",
+      "gloss": "და თოგარმა"
+    }
+  ],
+  "timestamp": "2026-09-06T11:25:22.212137358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 22:1",
+  "book": "leviticus",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "და თქვა იაჰვემ მოშეს (მოსე), ასე რომ თქვას:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "თქვა"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    },
+    {
+      "surface": "אל",
+      "gloss": "მიმართ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "მოშე"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ასე რომ თქვას"
+    }
+  ],
+  "timestamp": "2026-09-06T12:23:01.256946109Z",
+  "model": "glm-5.3"
+}

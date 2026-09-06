@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 22,
+  "translation": "რადგან იმ ადგილას, სადაც გადაასახლეს ⟨את⟩ ის, იქ მოკვდება, და ⟨את⟩ ამ მიწას აღარ იხილავს.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "რადგან"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ადგილას"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "სადაც"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "გადაასახლეს"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ის (შალუმი)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "იქ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "მოკვდება"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "და ⟨את⟩",
+      "marks": "ამ მიწას"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "მიწა"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ეს"
+    },
+    {
+      "surface": "לא",
+      "gloss": "არა"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "იხილავს"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "აღარ"
+    }
+  ],
+  "timestamp": "2026-09-06T20:06:02.221332828Z",
+  "model": "glm-5.3"
+}

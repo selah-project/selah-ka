@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 4:30",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 4,
+  "translation": "და ბეთუელში, და ხორმაში, და ციკლაგში,",
+  "tokens": [
+    {
+      "surface": "ובבתואל",
+      "gloss": "და ბეთუელში"
+    },
+    {
+      "surface": "ובחרמה",
+      "gloss": "და ხორმაში"
+    },
+    {
+      "surface": "ובציקלג",
+      "gloss": "და ციკლაგში"
+    }
+  ],
+  "timestamp": "2026-09-06T11:28:07.770455557Z",
+  "model": "glm-5.3"
+}

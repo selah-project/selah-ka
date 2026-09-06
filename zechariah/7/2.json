@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 7:2",
+  "book": "zechariah",
+  "lang": "ka",
+  "chapter": 7,
+  "translation": "და გაგზავნა ბეთ ელმა ⟨את⟩ შარ ეცერი და ⟨את⟩ რეგემ მელექი და მისი კაცები, იაჰვეს პირის მოთხივნებლად.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "გაგზავნა"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ბეთ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ელი"
+    },
+    {
+      "surface": "שר",
+      "gloss": "შარ"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "ეცერი"
+    },
+    {
+      "surface": "ורגם",
+      "gloss": "და რეგემ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "მელექი"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "და მისი კაცები"
+    },
+    {
+      "surface": "לחלות",
+      "gloss": "მოთხივნება"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "პირი"
+    },
+    {
+      "surface": "פני",
+      "gloss": "პირი"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "იაჰვე"
+    }
+  ],
+  "timestamp": "2026-09-06T19:16:45.357260649Z",
+  "model": "glm-5.3"
+}

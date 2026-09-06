@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 10:17",
+  "book": "jeremiah",
+  "lang": "ka",
+  "chapter": 10,
+  "translation": "აიკრიფე ქვეყნიდან შენი ტვირთი, მცხოვრებო ალყაში.",
+  "tokens": [
+    {
+      "surface": "אספי",
+      "gloss": "აიკრიფე"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ქვეყნიდან"
+    },
+    {
+      "surface": "כנעתך",
+      "gloss": "შენი ტვირთი"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "მცხოვრებო"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "ალყაში"
+    }
+  ],
+  "timestamp": "2026-09-06T08:04:13.078671059Z",
+  "model": "glm-5.3"
+}

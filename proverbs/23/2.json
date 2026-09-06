@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "ka",
+  "chapter": 23,
+  "translation": "და დანა დაიდე შენს ყელზე, თუ ნეფეშის ბატონი ხარ ⟨შენ⟩.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "და დაიდე"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "დანა"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "შენს ყელში"
+    },
+    {
+      "surface": "אם",
+      "gloss": "თუ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ბატონი"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ნეფეში"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "შენ ხარ"
+    }
+  ],
+  "timestamp": "2026-09-06T14:26:50.262665217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 1:13",
+  "book": "genesis",
+  "lang": "ka",
+  "chapter": 1,
+  "translation": "და იყო საღამო, და იყო დილა — დღე მესამე.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "და იყო"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "საღამო"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "და იყო"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "დილა"
+    },
+    {
+      "surface": "יום",
+      "gloss": "დღე"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "მესამე"
+    }
+  ],
+  "timestamp": "2026-09-06T03:41:08.761526863Z",
+  "model": "glm-5.3"
+}

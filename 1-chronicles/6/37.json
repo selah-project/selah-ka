@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 6:37",
+  "book": "1-chronicles",
+  "lang": "ka",
+  "chapter": 6,
+  "translation": "მერაიოთი მისი ძე, ამარიაჰი მისი ძე, ახიტუვი მისი ძე.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "მერაიოთი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი ძე"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "ამარიაჰი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი ძე"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "ახიტუვი"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "მისი ძე"
+    }
+  ],
+  "timestamp": "2026-09-06T11:29:32.259326987Z",
+  "model": "glm-5.3"
+}
