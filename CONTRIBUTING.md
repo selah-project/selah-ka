@@ -55,3 +55,8 @@ gloss count; ⟨את⟩ markers are never deleted or added; the D1 Names
 endings on the Name are correct, the ergative **იაჰვემ** included
 (grammar, not erasure); שאול is შეოლი, never *ჯოჯოხეთი*; supplied
 words only in ⟨⟩. Letter-faithfulness outranks readability.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
