@@ -9,7 +9,7 @@
 - გახსენი **Issue** საცავში:
   <https://github.com/selah-project/selah-ka>
 - ან, თუ თვითონაც შეგიძლია გასწორება, გახსენი **Pull request**.
-- ან მოგვწერე: <support@selahproject.com>
+- ან მოგვწერე: <https://s33k3r.com/learn/support>
 
 ## რა უნდა ეწეროს შეტყობინებაში
 
@@ -48,7 +48,7 @@
 
 **English.** Contributions welcome: open an Issue or Pull request at
 <https://github.com/selah-project/selah-ka>, or write to
-<support@selahproject.com>. One file = one verse; unit count equals
+<https://s33k3r.com/learn/support>. One file = one verse; unit count equals
 gloss count; ⟨את⟩ markers are never deleted or added; the D1 Names
 (იაჰვე, ელოჰიმი…) never yield to titles — not *უფალი*, not
 *იეჰოვა* / *იეღოვა*, not *ღმერთი* at the Name seat; Georgian case
